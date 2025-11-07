@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="tei2html">
+
+    <delete dir="./data/editions"/>
+    <mkdir dir="./data/editions"/>
+
+    <mkdir dir="./data/editions/WR-01-01"/>
+    <xslt style="./xsl/totei.xsl"  basedir="./legacy-data/WR-01-01" destdir="./data/editions/WR-01-01" includes="WR-*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon-he-12.7.jar"/>
+    </xslt>
+
+    <mkdir dir="./data/editions/WR-01-02"/>
+    <xslt style="./xsl/totei.xsl"  basedir="./legacy-data/WR-01-02" destdir="./data/editions/WR-01-02" includes="WR-*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon-he-12.7.jar"/>
+    </xslt>
+
+    <mkdir dir="./data/editions/WR-02-01"/>
+    <xslt style="./xsl/totei.xsl"  basedir="./legacy-data/WR-02-01" destdir="./data/editions/WR-02-01" includes="WR-*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon-he-12.7.jar"/>
+    </xslt>
+
+    <mkdir dir="./data/editions/WR-02-02"/>
+    <xslt style="./xsl/totei.xsl"  basedir="./legacy-data/WR-02-02" destdir="./data/editions/WR-02-02" includes="WR-*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon-he-12.7.jar"/>
+    </xslt>
+
+    <mkdir dir="./data/editions/WR-03-01"/>
+    <xslt style="./xsl/totei.xsl"  basedir="./legacy-data/WR-03-01" destdir="./data/editions/WR-03-01" includes="WR-*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon-he-12.7.jar"/>
+    </xslt>
+
+    <mkdir dir="./data/editions/WR-03-02"/>
+    <xslt style="./xsl/totei.xsl"  basedir="./legacy-data/WR-03-02" destdir="./data/editions/WR-03-02" includes="WR-*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon-he-12.7.jar"/>
+    </xslt>
+
+    <mkdir dir="./data/editions/WR-04"/>
+    <xslt style="./xsl/totei.xsl"  basedir="./legacy-data/WR-04" destdir="./data/editions/WR-04" includes="WR-*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon-he-12.7.jar"/>
+    </xslt>
+
+    <mkdir dir="./data/editions/WR-05"/>
+    <xslt style="./xsl/totei.xsl"  basedir="./legacy-data/WR-05" destdir="./data/editions/WR-05" includes="WR-*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon-he-12.7.jar"/>
+    </xslt>
+</project>
