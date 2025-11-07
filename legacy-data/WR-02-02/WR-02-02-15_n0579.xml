@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-15_n0578.xml</PREV>
+<NEXT>WR-02-02-15_n0580.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 15, S. 579</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>6</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="performance" divStartID="dsID_2433_00049" endPtr="WR-02-02-15_n0584.xml#//DIV_END[@divEndID='deID_2433_00150']"/>
+<TITLE titleID="tiID_2433_00044"><TITLEPART type="main"><SPC>SCENE AUS</SPC> &#xBB;<SPC>FANTASIO</SPC>&#xAB;.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ALFRED DE MUSSET</AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Deutsch von <AUCTOR type="translator">PAUL WERTHEIMER</AUCTOR>.</TITLEPART></TITLE>
+<DIV_START cat="scene" divStartID="dsID_2433_00050" endPtr="WR-02-02-15_n0584.xml#//DIV_END[@divEndID='deID_2433_00149']"/>
+<P parID="00660"><SD><SPC>Eine Strasse in M&#xFC;nchen</SPC>.</SD></P>
+<P parID="00661"><SD><SPK><SPC>Spark</SPC></SPK>, <SPK><SPC>Hartman</SPC></SPK> und <SPK><SPC>Facio</SPC></SPK>, junge Leute aus der Stadt, zechend um<LE/>
+einen Tisch.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2433_00051" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00048']"/>
+<P parID="00662"><TAB/><SPK><SPC>Hartman</SPC></SPK>. Heute, am Hochzeitstage der Prinzessin, lasst uns<LE/>
+trinken, rauchen und l&#xE4;rmen.</P>
+<DIV_END divEndID="deID_2433_00048" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00051']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00052" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00049']"/>
+<P parID="00663"><TAB/><SPK><SPC>Facio</SPC></SPK>. St&#xFC;rzen wir uns in die bunte Menge, welche die Strassen<LE/>
+durchl&#xE4;uft! Verl&#xF6;schen wir ein paar Lampions auf den K&#xF6;pfen der<LE/>
+guten B&#xFC;rger!</P>
+<DIV_END divEndID="deID_2433_00049" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00052']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00053" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00050']"/>
+<P parID="00664"><TAB/><SPK><SPC>Spark</SPC></SPK>. Nicht doch! Rauchen wir ruhig.</P>
+<DIV_END divEndID="deID_2433_00050" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00053']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00054" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00051']"/>
+<P parID="00665"><TAB/><SPK><SPC>Hartman</SPC></SPK>. Ruhe? Nichts da! M&#xFC;sst&#x2019; ich mich in einen <HYPH1 cont="Glockenschwengel">Glocken-</HYPH1><LE/>
+<HYPH2>schwengel</HYPH2> verwandeln und in die grosse Kirchenglocke h&#xE4;ngen, zu<LE/>
+einem Fest muss ich l&#xE4;uten. Wo zum Teufel steckt Fantasio.</P>
+<DIV_END divEndID="deID_2433_00051" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00054']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00055" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00052']"/>
+<P parID="00666"><TAB/><SPK><SPC>Spark</SPC></SPK>. Warten wir auf ihn; unternehmen wir nichts ohne<LE/>
+Fantasio.</P>
+<DIV_END divEndID="deID_2433_00052" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00055']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00056" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00053']"/>
+<P parID="00667"><TAB/><SPK><SPC>Facio</SPC></SPK>. Bah! Er wird uns immer zu finden wissen. Er betrinkt<LE/>
+sich eben in irgend einer Spelunke der Basse-Strasse. Holla! Ein<LE/>
+letzter Zug! <SD>(Er hebt sein Glas.)</SD></P>
+<DIV_END divEndID="deID_2433_00053" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00056']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00057" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00054']"/>
+<P parID="00668"><TAB/><SPK><SPC>Spark</SPC></SPK>. Seht, dort kommt Fantasio.</P>
+<DIV_END divEndID="deID_2433_00054" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00057']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00058" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00055']"/>
+<P parID="00669"><TAB/><SPK><SPC>Hartman</SPC></SPK>. Was gibt es denn? Er wiegt sich wie ein Justizrath.<LE/>
+Welch n&#xE4;rrischer Einfalt mag wieder in seinem Sch&#xE4;del reifen!</P>
+<DIV_END divEndID="deID_2433_00055" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00058']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00059" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00056']"/>
+<P parID="00670"><TAB/><SPK><SPC>Facio</SPC></SPK>. Wohlan, Freunde, wie verbringen wir diesen sch&#xF6;nen<LE/>
+Abend?</P>
+<DIV_END divEndID="deID_2433_00056" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00059']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00060" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00057']"/>
+<P parID="00671"><TAB/><SPK><SPC>Fantasio</SPC></SPK> <SD>(dazutretend)</SD>. Alles, was Ihr wollt, nur kein neues<LE/>
+Abenteuer.</P>
+<DIV_END divEndID="deID_2433_00057" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00060']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00061" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00058']"/>
+<P parID="00672"><TAB/><SPK><SPC>Facio</SPC></SPK>. Ich schlug vor, uns mal zur Abwechslung unter das<LE/>
+Gesindel zu mengen.</P>
+<DIV_END divEndID="deID_2433_00058" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00061']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00062" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00059']"/>
+<P parID="00673"><TAB/><SPK><SPC>Fantasio</SPC></SPK>. Dazu geh&#xF6;rten Nasen aus Pappe und Knallerbsen.</P>
+<DIV_END divEndID="deID_2433_00059" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00062']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00063" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00060']"/>
+<P parID="00674"><TAB/><SPK><SPC>Hartman</SPC></SPK>. M&#xE4;del um die H&#xFC;ften fassen, brave B&#xFC;rger bei den<LE/>
+Rocksch&#xF6;ssen zieh&#x2019;n, Laternen zerbrechen! Auf den Weg, Kameraden!</P>
+<DIV_END divEndID="deID_2433_00060" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00063']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00064" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00061']"/>
+<P parID="00675"><TAB/><SPK><SPC>Fantasio</SPC></SPK>. Es war einmal ein K&#xF6;nig in Persien <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2433_00061" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00064']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00065" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00062']"/>
+<P parID="00676"><TAB/><SPK><SPC>Hartman</SPC></SPK>. Komm&#x2019; doch, Fantasio.</P>
+<DIV_END divEndID="deID_2433_00062" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00065']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00066" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00063']"/>
+<P parID="00677"><TAB/><SPK><SPC>Fantasio</SPC></SPK>. Ich halte nicht mit, ich halte nicht mit.</P>
+<DIV_END divEndID="deID_2433_00063" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00066']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00067" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00064']"/>
+<P parID="00678"><TAB/><SPK><SPC>Hartman</SPC></SPK>. Weshalb?</P>
+<DIV_END divEndID="deID_2433_00064" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00067']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00068" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00065']"/>
+<P parID="00679"><TAB/><SPK><SPC>Fantasio</SPC></SPK>. Gebt mir ein Glas von dem. <SD>(Er trinkt.)</SD></P>
+<DIV_END divEndID="deID_2433_00065" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00068']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00069" endPtr="WR-02-02-15_n0579.xml#//DIV_END[@divEndID='deID_2433_00066']"/>
+<P parID="00680"><TAB/><SPK><SPC>Hartman</SPC></SPK>. Dir bl&#xFC;ht der Mai auf den Wangen.</P>
+<DIV_END divEndID="deID_2433_00066" startPtr="WR-02-02-15_n0579.xml#//DIV_START[@divStartID='dsID_2433_00069']"/>
+</PAGE>

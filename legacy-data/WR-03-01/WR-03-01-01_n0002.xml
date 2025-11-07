@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-01_n0001.xml</PREV>
+<NEXT>WR-03-01-01_n0003.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 2</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>STRINDBERG: DIE SCHL&#xDC;SSEL DES HIMMELREICHS.</CTEXT></HD>
+<DIV_START type="performance" divStartID="dsID_2434_00006" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00074']"/>
+<TITLE titleID="tiID_2434_00003"><TITLEPART type="main">DIE SCHL&#xDC;SSEL DES HIMMELREICHS oder: SANCT PETERS<LE/>
+WANDERUNG AUF ERDEN.</TITLEPART><LE/>
+<TITLEPART type="desc">M&#xE4;rchenspiel in f&#xFC;nf Acten von <AUCTOR><SPC>AUGUST STRINDBERG</SPC></AUCTOR>.<LE/>
+Autorisierte &#xDC;bersetzung aus dem Schwedischen von <AUCTOR type="translator">ERICH HOLM</AUCTOR>.*</TITLEPART></TITLE>
+<P parID="00026">(Den B&#xFC;hnen gegen&#xFC;ber als Manuscript gedruckt.)</P>
+<TABLE parID="00027"><ROW ciID="0276"><CELL>
+<DIV_START cat="act" divStartID="dsID_2434_00007" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00073']"/>
+<TITLE titleID="tiID_2434_00004"><TITLEPART>Erster Act.</TITLEPART></TITLE>
+<P parID="00028"><SD>(Kammer hinter der Schmiede, von der letzteren<LE/>
+durch eine Bretterwand, in deren Mitte sich<LE/>
+eine grosse &#xD6;ffnung befindet, getrennt. Durch<LE/>
+dieselbe sieht man die Schmiede, die zugleich<LE/>
+Verkaufsladen ist und nach der Strasse zu ein<LE/>
+grosses offenes Fenster hat. &#x2014; In der Mitte<LE/>
+der Kammer ein Amboss mit Schlegel. An der<LE/>
+linken Wand drei leerstehende Kinderbettchen,<LE/>
+Spielsachen auf einer nebenbefindlichen Bank;<LE/>
+&#xFC;ber den Bettlehnen Kinderkleidchen, unter<LE/>
+den Bettstellen Kinderschuhe. An der rechten<LE/>
+Wand ein Kachelofen aus gr&#xFC;nen Kacheln<LE/>
+mit einer eingemauerten Bank. &#x2014; An den<LE/>
+W&#xE4;nden auf Zeug gemalte Darstellungen aus<LE/>
+der biblischen Geschichte, des Ganges nach<LE/>
+Golgatha, der H&#xF6;llenfahrt Christi. Auf dem<LE/>
+Get&#xE4;fel Kr&#xFC;ge, Kannen, Silber- und Zinngef&#xE4;sse.<LE/>
+Draussen in der Schmiede ein langer, die<LE/>
+Mitte einnehmender Tisch mit Eisenwaren,<LE/>
+Werkzeugen, Blechschilden, Schl&#xFC;sseln, <HYPH1 cont="Schl&#xF6;ssern">Schl&#xF6;s-</HYPH1><LE/>
+<HYPH2>sern</HYPH2>, Waffen, R&#xFC;stungen. Die Zugstange des<LE/>
+Blasebalgs h&#xE4;ngt rechts an der Zwischenwand<LE/>
+hervor. &#x2014; Durch das im Hintergrund <HYPH1 cont="befindliche">befind-</HYPH1><LE/>
+<HYPH2>liche</HYPH2>, offene Fenster der Schmiede wird eine<LE/>
+Strasse im mittelalterlichen Stile sichtbar.)</SD></P>
+<DIV_START cat="scene" divStartID="dsID_2434_00008" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00035']"/>
+<TITLE titleID="tiID_2434_00005"><TITLEPART>Erste Scene.</TITLEPART></TITLE>
+<P parID="00029"><SD><B>Der Arzt. Der Schmied. Sanct Peter.</B></SD></P>
+<P parID="00030"><SD>(Der Arzt, schwarz gekleidet, in Doctorstracht,<LE/>
+sitzt unbeweglich auf der Bank am <HYPH1 cont="Kachelofen">Kachel-</HYPH1><LE/>
+<HYPH2>ofen</HYPH2>, so dass er dem Zuschauer den R&#xFC;cken<LE/>
+zuwendet. Der Schmied in Trauerkleidern tritt<LE/>
+in Aufregung und verweint beim Aufgehen des<LE/>
+Vorhangs ein.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00009" endPtr="WR-03-01-01_n0003.xml#//DIV_END[@divEndID='deID_2434_00005']"/>
+<P parID="00031"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG part="initial" parID="00032"><L>Was half mir Deine Kunst, Du Wunderdoctor?</L>
+<L>Was n&#xFC;tzten wohl Mixtur und Balsam,</L>
+<L>Da nun die Pest mein Haus ver&#xF6;det?</L>
+<L>Was liest Du unaufh&#xF6;rlich, schwarzer</L>
+<L>Meister,</L>
+<L>Von S&#xE4;uren und von Salzen,</L>
+<L>Von Teriak und des Weisen Stein,</L>
+<L>Der sitzen soll in eines Krebses Magen?</L>
+<L>Kannst Du in meine Kinder Leben lesen,</L>
+<L>Die j&#xFC;ngst sie senkten in die schwarze Erde?</L>
+<L>Ich kam zu sp&#xE4;t zum letzten Scheidekuss,</L>
+<L>Zu sp&#xE4;t, sie zu der Grube zu geleiten,</L>
+<L>Darein, was lieb uns war und theuer,</L></LG>
+</CELL><CELL>
+<LG part="final" parID="00033"><L>Vergraben wird und fault zum Schmutz. &#x2014;</L>
+<L>O, Du mein Gott! Nun ist die Stube leer,</L>
+<L>Und leer sind auch die kleinen Betten!</L>
+<L>Sieh, hier lag Katharina! Ach sie war</L>
+<L>mein &#xC4;lt&#x2019;stes!</L>
+<L>Sieh hier den Abdruck ihres sch&#xF6;nen <HYPH1 cont="K&#xF6;pfchens">K&#xF6;pf-</HYPH1></L>
+<L><HYPH2>chens</HYPH2></L>
+<L>Im Kissen&#xFC;berzug <SYMBOL type="4dots"/></L>
+<L>Sie war mein Freund, seit Mutter starb &#x2014;</L>
+<L>Und ich war ihrer!</L>
+<L>Und Mutter ward sie den Geschwistern.</L>
+<L>So klug, so z&#xE4;rtlich und so ernst <SYMBOL type="4dots"/></L>
+<L>Sie kam zur Welt in unsern allertr&#xFC;bsten</L>
+<L>Zeiten</L>
+<L>Und brachte mit das Gl&#xFC;ck,</L>
+<L>Und Wohlstand, reichen Segen unserm</L>
+<L>Haus. &#x2014;</L>
+<L>Gesegnet sei Dein Angedenken, Engel! &#x2014;</L>
+<L>Und hier mein Margaretel!</L>
+<L>Du frische Rose voller Duft,</L>
+<L>Du kleiner Vogel, der mit frohem Zwitschern</L>
+<L>Das Haus erheitert, der Geschwister Kreis!</L>
+<L>Mit off&#x2019;ner Hand und off&#x2019;nem Herzen,</L>
+<L>Wie war Dir&#x2019;s Geben Lust!</L>
+<L>Da steht Dein kleiner Schuh!</L>
+<L>Den Heller leg&#x2019; ich Dir hinein &#x2014;</L>
+<L>Dass, wenn Du aufwachst <SYMBOL type="3dots"/> Wenn Du</L>
+<L>aufwachst? &#x2014; Wenn?</L>
+<L>Ja, dies der Schuh, doch wo das F&#xFC;sschen,</L>
+<L>Das kleine, runde F&#xFC;sschen,</L>
+<L>Das kaum ber&#xFC;hrt den Blumenanger,</L>
+<L>Das eine Emse nicht zertrat &#x2014;</L>
+<L>Ohn&#x2019; dass ein leises &#xBB;Gott verzeih&#x2019;&#xAB;</L>
+<L>Aus leicht ger&#xFC;hrtem Herzen Zeugnis gab.</L>
+<L>Du kleiner Schuh <SYMBOL type="4dots"/></L>
+<L>Schlaf s&#xFC;ss mein liebes, liebes Margaretel!</L></LG>
+<LG part="initial" parID="00034"><L>Und Du, mein Sohn, mein Schmerzenskind,</L>
+<L>Doch meiner Sorgen nicht!</L>
+<L>Mein Benjamin,</L>
+<L>Der Mutter Bild war mir zur&#xFC;ckgegeben,</L>
+<L>Wenn aus der Wiege Deine grossen, hellen</L>
+<L>Augen</L></LG>
+</CELL></ROW></TABLE>
+<FN>
+<P parID="00035"><TAB/>* Die vorliegende <SPC>ausschliesslich befugte</SPC> deutsche Bearbeitung des Dramas, bisher nur<LE/>
+zum Zwecke von Auff&#xFC;hrungen, die jedoch Censurschwierigkeiten halber unterbleiben mussten,<LE/>
+erschienen, wird hier zum erstenmale dem Lesepublicum theilweise zug&#xE4;nglich gemacht. <I>D. &#xDC;.</I></P>
+</FN>
+<FT type="pn" num="2" c_text="&#x2014; 2 &#x2014;"/>
+</PAGE>

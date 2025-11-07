@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-06_n0216.xml</PREV>
+<NEXT>WR-01-01-06_n0218.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 217</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ALLADINE UND PALOMIDES.</CTEXT><RTEXT type="pn">217</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00382" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00379']"/>
+<P parID="01731"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01732"><TAB/>Man k&#xF6;nnte glauben, deine Stimme hat alle Hoffnung<LE/>
+verloren <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00379" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00382']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00383" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00380']"/>
+<P parID="01733"><SPK><SPC>Palomidens Stimme</SPC></SPK>.</P>
+<P parID="01734"><TAB/>Man k&#xF6;nnte glauben, die deine sei durch den Tod <HYPH1 cont="hindurchgegangen">hin-</HYPH1><LE/>
+<HYPH2>durchgegangen</HYPH2> <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00380" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00383']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00384" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00381']"/>
+<P parID="01735"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01736"><TAB/>Deine Stimme dringt kaum in mein Zimmer <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00381" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00384']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00385" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00382']"/>
+<P parID="01737"><SPK><SPC>Palomidens Stimme</SPC></SPK>.</P>
+<P parID="01738"><TAB/>Auch ich h&#xF6;re deine Stimme nicht wie sonst <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00382" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00385']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00386" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00383']"/>
+<P parID="01739"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01740"><TAB/>Du hast mir leid gethan! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00383" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00386']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00387" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00384']"/>
+<P parID="01741"><SPK><SPC>Palomidens Stimme</SPC></SPK>.</P>
+<P parID="01742"><TAB/>Man hat uns getrennt, aber ich liebe dich noch immer <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00384" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00387']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00388" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00385']"/>
+<P parID="01743"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01744"><TAB/>Du hast mir leid gethan <SYMBOL type="3dots"/> leidest du noch!</P>
+<DIV_END divEndID="deID_2397_00385" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00388']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00389" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00386']"/>
+<P parID="01745"><SPK><SPC>Palomidens Stimme</SPC></SPK>.</P>
+<P parID="01746"><TAB/>Nein, ich leide nicht mehr, aber ich m&#xF6;chte dich sehen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00386" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00389']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00390" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00387']"/>
+<P parID="01747"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01748"><TAB/>Wir werden uns nicht mehr sehen, die Th&#xFC;ren sind <HYPH1 cont="geschlossen">ge-</HYPH1><LE/>
+<HYPH2>schlossen</HYPH2> <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00387" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00390']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00391" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00388']"/>
+<P parID="01749"><SPK><SPC>Palomidens Stimme</SPC></SPK>.</P>
+<P parID="01750"><TAB/>Deiner Stimme nach k&#xF6;nnte man glauben, du liebst<LE/>
+mich nicht mehr <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00388" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00391']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00392" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00389']"/>
+<P parID="01751"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01752"><TAB/>Doch, doch, ich liebe dich noch, aber es ist traurig<LE/>
+jetzt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00389" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00392']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00393" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00390']"/>
+<P parID="01753"><SPK><SPC>Palomidens Stimme</SPC></SPK>.</P>
+<P parID="01754"><TAB/>Wohin wendest du dich? Ich verstehe dich kaum <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00390" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00393']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00394" endPtr="WR-01-01-06_n0217.xml#//DIV_END[@divEndID='deID_2397_00391']"/>
+<P parID="01755"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01756"><TAB/>Man k&#xF6;nnte meinen, dass wir hundert Stunden von <HYPH1 cont="einander">ein-</HYPH1><LE/>
+<HYPH2>ander</HYPH2> entfernt sind <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00391" startPtr="WR-01-01-06_n0217.xml#//DIV_START[@divStartID='dsID_2397_00394']"/>
+</PAGE>

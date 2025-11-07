@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-03_n0076.xml</PREV>
+<NEXT>WR-05-04_n0078.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 4, S. 77</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>20</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_01166" endPtr="WR-05-04_n0096.xml#//DIV_END[@divEndID='deID_2436_01182']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_01167" endPtr="WR-05-04_n0077.xml#//DIV_END[@divEndID='deID_2436_01165']"/>
+<P parID="05779"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="05780"><B>HERAUSGEGEBEN VON FELIX RAPPAPORT</B></P>
+<TABLE parID="05781"><ROW ciID="0964"><CELL>
+<P parID="05782"><DATE><B>15. FEBRUAR 1901</B></DATE></P>
+</CELL><CELL>
+<P parID="05783"><B>V. JAHRGANG, N<SUP>R.</SUP> 4</B></P>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_01165" startPtr="WR-05-04_n0077.xml#//DIV_START[@divStartID='dsID_2436_01167']"/>
+<DIV_START divStartID="dsID_2436_01168" endPtr="WR-05-04_n0080.xml#//DIV_END[@divEndID='deID_2436_01166']"/>
+<TITLE titleID="tiID_2436_00276"><TITLEPART type="main">DIE &#xC4;STHETISCHE NATURBETRACHTUNG KEPLERS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>OTTO BRYK</AUCTOR> (Wien).</TITLEPART></TITLE>
+<TABLE parID="05784"><ROW ciID="0965"><CELL>
+<P parID="05785"><TAB/>Im tiefsten Innern unbefriedigt, trotz<LE/>
+der t&#xE4;glich sich mehrenden Zahl <HYPH1 cont="naturwissenschaftlicher">natur-</HYPH1><LE/>
+<HYPH2>wissenschaftlicher</HYPH2> Entdeckungen; wirklich<LE/>
+wertvollen Gedankeng&#xE4;ngen gegen&#xFC;ber<LE/>
+voreingenommen, infolge der <HYPH1 cont="Gleichwertigkeit">Gleich-</HYPH1><LE/>
+<HYPH2>wertigkeit</HYPH2> all dieser erkannten Thatsachen:<LE/>
+hat das gegenw&#xE4;rtige Zeitalter die <HYPH1 cont="F&#xE4;higkeit">F&#xE4;hig-</HYPH1><LE/>
+<HYPH2>keit</HYPH2> verloren, auch den <SPC>subjectiven</SPC><LE/>
+Gehalt von Natursystemen zu w&#xFC;rdigen,<LE/>
+die Architektonik solcher Systeme nicht<LE/>
+blo&#xDF; nach ihrer physikalischen, sondern<LE/>
+auch nach ihrer &#xE4;sthetischen <HYPH1 cont="Bedeutsamkeit">Bedeutsam-</HYPH1><LE/>
+<HYPH2>keit</HYPH2> aufzunehmen.</P>
+<P part="initial" parID="05786"><TAB/>Wohl darf nicht in Abrede gestellt<LE/>
+werden, dass es &#x2014; im allgemeinen &#x2014;<LE/>
+um die Naturwissenschaft besser bestellt<LE/>
+ist, wenn sich der einzelne Forscher nur<LE/>
+mit dem Ph&#xE4;nomenalen seines <HYPH1 cont="Forschungsgebietes">Forschungs-</HYPH1><LE/>
+<HYPH2>gebietes</HYPH2> befasst, und sich damit bescheidet,<LE/>
+den unerkl&#xE4;rlichen Rest den speculativen<LE/>
+Disciplinen selbst zuzuweisen; und dass<LE/>
+einer ganz nebulosen, durch keinerlei<LE/>
+Grenzen eingeschr&#xE4;nkten Naturdarstellung<LE/>
+Angel und Thor ge&#xF6;ffnet sind in dem<LE/>
+Momente, da man von jeder <HYPH1 cont="Controlierbarkeit">Controlier-</HYPH1><LE/>
+<HYPH2>barkeit</HYPH2> des Erschlossenen absieht, und<LE/>
+dem Naturforscher die Freiheit l&#xE4;sst, ohne<LE/>
+jede R&#xFC;cksicht auf das bereits Erkannte<LE/>
+oder Gefundene, seinen Phantasmen den</P>
+</CELL><CELL>
+<P part="final" parID="05787">Charakter objectiv wahrnehmbarer <HYPH1 cont="Thatsachen">That-</HYPH1><LE/>
+<HYPH2>sachen</HYPH2> zu verleihen.</P>
+<P parID="05788"><TAB/>Ganz anders aber verh&#xE4;lt es sich,<LE/>
+wenn es einem harmonisch f&#xFC;hlenden<LE/>
+Geiste gelungen ist, die Ph&#xE4;nomene in<LE/>
+ihrer einfachen Gr&#xF6;&#xDF;e anschaulich zu<LE/>
+beschreiben, die Gesetzm&#xE4;&#xDF;igkeit in ihrem<LE/>
+Ablaufe darzulegen, durch starre Formeln<LE/>
+den begrifflichen Operationen n&#xE4;her zu<LE/>
+bringen, und <SPC>nunmehr</SPC> an die stillen<LE/>
+Kr&#xE4;fte unseres Gem&#xFC;thslebens anzukn&#xFC;pfen;<LE/>
+wenn es ihm gelungen ist, zun&#xE4;chst die<LE/>
+von der Vernunft aufgeworfenen Fragen<LE/>
+zu beantworten, und dann zu zeigen, wie<LE/>
+es dieselben Relationen sind, in denen<LE/>
+der Verstand seine Beruhigung findet,<LE/>
+und unser Empfindungsleben. Dass der<LE/>
+Weg psychologisch der entgegengesetzte<LE/>
+ist, dass einem solchen Genius zun&#xE4;chst<LE/>
+klar und gegeben ist, wie sein Innenleben<LE/>
+auf den Kosmos reagiert, und dass er<LE/>
+dann erst darangeht, der logischen oder<LE/>
+physikalischen Berechtigung seiner <HYPH1 cont="Weltansicht">Welt-</HYPH1><LE/>
+<HYPH2>ansicht</HYPH2> nachzugehen, und mit Erfolg auf<LE/>
+die Erkl&#xE4;rung des Weltbildes anzuwenden<LE/>
+&#x2014; darf wieder jene nicht anfechten, denen<LE/>
+es, wie sie stark hervorheben, um die<LE/>
+objective Giltigkeit und Controlierbarkeit<LE/>
+allein zu thun ist.</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="77" c_text="&#x2014; 77 &#x2014;"/>
+</PAGE>

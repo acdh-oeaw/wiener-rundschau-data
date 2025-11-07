@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-09_n0349.xml</PREV>
+<NEXT>WR-02-01-09_n0351.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 350</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">350</LTEXT><CTEXT>WOLFF.</CTEXT></HD>
+<P parID="02464"><TAB/>Mein Begleiter sagt ohne Pathos:</P>
+<P parID="02465"><TAB/>&#xBB;Das sind die B&#xFC;cher, die nicht gegangen sind. Ich lasse sie<LE/>
+noch eine Weile hier ablagern, dann werden sie verkauft, zwei bis<LE/>
+f&#xFC;nf Pfennige das St&#xFC;ck.&#xAB;</P>
+<P parID="02466"><TAB/>Ein wenig traurig verlasse ich den dumpfen Raum. Mein <HYPH1 cont="liebensw&#xFC;rdiger">liebens-</HYPH1><LE/>
+<HYPH2>w&#xFC;rdiger</HYPH2> F&#xFC;hrer fragt gastfreundlich:</P>
+<P parID="02467"><TAB/>&#xBB;Haben Sie vielleicht f&#xFC;r mich ein Buch?&#xAB;</P>
+<P parID="02468"><TAB/>Ich dr&#xFC;cke ihm ergriffen die Hand und sage nicht einmal<LE/>
+ironisch:</P>
+<P parID="02469"><TAB/>&#xBB;Nein, das thue ich Ihnen nicht an. Ich will nicht, dass Sie<LE/>
+meiner einst in Bitterkeit gedenken, wenn Sie einen anderen Gast<LE/>
+durch die &#x201A;Todtenkammer&#x2018; geleiten.&#xAB;</P>
+<P parID="02470"><TAB/>Der Verleger begreift die Welt nicht mehr.</P>
+<DIV_END divEndID="deID_2432_00538" startPtr="WR-02-01-09_n0347.xml#//DIV_START[@divStartID='dsID_2432_00539']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2432_00540" endPtr="WR-02-01-09_n0350.xml#//DIV_END[@divEndID='deID_2432_00539']"/>
+<TITLE titleID="tiID_2432_00114"><TITLEPART><LANG iso="it">BACIO MORTO</LANG>.</TITLEPART></TITLE>
+<LG parID="02471"><L>Der Fr&#xFC;hling war so traurig. Bange bebte</L>
+<L>Die fr&#xFC;he Bl&#xFC;the in dem blassen Beet.</L>
+<L>Der Wind war wild &#x2014; und eh&#x2019; sie ihn erlebte,</L>
+<L>war sie verweht.</L></LG>
+<LG parID="02472"><L>Ein Abend war: aus meinem Herzen schwebte</L>
+<L>Ein Kuss f&#xFC;r dich. Da schautest du nicht her,</L>
+<L>Und eh&#x2019; er noch auf meinen Lippen lebte, &#x2014;</L>
+<L>war er nicht mehr.</L></LG>
+<P parID="02473"><AUCTOR><C>Ada Negri</C></AUCTOR>.</P>
+<P parID="02474">Deutsch von <AUCTOR type="translator"><C>Rainer Maria Rilke</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2432_00539" startPtr="WR-02-01-09_n0350.xml#//DIV_START[@divStartID='dsID_2432_00540']"/>
+</PAGE>

@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-21_n0380.xml</PREV>
+<NEXT>WR-04-22_n0382.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 22, S. 381</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>0</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_00828" endPtr="WR-04-22_n0400.xml#//DIV_END[@divEndID='deID_2436_00855']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_00829" endPtr="WR-04-22_n0381.xml#//DIV_END[@divEndID='deID_2436_00828']"/>
+<P parID="04362"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="04363">HERAUSGEGEBEN VON FELIX RAPPAPORT</P>
+<TABLE parID="04364"><ROW ciID="0779"><CELL>
+<DATE>15. NOVEMBER 1900</DATE><LE/>
+</CELL><CELL>
+IV. JAHRGANG, N<SUP>R.</SUP> 22<LE/>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_00828" startPtr="WR-04-22_n0381.xml#//DIV_START[@divStartID='dsID_2436_00829']"/>
+<DIV_START divStartID="dsID_2436_00830" endPtr="WR-04-22_n0385.xml#//DIV_END[@divEndID='deID_2436_00835']" titleID="tiID_2436_00220"/>
+<TITLE titleID="tiID_2436_00220" parDivStartID="dsID_2436_00830"><TITLEPART type="main">DIE WAHRHEIT DES INDIVIDUALISMUS.</TITLEPART><LE/>
+<TITLEPART><SPC>Ein Baustein zum Aufbau einer heroischen Welt-Anschauung</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LUDWIG KUHLENBECK</AUCTOR> (Jena).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE>
+<TABLE parID="04365"><ROW ciID="0780"><CELL>
+<P parID="04366"><TAB/>Die aus den Ausf&#xFC;hrungen des ersten<LE/>
+Aufsatzes (im vorigen Hefte dieser <HYPH1 cont="Zeitschrift">Zeit-</HYPH1><LE/>
+<HYPH2>schrift</HYPH2>) <LANG iso="la"><I>a contrario</I></LANG> gefolgerte <SPC>praktische<LE/>
+Notwendigkeit</SPC> des Individualismus<LE/>
+kann noch nicht von seiner <HYPH1 cont="theoretischen">theore-</HYPH1><LE/>
+<HYPH2>tischen</HYPH2> <SPC>Wahrheit</SPC> &#xFC;berzeugen. Wenn<LE/>
+wir die Wesenhaftigkeit unseres Selbst <HYPH1 cont="behaupten">be-</HYPH1><LE/>
+<HYPH2>haupten</HYPH2> wollen, so m&#xFC;ssen wir auch <HYPH1 cont="innerhalb">inner-</HYPH1><LE/>
+<HYPH2>halb</HYPH2> der blo&#xDF; theoretischen Philosophie den<LE/>
+Kampf mit widerstreitenden Meinungen<LE/>
+aufnehmen, wir m&#xFC;ssen den Thatsachen<LE/>
+und Schl&#xFC;ssen ins Auge sehen, auf die<LE/>
+unsere Gegner sich berufen.</P>
+<P part="initial" parID="04367"><TAB/>Gab es nicht eine Zeit, wo wir noch nicht<LE/>
+existierten? Sind wir nicht das <HYPH1 cont="verg&#xE4;ngliche">verg&#xE4;ng-</HYPH1><LE/>
+<HYPH2>liche</HYPH2> Product zweier Organisationen, die<LE/>
+ebenso verg&#xE4;nglich und von tausend<LE/>
+Daseins-Bedingungen abh&#xE4;ngig waren oder<LE/>
+sind, wie wir selber? &#xBB;Der Mensch, vom<LE/>
+Weibe geboren, lebt kurze Zeit und ist voll<LE/>
+Unruhe, geht auf wie eine Blume und f&#xE4;llt ab,<LE/>
+flie&#xDF;t wie ein Schatten und bleibt nicht. Wo<LE/>
+ist ein Mensch, wenn er todt und umgekommen<LE/>
+und dahin ist?&#xAB; klagte schon Hiob. Lehrt<LE/>
+uns nicht jeder Schlaf und jede Ohnmacht,</P>
+</CELL><CELL>
+<P part="final" parID="04368">dass unser Ich nur zu Zeiten ist und zu<LE/>
+Zeiten nicht ist, lehrt uns nicht ein <HYPH1 cont="R&#xFC;ckblick">R&#xFC;ck-</HYPH1><LE/>
+<HYPH2>blick</HYPH2> auf unser Leben, dass es sich in der<LE/>
+Zeit allm&#xE4;hlich entwickelt hat, und dass<LE/>
+die Art unserer Entwicklung bedingt <HYPH1 cont="gewesen">ge-</HYPH1><LE/>
+<HYPH2>wesen</HYPH2> ist von zahllosen Umst&#xE4;nden und<LE/>
+Einfl&#xFC;ssen, die alle <SPC>au&#xDF;erhalb</SPC> unseres<LE/>
+Willens, au&#xDF;erhalb unseres &#xBB;Ich&#xAB; lagen?<LE/>
+Sind wir also nicht wirklich nur Producte<LE/>
+von Eltern, Nahrung, Klima, Erziehung<LE/>
+und unbestimmt vielen sonstigen Factoren?</P>
+<P part="initial" parID="04369"><TAB/>Aber der Denker sucht nach dem<LE/>
+ruhenden Pol in der Erscheinungen Flucht.<LE/>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2436_00831" endPtr="WR-04-22_n0381.xml#//DIV_END[@divEndID='deID_2436_00829']"/>
+<LG parID="04370"><L>&#xBB;Des Nordens Stern, dess&#x2019; unverr&#xFC;ckbar feste Art</L>
+<L>Nicht ihresgleichen hat am Firmament,</L>
+<L>Der Himmel prangt mit Funken sonder Zahl,</L>
+<L>Und Feuer sind sie all&#x2019;, und jeder leuchtet,</L>
+<L>Doch einer nur behauptet seinen Stand.&#xAB; &#x2014;</L></LG>
+<DIV_END divEndID="deID_2436_00829" startPtr="WR-04-22_n0381.xml#//DIV_START[@divStartID='dsID_2436_00831']"/>
+Der <SPC>Polarstern</SPC> ist nach Giordano<LE/>
+Brunos classischem Bilde (<LANG iso="it"><I>Spaccio della bestia<LE/>
+trionfante</I></LANG>, meine &#xDC;bersetzung, Leipzig <DATE>1889</DATE>,<LE/>
+S. 25, 89) das Sinnbild der Wahrheit.<LE/>
+Mit Recht; denn wenn Wahrheit etwas<LE/>
+ist, das sich <SPC>bew&#xE4;hrt</SPC>, so muss sie etwas</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="381" c_text="&#x2014; 381 &#x2014;"/>
+</PAGE>

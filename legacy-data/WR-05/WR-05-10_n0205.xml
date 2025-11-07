@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-09_n0204.xml</PREV>
+<NEXT>WR-05-10_n0206.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 10, S. 205</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>20</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_01302" endPtr="WR-05-10_n0224.xml#//DIV_END[@divEndID='deID_2436_01308']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_01303" endPtr="WR-05-10_n0205.xml#//DIV_END[@divEndID='deID_2436_01302']"/>
+<P parID="06915"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="06916"><B>HERAUSGEGEBEN VON FELIX RAPPAPORT</B></P>
+<TABLE parID="06917"><ROW ciID="1113"><CELL>
+<P parID="06918"><DATE><B>15. MAI 1901</B></DATE></P>
+</CELL><CELL>
+<P parID="06919"><B>V. JAHRGANG, N<SUP>R.</SUP> 10</B></P>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_01302" startPtr="WR-05-10_n0205.xml#//DIV_START[@divStartID='dsID_2436_01303']"/>
+<DIV_START divStartID="dsID_2436_01304" endPtr="WR-05-10_n0214.xml#//DIV_END[@divEndID='deID_2436_01303']"/>
+<TITLE titleID="tiID_2436_00334"><TITLEPART type="main">DIALOG &#xDC;BER ESOTERISCHEN BUDDHISMUS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CARL BLEIBTREU</AUCTOR> (Wien).</TITLEPART></TITLE>
+<TABLE parID="06920"><ROW ciID="1114"><CELL>
+<P parID="06921"><TAB/><SPC>Der Unerleuchtete</SPC>: Ich erkl&#xE4;re<LE/>
+von vorneherein, dass ich den <HYPH1 cont="Buddhismus">Buddhis-</HYPH1><LE/>
+<HYPH2>mus</HYPH2> in Grund und Boden hasse und <HYPH1 cont="verachte">ver-</HYPH1><LE/>
+<HYPH2>achte</HYPH2>. Was die Karma-Lehre betrifft, so ist<LE/>
+sie von allen Phantasiemythen die albernste.<LE/>
+Christus &#x2014; <SPC>nach</SPC> Buddha &#x2014; hat dies<LE/>
+auch schon erkannt. Denn er stellt den<LE/>
+Zusammenhang von Schuld und S&#xFC;hne,<LE/>
+Verschulden und Leiden als durchg&#xE4;ngige<LE/>
+Norm in Abrede. Die betreffenden Stellen<LE/>
+finden Sie: Lukas XIII, 1&#x2014;5, Johannes<LE/>
+IX, 1&#x2014;3. &#xBB;Karma&#xAB; &#x2014; seelenwandernde<LE/>
+Wiedergeburt als Vergeltung erschien dem<LE/>
+Religionsstifter als ein Aberglaube.</P>
+<P part="initial" parID="06922"><TAB/><SPC>Der Erleuchtete</SPC>: Wenn es ihnen<LE/>
+so passt, dient also auch Christus den<LE/>
+Materialisten als Eideshelfer! Doch begreife<LE/>
+ich vollkommen, dass der philosophische<LE/>
+Materialismus, nachdem er alle anderen<LE/>
+Religionen mit ver&#xE4;chtlichem Mitleid <HYPH1 cont="abthat">ab-</HYPH1><LE/>
+<HYPH2>that</HYPH2>, sich mit wahrer Wolfswuth wider<LE/>
+den Buddhismus wendet, dem er mit<LE/>
+seiner &#xFC;blichen wohlfeilen Logik nicht<LE/>
+beikommen kann. &#xDC;brigens hat Christus,<LE/>
+richtig gelesen, sich keineswegs so deutlich<LE/>
+ge&#xE4;u&#xDF;ert, wie Sie behaupten. Er hat<LE/>
+vielmehr nur den abscheulichen &#x2014; von<LE/>
+sp&#xE4;teren Christen neu gen&#xE4;hrten &#x2014; Wahn<LE/>
+verworfen, als ob materielles Ungl&#xFC;ck als</P>
+</CELL><CELL>
+<P part="medial" parID="06923">prompte &#xBB;Strafe&#xAB; f&#xFC;r irgendeine &#xBB;S&#xFC;nde&#xAB;<LE/>
+des Individuums in <SPC>diesem</SPC> Leben <HYPH1 cont="aufgefasst">auf-</HYPH1><LE/>
+<HYPH2>gefasst</HYPH2> werden m&#xFC;sste, eine dem <HYPH1 cont="Egoismus">Egois-</HYPH1><LE/>
+<HYPH2>mus</HYPH2> der Welt recht angenehme <HYPH1 cont="Schlussfolgerung">Schluss-</HYPH1><LE/>
+<HYPH2>folgerung</HYPH2>, um sich so die Ungl&#xFC;cklichen<LE/>
+zugleich als die Schlechten vom Halse<LE/>
+halten zu d&#xFC;rfen. Diese sch&#xE4;ndliche<LE/>
+Missdeutung ist heute noch im Volke <HYPH1 cont="verbreitet">ver-</HYPH1><LE/>
+<HYPH2>breitet</HYPH2>. Wenn also Christus versichert, der<LE/>
+Blindgeborene habe selbst nichts <HYPH1 cont="verschuldet">ver-</HYPH1><LE/>
+<HYPH2>schuldet</HYPH2>, noch seine Eltern, sondern dies<LE/>
+Ph&#xE4;nomen trete ein, &#xBB;damit die Werke<LE/>
+offenbar w&#xFC;rden&#xAB;, so l&#xE4;sst auch dies die<LE/>
+Deutung offen, dass er mit diesen Werken<LE/>
+der Natur, die sich offenbaren, auf das<LE/>
+Karma-Geheimnis hindeuten wollte. Der<LE/>
+Parabel von den Arbeitern, die <SPC><HYPH1 cont="verschiedenen">ver-</HYPH1><LE/>
+<HYPH2>schiedenen</HYPH2></SPC> Lohn empfangen, und von den<LE/>
+Knechten, die <SPC>verschiedene</SPC> Pfunde<LE/>
+zum Wuchern erhalten, l&#xE4;sst sich leicht<LE/>
+das Karma unterschieben, und endlich<LE/>
+mag auch in der &#xBB;Auferstehung des<LE/>
+Fleisches&#xAB; eine deutliche Anspielung <HYPH1 cont="enthalten">ent-</HYPH1><LE/>
+<HYPH2>halten</HYPH2> sein. Da jedoch die Evangelien<LE/>
+wohl eine geniale Erkenntnisdichtung der<LE/>
+Seelenkr&#xE4;fte und blitzartig intuitives <HYPH1 cont="Beleuchten">Be-</HYPH1><LE/>
+<HYPH2>leuchten</HYPH2> occulter Materien, nicht aber<LE/>
+ein zusammenh&#xE4;ngendes, philosophisches<LE/>
+System, wie der uralte Brahminismus und</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="205" c_text="&#x2014; 205 &#x2014;"/>
+</PAGE>

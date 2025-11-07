@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0182.xml</PREV>
+<NEXT>WR-01-01-05_n0184.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 183</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ALLADINE UND PALOMIDES.</CTEXT><RTEXT type="pn">183</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00322" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00318']"/>
+<P parID="01422"><SPK><SPC>Dritte Schwester</SPC></SPK>.</P>
+<P parID="01423"><TAB/>F&#xFC;rchte nichts, wir sind allein! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00318" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00322']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00323" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00319']"/>
+<P parID="01424"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="01425"><TAB/>Kommt! Kommt! Wir kommen euch befreien! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00319" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00323']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00324" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00320']"/>
+<P parID="01426"><SPK><SPC>Vierte Schwester</SPC></SPK>.</P>
+<P parID="01427"><TAB/>Ablamore ist geflohen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00320" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00324']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00325" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00321']"/>
+<P parID="01428"><SPK><SPC>F&#xFC;nfte Schwester</SPC></SPK>.</P>
+<P parID="01429"><TAB/>Er ist nicht mehr im Palaste <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00321" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00325']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00326" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00322']"/>
+<P parID="01430"><SPK><SPC>Sechste Schwester</SPC></SPK>.</P>
+<P parID="01431"><TAB/>Sie antworten nicht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00322" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00326']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00327" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00323']"/>
+<P parID="01432"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="01433"><TAB/>Ich habe das Wasser aufsch&#xE4;umen geh&#xF6;rt! <SYMBOL type="3dots"/> Hieher,<LE/>
+hieher! <SD>(Sie laufen auf den Felsen, der das unterirdische Gew&#xE4;sser &#xFC;berragt.)</SD></P>
+<DIV_END divEndID="deID_2397_00323" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00327']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00328" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00324']"/>
+<P parID="01434"><SPK><SPC>Eine der Schwestern</SPC></SPK>.</P>
+<P parID="01435"><TAB/>Sie sind da! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00324" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00328']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00329" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00325']"/>
+<P parID="01436"><SPK><SPC>Eine andere Schwester</SPC></SPK>.</P>
+<P parID="01437"><TAB/>Ja, ja, ganz am Grund des schwarzen Wassers <SYMBOL type="3dots"/>Sie<LE/>
+umschlingen sich.</P>
+<DIV_END divEndID="deID_2397_00325" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00329']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00330" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00326']"/>
+<P parID="01438"><SPK><SPC>Dritte Schwester</SPC></SPK>.</P>
+<P parID="01439"><TAB/>Sie sind todt.</P>
+<DIV_END divEndID="deID_2397_00326" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00330']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00331" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00327']"/>
+<P parID="01440"><SPK><SPC>Vierte Schwester</SPC></SPK>.</P>
+<P parID="01441"><TAB/>Nein, nein; sie leben, sie leben! <SYMBOL type="3dots"/> Seht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00327" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00331']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00332" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00328']"/>
+<P parID="01442"><SPK><SPC>Die anderen Schwestern</SPC></SPK>.</P>
+<P parID="01443"><TAB/>Zu Hilfe! Zu Hilfe! <SYMBOL type="3dots"/> Ruft! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00328" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00332']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00333" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00329']"/>
+<P parID="01444"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="01445"><TAB/>Sie machen keine Anstrengung, um sich zu retten! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00329" startPtr="WR-01-01-05_n0183.xml#//DIV_START[@divStartID='dsID_2397_00333']"/>
+<DIV_END divEndID="deID_2397_00330" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00234']"/>
+<DIV_END divEndID="deID_2397_00331" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00233']"/>
+<P parID="01446">(Schluss folgt.)</P>
+<DIV_END divEndID="deID_2397_00332" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00232']"/>
+</PAGE>

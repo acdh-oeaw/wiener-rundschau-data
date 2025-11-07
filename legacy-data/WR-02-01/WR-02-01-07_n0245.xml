@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-07_n0244.xml</PREV>
+<NEXT>WR-02-01-07_n0246.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 245</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>DER B&#xC4;R.</CTEXT><RTEXT type="pn">245</RTEXT></HD>
+<DIV_START cat="scene" divStartID="dsID_2432_00337" endPtr="WR-02-01-07_n0245.xml#//DIV_END[@divEndID='deID_2432_00336']"/>
+<TITLE titleID="tiID_2432_00083"><TITLEPART type="enum">V.</TITLEPART></TITLE>
+<P parID="01725"><SD><SPK><SPC>Smyrnow</SPC></SPK> (allein).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00338" endPtr="WR-02-01-07_n0245.xml#//DIV_END[@divEndID='deID_2432_00335']"/>
+<P parID="01726"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Sagen Sie &#x2019;mal! Stimmung <SYMBOL type="3dots"/> Vor sieben Monaten<LE/>
+ist der Mann gestorben! Muss ich aber Zinsen zahlen oder nicht? &#x2014;<LE/>
+Ich frage: muss ich zahlen oder nicht? Nun ja, der Mann ist todt,<LE/>
+da kommt die Stimmung und allerhand Hokuspokus <SYMBOL type="3dots"/> Der Verwalter,<LE/>
+dass ihn der Teufel hole, ist verreist, aber was soll ich denn thun?<LE/>
+Soll ich auf einen Luftballon den Gl&#xE4;ubigern entfliehen? Oder soll ich<LE/>
+mir den Kopf einrennen? Grusdew war nicht zu Hause, Jaroschewitsch<LE/>
+hat sich versteckt, mit Kurytzin habe ich mich verzankt und h&#xE4;tte ihn<LE/>
+beinahe durchs Fenster geworfen, Masutow hat die Cholerina, und<LE/>
+diese da kommt mir mit ihrer Stimmung. Keine einzige Canaille will<LE/>
+zahlen! Das kommt daher, weil ich sie zu sehr verw&#xF6;hnte, weil ich<LE/>
+ein Waschlappen, ein altes Weib bin! Ich war zu zartf&#xFC;hlend! Aber<LE/>
+wartet nur! Ihr sollt mich schon kennen lernen! Ich werde nicht <HYPH1 cont="gestatten">ge-</HYPH1><LE/>
+<HYPH2>statten</HYPH2>, mit mir Spass zu treiben, hol&#x2019; euch der Teufel! Ich bleibe<LE/>
+hier und gehe nicht eher weg, als bis sie bezahlt haben wird! Hu! <SYMBOL type="3dots"/><LE/>
+Wie b&#xF6;se ich heute bin, wie b&#xF6;se! Vor Wuth zittere ich f&#xF6;rmlich, und<LE/>
+der Athem stockt <SYMBOL type="3dots"/> Pfui, mein Gott, es wird mir sogar &#xFC;bel! <SD>(Schreit.)</SD><LE/>
+Diener!</P>
+<DIV_END divEndID="deID_2432_00335" startPtr="WR-02-01-07_n0245.xml#//DIV_START[@divStartID='dsID_2432_00338']"/>
+<DIV_END divEndID="deID_2432_00336" startPtr="WR-02-01-07_n0245.xml#//DIV_START[@divStartID='dsID_2432_00337']"/>
+<DIV_START cat="scene" divStartID="dsID_2432_00339" endPtr="WR-02-01-07_n0245.xml#//DIV_END[@divEndID='deID_2432_00340']"/>
+<TITLE titleID="tiID_2432_00084"><TITLEPART type="enum">VI.</TITLEPART></TITLE>
+<P parID="01727"><SD><SPK><SPC>Smyrnow</SPC></SPK> und <SPK><SPC>Lukas</SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00340" endPtr="WR-02-01-07_n0245.xml#//DIV_END[@divEndID='deID_2432_00337']"/>
+<P parID="01728"><TAB/><SPK><SPC>Lukas</SPC></SPK> <SD>(eintretend)</SD>. Was w&#xFC;nschen Sie?</P>
+<DIV_END divEndID="deID_2432_00337" startPtr="WR-02-01-07_n0245.xml#//DIV_START[@divStartID='dsID_2432_00340']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00341" endPtr="WR-02-01-07_n0245.xml#//DIV_END[@divEndID='deID_2432_00338']"/>
+<P parID="01729"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Gib mir Kwas oder Wasser!</P>
+<DIV_END divEndID="deID_2432_00338" startPtr="WR-02-01-07_n0245.xml#//DIV_START[@divStartID='dsID_2432_00341']"/>
+<P parID="01730"><SD>(Lukas ab.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00342" endPtr="WR-02-01-07_n0245.xml#//DIV_END[@divEndID='deID_2432_00339']"/>
+<P parID="01731"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Nein, wie gef&#xE4;llt Ihnen diese Logik! Man hat das<LE/>
+Geld nothwendig n&#xF6;thig, man m&#xF6;chte sich vor Verzweiflung erh&#xE4;ngen,<LE/>
+sie aber will nicht zahlen, weil sie keine Lust hat, sich mit <HYPH1 cont="Geldgesch&#xE4;ften">Geld-</HYPH1><LE/>
+<HYPH2>gesch&#xE4;ften</HYPH2> abzugeben! <SYMBOL type="3dots"/> Das ist eine echte Weiberlogik, eine <HYPH1 cont="Tourn&#xFC;relogik">Tourn&#xFC;re-</HYPH1><LE/>
+<HYPH2>logik</HYPH2>! Darum eben war und ist es mir unertr&#xE4;glich, mit Weibern zu<LE/>
+reden. Mir w&#xE4;re es viel leichter, auf einem Pulverfass zu sitzen, als<LE/>
+mit einer Frau zu reden. Hu! <SYMBOL type="3dots"/> Mich &#xFC;berl&#xE4;uft es sogar eiskalt &#x2014;<LE/>
+so sehr hat mich diese Tourn&#xFC;re aufgebracht! Erblicke ich solche<LE/>
+poetische Gesch&#xF6;pfe auch nur aus der Ferne, so bekomme ich vor<LE/>
+Wuth Wadenkr&#xE4;mpfe. Es ist geradezu Gewalt zu schreien.</P>
+<DIV_END divEndID="deID_2432_00339" startPtr="WR-02-01-07_n0245.xml#//DIV_START[@divStartID='dsID_2432_00342']"/>
+<DIV_END divEndID="deID_2432_00340" startPtr="WR-02-01-07_n0245.xml#//DIV_START[@divStartID='dsID_2432_00339']"/>
+<DIV_START cat="scene" divStartID="dsID_2432_00343" endPtr="WR-02-01-07_n0246.xml#//DIV_END[@divEndID='deID_2432_00353']"/>
+<TITLE titleID="tiID_2432_00085"><TITLEPART type="enum">VII.</TITLEPART></TITLE>
+<P parID="01732"><SD><SPK><SPC>Smyrnow</SPC></SPK> und <SPK><SPC>Lukas</SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00344" endPtr="WR-02-01-07_n0245.xml#//DIV_END[@divEndID='deID_2432_00341']"/>
+<P parID="01733"><TAB/><SPK><SPC>Lukas</SPC></SPK> <SD>(tritt ein und reicht Wasser)</SD>. Die gn&#xE4;dige Frau ist krank<LE/>
+und empf&#xE4;ngt nicht.</P>
+<DIV_END divEndID="deID_2432_00341" startPtr="WR-02-01-07_n0245.xml#//DIV_START[@divStartID='dsID_2432_00344']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00345" endPtr="WR-02-01-07_n0245.xml#//DIV_END[@divEndID='deID_2432_00342']"/>
+<P parID="01734"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Hinaus!</P>
+<DIV_END divEndID="deID_2432_00342" startPtr="WR-02-01-07_n0245.xml#//DIV_START[@divStartID='dsID_2432_00345']"/>
+<P parID="01735"><SD>(Lukas ab.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00346" endPtr="WR-02-01-07_n0246.xml#//DIV_END[@divEndID='deID_2432_00343']"/>
+<P part="initial" parID="01736"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Ist krank und empf&#xE4;ngt nicht! Ist auch gar nicht<LE/>
+n&#xF6;thig, mag sie nicht empfangen <SYMBOL type="3dots"/> Ich bleibe hier und werde so lange</P>
+</PAGE>

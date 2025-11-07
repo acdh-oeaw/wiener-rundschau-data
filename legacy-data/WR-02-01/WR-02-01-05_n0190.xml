@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-05_n0189.xml</PREV>
+<NEXT>WR-02-01-05_n0191.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 5, S. 190</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2432_00260" endPtr="WR-02-01-05_n0190.xml#//DIV_END[@divEndID='deID_2432_00259']"/>
+<TITLE titleID="tiID_2432_00066"><TITLEPART>N&#xC4;CHTLICHER WEG.</TITLEPART></TITLE>
+<LG parID="01317"><L><IN>Schwer</IN> schweigt der Wald in schwarzer Pracht.</L>
+<L>Mein Mantel flattert durch die Nacht,</L>
+<L>Streift welkes Laub am Boden mit;</L>
+<L>Und wo die Aeste wie Gestalten</L>
+<L>Hoch &#xFC;ber mir die H&#xE4;nde halten,</L>
+<L>Folgt Zittern meinem festen Schritt.</L></LG>
+<LG parID="01318"><L>Und leis&#x2019; an mir herniederglitt,</L>
+<L>Als woll&#x2019;s im feuchten Gras erkalten,</L>
+<L>Was in mir k&#xE4;mpfte, rang und litt;</L>
+<L>Was ich in mir f&#xFC;r schlecht gehalten,</L>
+<L>Das nahm die Nacht im Athem mit.</L></LG>
+<LG parID="01319"><L>Und stiller meine Schritte hallten</L>
+<L>Wie eines fremden Freundes Tritt.</L></LG>
+<P parID="01320">M&#xFC;nchen. <AUCTOR><C>Wilhelm von Scholz</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2432_00259" startPtr="WR-02-01-05_n0190.xml#//DIV_START[@divStartID='dsID_2432_00260']"/>
+</PAGE>

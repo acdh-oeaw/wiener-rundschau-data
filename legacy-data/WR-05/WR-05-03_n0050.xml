@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-03_n0049.xml</PREV>
+<NEXT>WR-05-03_n0051.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 3, S. 50</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="performance" divStartID="dsID_2436_00959" endPtr="WR-05-03_n0060.xml#//DIV_END[@divEndID='deID_2436_01152']"/>
+<TITLE titleID="tiID_2436_00257"><TITLEPART type="main"><SPC>PHILOKTET ODER DER TRACTAT VON DEN DREI<LE/>
+LEBENSANSCHAUUNGEN</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ANDR&#xC9; GIDE</AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">&#xDC;bersetzt von <AUCTOR type="translator"><SPC>RUDOLF KASSNER</SPC></AUCTOR>.</TITLEPART></TITLE>
+<P parID="05434"><SD><SPC>Ein grauer und niedriger Himmel &#xFC;ber<LE/>
+einer Ebene von Schnee und Eis</SPC>.</SD></P>
+<TABLE parID="05435"><ROW ciID="0933"><CELL>
+<DIV_START cat="act" divStartID="dsID_2436_00960" endPtr="WR-05-03_n0053.xml#//DIV_END[@divEndID='deID_2436_01013']"/>
+<TITLE titleID="tiID_2436_00258"><TITLEPART>I. Act.</TITLEPART></TITLE>
+<DIV_START cat="scene" divStartID="dsID_2436_00961" endPtr="WR-05-03_n0053.xml#//DIV_END[@divEndID='deID_2436_01011']"/>
+<TITLE titleID="tiID_2436_00259"><TITLEPART>1. Scene.</TITLEPART></TITLE>
+<P parID="05436"><SD><SPK><SPC>Ulysses</SPC></SPK> und <SPK><SPC>Neoptolemos</SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_00962" endPtr="WR-05-03_n0051.xml#//DIV_END[@divEndID='deID_2436_00957']"/>
+<P part="initial" parID="05437"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Ulysses, alles ist<LE/>
+bereit. Das Boot ist festgebunden. Ich<LE/>
+habe das Wasser gew&#xE4;hlt dort, wo es<LE/>
+tief und vor dem Nordwind gesch&#xFC;tzt<LE/>
+ist, aus Furcht, das Meer k&#xF6;nne <HYPH1 cont="gefrieren">ge-</HYPH1><LE/>
+<HYPH2>frieren</HYPH2>. Und wenn auch diese kalte<LE/>
+Insel nur von Strandv&#xF6;geln bewohnt<LE/>
+zu sein scheint, so habe ich doch das<LE/>
+Boot an eine K&#xFC;ste gebracht, wo kein<LE/>
+Vorbeigehender es zu sehen verm&#xF6;chte.<LE/>
+Auch meine Seele ist bereit; meine<LE/>
+Seele ist bereit f&#xFC;r das Opfer. Ulysses!<LE/>
+sprich jetzt; alles ist bereit! &#xDC;ber die<LE/>
+Ruder oder den Helm gebeugt, sprachst<LE/>
+du durch vierzehn Tage hindurch nichts<LE/>
+als rohe Worte von R&#xE4;nken, die uns<LE/>
+vor den Wogen wahren sollten; vor<LE/>
+diesem beharrlichen Schweigen hielt<LE/>
+ich meine Fragen zur&#xFC;ck und begriff,<LE/>
+wie eine gro&#xDF;e Trauer deine Seele<LE/>
+bedr&#xFC;ckte, da du mich in den Tod<LE/>
+f&#xFC;hrtest. Und ich schwieg, da ich f&#xFC;hlte,<LE/>
+dass alle Worte uns zu schnell <HYPH1 cont="hinweggetragen">hinweg-</HYPH1><LE/>
+<HYPH2>getragen</HYPH2> w&#xFC;rden vom Winde &#xFC;ber das<LE/>
+unendliche Meer. Ich wartete. Ich sah,<LE/>
+wie hinter uns und dem Horizont des<LE/>
+Meeres die sch&#xF6;ne skyrische K&#xFC;ste, wo<LE/>
+mein Vater gek&#xE4;mpft hatte, wich und<LE/>
+die Goldsandinseln flohen und die Inseln<LE/>
+aus jenem Gestein, das ich so sehr<LE/>
+liebte, weil ich sie jenen von Pylos<LE/>
+&#xE4;hnlich glaubte; dreizehnmal sah ich<LE/>
+die Sonne ins Meer treten und jeden<LE/>
+Morgen kam sie bleicher aus den Wogen<LE/>
+und nur, um langsamer und weniger</P>
+</CELL><CELL>
+<P part="final" parID="05438">hoch zu steigen, bis endlich am <HYPH1 cont="vierzehnten">vier-</HYPH1><LE/>
+<HYPH2>zehnten</HYPH2> Morgen wir sie umsonst <HYPH1 cont="erwarteten">er-</HYPH1><LE/>
+<HYPH2>warteten</HYPH2>; und seitdem leben wir wie<LE/>
+jenseits von Tag und Nacht. Eisbl&#xF6;cke<LE/>
+glitten &#xFC;ber das Meer; dieses ewige,<LE/>
+bleiche Leuchten nahm mir den Schlaf,<LE/>
+und wenn ich etwas vernahm, so waren<LE/>
+es nur die Worte, mit denen du mir<LE/>
+neue Sandb&#xE4;nke anzeigtest, vor denen<LE/>
+uns ein Sto&#xDF; mit dem Ruder rettete.</P>
+<P part="initial" parID="05439"><TAB/>Jetzt sprich, Ulysses; meine Seele<LE/>
+ist bereit, nicht wie die B&#xF6;cke des<LE/>
+Bacchus, die man, geschm&#xFC;ckt mit den<LE/>
+Kr&#xE4;nzen der Feste, zum Opfer f&#xFC;hrt,<LE/>
+sondern wie Iphigenie, die einfach und<LE/>
+schmucklos und ohne Geberden zum<LE/>
+Altare schritt. Wahrlich, auch ich h&#xE4;tte<LE/>
+wie sie ohne Klagen und f&#xFC;r mein<LE/>
+Vaterland sterben wollen, vor allen<LE/>
+Griechen und auf sonnenumarmter<LE/>
+Erde sterben und durch meinen Tod,<LE/>
+den man annahm, meine ganze <HYPH1 cont="Ehrfurcht">Ehr-</HYPH1><LE/>
+<HYPH2>furcht</HYPH2> vor den G&#xF6;ttern zeigen wollen<LE/>
+und alle Sch&#xF6;nheit meiner Seele; denn<LE/>
+diese ist stark und hat noch nicht <HYPH1 cont="gek&#xE4;mpft">ge-</HYPH1><LE/>
+<HYPH2>k&#xE4;mpft</HYPH2>! Hart ist es, ohne Ruhm zu<LE/>
+sterben <SYMBOL type="3dots"/> und doch, o G&#xF6;tter, bin<LE/>
+ich ohne Bitternis und habe langsam<LE/>
+alles hinter mir gelassen, die Menschen<LE/>
+und Sonnengestade <SYMBOL type="3dots"/> und jetzt, wo<LE/>
+wir gelandet sind an dieser <HYPH1 cont="unwirtlichen">unwirt-</HYPH1><LE/>
+<HYPH2>lichen</HYPH2> Insel ohne B&#xE4;ume und <HYPH1 cont="Sonnenstrahlen">Sonnen-</HYPH1><LE/>
+<HYPH2>strahlen</HYPH2>, mit Schnee &#xFC;ber den Wiesen,<LE/>
+wo alle Dinge im Eise erstarrt sind<LE/>
+und der Himmel so wei&#xDF;, so grau ist,<LE/>
+dass er uns wie eine wei&#xDF;e <HYPH1 cont="Schneedecke">Schnee-</HYPH1><LE/>
+<HYPH2>decke</HYPH2> erscheint, hier fern von allem,<LE/>
+so fern von allem, hier scheint es, als<LE/>
+sei der Tod schon da und die Gedanken<LE/>
+w&#xFC;rden mir immer k&#xE4;lter und reiner,</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="50" c_text="&#x2014; 50 &#x2014;"/>
+</PAGE>

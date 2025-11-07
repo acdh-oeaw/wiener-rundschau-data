@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-05_n0114.xml</PREV>
+<NEXT>WR-05-06_n0116.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 6, S. 115</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>26</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_01239" endPtr="WR-05-06_n0140.xml#//DIV_END[@divEndID='deID_2436_01262']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_01240" endPtr="WR-05-06_n0115.xml#//DIV_END[@divEndID='deID_2436_01239']"/>
+<P parID="06182"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="06183"><B>HERAUSGEGEBEN VON FELIX RAPPAPORT</B></P>
+<TABLE parID="06184"><ROW ciID="1014"><CELL>
+<P parID="06185"><DATE><B>15. M&#xC4;RZ 1901</B></DATE></P>
+</CELL><CELL>
+<P parID="06186"><B>V. JAHRGANG N<SUP>R.</SUP> 6</B></P>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_01239" startPtr="WR-05-06_n0115.xml#//DIV_START[@divStartID='dsID_2436_01240']"/>
+<DIV_START divStartID="dsID_2436_01241" endPtr="WR-05-06_n0117.xml#//DIV_END[@divEndID='deID_2436_01240']"/>
+<TITLE titleID="tiID_2436_00289"><TITLEPART type="main">DIE ARME FRAU (<LANG iso="fr">LA FEMME PAUVRE</LANG>).</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>L&#xC9;ON BLOY</AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">(Deutsch von <AUCTOR>E. R. <SPC>Wei&#xDF;</SPC></AUCTOR>, Baden-Baden.)</TITLEPART></TITLE>
+<TITLE titleID="tiID_2436_00290"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<TABLE parID="06187"><ROW ciID="1015"><CELL>
+<P part="initial" parID="06188"><TAB/>Das Mittelalter, mein Kind, das war<LE/>
+eine ungeheuere Kirche, wie man keine<LE/>
+mehr sehen wird, bis Gott wieder auf<LE/>
+die Erde kommt &#x2014; ein Land des<LE/>
+Gebetes, soweit, wie der ganze Occident<LE/>
+und gebaut auf zehn Jahrhunderten der<LE/>
+Ekstase, die an die zehn Gebote Sabaoths<LE/>
+denken machen. Das war das alles<LE/>
+umfassende Niederknien in Anbetung<LE/>
+oder Schrecken. Die L&#xE4;sterer selbst<LE/>
+und die Blutgierigen lagen auf den<LE/>
+Knien, weil es keine andere Stellung<LE/>
+gab in Gegenwart des furchtbaren <HYPH1 cont="Gekreuzigten">Ge-</HYPH1><LE/>
+<HYPH2>kreuzigten</HYPH2>, der alle Menschen richten<LE/>
+sollte <SYMBOL type="4dots"/> Drau&#xDF;en, da gab es nichts,<LE/>
+als die Finsternisse, voll von Drachen<LE/>
+und h&#xF6;llischen Ceremonien. Man war<LE/>
+immer beim Tod Christi und die Sonne<LE/>
+zeigte sich nicht. Die armen Leute auf<LE/>
+dem Lande bestellten den Boden mit<LE/>
+Zittern, als h&#xE4;tten sie Furcht, die<LE/>
+J&#xFC;ngstverstorbenen aufzuwecken. Die<LE/>
+Ritter und ihre Kriegsknechte ritten<LE/>
+schweigsam, an den Horizonten, in der<LE/>
+D&#xE4;mmerung. Die ganze Welt weinte,<LE/>
+um Gnade flehend. Manchmal &#xF6;ffnete</P>
+</CELL><CELL>
+<P part="final" parID="06189">ein pl&#xF6;tzlicher Windsto&#xDF; die Th&#xFC;ren<LE/>
+und stie&#xDF; die dunklen Gestalten von<LE/>
+drau&#xDF;en bis hinein ins Heiligthum,<LE/>
+dessen Leuchten alle erloschen &#x2014; und<LE/>
+man h&#xF6;rte nichts mehr, als einen sehr<LE/>
+langen Schrei des Entsetzens, <HYPH1 cont="wiederhallend">wieder-</HYPH1><LE/>
+<HYPH2>hallend</HYPH2> in den zwei engelischen Welten<LE/>
+&#x2014; hoffend, dass der Stellvertreter des<LE/>
+Erl&#xF6;sers seine schrecklichen, <HYPH1 cont="beschw&#xF6;renden">beschw&#xF6;ren-</HYPH1><LE/>
+<HYPH2>den</HYPH2> H&#xE4;nde erhoben <SYMBOL type="4dots"/> Die tausend<LE/>
+Jahre des Mittelalters waren die Dauer<LE/>
+der gro&#xDF;en christlichen Trauer, von<LE/>
+eurer heiligen Patronin Clotilde bis zu<LE/>
+Christoph Columbus, der die <HYPH1 cont="Schw&#xE4;rmerei">Schw&#xE4;r-</HYPH1><LE/>
+<HYPH2>merei</HYPH2> der christlichen Liebe mitnahm<LE/>
+in seinen Sarg &#x2014; denn nur die Heiligen<LE/>
+und die Antagonisten der Heiligen sind<LE/>
+f&#xE4;hig, die Begrenzungen der Geschichte<LE/>
+festzusetzen.</P>
+<P part="initial" parID="06190"><TAB/>Eines Tages &#x2014; es ist viele Jahre<LE/>
+her &#x2014; war ich Zuschauer bei einer der<LE/>
+gro&#xDF;en &#xDC;berschwemmungen der Loire.<LE/>
+Ich war sehr jung, daher einf&#xE4;ltig und<LE/>
+auch wenig gl&#xE4;ubig, wie man es ist,<LE/>
+wenn man von allen Scorpionen der<LE/>
+Phantasie gebissen wird. Ich war <HYPH1 cont="vierundzwanzig">vier-</HYPH1></P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="115" c_text="&#x2014; 115 &#x2014;"/>
+</PAGE>

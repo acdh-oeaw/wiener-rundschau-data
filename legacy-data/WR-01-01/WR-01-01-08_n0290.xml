@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-08_n0289.xml</PREV>
+<NEXT>WR-01-01-08_n0291.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 8, S. 290</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00445" endPtr="WR-01-01-08_n0290.xml#//DIV_END[@divEndID='deID_2397_00444']"/>
+<TITLE titleID="tiID_2397_00122"><TITLEPART><SPC>BLAUER FALTER</SPC>.</TITLEPART></TITLE>
+<LG parID="02248"><L><IN>Ein</IN> blauer Falter gaukelt</L>
+<L>Um einen Lindenbaum &#x2014;</L>
+<L>Der wiegt sich leis&#x2019; und schaukelt</L>
+<L>Die Zweige wie im Traum,</L>
+<L>Die bl&#xFC;h&#x2019;nden Zweige.</L></LG>
+<LG parID="02249"><L>Sie schwanken hin und wieder</L>
+<L>Vor einem K&#xE4;mmerlein,</L>
+<L>Drin liegt in weissem Flieder</L>
+<L>Ein todtes Kind <SYMBOL type="3dots"/> allein</L>
+<L>In weissem Flieder.</L></LG>
+<LG parID="02250"><L>Er fiel aus kleinen H&#xE4;nden</L>
+<L>Herab wohl auf die Leich&#x2019; &#x2014;</L>
+<L>Die Sonn&#x2019; geht an den W&#xE4;nden</L>
+<L>So lautlos und so weich &#x2014;</L>
+<L>Der Tag r&#xFC;ckt weiter.</L></LG>
+<LG parID="02251"><L>Und mitten in dem Kreise,</L>
+<L>Dem mag&#x2019;schen Zauberring</L>
+<L>Von Licht und Tod tanzt leise</L>
+<L>Der blaue Schmetterling &#x2014;</L>
+<L>Im Kreis&#x2019; <SYMBOL type="4dots"/> im Kreise <SYMBOL type="4dots"/></L></LG>
+<P parID="02252">Wien. <AUCTOR><C>M. E.</C> delle <C>Grazie</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00444" startPtr="WR-01-01-08_n0290.xml#//DIV_START[@divStartID='dsID_2397_00445']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00446" endPtr="WR-01-01-08_n0290.xml#//DIV_END[@divEndID='deID_2397_00445']"/>
+<TITLE titleID="tiID_2397_00123"><TITLEPART><SPC>ABEND</SPC>.</TITLEPART></TITLE>
+<LG parID="02253"><L><IN>Die</IN> Nacht holt heimlich durch des Vorhangs Falten</L>
+<L>Aus deinem Haar vergess&#x2019;nen Sonnenschein.</L>
+<L>Schau&#x2019;, ich will nichts, als deine H&#xE4;nde halten</L>
+<L>Und still und gut und voller Frieden sein.</L></LG>
+<LG parID="02254"><L>Da w&#xE4;chst die Seele mir, bis sie in Scherben</L>
+<L>Den Alltag sprengt; sie wird so wunderweit:</L>
+<L>An ihren morgenrothen Marken sterben</L>
+<L>Die ersten Wellen der Unendlichkeit.</L></LG>
+<P parID="02255">M&#xFC;nchen. <AUCTOR><C>Ren&#xE9; Maria Rilke</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00445" startPtr="WR-01-01-08_n0290.xml#//DIV_START[@divStartID='dsID_2397_00446']"/>
+</PAGE>

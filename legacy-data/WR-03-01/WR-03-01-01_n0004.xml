@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-01_n0003.xml</PREV>
+<NEXT>WR-03-01-01_n0005.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 4</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>STRINDBERG: DIE SCHL&#xDC;SSEL DES HIMMELREICHS.</CTEXT></HD>
+<TABLE parID="00074"><ROW ciID="0278"><CELL>
+<LG part="final" parID="00075"><L>Ich hab&#x2019; mir auch erz&#xE4;hlen lassen,</L>
+<L>Von Deinem Wissensdrang und <HYPH1 cont="Weisheitsdurst">Weisheits-</HYPH1></L>
+<L><HYPH2>durst</HYPH2>,</L>
+<L>Und dass Du mehr von Deinem Fach</L>
+<L>verstehst als andre.</L></LG>
+<DIV_END divEndID="deID_2434_00022" startPtr="WR-03-01-01_n0003.xml#//DIV_START[@divStartID='dsID_2434_00026']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00027" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00023']"/>
+<P parID="00076"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00077"><L>Man sagt&#x2019;s. Und wahr ist&#x2019;s ohne Prahlerei,</L>
+<L>Wenn in den Krug die andern giengen,</L>
+<L>Sass bei den Kindern ich und lernte lesen.</L>
+<L>Und als ich&#x2019;s selbst verstand, da lehrt&#x2019;</L>
+<L>ich es die Grossen.</L>
+<L>Mein K&#xE4;thchen <SYMBOL type="3dots"/></L></LG>
+<DIV_END divEndID="deID_2434_00023" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00027']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00028" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00024']"/>
+<P parID="00078"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00079"><L>Was aber lasest Du am liebsten?</L></LG>
+<DIV_END divEndID="deID_2434_00024" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00028']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00029" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00025']"/>
+<P parID="00080"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00081"><L>Von H&#xF6;fen, F&#xFC;rsten, Schloss und Burgen,</L>
+<L>Der Grossen Streit, von Heer und <HYPH1 cont="Feldschlacht">Feld-</HYPH1></L>
+<L><HYPH2>schlacht</HYPH2>,</L>
+<L>Von alten Zeiten, l&#xE4;ngst entschwund&#x2019;nen</L>
+<L>Tagen;</L>
+<L>Kabalen, Diplomaten, Glaubensstiftern,</L>
+<L>Von fremden L&#xE4;ndern, T&#xFC;rken, Persern,</L>
+<L>Kreuzfahrern und den Saracenen</L>
+<L>Und seltsam war&#x2019;s: Je mehr ich las,</L>
+<L>Je mehr wuchs mein Verlangen nach</L>
+<L>dem Wissen.</L></LG>
+<DIV_END divEndID="deID_2434_00025" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00029']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00030" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00026']"/>
+<P parID="00082"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00083"><L>Du sehntest nie Dich fortzukommen, nie</L>
+<L>zu reisen?</L></LG>
+<DIV_END divEndID="deID_2434_00026" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00030']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00031" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00027']"/>
+<P parID="00084"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00085"><L>O, reisen! Ja! Die grosse, weite Welt zu</L>
+<L>sehen,</L>
+<L>Nicht nach dem H&#xF6;rensagen bloss von ihr</L>
+<L>zu reden!</L>
+<L>Wer tr&#xE4;umt ihn nicht, den Jugendtraum,</L>
+<L>Wer hegte nicht die Jugendhoffnung?</L></LG>
+<DIV_END divEndID="deID_2434_00027" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00031']"/>
+<P parID="00086"><SD>(W&#xE4;hrend der vorhergehenden und <HYPH1 cont="n&#xE4;chstfolgenden">n&#xE4;chst-</HYPH1><LE/>
+<HYPH2>folgenden</HYPH2> Scene verschwinden zuerst die <HYPH1 cont="Kinderschuhe">Kinder-</HYPH1><LE/>
+<HYPH2>schuhe</HYPH2>, dann die Spielsachen, hierauf die<LE/>
+Kleider. All dies aber nach und nach.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00032" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00028']"/>
+<P parID="00087"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00088"><L>So sollst Du reisen!</L></LG>
+<DIV_END divEndID="deID_2434_00028" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00032']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00033" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00029']"/>
+<P parID="00089"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00090"><L>Was sagst Du? &#x2014;</L>
+<L>Mit wem? Wieso?</L></LG>
+<DIV_END divEndID="deID_2434_00029" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00033']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00034" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00030']"/>
+<P parID="00091"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00092"><L>Mit mir!</L></LG>
+<DIV_END divEndID="deID_2434_00030" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00034']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00035" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00031']"/>
+<P parID="00093"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG part="initial" parID="00094"><L>Wohl h&#xF6;rte ich, dass einst in fr&#xFC;her Zeit</L>
+<L>Der Herr auf Erden sei umhergewandert,</L>
+<L>Die Menschenkinder zu begl&#xFC;cken!</L>
+<L>Doch dass in unsern Tagen</L></LG>
+</CELL><CELL>
+<LG part="final" parID="00095"><L>Der Volksaufkl&#xE4;rung und des <HYPH1 cont="Ketzerglaubens">Ketzer-</HYPH1></L>
+<L><HYPH2>glaubens</HYPH2></L>
+<L>Noch solch ein Wunderwerk geschehen</L>
+<L>k&#xF6;nnt&#x2019;,</L>
+<L>Das h&#xE4;tt&#x2019; ich, Doctor, nimmermehr</L>
+<L>geglaubt!</L></LG>
+<DIV_END divEndID="deID_2434_00031" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00035']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00036" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00032']"/>
+<P parID="00096"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00097"><L>Ja, Wunder kannst Du alle Tage schauen,</L>
+<L>Bis an der Welten Ende!</L>
+<L>Wenn Du das Meer siehst an die Wolken</L>
+<L>steigen,</L>
+<L>Und Wolken sich zur Erde senken, &#x2014;</L>
+<L>Und wenn dem Samen in der Erd&#x2019; <HYPH1 cont="entsprosst">ent-</HYPH1></L>
+<L><HYPH2>sprosst</HYPH2> die Pflanze,</L>
+<L>Der Blitz den Baum zerschellt, das Eis</L>
+<L>die Sonne schmilzt,</L>
+<L>Wenn Worte spricht der Mund, das Hirn</L>
+<L>Gedanken denkt,</L>
+<L>Geschehen Wunderwerke noch und alle</L>
+<L>Tage.</L></LG>
+<DIV_END divEndID="deID_2434_00032" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00036']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00037" endPtr="WR-03-01-01_n0004.xml#//DIV_END[@divEndID='deID_2434_00033']"/>
+<P parID="00098"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00099"><L>Sag&#x2019;, kannst Du zaubern, Doctor?</L></LG>
+<DIV_END divEndID="deID_2434_00033" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00037']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00038" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00034']"/>
+<P parID="00100"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00101"><L>Ja, ich so gut wie Du!</L>
+<L>Siehst Du ein Weib, so h&#xE4;sslich wie die</L>
+<L>S&#xFC;nde,</L>
+<L>So faul wie Jauche, scharf wie Gift,</L>
+<L>Und Du erschaust in ihr die sch&#xF6;ne,</L>
+<L>Die gute, engelsgleiche, reine,</L>
+<L>So zauberst Du!</L>
+<L>Als eben jetzt aus der Erinn&#x2019;rung Tiefen</L>
+<L>Du auferweckt die todten Kleinen</L>
+<L>Und Du sie deutlich schiedest auseinander,</L>
+<L>Dass meinem Auge leibhaft sie erschienen,</L>
+<L>Dass ich sie sah und ihre Stimmen h&#xF6;rte,</L>
+<L>Da wecktest Du die Todten auf,</L>
+<L>Da konntest Du auch zaubern!</L></LG>
+<P parID="00102"><SD>(Er zieht einen Todtensch&#xE4;del aus der Tasche.)</SD></P>
+<LG part="initial" parID="00103"><L>Sieh hier die Zauberb&#xFC;chse, die Natur</L>
+<L>uns gab,</L>
+<L>In dieser Kapsel lag vor kurzem noch,</L>
+<L>Grauweisslich eine Masse, phosphorhalt&#x2019;gen</L>
+<L>Fetts!</L>
+<L>Durch diese runden H&#xF6;hlen drangen</L>
+<L>Hinein des Lichtes Wellen,</L>
+<L>Durch diese die des Lautes,</L>
+<L>Da des Geruchs und des Geschmacks.</L>
+<L>Und wenn sie sich im Innern trafen,</L>
+<L>Zur&#xFC;ck liess jede ihren Abdruck,</L>
+<L>Bei manchem st&#xE4;rker und bei andern</L>
+<L>schw&#xE4;cher,</L>
+<L>Gesammelt so, vereint, geschieden,</L>
+<L>Befruchtend wirken sie und zeugend.</L></LG>
+</CELL></ROW></TABLE>
+<FT type="pn" num="4" c_text="&#x2014; 4 &#x2014;"/>
+</PAGE>

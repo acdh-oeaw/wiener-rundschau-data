@@ -1,0 +1,4302 @@
+<root>
+
+<ci>
+   <rn>1</rn>
+   <author>Albert, Henri</author>
+   <title>Ernest La Jeunesse</title>
+   <issue>11</issue>
+   <page>401</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0001</contDocID>
+   <target>WR-02-01-11_n0401.xml#//TITLE[@titleID='tiID_2432_00132']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00575</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-11_n0405.xml#//DIV_END[@divEndID='deID_2432_00574']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00132"><TITLEPART type="main"><SPC>ERNEST LA JEUNESSE</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Henri Albert</C></AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Henri Albert</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>2</rn>
+   <author>Altenberg, Peter</author>
+   <title>De amore</title>
+   <issue>2</issue>
+   <page>47</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0002</contDocID>
+   <target>WR-02-01-02_n0047.xml#//TITLE[@titleID='tiID_2432_00025']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00040</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-02_n0049.xml#//DIV_END[@divEndID='deID_2432_00039']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00025"><TITLEPART type="main">DE AMORE.</TITLEPART><LE/>
+<TITLEPART>(Ich liebe dich. — Ich hasse dich. — Ich liebe dich.)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Peter Altenberg</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Peter Altenberg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>3</rn>
+   <author>Altenberg, Peter</author>
+   <title>Eine schweigende Runde</title>
+   <issue>10</issue>
+   <page>378</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0003</contDocID>
+   <target>WR-02-01-10_n0378.xml#//TITLE[@titleID='tiID_2432_00127']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00561</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0381.xml#//DIV_END[@divEndID='deID_2432_00560']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00127"><TITLEPART type="main">EINE SCHWEIGENDE RUNDE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Peter Altenberg</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Peter Altenberg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>4</rn>
+   <author>Altenberg, Peter</author>
+   <title>Tulpen</title>
+   <issue>13</issue>
+   <page>493</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0004</contDocID>
+   <target>WR-02-02-13_n0493.xml#//TITLE[@titleID='tiID_2433_00002']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00004</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-13_n0495.xml#//DIV_END[@divEndID='deID_2433_00003']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00002"><TITLEPART type="main">TULPEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Peter Altenberg</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Peter Altenberg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>5</rn>
+   <author>Altenberg, Peter</author>
+   <title>Diese ist sein</title>
+   <issue>16</issue>
+   <page>620</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0005</contDocID>
+   <target>WR-02-02-16_n0620.xml#//TITLE[@titleID='tiID_2433_00054']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00175</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-16_n0623.xml#//DIV_END[@divEndID='deID_2433_00174']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00054"><TITLEPART type="main">DIESE IST SEIN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PETER ALTENBERG</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PETER ALTENBERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>6</rn>
+   <author>Altenberg, Peter</author>
+   <title>Ein wirklicher Brief an ein wirkliches zwölfjähriges Mädchen</title>
+   <issue>21</issue>
+   <page>807</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0006</contDocID>
+   <target>WR-02-02-21_n0807.xml#//TITLE[@titleID='tiID_2433_00131']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00277</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0809.xml#//DIV_END[@divEndID='deID_2433_00276']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00131"><TITLEPART type="main">EIN WIRKLICHER BRIEF AN EIN WIRKLICHES<LE/>
+ZWÖLFJÄHRIGES MÄDCHEN.</TITLEPART><LE/>
+<TITLEPART>(Aus dem <SOURCE>Cyklus »<SPC>Das Leben selbst</SPC>«</SOURCE>.)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PETER ALTENBERG</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PETER ALTENBERG</AUCTOR><AUCTOR>Peter Altenberg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>7</rn>
+   <author>Altenberg, Peter</author>
+   <title>Im Gedenkbuche</title>
+   <issue>23</issue>
+   <page>872</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0007</contDocID>
+   <target>WR-02-02-23_n0872.xml#//TITLE[@titleID='tiID_2433_00157']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00311</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-23_n0874.xml#//DIV_END[@divEndID='deID_2433_00309']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00157"><TITLEPART type="main"><SPC>IM GEDENKBUCHE</SPC>.</TITLEPART><LE/>
+<TITLEPART>(Aus dem <SOURCE>Cyclus »Das Leben selbst«</SOURCE>.)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PETER ALTENBERG</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PETER ALTENBERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>8</rn>
+   <author>Altenberg, Peter</author>
+   <title>Naturlehre</title>
+   <issue>24</issue>
+   <page>921</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0008</contDocID>
+   <target>WR-02-02-24_n0921.xml#//TITLE[@titleID='tiID_2433_00181']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00614</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-24_n0921.xml#//DIV_END[@divEndID='deID_2433_00613']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00181"><TITLEPART type="main"><SPC>NATURLEHRE</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PETER ALTENBERG</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PETER ALTENBERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>9</rn>
+   <author>d’Annunzio, Gabriele</author>
+   <title>Gedichte</title>
+   <issue>13</issue>
+   <page>508</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0009</contDocID>
+   <target>WR-02-02-13_n0508.xml#//TITLE[@titleID='tiID_2433_00013']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00007</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-13_n0509.xml#//DIV_END[@divEndID='deID_2433_00008']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00013"><TITLEPART>GEDICHTE VON <AUCTOR>GABRIELE D’ANNUNZIO</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>GABRIELE D’ANNUNZIO</AUCTOR><AUCTOR type="translator">Hermann Ubell</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>10</rn>
+   <author>d’Annunzio, Gabriele</author>
+   <title>»Un ricordo«</title>
+   <issue>14</issue>
+   <page>529</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0010</contDocID>
+   <target>WR-02-02-14_n0529.xml#//TITLE[@titleID='tiID_2433_00022']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00025</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-02-14_n0529.xml#//DIV_END[@divEndID='deID_2433_00024']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00022"><TITLEPART><LANG iso="it">»<SPC>UN RICORDO</SPC>.«</LANG></TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Gabriele d’Annunzio</AUCTOR><AUCTOR type="translator">Hermann Ubell</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>11</rn>
+   <author>d’Annunzio, Gabriele</author>
+   <title>Das Schicksal der Kaiserin</title>
+   <issue>22</issue>
+   <page>858</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0011</contDocID>
+   <target>WR-02-02-22_n0858.xml#//TITLE[@titleID='tiID_2433_00151']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00297</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-22_n0860.xml#//DIV_END[@divEndID='deID_2433_00295']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00151"><TITLEPART type="main"><SPC>DAS SCHICKSAL DER KAISERIN</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>GABRIELE D’ANNUNZIO</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>GABRIELE D’ANNUNZIO</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>12</rn>
+   <author>Behrend, Wilhelm</author>
+   <title>Ein Besuch bei Johannes Brahms</title>
+   <issue>13</issue>
+   <page>481</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0012</contDocID>
+   <target>WR-02-02-13_n0481.xml#//TITLE[@titleID='tiID_2433_00000']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00002</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-13_n0491.xml#//DIV_END[@divEndID='deID_2433_00001']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00000"><TITLEPART type="main">EIN BESUCH BEI JOHANNES BRAHMS.</TITLEPART><LE/>
+<TITLEPART type="desc">Eine Reiseerinnerung von <AUCTOR><C>Wilhelm Behrend</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Wilhelm Behrend</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>13</rn>
+   <author>Benzmann, Hans</author>
+   <title>Joris Carl Huysmans</title>
+   <issue>3</issue>
+   <page>103</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0013</contDocID>
+   <target>WR-02-01-03_n0103.xml#//TITLE[@titleID='tiID_2432_00047']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00216</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-03_n0107.xml#//DIV_END[@divEndID='deID_2432_00215']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00047"><TITLEPART type="main"><SPC>JORIS CARL HUYSMANS</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Hans Benzmann</C></AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Hans Benzmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>14</rn>
+   <author>Berg, Leo</author>
+   <title>Der Muth</title>
+   <issue>10</issue>
+   <page>372</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0014</contDocID>
+   <target>WR-02-01-10_n0372.xml#//TITLE[@titleID='tiID_2432_00123']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00560</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0377.xml#//DIV_END[@divEndID='deID_2432_00559']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00123"><TITLEPART type="main">DER MUTH.</TITLEPART><LE/>
+<TITLEPART type="desc">Eine Analyse von <AUCTOR><C>Leo Berg</C></AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Leo Berg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>15</rn>
+   <author>Berg, Leo</author>
+   <title>Strindberg, der Bekenner</title>
+   <issue>14</issue>
+   <page>543</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0015</contDocID>
+   <target>WR-02-02-14_n0543.xml#//TITLE[@titleID='tiID_2433_00029']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00028</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-14_n0548.xml#//DIV_END[@divEndID='deID_2433_00027']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00029"><TITLEPART type="main">STRINDBERG, DER BEKENNER.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Leo Berg</C></AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Leo Berg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>16</rn>
+   <author>Berg, Leo</author>
+   <title>Berliner Theaterbrief</title>
+   <issue>21</issue>
+   <page>819</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0016</contDocID>
+   <target>WR-02-02-21_n0819.xml#//TITLE[@titleID='tiID_2433_00141']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00281</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0822.xml#//DIV_END[@divEndID='deID_2433_00279']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00141"><TITLEPART type="repeated"><SPC>BERLINER THEATERBRIEF</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LEO BERG</AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LEO BERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>17</rn>
+   <author>Bleibtreu, Karl</author>
+   <title>Die menschliche Wahrheit über Bismarck</title>
+   <issue>22
+</issue>
+   <page>825</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0017</contDocID>
+   <target>WR-02-02-22_n0825.xml#//TITLE[@titleID='tiID_2433_00145']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00291</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-22_n0834.xml#//DIV_END[@divEndID='deID_2433_00289']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00145"><TITLEPART type="main">DIE MENSCHLICHE WAHRHEIT ÜBER BISMARCK.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>KARL BLEIBTREU</AUCTOR> (Wilmersdorf bei Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>KARL BLEIBTREU</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>18</rn>
+   <author>Bleibtreu, Karl</author>
+   <title>Die menschliche Wahrheit über Bismarck</title>
+   <issue>
+23</issue>
+   <page>865</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0017</contDocID>
+   <target>WR-02-02-23_n0865.xml#//TITLE[@titleID='tiID_2433_00156']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00310</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-23_n0871.xml#//DIV_END[@divEndID='deID_2433_00308']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00156"><TITLEPART type="main">DIE MENSCHLICHE WAHRHEIT ÜBER BISMARCK.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>KARL BLEIBTREU</AUCTOR> (Wilmersdorf bei Berlin).</TITLEPART><LE/>
+<TITLEPART>(Schluss.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>KARL BLEIBTREU</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>19</rn>
+   <author>Bodman, Emanuel von</author>
+   <title>Feldwärts</title>
+   <issue>8</issue>
+   <page>292</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0018</contDocID>
+   <target>WR-02-01-08_n0292.xml#//TITLE[@titleID='tiID_2432_00100']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00487</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-01-08_n0292.xml#//DIV_END[@divEndID='deID_2432_00486']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00100"><TITLEPART>FELDWÄRTS.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Emanuel von Bodman</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>20</rn>
+   <author>Brosch, Leopold</author>
+   <title>Zur Charakteristik der japanischen Kunst</title>
+   <issue>1</issue>
+   <page>28</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0019</contDocID>
+   <target>WR-02-01-01_n0028.xml#//TITLE[@titleID='tiID_2432_00020']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00027</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-01_n0030.xml#//DIV_END[@divEndID='deID_2432_00027']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00020"><TITLEPART type="main">ZUR CHARAKTERISTIK DER JAPANISCHEN KUNST.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Leopold Brosch</C></AUCTOR> (Venedig).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Leopold Brosch</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>21</rn>
+   <author>Cantacuzène, Elsa Prinzessin</author>
+   <title>Decorative Kunst</title>
+   <issue>2</issue>
+   <page>59</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0020</contDocID>
+   <target>WR-02-01-02_n0059.xml#//TITLE[@titleID='tiID_2432_00036']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00047</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-02_n0065.xml#//DIV_END[@divEndID='deID_2432_00046']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00036"><TITLEPART type="main">DECORATIVE KUNST.</TITLEPART><LE/>
+<TITLEPART>Zeitschrift für angewandte Kunst. Herausgegeben von <C>H. Bruckmann</C> in München<LE/>
+und <C>J. Meier-Graefe</C> in Paris.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Elsa Prinzessin Cantacuzène</C></AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Elsa Prinzessin Cantacuzène</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>22</rn>
+   <author>Christen, Ada</author>
+   <title>Pentimento</title>
+   <issue>6</issue>
+   <page>233</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0021</contDocID>
+   <target>WR-02-01-06_n0233.xml#//TITLE[@titleID='tiID_2432_00074']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00277</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-01-06_n0233.xml#//DIV_END[@divEndID='deID_2432_00276']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00074"><TITLEPART>PENTIMENTO.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Ada Christen</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>23</rn>
+   <author>Christomanos, Constantin</author>
+   <title>Orphisches Lied</title>
+   <issue>20</issue>
+   <page>763</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0022</contDocID>
+   <target>WR-02-02-20_n0763.xml#//TITLE[@titleID='tiID_2433_00111']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00250</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-02-20_n0765.xml#//DIV_END[@divEndID='deID_2433_00248']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00111"><TITLEPART type="main"><SPC>ORPHISCHES LIED</SPC>.</TITLEPART><LE/>
+<TITLEPART>(Aus dem <SOURCE>cyklus: »Von den träumen der bäume«</SOURCE>.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Constantin Christomanos</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>24</rn>
+   <author>Christomanos, Constantin</author>
+   <title>Um die Todte</title>
+   <issue>21</issue>
+   <page>785</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0023</contDocID>
+   <target>WR-02-02-21_n0785.xml#//TITLE[@titleID='tiID_2433_00124']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00268</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0787.xml#//DIV_END[@divEndID='deID_2433_00266']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00124"><TITLEPART><SPC>UM DIE TODTE</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>C. Christomanos</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>25</rn>
+   <author>Daudet, Madame Alphonse</author>
+   <title>Randglossen über London </title>
+   <issue>1
+</issue>
+   <page>19</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0024</contDocID>
+   <target>WR-02-01-01_n0019.xml#//TITLE[@titleID='tiID_2432_00018']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00025</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-01_n0026.xml#//DIV_END[@divEndID='deID_2432_00024']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00018"><TITLEPART type="main">RANDGLOSSEN ÜBER LONDON.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C><SPC>Madame Alphonse Daudet</SPC></C></AUCTOR> (Paris).</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebersetzung aus dem Französischen von <AUCTOR type="translator"><C>L. Frank</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Madame Alphonse Daudet</AUCTOR><AUCTOR type="translator">L. Frank</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>26</rn>
+   <author>Daudet, Madame Alphonse</author>
+   <title>Randglossen über London </title>
+   <issue>
+2</issue>
+   <page>66</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0024</contDocID>
+   <target>WR-02-01-02_n0066.xml#//TITLE[@titleID='tiID_2432_00037']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00048</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-02_n0071.xml#//DIV_END[@divEndID='deID_2432_00047']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00037"><TITLEPART type="main">RANDGLOSSEN ÜBER LONDON.</TITLEPART><LE/>
+<TITLEPART type="bystmt"><SPC>Von <AUCTOR><C>Madame Alphonse Daudet</C></AUCTOR></SPC> (Paris).</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebersetzung aus dem Französischen von <AUCTOR type="translator"><C>L. Frank</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART>(Schluss.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Madame Alphonse Daudet</AUCTOR><AUCTOR type="translator">L. Frank</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>27</rn>
+   <author>Dehmel, Richard</author>
+   <title>Stücke aus einem Roman in Romanzen »Zwei Menschen«</title>
+   <issue>10</issue>
+   <page>368</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0025</contDocID>
+   <target>WR-02-01-10_n0368.xml#//TITLE[@titleID='tiID_2432_00119']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00556</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0371.xml#//DIV_END[@divEndID='deID_2432_00558']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00119"><TITLEPART type="main">STÜCKE</TITLEPART><LE/>
+<TITLEPART type="desc">AUS EINEM <C>Roman in Romanzen</C> »<C>Zwei Menschen</C>«.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Richard Dehmel</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Richard Dehmel</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>28</rn>
+   <author>Dehmel, Richard</author>
+   <title>Gedichte</title>
+   <issue>19</issue>
+   <page>716</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0026</contDocID>
+   <target>WR-02-02-19_n0716.xml#//TITLE[@titleID='tiID_2433_00089']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00225</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-19_n0717.xml#//DIV_END[@divEndID='deID_2433_00226']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00089"><TITLEPART>GEDICHTE VON <AUCTOR>RICHARD DEHMEL</AUCTOR>.<LE/>
+(Pankow bei Berlin.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>GABRIELE D’ANNUNZIO</AUCTOR><AUCTOR type="translator">Hermann Ubell</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>29</rn>
+   <author>Dix, Arthur</author>
+   <title>Ein überwundenes Wirtschaftsprincip</title>
+   <issue>7</issue>
+   <page>273</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0027</contDocID>
+   <target>WR-02-01-07_n0273.xml#//TITLE[@titleID='tiID_2432_00097']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00474</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-07_n0276.xml#//DIV_END[@divEndID='deID_2432_00474']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00097"><TITLEPART type="main">EIN ÜBERWUNDENES WIRTHSCHAFTSPRINCIP.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Arthur Dix</C></AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Arthur Dix</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>30</rn>
+   <author>Drachmann, Holger</author>
+   <title>Künstlerherzen </title>
+   <issue>5
+</issue>
+   <page>161</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0028</contDocID>
+   <target>WR-02-01-05_n0161.xml#//TITLE[@titleID='tiID_2432_00062']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00250</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-05_n0170.xml#//DIV_END[@divEndID='deID_2432_00249']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00062"><TITLEPART type="main">KÜNSTLERHERZEN.</TITLEPART><LE/>
+<TITLEPART type="desc">Erzählung von <AUCTOR><C>Holger Drachmann</C></AUCTOR>.<LE/>
+Autorisirte Uebertragung aus dem Dänischen von <AUCTOR type="translator"><C>Carl Küchler</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Holger Drachmann</AUCTOR><AUCTOR type="translator">Carl Küchler</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>31</rn>
+   <author>Drachmann, Holger</author>
+   <title>Künstlerherzen </title>
+   <issue>6</issue>
+   <page>211</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0028</contDocID>
+   <target>WR-02-01-06_n0211.xml#//TITLE[@titleID='tiID_2432_00070']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00267</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0215.xml#//DIV_END[@divEndID='deID_2432_00266']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00070"><TITLEPART type="main">KÜNSTLERHERZEN.</TITLEPART><LE/>
+<TITLEPART type="desc">Erzählung von <AUCTOR><C>Holger Drachmann</C></AUCTOR>.<LE/>
+Autorisirte Uebertragung aus dem Dänischen von <AUCTOR type="translator"><C>Carl Küchler</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART>(Fortsetzung.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Holger Drachmann</AUCTOR><AUCTOR type="translator">Carl Küchler</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>32</rn>
+   <author>Drachmann, Holger</author>
+   <title>Künstlerherzen </title>
+   <issue>8</issue>
+   <page>293</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0028</contDocID>
+   <target>WR-02-01-08_n0293.xml#//TITLE[@titleID='tiID_2432_00101']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00488</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-08_n0302.xml#//DIV_END[@divEndID='deID_2432_00487']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00101"><TITLEPART type="main">KÜNSTLERHERZEN.</TITLEPART><LE/>
+<TITLEPART type="desc">Erzählung von <AUCTOR><C>Holger Drachmann</C></AUCTOR>.<LE/>
+Autorisirte Uebertragung aus dem Dänischen von <AUCTOR type="translator"><C>Carl Küchler</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART>(Schluss.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Holger Drachmann</AUCTOR><AUCTOR type="translator">Carl Küchler</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>33</rn>
+   <author>Eekhoud, Georg</author>
+   <title>Die wandernden Kreuze</title>
+   <issue>11</issue>
+   <page>412</page>
+   <contDoc>WR-02-01-00_i0003.xml</contDoc>
+   <contDocID>0029</contDocID>
+   <target>WR-02-01-11_n0412.xml#//TITLE[@titleID='tiID_2432_00134']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00577</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-11_n0413.xml#//DIV_END[@divEndID='deID_2432_00576']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00134"><TITLEPART type="main">DIE WANDERNDEN KREUZE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Georg Eekhoud</C></AUCTOR> (Brüssel).</TITLEPART><LE/>
+<TITLEPART type="desc">Uebersetzt von <AUCTOR type="translator"><C>Marie Lang</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Georg Eekhoud</AUCTOR><AUCTOR type="translator">Marie Lang</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>34</rn>
+   <author>Eekhoud, Georg</author>
+   <title>Die Unterrichtsstunde</title>
+   <issue>19</issue>
+   <page>736</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0031</contDocID>
+   <target>WR-02-02-19_n0736.xml#//TITLE[@titleID='tiID_2433_00104']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00237</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-19_n0744.xml#//DIV_END[@divEndID='deID_2433_00235']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00104"><TITLEPART type="main">DIE UNTERRICHTSSTUNDE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>GEORGES EEKHOUD</AUCTOR> (Brüssel).*)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>GEORGES EEKHOUD</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>35</rn>
+   <author>Egidy, M. von</author>
+   <title>»Ohne alle Opportunitäten« </title>
+   <issue>9</issue>
+   <page>353</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0032</contDocID>
+   <target>WR-02-01-09_n0353.xml#//TITLE[@titleID='tiID_2432_00116']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00542</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0356.xml#//DIV_END[@divEndID='deID_2432_00541']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00116"><TITLEPART type="main">»OHNE ALLE OPPORTUNITÄTEN.«</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>M. von Egidy</C></AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>M. von Egidy</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>36</rn>
+   <author>Emerson</author>
+   <title>Aus dem Tagebuch</title>
+   <issue>9</issue>
+   <page>333</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0033</contDocID>
+   <target>WR-02-01-09_n0333.xml#//TITLE[@titleID='tiID_2432_00109']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00531</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0337.xml#//DIV_END[@divEndID='deID_2432_00532']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00109"><TITLEPART type="main">AUS EMERSON’S TAGEBUCH.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Mitgetheilt von <AUCTOR>seinem Sohne</AUCTOR>,<SUP>1</SUP>)</TITLEPART> <TITLEPART type="desc">übersetzt von <AUCTOR type="translator"><C>Dr. Carl Federn</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>seinem Sohne</AUCTOR><AUCTOR type="translator">Dr. Carl Federn</AUCTOR><AUCTOR>Uebersetzers</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>37</rn>
+   <author>Emerson</author>
+   <title>Aus dem Tagebuch</title>
+   <issue>15</issue>
+   <page>561</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0034</contDocID>
+   <target>WR-02-02-15_n0561.xml#//TITLE[@titleID='tiID_2433_00035']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00040</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0564.xml#//DIV_END[@divEndID='deID_2433_00039']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00035"><TITLEPART type="main"><SPC>AUS EMERSONS TAGEBUCH</SPC>.</TITLEPART><LE/>
+<TITLEPART type="desc">Mitgetheilt von seinem Sohne, übersetzt von <AUCTOR type="translator"><C>Karl Federn</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR type="translator">Karl Federn</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>38</rn>
+   <author>Emerson, R. W.</author>
+   <title>Ein Vortrag </title>
+   <issue>20</issue>
+   <page>752</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0035</contDocID>
+   <target>WR-02-02-20_n0752.xml#//TITLE[@titleID='tiID_2433_00109']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00247</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-20_n0758.xml#//DIV_END[@divEndID='deID_2433_00245']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00109"><TITLEPART type="main">EIN VORTRAG VON <AUCTOR>R. W. EMERSON</AUCTOR>.*)</TITLEPART><LE/>
+<TITLEPART>ÜBER LITERARISCHE ETHIK.</TITLEPART><LE/>
+<TITLEPART type="desc">Übersetzt von <AUCTOR type="translator"><C>Wilhelm Schölermann</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>R. W. EMERSON</AUCTOR><AUCTOR type="translator">Wilhelm Schölermann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>39</rn>
+   <author>Endell, August</author>
+   <title>Der englische Einfluss im Kunstgewerbe </title>
+   <issue>18</issue>
+   <page>700</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0036</contDocID>
+   <target>WR-02-02-18_n0700.xml#//TITLE[@titleID='tiID_2433_00080']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00214</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-18_n0704.xml#//DIV_END[@divEndID='deID_2433_00212']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00080"><TITLEPART type="main">DER ENGLISCHE EINFLUSS IM KUNSTGEWERBE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>AUGUST ENDELL</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>AUGUST ENDELL</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>40</rn>
+   <author>Ferri, Professor Enrico</author>
+   <title>Die psycho-anthropologischen Typen der Verbrecherwelt </title>
+   <issue>4</issue>
+   <page>133</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0037</contDocID>
+   <target>WR-02-01-04_n0133.xml#//TITLE[@titleID='tiID_2432_00053']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00232</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-04_n0142.xml#//DIV_END[@divEndID='deID_2432_00233']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00053"><TITLEPART type="main">DIE PSYCHO-ANTHROPOLOGISCHEN TYPEN<LE/>
+DER VERBRECHERWELT.</TITLEPART><LE/>
+<TITLEPART type="bystmt"><SPC>Von Professor</SPC> <AUCTOR><C><SPC>Enrico Ferri</SPC></C></AUCTOR> (Fiesole).</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Wilhelm Thal</C></AUCTOR></TITLEPART>.</TITLE></targetTitle>
+   <auctores><AUCTOR>Enrico Ferri</AUCTOR><AUCTOR type="translator">Wilhelm Thal</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>41</rn>
+   <author>Fidus, Karl</author>
+   <title>Wilhelm Diefenbach </title>
+   <issue>19</issue>
+   <page>733</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0038</contDocID>
+   <target>WR-02-02-19_n0733.xml#//TITLE[@titleID='tiID_2433_00103']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00236</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-19_n0735.xml#//DIV_END[@divEndID='deID_2433_00234']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00103"><TITLEPART type="main">KARL WILHELM DIEFENBACH.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>FIDUS</AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>FIDUS</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>42</rn>
+   <author>Fuchs, Georg</author>
+   <title>Der Herbst </title>
+   <issue>1</issue>
+   <page>1</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0039</contDocID>
+   <target>WR-02-01-01_n0001.xml#//TITLE[@titleID='tiID_2432_00009']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00005</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-01_n0005.xml#//DIV_END[@divEndID='deID_2432_00017']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00009"><TITLEPART type="main">DER HERBST.</TITLEPART><LE/>
+<TITLEPART type="desc">Ein Triptychon.</TITLEPART><LE/>
+<TITLEPART type="bystmt"><SPC>Von <AUCTOR><C>Georg Fuchs</C></AUCTOR></SPC>(<SPC>München</SPC>).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Georg Fuchs</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>43</rn>
+   <author>Garborg, Arne</author>
+   <title>Wie Jonas Lie lebt und dichtet </title>
+   <issue>8
+</issue>
+   <page>322</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0040</contDocID>
+   <target>WR-02-01-09_n0321.xml#//TITLE[@titleID='tiID_2432_00107']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00502</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0327.xml#//DIV_END[@divEndID='deID_2432_00501']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00107"><TITLEPART type="main"><SPC>WIE JONAS LIE LEBT UND DICHTET</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Arne Garborg</C></AUCTOR> (Hvalstad).</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Marie Herzfeld</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Arne Garborg</AUCTOR><AUCTOR type="translator">Marie Herzfeld</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>44</rn>
+   <author>Garborg, Arne</author>
+   <title>Wie Jonas Lie lebt und dichtet </title>
+   <issue>
+10</issue>
+   <page>361</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0040</contDocID>
+   <target>WR-02-01-10_n0361.xml#//TITLE[@titleID='tiID_2432_00118']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00554</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0367.xml#//DIV_END[@divEndID='deID_2432_00554']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00118"><TITLEPART type="main"><SPC>WIE JONAS LIE LEBT UND DICHTET</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Arne Garborg</C></AUCTOR> (Hvalstad bei Christiania).</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Marie Herzfeld</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART>(Schluss.)</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Arne Garborg</AUCTOR><AUCTOR type="translator">Marie Herzfeld</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>45</rn>
+   <author>Garde, Arnold</author>
+   <title>Im Café</title>
+   <issue>1</issue>
+   <page>6</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0041</contDocID>
+   <target>WR-02-01-01_n0006.xml#//TITLE[@titleID='tiID_2432_00015']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00019</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-01_n0007.xml#//DIV_END[@divEndID='deID_2432_00018']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00015"><TITLEPART type="main">IM CAFÉ.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Arnold Garde</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Arnold Garde</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>46</rn>
+   <author>Gemberg, Adine</author>
+   <title>Gold </title>
+   <issue>6</issue>
+   <page>201</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0042</contDocID>
+   <target>WR-02-01-06_n0201.xml#//TITLE[@titleID='tiID_2432_00069']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00266</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0210.xml#//DIV_END[@divEndID='deID_2432_00265']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00069"><TITLEPART type="main">GOLD.</TITLEPART><LE/>
+<TITLEPART type="desc">Novelle von <AUCTOR><C>Adine Gemberg</C></AUCTOR> (Wittenberg).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Adine Gemberg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>47</rn>
+   <author>Graf, Dr. Max</author>
+   <title>Das Wiener Couplet </title>
+   <issue>21</issue>
+   <page>797</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0043</contDocID>
+   <target>WR-02-02-21_n0797.xml#//TITLE[@titleID='tiID_2433_00129']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00273</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0800.xml#//DIV_END[@divEndID='deID_2433_00273']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00129"><TITLEPART type="main"><SPC>DAS WIENER COUPLET</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR>MAX GRAF</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAX GRAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>48</rn>
+   <author>Graf, Dr. Max</author>
+   <title>Tristan-Notizen</title>
+   <issue>24</issue>
+   <page>934</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0044</contDocID>
+   <target>WR-02-02-24_n0934.xml#//TITLE[@titleID='tiID_2433_00190']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00617</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-24_n0938.xml#//DIV_END[@divEndID='deID_2433_00617']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00190"><TITLEPART type="main">TRISTAN-NOTIZEN.*)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR>MAX GRAF</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAX GRAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>49</rn>
+   <author>Grossmann, Stefan</author>
+   <title>Montmartre </title>
+   <issue>3</issue>
+   <page>91</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0045</contDocID>
+   <target>WR-02-01-03_n0091.xml#//TITLE[@titleID='tiID_2432_00043']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00155</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-03_n0094.xml#//DIV_END[@divEndID='deID_2432_00154']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00043"><TITLEPART type="main">MONTMARTRE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Stefan Grossmann</C></AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Stefan Grossmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>50</rn>
+   <author>Grossmann, Stefan</author>
+   <title>Reflexionen über deutschen Stil</title>
+   <issue>4</issue>
+   <page>148</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0046</contDocID>
+   <target>WR-02-01-04_n0148.xml#//TITLE[@titleID='tiID_2432_00057']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00238</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-04_n0153.xml#//DIV_END[@divEndID='deID_2432_00239']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00057"><TITLEPART type="main">REFLEXIONEN ÜBER DEUTSCHEN STYL.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Stefan Grossmann</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Stefan Grossmann</AUCTOR><AUCTOR>Camille Mauclair</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>51</rn>
+   <author>Grossmann, Stefan</author>
+   <title>Über Agitatoren</title>
+   <issue>7</issue>
+   <page>269</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0047</contDocID>
+   <target>WR-02-01-07_n0269.xml#//TITLE[@titleID='tiID_2432_00094']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00472</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-07_n0272.xml#//DIV_END[@divEndID='deID_2432_00472']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00094"><TITLEPART type="main">ÜBER AGITATOREN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Stefan Grossmann</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Stefan Grossmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>52</rn>
+   <author>Grossmann, Stefan</author>
+   <title>Das Todesproblem und die moderne Literatur</title>
+   <issue>13</issue>
+   <page>510</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0048</contDocID>
+   <target>WR-02-02-13_n0510.xml#//TITLE[@titleID='tiID_2433_00016']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00010</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-13_n0512.xml#//DIV_END[@divEndID='deID_2433_00010']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00016"><TITLEPART type="main">DAS TODESPROBLEM UND DIE MODERNE LITERATUR.</TITLEPART><LE/>
+<TITLEPART type="desc">Aus einem Vortrage.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Stefan Grossmann</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Stefan Grossmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>53</rn>
+   <author>Grossmann, Stefan</author>
+   <title>Die verbotene »Ware«</title>
+   <issue>15</issue>
+   <page>589</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0049</contDocID>
+   <target>WR-02-02-15_n0589.xml#//TITLE[@titleID='tiID_2433_00047']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00154</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0591.xml#//DIV_END[@divEndID='deID_2433_00158']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00047"><TITLEPART>DIE VERBOTENE »WARE«.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Stefan Grossmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>54</rn>
+   <author>Grossmann, Stefan</author>
+   <title>Literarische Erwerbsverhältnisse</title>
+   <issue>20</issue>
+   <page>771</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0050</contDocID>
+   <target>WR-02-02-20_n0771.xml#//TITLE[@titleID='tiID_2433_00113']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00252</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-20_n0774.xml#//DIV_END[@divEndID='deID_2433_00252']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00113"><TITLEPART type="main">LITERARISCHE ERWERBSVERHÄLTNISSE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>STEFAN GROSSMANN</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>STEFAN GROSSMANN</AUCTOR><AUCTOR>Knut Hamsun</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>55</rn>
+   <author>Guglia, Eugen</author>
+   <title>Mitterwurzer redivivus </title>
+   <issue>12</issue>
+   <page>461</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0051</contDocID>
+   <target>WR-02-01-12_n0461.xml#//TITLE[@titleID='tiID_2432_00152']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00600</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0462.xml#//DIV_END[@divEndID='deID_2432_00599']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00152"><TITLEPART type="main">MITTERWURZER <LANG iso="la">REDIVIVUS</LANG>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Eugen Guglia</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Eugen Guglia</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>56</rn>
+   <author>Gumplowicz, Dr. Ladislas</author>
+   <title>Die »Neue Universität« in Brüssel </title>
+   <issue>11</issue>
+   <page>419</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0052</contDocID>
+   <target>WR-02-01-11_n0419.xml#//TITLE[@titleID='tiID_2432_00136']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00579</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-11_n0422.xml#//DIV_END[@divEndID='deID_2432_00578']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00136"><TITLEPART type="main">DIE »NEUE UNIVERSITÄT« IN BRÜSSEL.</TITLEPART><LE/>
+<TITLEPART>(Eine Hochschule ohne Zopf.)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <C>Dr.</C> <AUCTOR><C>Ladislaus Gumplowicz</C></AUCTOR> (Graz).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Ladislaus Gumplowicz</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>57</rn>
+   <author>Gumplowicz, Dr. Ladislas</author>
+   <title>Ein neues Buch von Karl Jentsch</title>
+   <issue>18</issue>
+   <page>692</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0053</contDocID>
+   <target>WR-02-02-18_n0692.xml#//TITLE[@titleID='tiID_2433_00078']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00212</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-18_n0694.xml#//DIV_END[@divEndID='deID_2433_00210']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00078"><TITLEPART type="main"><SPC>EIN NEUES BUCH VON KARL JENTSCH</SPC>.*)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR>LADISLAUS GUMPLOWICZ</AUCTOR> (London).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LADISLAUS GUMPLOWICZ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>58</rn>
+   <author>Gumplowicz, Dr. Ladislas</author>
+   <title>Neues von Neuseeland</title>
+   <issue>22</issue>
+   <page>851</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0054</contDocID>
+   <target>WR-02-02-22_n0851.xml#//TITLE[@titleID='tiID_2433_00149']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00295</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-22_n0853.xml#//DIV_END[@divEndID='deID_2433_00293']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00149"><TITLEPART type="main">NEUES VON NEUSEELAND.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR>LADISLAS GUMPLOWICZ</AUCTOR> (London).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LADISLAS GUMPLOWICZ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>59</rn>
+   <author>Gumplowicz, Dr. Ladislas</author>
+   <title>Oppenheimers »Siedlungsgenossenschaft«</title>
+   <issue>24</issue>
+   <page>922</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0055</contDocID>
+   <target>WR-02-02-24_n0922.xml#//TITLE[@titleID='tiID_2433_00185']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00615</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-24_n0931.xml#//DIV_END[@divEndID='deID_2433_00614']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00185"><TITLEPART type="main">OPPENHEIMERS »SIEDLUNGSGENOSSENSCHAFT«.*)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR>LADISLAS GUMPLOWICZ</AUCTOR> (London).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LADISLAS GUMPLOWICZ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>60</rn>
+   <author>Hamsun, Knut</author>
+   <title>Dichterverehrung in Skandinavien </title>
+   <issue>10</issue>
+   <page>382</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0056</contDocID>
+   <target>WR-02-01-10_n0382.xml#//TITLE[@titleID='tiID_2432_00128']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00562</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0389.xml#//DIV_END[@divEndID='deID_2432_00562']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00128"><TITLEPART type="main">DICHTERVEREHRUNG IN SKANDINAVIEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Knut Hamsun</C></AUCTOR> (Aas Station, Norwegen<SUP>1</SUP>).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Knut Hamsun</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>61</rn>
+   <author>Hamsun, Knut</author>
+   <title>Schiffer Rejersen vom »Südstern«</title>
+   <issue>14</issue>
+   <page>532</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0057</contDocID>
+   <target>WR-02-02-14_n0533.xml#//TITLE[@titleID='tiID_2433_00024']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00027</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-14_n0542.xml#//DIV_END[@divEndID='deID_2433_00026']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00024"><TITLEPART type="main">SCHIFFER REJERSEN VOM »SÜDSTERN«.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Knut Hamsun</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Einzig autorisierte Übersetzung aus dem Norwegischen von <AUCTOR type="translator"><C>E. Brausewetter</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Knut Hamsun</AUCTOR><AUCTOR type="translator">E. Brausewetter</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>62</rn>
+   <author>Hartwig, Th. J.</author>
+   <title>Der moderne Schicksalsroman </title>
+   <issue>9</issue>
+   <page>343</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0058</contDocID>
+   <target>WR-02-01-09_n0343.xml#//TITLE[@titleID='tiID_2432_00112']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00537</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0346.xml#//DIV_END[@divEndID='deID_2432_00537']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00112"><TITLEPART type="main">DER MODERNE SCHICKSALSROMAN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Th. J. Hartwig</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Th. J. Hartwig</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>63</rn>
+   <author>Hello, Ernest</author>
+   <title>Die Kritik </title>
+   <issue>7</issue>
+   <page>262</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0059</contDocID>
+   <target>WR-02-01-07_n0262.xml#//TITLE[@titleID='tiID_2432_00093']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00471</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-07_n0268.xml#//DIV_END[@divEndID='deID_2432_00470']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00093"><TITLEPART type="main">DIE KRITIK.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Ernest Hello</C></AUCTOR>.<ERR sug="1">*</ERR>)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Uebersetzt von <AUCTOR type="translator"><C>Stauf</C> V. D. <C>March</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Ernest Hello</AUCTOR><AUCTOR type="translator">Stauf V. D. March</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>64</rn>
+   <author>Hello, Ernest</author>
+   <title>Die Missachtung der Kunst</title>
+   <issue>12</issue>
+   <page>456</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0060</contDocID>
+   <target>WR-02-01-12_n0456.xml#//TITLE[@titleID='tiID_2432_00145']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00598</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0460.xml#//DIV_END[@divEndID='deID_2432_00598']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00145"><TITLEPART type="main"><SPC>DIE MISSACHTUNG DER KUNST</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Ernest Hello</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Clara Theumann</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Ernest Hello</AUCTOR><AUCTOR type="translator">Clara Theumann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>65</rn>
+   <author>Henckel, W.</author>
+   <title>Graf Leo Tolstoi und die Duchoborzen</title>
+   <issue>1</issue>
+   <page>11</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0061</contDocID>
+   <target>WR-02-01-01_n0011.xml#//TITLE[@titleID='tiID_2432_00017']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00021</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-01_n0018.xml#//DIV_END[@divEndID='deID_2432_00023']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00017"><TITLEPART type="main">GRAF LEO TOLSTOJ UND DIE DUCHOBORZEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>W. Henckel</C></AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>W. Henckel</AUCTOR><AUCTOR>Leo Tolstoj</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>66</rn>
+   <author>Henckel, W.</author>
+   <title>In der Christnacht</title>
+   <issue>2</issue>
+   <page>41</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0062</contDocID>
+   <target>WR-02-01-02_n0041.xml#//TITLE[@titleID='tiID_2432_00024']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00039</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-02_n0046.xml#//DIV_END[@divEndID='deID_2432_00038']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00024"><TITLEPART type="main">IN DER CHRISTNACHT.</TITLEPART><LE/>
+<TITLEPART type="desc">Nach <SOURCE><C>Anton Tschechow</C></SOURCE></TITLEPART> <TITLEPART type="bystmt">von <AUCTOR><C>W. Henckel</C></AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>W. Henckel</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>67</rn>
+   <author>Henckell, Karl</author>
+   <title>Stiller Festzug </title>
+   <issue>12</issue>
+   <page>470</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0063</contDocID>
+   <target>WR-02-01-12_n0470.xml#//TITLE[@titleID='tiID_2432_00155']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00603</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-01-12_n0470.xml#//DIV_END[@divEndID='deID_2432_00602']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00155"><TITLEPART>STILLER FESTZUG.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Carl Henckell</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>68</rn>
+   <author>Hirschfeld, Georg</author>
+   <title>Riesengebirge </title>
+   <issue>16</issue>
+   <page>628</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0064</contDocID>
+   <target>WR-02-02-16_n0628.xml#//TITLE[@titleID='tiID_2433_00056']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00179</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-16_n0629.xml#//DIV_END[@divEndID='deID_2433_00180']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00056"><TITLEPART><SPC>RIESENGEBIRGE</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>GEORG HIRSCHFELD</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>69</rn>
+   <author>Hirschfeld, Georg</author>
+   <title>Dichter</title>
+   <issue>16</issue>
+   <page>630</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0065</contDocID>
+   <target>WR-02-02-16_n0630.xml#//TITLE[@titleID='tiID_2433_00059']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00182</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-16_n0630.xml#//DIV_END[@divEndID='deID_2433_00181']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00059"><TITLEPART><SPC>DICHTER</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>GEORG HIRSCHFELD</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>70</rn>
+   <author>Hoffmann, Nina</author>
+   <title>Th. M. Dostojewsky über Strafprocesse</title>
+   <issue>5
+</issue>
+   <page>180</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0066</contDocID>
+   <target>WR-02-01-05_n0180.xml#//TITLE[@titleID='tiID_2432_00065']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00253</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-05_n0189.xml#//DIV_END[@divEndID='deID_2432_00258']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00065"><TITLEPART type="main">TH. M. DOSTOJEWSKY ÜBER STRAFPROCESSE.<SUP>1</SUP>)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Nina Hoffmann</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Nina Hoffmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>71</rn>
+   <author>Hoffmann, Nina</author>
+   <title>Th. M. Dostojewsky über Strafprocesse</title>
+   <issue>
+6</issue>
+   <page>216</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0066</contDocID>
+   <target>WR-02-01-06_n0216.xml#//TITLE[@titleID='tiID_2432_00071']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00268</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0223.xml#//DIV_END[@divEndID='deID_2432_00271']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00071"><TITLEPART type="main">TH. M. DOSTOJEWSKY ÜBER STRAFPROCESSE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Nina Hoffmann</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART>(Fortsetzung.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Nina Hoffmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>72</rn>
+   <author>Hoffmann, Nina</author>
+   <title>Th. M. Dostojewsky über Strafprocesse</title>
+   <issue>
+7</issue>
+   <page>256</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0066</contDocID>
+   <target>WR-02-01-07_n0255.xml#//TITLE[@titleID='tiID_2432_00091']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00462</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-07_n0260.xml#//DIV_END[@divEndID='deID_2432_00468']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00091"><TITLEPART type="main">TH. M. DOSTOJEWSKY ÜBER STRAFPROCESSE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Nina Hoffmann</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART>(Schluss.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Nina Hoffmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>73</rn>
+   <author>Hofmannsthal, Hugo v.</author>
+   <title>Idylle</title>
+   <issue>9</issue>
+   <page>328</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0067</contDocID>
+   <target>WR-02-01-09_n0328.xml#//TITLE[@titleID='tiID_2432_00108']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00503</divStartID>
+   <divType>performance</divType>
+   <divEndPtr>WR-02-01-09_n0332.xml#//DIV_END[@divEndID='deID_2432_00529']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00108"><TITLEPART type="main">IDYLLE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Hugo</C> V. <C>Hofmannsthal</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART><SPC>Nach einem antiken Vasenbild</SPC>: <SPC>Centaur mit verwundeter<LE/>
+Frau am Rand eines Flusses</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Hugo V. Hofmannsthal</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>74</rn>
+   <author>Hofmannsthal, Hugo v.</author>
+   <title>Verse zum Gedächtnis eines Schauspielers</title>
+   <issue>11</issue>
+   <page>454</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0068</contDocID>
+   <target>WR-02-01-12_n0454.xml#//TITLE[@titleID='tiID_2432_00144']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00597</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-01-12_n0455.xml#//DIV_END[@divEndID='deID_2432_00596']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00144"><TITLEPART>VERSE ZUM GEDÄCHTNISS EINES SCHAUSPIELERS.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Hugo von Hofmannsthal</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>75</rn>
+   <author>Hofmannsthal, Hugo v.</author>
+   <title>Gedichte</title>
+   <issue>21</issue>
+   <page>788</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0069</contDocID>
+   <target>WR-02-02-21_n0788.xml#//TITLE[@titleID='tiID_2433_00125']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00269</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0789.xml#//DIV_END[@divEndID='deID_2433_00269']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00125"><TITLEPART>GEDICHTE VON <AUCTOR>HUGO VON HOFMANNSTHAL</AUCTOR>.<LE/>
+(Wien.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>GABRIELE D’ANNUNZIO</AUCTOR><AUCTOR type="translator">Hermann Ubell</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>76</rn>
+   <author>Holitscher, Arthur</author>
+   <title>Die Nebel wallen </title>
+   <issue>4</issue>
+   <page>146</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0070</contDocID>
+   <target>WR-02-01-04_n0146.xml#//TITLE[@titleID='tiID_2432_00055']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00236</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-01-04_n0146.xml#//DIV_END[@divEndID='deID_2432_00235']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00055"><TITLEPART>DIE NEBEL WALLEN.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Arthur Holitscher</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>77</rn>
+   <author>Holitscher, Arthur</author>
+   <title>Im Garten</title>
+   <issue>7</issue>
+   <page>254</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0071</contDocID>
+   <target>WR-02-01-07_n0254.xml#//TITLE[@titleID='tiID_2432_00090']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00461</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-01-07_n0254.xml#//DIV_END[@divEndID='deID_2432_00460']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00090"><TITLEPART>IM GARTEN.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Arthur Holitscher</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>78</rn>
+   <author>Huch, Ricarda</author>
+   <title>Die Maiwiese </title>
+   <issue>16</issue>
+   <page>601</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0072</contDocID>
+   <target>WR-02-02-16_n0601.xml#//TITLE[@titleID='tiID_2433_00052']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00173</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-16_n0615.xml#//DIV_END[@divEndID='deID_2433_00172']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00052"><TITLEPART type="main"><SPC>DIE MAIWIESE</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>RICARDA HUCH</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>RICARDA HUCH</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>79</rn>
+   <author>Ibsen, Dr. Sigurd</author>
+   <title>Nationales Königthum </title>
+   <issue>24</issue>
+   <page>916</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0073</contDocID>
+   <target>WR-02-02-24_n0916.xml#//TITLE[@titleID='tiID_2433_00180']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00613</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-24_n0920.xml#//DIV_END[@divEndID='deID_2433_00612']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00180"><TITLEPART type="main">NATIONALES KÖNIGTHUM.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR>SIGURD IBSEN</AUCTOR> (Christiania).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>SIGURD IBSEN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>80</rn>
+   <author>Johnsen, Rosenkrantz</author>
+   <title>Finken Helm </title>
+   <issue>12</issue>
+   <page>463</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0074</contDocID>
+   <target>WR-02-01-12_n0463.xml#//TITLE[@titleID='tiID_2432_00153']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00601</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0467.xml#//DIV_END[@divEndID='deID_2432_00600']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00153"><TITLEPART type="main">FINKEN HELM.</TITLEPART><LE/>
+<TITLEPART type="desc">Novellette von <AUCTOR><C>Rosenkrantz Johnsen</C></AUCTOR>.<LE/>
+Einzig autorisirte Uebersetzung von <AUCTOR type="translator"><C>E. Brausewetter</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Rosenkrantz Johnsen</AUCTOR><AUCTOR type="translator">E. Brausewetter</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>81</rn>
+   <author>Jostenoode, Harold Arjuna van</author>
+   <title>Der Hunger nach Kunst </title>
+   <issue>15</issue>
+   <page>566</page>
+   <contDoc>WR-02-01-00_i0004.xml</contDoc>
+   <contDocID>0075</contDocID>
+   <target>WR-02-02-15_n0566.xml#//TITLE[@titleID='tiID_2433_00037']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00042</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0571.xml#//DIV_END[@divEndID='deID_2433_00041']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00037"><TITLEPART type="main">DER HUNGER NACH KUNST.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>HAROLD ARJUNA VON JOSTENOODE</AUCTOR> (Brüssel).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HAROLD ARJUNA VON JOSTENOODE</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>82</rn>
+   <author>Schik, F.</author>
+   <title>Der Kampf der Schwachen gegen die Schwachen </title>
+   <issue>1</issue>
+   <page>36</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0123</contDocID>
+   <target>WR-02-01-01_n0036.xml#//TITLE[@titleID='tiID_2432_00022']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00030</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-01_n0037.xml#//DIV_END[@divEndID='deID_2432_00029']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00022"><TITLEPART type="main">DER KAMPF DER SCHWACHEN GEGEN DIE<LE/>
+SCHWACHEN.</TITLEPART><LE/>
+<TITLEPART>(<SPC>Zur politischen Situation</SPC>.)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>F. Schik</C></AUCTOR> <ERR sug="(Wien).">(Wien.)</ERR></TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>83</rn>
+   <author>Schik, F.</author>
+   <title>Das politische Wien</title>
+   <issue>2</issue>
+   <page>76</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0124</contDocID>
+   <target>WR-02-01-02_n0076.xml#//TITLE[@titleID='tiID_2432_00039']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00050</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-02_n0077.xml#//DIV_END[@divEndID='deID_2432_00049']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00039"><TITLEPART type="main">DAS POLITISCHE WIEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>F. Schik</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>84</rn>
+   <author>Schik, F.</author>
+   <title>Österreichische Logik</title>
+   <issue>3</issue>
+   <page>116</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0125</contDocID>
+   <target>WR-02-01-03_n0116.xml#//TITLE[@titleID='tiID_2432_00049']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00218</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-03_n0116.xml#//DIV_END[@divEndID='deID_2432_00217']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00049"><TITLEPART type="main">ÖSTERREICHISCHE LOGIK.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>F. Schik</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>85</rn>
+   <author>Schik, F.</author>
+   <title>Zur Burgtheaterkrise</title>
+   <issue>4</issue>
+   <page>154</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0126</contDocID>
+   <target>WR-02-01-04_n0154.xml#//TITLE[@titleID='tiID_2432_00060']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00241</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-04_n0157.xml#//DIV_END[@divEndID='deID_2432_00240']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00060"><TITLEPART type="main">ZUR BURGTHEATERKRISE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>F. Schik</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>86</rn>
+   <author>Schik, F.</author>
+   <title>Ibsen</title>
+   <issue>9</issue>
+   <page>351</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0127</contDocID>
+   <target>WR-02-01-09_n0351.xml#//TITLE[@titleID='tiID_2432_00115']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00541</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0352.xml#//DIV_END[@divEndID='deID_2432_00540']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00115"><TITLEPART type="main"><SPC>IBSEN</SPC>.</TITLEPART><LE/>
+<TITLEPART type="main">Von <AUCTOR><C>F. Schik</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>87</rn>
+   <author>Schik, F.</author>
+   <title>Ibsen auf Wiener Bühnen</title>
+   <issue>10</issue>
+   <page>394</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0128</contDocID>
+   <target>WR-02-01-10_n0394.xml#//TITLE[@titleID='tiID_2432_00130']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00565</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0397.xml#//DIV_END[@divEndID='deID_2432_00565']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00130"><TITLEPART type="main">IBSEN AUF WIENER BÜHNEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>F. Schik</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR><AUCTOR>Henrik Ibsen</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>88</rn>
+   <author>Schik, F.</author>
+   <title>Das organisierte Theaterpublicum</title>
+   <issue>12</issue>
+   <page>466</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0129</contDocID>
+   <target></target>
+   <secTitle></secTitle>
+   <divStartID></divStartID>
+   <divType></divType>
+   <divEndPtr></divEndPtr>
+   <targetTitle></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>89</rn>
+   <author>Schik, F.</author>
+   <title>Die Probezeit des Burgtheater-Directors</title>
+   <issue>15</issue>
+   <page>592</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0130</contDocID>
+   <target>WR-02-02-15_n0592.xml#//TITLE[@titleID='tiID_2433_00048']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00160</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0594.xml#//DIV_END[@divEndID='deID_2433_00159']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00048"><TITLEPART type="main">DIE PROBEZEIT DES BURGTHEATER-DIRECTORS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>F. SCHIK</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. SCHIK</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>90</rn>
+   <author>Schik, F.</author>
+   <title>Wiener Freie Bühne</title>
+   <issue>17</issue>
+   <page>641</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0131</contDocID>
+   <target>WR-02-02-17_n0641.xml#//TITLE[@titleID='tiID_2433_00066']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00194</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-17_n0642.xml#//DIV_END[@divEndID='deID_2433_00193']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00066"><TITLEPART><SPC>WIENER FREIE BÜHNE</SPC>.*)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>91</rn>
+   <author>Schik, F.</author>
+   <title>Bismarck</title>
+   <issue>19</issue>
+   <page>713</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0132</contDocID>
+   <target>WR-02-02-19_n0713.xml#//TITLE[@titleID='tiID_2433_00088']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00224</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-19_n0715.xml#//DIV_END[@divEndID='deID_2433_00222']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00088"><TITLEPART type="main"><SPC>BISMARCK</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>F. SCHIK</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. SCHIK</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>92</rn>
+   <author>Schik, F.</author>
+   <title>Bismarck-Socialdemokraten</title>
+   <issue>20</issue>
+   <page>749</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0133</contDocID>
+   <target>WR-02-02-20_n0749.xml#//TITLE[@titleID='tiID_2433_00108']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00246</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-20_n0751.xml#//DIV_END[@divEndID='deID_2433_00244']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00108"><TITLEPART type="main"><SPC>BISMARCK</SPC>-<SPC>SOCIALDEMOKRATEN</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>F. SCHIK</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. SCHIK</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>93</rn>
+   <author>Schmidt, Karl Eugen</author>
+   <title>Ein französischer Caricaturist: Charles Léandre</title>
+   <issue>21</issue>
+   <page>810</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0134</contDocID>
+   <target>WR-02-02-21_n0810.xml#//TITLE[@titleID='tiID_2433_00132']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00279</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0812.xml#//DIV_END[@divEndID='deID_2433_00277']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00132"><TITLEPART type="main">EIN FRANZÖSISCHER CARICATURIST:<LE/>
+CHARLES LÉANDRE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>KARL EUGEN SCHMIDT</AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>KARL EUGEN SCHMIDT</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>94</rn>
+   <author>Schmitt, Dr. Eugen Heinrich</author>
+   <title>Die Nazarener </title>
+   <issue>14</issue>
+   <page>521</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0135</contDocID>
+   <target>WR-02-02-14_n0521.xml#//TITLE[@titleID='tiID_2433_00021']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00024</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-14_n0528.xml#//DIV_END[@divEndID='deID_2433_00023']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00021"><TITLEPART type="main"><SPC>DIE NAZARENER</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <C>Dr. <AUCTOR>Eugen Heinrich Schmitt</AUCTOR></C> (Budapest).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Eugen Heinrich Schmitt</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>95</rn>
+   <author>Schmitt, Dr. Eugen Heinrich</author>
+   <title>Zur Kritik des Marxismus</title>
+   <issue>17</issue>
+   <page>643</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0136</contDocID>
+   <target>WR-02-02-17_n0643.xml#//TITLE[@titleID='tiID_2433_00067']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00195</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-17_n0650.xml#//DIV_END[@divEndID='deID_2433_00194']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00067"><TITLEPART type="main">ZUR KRITIK DES MARXISMUS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR>EUGEN HEINRICH SCHMITT</AUCTOR> (Budapest).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>EUGEN HEINRICH SCHMITT</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>96</rn>
+   <author>Schmitt, Dr. Eugen Heinrich</author>
+   <title>Der Entwicklungsgang Leo Tolstois</title>
+   <issue>21</issue>
+   <page>790</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0137</contDocID>
+   <target>WR-02-02-21_n0790.xml#//TITLE[@titleID='tiID_2433_00128']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00272</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0796.xml#//DIV_END[@divEndID='deID_2433_00270']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00128"><TITLEPART type="main">DER ENTWICKLUNGSGANG LEO TOLSTOIS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR>EUGEN HEINRICH SCHMITT</AUCTOR> (Budapest).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>EUGEN HEINRICH SCHMITT</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>97</rn>
+   <author>Schmitz, Oskar A. H.</author>
+   <title>Mittagstraum der Wandernden </title>
+   <issue>1</issue>
+   <page>27</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0138</contDocID>
+   <target>WR-02-01-01_n0027.xml#//TITLE[@titleID='tiID_2432_00019']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00026</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-01-01_n0027.xml#//DIV_END[@divEndID='deID_2432_00025']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00019"><TITLEPART>MITTAGSTRAUM DER WANDERNDEN.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Oscar A. H. Schmitz</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>98</rn>
+   <author>Schmitz, Oskar A. H.</author>
+   <title>Eine Madonna von Murillo</title>
+   <issue>4</issue>
+   <page>147</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0139</contDocID>
+   <target>WR-02-01-04_n0147.xml#//TITLE[@titleID='tiID_2432_00056']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00237</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-01-04_n0147.xml#//DIV_END[@divEndID='deID_2432_00236']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00056"><TITLEPART>EINE MADONNA VON MURILLO.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Oscar A. H. Schmitz</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>99</rn>
+   <author>Schmitz, Oskar A. H.</author>
+   <title>Die Intellectuellen«</title>
+   <issue>10</issue>
+   <page>390</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0140</contDocID>
+   <target>WR-02-01-10_n0390.xml#//TITLE[@titleID='tiID_2432_00129']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00564</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0393.xml#//DIV_END[@divEndID='deID_2432_00563']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00129"><TITLEPART type="main">»DIE INTELLECTUELLEN.«</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Oscar A. H. Schmitz</C></AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Oscar A. H. Schmitz</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>100</rn>
+   <author>Schmitz, Oskar A. H.</author>
+   <title>Paniscus</title>
+   <issue>18</issue>
+   <page>695</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0141</contDocID>
+   <target>WR-02-02-18_n0695.xml#//TITLE[@titleID='tiID_2433_00079']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00213</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-02-18_n0699.xml#//DIV_END[@divEndID='deID_2433_00211']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00079"><TITLEPART><SPC>PANISCUS</SPC>.</TITLEPART><LE/>
+<TITLEPART type="dedication"><LANG iso="la">Hunc lucum tibi dedico, consecroque Priape!</LANG></TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>OSCAR A. H. SCHMITZ</AUCTOR> (Lugano).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>OSCAR A. H. SCHMITZ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>101</rn>
+   <author>Schölermann, Wilhelm</author>
+   <title>Burne-Jones</title>
+   <issue>16</issue>
+   <page>616</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0142</contDocID>
+   <target>WR-02-02-16_n0616.xml#//TITLE[@titleID='tiID_2433_00053']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00174</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-16_n0619.xml#//DIV_END[@divEndID='deID_2433_00173']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00053"><TITLEPART type="main"><SPC>BURNE</SPC>-<SPC>JONES</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>WILHELM SCHÖLERMANN</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>WILHELM SCHÖLERMANN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>102</rn>
+   <author>Schölermann, Wilhelm</author>
+   <title>Rops</title>
+   <issue>20</issue>
+   <page>759</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0143</contDocID>
+   <target>WR-02-02-20_n0759.xml#//TITLE[@titleID='tiID_2433_00110']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00248</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-20_n0762.xml#//DIV_END[@divEndID='deID_2433_00247']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00110"><TITLEPART type="main"><SPC>ROPS</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>WILHELM SCHÖLERMANN</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>WILHELM SCHÖLERMANN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>103</rn>
+   <author>Schölermann, Wilhelm</author>
+   <title>Künstlerhaus</title>
+   <issue>24</issue>
+   <page>941</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0144</contDocID>
+   <target>WR-02-02-24_n0941.xml#//TITLE[@titleID='tiID_2433_00192']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00620</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-24_n0943.xml#//DIV_END[@divEndID='deID_2433_00619']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00192"><TITLEPART type="main"><SPC>KÜNSTLERHAUS</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>WILHELM SCHÖLERMANN</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>WILHELM SCHÖLERMANN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>104</rn>
+   <author>Schoenaich, Gustav</author>
+   <title>Richard Wagners »Meistersinger von Nürnberg« in Paris </title>
+   <issue>2</issue>
+   <page>72</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0145</contDocID>
+   <target>WR-02-01-02_n0072.xml#//TITLE[@titleID='tiID_2432_00038']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00049</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-02_n0075.xml#//DIV_END[@divEndID='deID_2432_00048']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00038"><TITLEPART type="main">RICHARD WAGNER’S »MEISTERSINGER VON <HYPH1 cont="NÜRNBERG">NÜRN-</HYPH1><LE/>
+<HYPH2>BERG</HYPH2>« IN PARIS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Gustav Schoenaich</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Gustav Schoenaich</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>105</rn>
+   <author>Schoenaich, Gustav</author>
+   <title>Wiener Kunstfrühling </title>
+   <issue>11
+</issue>
+   <page>433</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0146</contDocID>
+   <target>WR-02-01-11_n0433.xml#//TITLE[@titleID='tiID_2432_00139']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00582</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-11_n0436.xml#//DIV_END[@divEndID='deID_2432_00581']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00139"><TITLEPART type="main"><SPC>WIENER KUNSTFRÜHLING</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Gustav Schoenaich</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Gustav Schoenaich</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>106</rn>
+   <author>Schoenaich, Gustav</author>
+   <title>Wiener Kunstfrühling </title>
+   <issue>
+12</issue>
+   <page>471</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0146</contDocID>
+   <target>WR-02-01-12_n0471.xml#//TITLE[@titleID='tiID_2432_00156']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00604</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0475.xml#//DIV_END[@divEndID='deID_2432_00603']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00156"><TITLEPART type="main"><SPC>WIENER KUNSTFRÜHLING</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Gustav Schoenaich</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Gustav Schoenaich</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>107</rn>
+   <author>Scholz, Wilhelm von</author>
+   <title>Nächtlicher Weg </title>
+   <issue>5</issue>
+   <page>190</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0147</contDocID>
+   <target>WR-02-01-05_n0190.xml#//TITLE[@titleID='tiID_2432_00066']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00260</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-01-05_n0190.xml#//DIV_END[@divEndID='deID_2432_00259']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00066"><TITLEPART>NÄCHTLICHER WEG.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Wilhelm von Scholz</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>108</rn>
+   <author>Smital, Anton</author>
+   <title>Im Märzenschnee</title>
+   <issue>11</issue>
+   <page>414</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0148</contDocID>
+   <target>WR-02-01-11_n0414.xml#//TITLE[@titleID='tiID_2432_00135']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00578</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-11_n0418.xml#//DIV_END[@divEndID='deID_2432_00577']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00135"><TITLEPART type="main"><SPC>IM MÄRZENSCHNEE</SPC>.<SUP>1</SUP>)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Anton Smital</C></AUCTOR> (<SYMBOL type="died"/>).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Anton Smital</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>109</rn>
+   <author>Spohr, Wilhelm</author>
+   <title>Multatuli</title>
+   <issue>8</issue>
+   <page>312</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0149</contDocID>
+   <target>WR-02-01-08_n0312.xml#//TITLE[@titleID='tiID_2432_00105']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00493</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-08_n0316.xml#//DIV_END[@divEndID='deID_2432_00492']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00105"><TITLEPART type="main">MULTATULI.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Wilhelm Spohr</C></AUCTOR> (Friedrichshagen).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Wilhelm Spohr</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>110</rn>
+   <author>Spohr, Wilhelm</author>
+   <title>Fidus</title>
+   <issue>14</issue>
+   <page>554</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0150</contDocID>
+   <target>WR-02-02-14_n0554.xml#//TITLE[@titleID='tiID_2433_00031']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00030</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-14_n0557.xml#//DIV_END[@divEndID='deID_2433_00029']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00031"><TITLEPART type="main"><SPC>FIDUS</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Wilhelm Spohr</C></AUCTOR> (Friedrichshagen).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Wilhelm Spohr</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>111</rn>
+   <author>Spohr, Wilhelm</author>
+   <title>Fidus</title>
+   <issue>
+15</issue>
+   <page>575</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0150</contDocID>
+   <target>WR-02-02-15_n0575.xml#//TITLE[@titleID='tiID_2433_00043']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00048</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0578.xml#//DIV_END[@divEndID='deID_2433_00047']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00043"><TITLEPART type="main"><SPC>FIDUS</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>WILHELM SPOHR</AUCTOR> (Friedrichshagen).</TITLEPART><LE/>
+<TITLEPART>(Schluss.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Wilhelm Spohr</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>112</rn>
+   <author>Ssologub, Fjodor</author>
+   <title>Ljoljetschka</title>
+   <issue>13</issue>
+   <page>496</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0151</contDocID>
+   <target>WR-02-02-13_n0496.xml#//TITLE[@titleID='tiID_2433_00003']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00005</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-13_n0504.xml#//DIV_END[@divEndID='deID_2433_00004']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00003"><TITLEPART type="main">LJOLJETSCHKA.</TITLEPART><LE/>
+<TITLEPART type="desc">Erzählung von <AUCTOR><C>Fjodor Ssologub</C></AUCTOR>.<LE/>
+Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Klara Brauner</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Fjodor Ssologub</AUCTOR><AUCTOR type="translator">Klara Brauner</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>113</rn>
+   <author>Ssologub, Fjodor</author>
+   <title>Weltgefühl</title>
+   <issue>20</issue>
+   <page>774</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0152</contDocID>
+   <target>WR-02-02-20_n0774.xml#//TITLE[@titleID='tiID_2433_00114']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00255</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-02-20_n0774.xml#//DIV_END[@divEndID='deID_2433_00253']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00114"><TITLEPART type="main">WELTGEFÜHL.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>FJODOR SSOLOGUB</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>FJODOR SSOLOGUB</AUCTOR><AUCTOR type="translator">Alexander Brauner</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>114</rn>
+   <author>Steinbach, Josef</author>
+   <title>Ein Märtyrer der Literatur</title>
+   <issue>6</issue>
+   <page>224</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0153</contDocID>
+   <target>WR-02-01-06_n0224.xml#//TITLE[@titleID='tiID_2432_00072']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00273</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0229.xml#//DIV_END[@divEndID='deID_2432_00274']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00072"><TITLEPART type="main">EIN MÄRTYRER DER LITERATUR.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Josef Steinbach</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Josef Steinbach</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>115</rn>
+   <author>Stirner, Max</author>
+   <title>Ein ausgegrabener Essay</title>
+   <issue>8</issue>
+   <page>281</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0154</contDocID>
+   <target>WR-02-01-08_n0281.xml#//TITLE[@titleID='tiID_2432_00099']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00486</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-08_n0291.xml#//DIV_END[@divEndID='deID_2432_00485']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00099"><TITLEPART type="desc">EIN AUSGEGRABENER ESSAY.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Max Stirner</C></AUCTOR>.<SUP>1</SUP>)</TITLEPART><LE/>
+<TITLEPART type="main">Ueber die »<C>Mysterien von Paris</C>« von <C>Eugen Sue</C>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Max Stirner</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>116</rn>
+   <author>Strindberg, Frieda</author>
+   <title>Jung-Münchens Kunst</title>
+   <issue>5</issue>
+   <page>191</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0155</contDocID>
+   <target>WR-02-01-05_n0191.xml#//TITLE[@titleID='tiID_2432_00067']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00261</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-05_n0196.xml#//DIV_END[@divEndID='deID_2432_00260']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00067"><TITLEPART type="main">JUNG-MÜNCHENS KUNST.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C><SPC>Frieda Strindberg</SPC></C></AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Frieda Strindberg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>117</rn>
+   <author>Tetmajer, Kazimir</author>
+   <title>Vision</title>
+   <issue>3</issue>
+   <page>81</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0156</contDocID>
+   <target>WR-02-01-03_n0081.xml#//TITLE[@titleID='tiID_2432_00041']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00058</divStartID>
+   <divType>performance</divType>
+   <divEndPtr>WR-02-01-03_n0088.xml#//DIV_END[@divEndID='deID_2432_00152']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00041"><TITLEPART type="main"><SPC>VISION</SPC>.</TITLEPART><LE/>
+<TITLEPART type="desc">Dramatische Phantasie von <AUCTOR><C>Kazimir Tetmajer</C></AUCTOR>.<LE/>
+Deutsch von <AUCTOR type="translator"><C>Leonhard Brixen</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Kazimir Tetmajer</AUCTOR><AUCTOR type="translator">Leonhard Brixen</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>118</rn>
+   <author>Thomassin, Ch. v..</author>
+   <title>Jakob Böhme</title>
+   <issue>17</issue>
+   <page>651</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0157</contDocID>
+   <target>WR-02-02-17_n0651.xml#//TITLE[@titleID='tiID_2433_00068']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00196</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-17_n0657.xml#//DIV_END[@divEndID='deID_2433_00196']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00068"><TITLEPART type="main"><SPC>JAKOB BÖHME</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>Ch. v. THOMASSIN</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Ch. v. THOMASSIN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>119</rn>
+   <author>Tschechow, Anton</author>
+   <title>Der Bär </title>
+   <issue>7</issue>
+   <page>241</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0158</contDocID>
+   <target>WR-02-01-07_n0241.xml#//TITLE[@titleID='tiID_2432_00077']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00290</divStartID>
+   <divType>performance</divType>
+   <divEndPtr>WR-02-01-07_n0253.xml#//DIV_END[@divEndID='deID_2432_00459']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00077"><TITLEPART type="main">DER BÄR.</TITLEPART><LE/>
+<TITLEPART type="desc">Schwank in einem Aufzug von <AUCTOR><C>Anton Tschechow</C></AUCTOR>.<LE/>
+Uebersetzt von <AUCTOR type="translator"><C>Eugenie Kliorin</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Anton Tschechow</AUCTOR><AUCTOR type="translator">Eugenie Kliorin</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>120</rn>
+   <author>Tschechow, Anton</author>
+   <title>Der Petschenjeg</title>
+   <issue>17</issue>
+   <page>658</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0159</contDocID>
+   <target>WR-02-02-17_n0658.xml#//TITLE[@titleID='tiID_2433_00069']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00198</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-17_n0676.xml#//DIV_END[@divEndID='deID_2433_00205']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00069"><TITLEPART type="main">DER PETSCHENJEG.*)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ANTON TSCHECHOW</AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Übersetzung von <AUCTOR type="translator">CLARA BRAUNER</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON TSCHECHOW</AUCTOR><AUCTOR type="translator">CLARA BRAUNER</AUCTOR><AUCTOR>GUSTAV LANDAUER</AUCTOR><AUCTOR>PAUL VERLAINE</AUCTOR><AUCTOR type="translator">Max Bruns</AUCTOR><AUCTOR>PAUL RITTER V. RITTINGER</AUCTOR><AUCTOR>Peter Altenberg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>121</rn>
+   <author>Ubell, Hermann</author>
+   <title>Die Herrin der Gärten </title>
+   <issue>13</issue>
+   <page>492</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0160</contDocID>
+   <target>WR-02-02-13_n0492.xml#//TITLE[@titleID='tiID_2433_00001']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00003</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-02-13_n0492.xml#//DIV_END[@divEndID='deID_2433_00002']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00001"><TITLEPART>DIE HERRIN DER GÄRTEN.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Hermann Ubell</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>122</rn>
+   <author>Unger, Franz</author>
+   <title>Die Suggestion bei Shakespeare </title>
+   <issue>3</issue>
+   <page>95</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0161</contDocID>
+   <target>WR-02-01-03_n0095.xml#//TITLE[@titleID='tiID_2432_00046']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00156</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-03_n0102.xml#//DIV_END[@divEndID='deID_2432_00214']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00046"><TITLEPART type="main">DIE SUGGESTION BEI SHAKESPEARE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Franz Unger</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Franz Unger</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>123</rn>
+   <author>Verlaine, Paul</author>
+   <title>Die Muscheln </title>
+   <issue>15</issue>
+   <page>588</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0162</contDocID>
+   <target>WR-02-02-15_n0588.xml#//TITLE[@titleID='tiID_2433_00046']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00153</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-02-15_n0588.xml#//DIV_END[@divEndID='deID_2433_00152']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00046"><TITLEPART type="main"><SPC>DIE MUSCHELN</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PAUL VERLAINE</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PAUL VERLAINE</AUCTOR><AUCTOR type="translator">MAX MESSER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>124</rn>
+   <author>Verlaine, Paul</author>
+   <title>Aufzug</title>
+   <issue>17</issue>
+   <page>670</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0163</contDocID>
+   <target>WR-02-02-17_n0670.xml#//TITLE[@titleID='tiID_2433_00071']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00201</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-02-17_n0670.xml#//DIV_END[@divEndID='deID_2433_00199']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00071"><TITLEPART type="main"><SPC>AUFZUG</SPC>.</TITLEPART><LE/>
+<TITLEPART>(Cortège.)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PAUL VERLAINE</AUCTOR><AUCTOR type="translator">Max Bruns</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>125</rn>
+   <author>Walde, Philo vom</author>
+   <title>Friedrich Nietzsche in Weimar </title>
+   <issue>12</issue>
+   <page>441</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0164</contDocID>
+   <target>WR-02-01-12_n0441.xml#//TITLE[@titleID='tiID_2432_00141']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00591</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0446.xml#//DIV_END[@divEndID='deID_2432_00590']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00141"><TITLEPART type="main">FRIEDRICH NIETZSCHE IN WEIMAR.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Philo vom Walde</C></AUCTOR> (Neisse).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Philo vom Walde</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>126</rn>
+   <author>Wassermann, Jakob</author>
+   <title>Liebe von damals </title>
+   <issue>15</issue>
+   <page>565</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0165</contDocID>
+   <target>WR-02-02-15_n0565.xml#//TITLE[@titleID='tiID_2433_00036']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00041</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-02-02-15_n0565.xml#//DIV_END[@divEndID='deID_2433_00040']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00036"><TITLEPART><SPC>LIEBE VON DAMALS</SPC></TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Jakob Wassermann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>127</rn>
+   <author>Wengraf, Richard</author>
+   <title>Johannes</title>
+   <issue>6</issue>
+   <page>234</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0166</contDocID>
+   <target>WR-02-01-06_n0234.xml#//TITLE[@titleID='tiID_2432_00075']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00278</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0235.xml#//DIV_END[@divEndID='deID_2432_00277']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00075"><TITLEPART type="main">JOHANNES.</TITLEPART><LE/>
+<TITLEPART>Ein Beitrag zur Geschichte der Reclame und des Snobismus.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Richard Wengraf</C></AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Richard Wengraf</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>128</rn>
+   <author>Whitman, Walt</author>
+   <title>Hummeln </title>
+   <issue>9</issue>
+   <page>340</page>
+   <contDoc>WR-02-01-00_i0006.xml</contDoc>
+   <contDocID>0167</contDocID>
+   <target>WR-02-01-09_n0340.xml#//TITLE[@titleID='tiID_2432_00111']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00535</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0342.xml#//DIV_END[@divEndID='deID_2432_00535']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00111"><TITLEPART type="main">HUMMELN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Walt Whitman</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Uebersetzt von <AUCTOR type="translator"><C>Marie Lang</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Walt Whitman</AUCTOR><AUCTOR type="translator">Marie Lang</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>129</rn>
+   <author>Whitman, Walt</author>
+   <title>Wie ich ein Buch schrieb </title>
+   <issue>11</issue>
+   <page>426</page>
+   <contDoc>WR-02-01-00_i0007.xml</contDoc>
+   <contDocID>0169</contDocID>
+   <target>WR-02-01-11_n0426.xml#//TITLE[@titleID='tiID_2432_00138']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00581</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-11_n0432.xml#//DIV_END[@divEndID='deID_2432_00580']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00138"><TITLEPART type="main">WIE ICH EIN BUCH SCHRIEB.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Walt Whitman</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc"><SPC>Deutsch von <AUCTOR type="translator"><C>Carl Federn</C></AUCTOR></SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Walt Whitman</AUCTOR><AUCTOR type="translator">Carl Federn</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>130</rn>
+   <author>Whitman, Walt</author>
+   <title>Aus den Aufzeichnungen über den amerikanischen Bürgerkrieg (1861—64)</title>
+   <issue>19</issue>
+   <page>718</page>
+   <contDoc>WR-02-01-00_i0007.xml</contDoc>
+   <contDocID>0170</contDocID>
+   <target>WR-02-02-19_n0718.xml#//TITLE[@titleID='tiID_2433_00093']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00229</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-19_n0723.xml#//DIV_END[@divEndID='deID_2433_00227']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00093"><TITLEPART type="main">AUS WALT WHITMANS AUFZEICHNUNGEN<LE/>
+ÜBER DEN AMERIKANISCHEN BÜRGERKRIEG (<DATERANGE>1861—64</DATERANGE>).</TITLEPART><LE/>
+<TITLEPART type="desc">Übersetzt von <AUCTOR type="translator"><C>Karl Federn</C></AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR type="translator">Karl Federn</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>131</rn>
+   <author>Whitman, Walt</author>
+   <title>Aus den Aufzeichnungen über den amerikanischen Bürgerkrieg (1861—64)</title>
+   <issue>
+21</issue>
+   <page>813</page>
+   <contDoc>WR-02-01-00_i0007.xml</contDoc>
+   <contDocID>0170</contDocID>
+   <target>WR-02-02-21_n0813.xml#//TITLE[@titleID='tiID_2433_00133']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00280</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0818.xml#//DIV_END[@divEndID='deID_2433_00278']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00133"><TITLEPART type="main">AUS WALT WHITMANS AUFZEICHNUNGEN<LE/>
+ÜBER DEN AMERIKANISCHEN BÜRGERKRIEG (<DATERANGE>1861—65</DATERANGE>).</TITLEPART><LE/>
+<TITLEPART type="desc">Übersetzt von <AUCTOR type="translator"><C>Karl Federn</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART>(Fortsetzung.)</TITLEPART></TITLE>
+<TITLE titleID="tiID_2433_00134"><TITLEPART><SPC>An der Front</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR type="translator">Karl Federn</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>132</rn>
+   <author>Wilhelm, Paul</author>
+   <title>Die »Jugend« — und kein Ende </title>
+   <issue>1</issue>
+   <page>31</page>
+   <contDoc>WR-02-01-00_i0007.xml</contDoc>
+   <contDocID>0171</contDocID>
+   <target>WR-02-01-01_n0031.xml#//TITLE[@titleID='tiID_2432_00021']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00029</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-01_n0035.xml#//DIV_END[@divEndID='deID_2432_00028']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00021"><TITLEPART type="main">DIE »JUGEND« — UND KEIN ENDE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Paul Wilhelm</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Paul Wilhelm</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>133</rn>
+   <author>Wille, Bruno</author>
+   <title>Lebensmusik </title>
+   <issue>8</issue>
+   <page>303</page>
+   <contDoc>WR-02-01-00_i0007.xml</contDoc>
+   <contDocID>0172</contDocID>
+   <target>WR-02-01-08_n0303.xml#//TITLE[@titleID='tiID_2432_00102']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00489</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-08_n0306.xml#//DIV_END[@divEndID='deID_2432_00489']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00102"><TITLEPART type="main">LEBENSMUSIK.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Bruno Wille</C></AUCTOR> (Bezirksgericht Wildon bei Graz).<SUP>*</SUP>)</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Bruno Wille</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>134</rn>
+   <author>Wille, Bruno</author>
+   <title>Es war einmal</title>
+   <issue>9</issue>
+   <page>338</page>
+   <contDoc>WR-02-01-00_i0007.xml</contDoc>
+   <contDocID>0173</contDocID>
+   <target>WR-02-01-09_n0338.xml#//TITLE[@titleID='tiID_2432_00110']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00534</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0339.xml#//DIV_END[@divEndID='deID_2432_00533']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00110"><TITLEPART type="main">ES WAR EINMAL.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Bruno Wille</C></AUCTOR> (Friedrichshagen).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Bruno Wille</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>135</rn>
+   <author>Wille, Bruno</author>
+   <title>Die Waldseelen</title>
+   <issue>12</issue>
+   <page>449</page>
+   <contDoc>WR-02-01-00_i0007.xml</contDoc>
+   <contDocID>0174</contDocID>
+   <target>WR-02-01-12_n0449.xml#//TITLE[@titleID='tiID_2432_00143']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00595</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0453.xml#//DIV_END[@divEndID='deID_2432_00595']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00143"><TITLEPART type="main">DIE WALDSEELEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C><SPC>Bruno Wille</SPC></C></AUCTOR> (Friedrichshagen).</TITLEPART><LE/>
+<TITLEPART type="enum">1.</TITLEPART> <TITLEPART><SPC>Der Wachholderbaum</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Bruno Wille</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>136</rn>
+   <author>Wolff, Ludwig</author>
+   <title>Aus Leipzig </title>
+   <issue>9</issue>
+   <page>347</page>
+   <contDoc>WR-02-01-00_i0007.xml</contDoc>
+   <contDocID>0175</contDocID>
+   <target>WR-02-01-09_n0347.xml#//TITLE[@titleID='tiID_2432_00113']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2432_00539</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0350.xml#//DIV_END[@divEndID='deID_2432_00538']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2432_00113"><TITLEPART type="main">AUS LEIPZIG.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Ludwig Wolff</C></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Ludwig Wolff</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>137</rn>
+   <author>Wolff, Ludwig</author>
+   <title>Die Mondscheinsonate</title>
+   <issue>24</issue>
+   <page>905</page>
+   <contDoc>WR-02-01-00_i0007.xml</contDoc>
+   <contDocID>0176</contDocID>
+   <target>WR-02-02-24_n0905.xml#//TITLE[@titleID='tiID_2433_00166']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2433_00328</divStartID>
+   <divType>performance</divType>
+   <divEndPtr>WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00611']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00166"><TITLEPART>(Den Bühnen gegenüber Manuscript.)</TITLEPART><LE/>
+<TITLEPART type="main"><SPC>DIE MONDSCHEINSONATE</SPC>.</TITLEPART><LE/>
+<TITLEPART type="desc">Komödie in einem Act von <AUCTOR>LUDWIG WOLFF</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LUDWIG WOLFF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>138</rn>
+   <author></author>
+   <title>Burgtheater </title>
+   <issue>Nr. 1</issue>
+   <page>S. 38</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-01-01_n0038.xml#//P[@parID='00178']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00032</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-01_n0038.xml#//DIV_END[@divEndID='deID_2432_00030']</divEndPtr>
+   <targetTitle><P parID="00178"><TAB/><C>Burgtheater</C>. »<SPC>Der <HYPH1 cont="Liquidator">Liqui-</HYPH1><LE/>
+<HYPH2>dator</HYPH2></SPC>.« Schwank in vier Aufzügen<LE/>
+von Friedrich Gustav <SPC>Triesch</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>S—k</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>139</rn>
+   <author></author>
+   <title>Burgtheater </title>
+   <issue>Nr. 2</issue>
+   <page>S. 78</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-01-02_n0078.xml#//P[@parID='00461']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00052</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-02_n0078.xml#//DIV_END[@divEndID='deID_2432_00050']</divEndPtr>
+   <targetTitle><P parID="00461"><TAB/><C>Burgtheater</C>. »<SPC><HYPH1 cont="Jugendfreunde">Jugend-</HYPH1><LE/>
+<HYPH2>freunde</HYPH2></SPC>«, Lustspiel in vier <HYPH1 cont="Aufzügen">Auf-</HYPH1><LE/>
+<HYPH2>zügen</HYPH2> von Ludwig <SPC>Fulda</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>140</rn>
+   <author></author>
+   <title>Burgtheater </title>
+   <issue>Nr. 7</issue>
+   <page>S. 277</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-01-07_n0277.xml#//P[@parID='01979']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00477</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-07_n0277.xml#//DIV_END[@divEndID='deID_2432_00475']</divEndPtr>
+   <targetTitle><P parID="01979" complete="false"><TAB/><C>Burgtheater</C>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>141</rn>
+   <author></author>
+   <title>Burgtheater </title>
+   <issue>Nr. 10</issue>
+   <page>S. 398</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-01-10_n0398.xml#//P[@parID='02719']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00568</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0399.xml#//DIV_END[@divEndID='deID_2432_00566']</divEndPtr>
+   <targetTitle><P parID="02719"><TAB/><C>Burgtheater</C>. »<SPC>Neigung</SPC>.«<LE/>
+Schauspiel in vier Aufzügen von<LE/>
+J. J. <SPC>David</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>142</rn>
+   <author></author>
+   <title>Burgtheater </title>
+   <issue>Nr. 12</issue>
+   <page>S. 478</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-01-12_n0478.xml#//P[@parID='03206']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00608</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0478.xml#//DIV_END[@divEndID='deID_2432_00606']</divEndPtr>
+   <targetTitle><P parID="03206"><TAB/><C>Burgtheater</C>. »<SPC>Die <HYPH1 cont="Neuvermählten">Neu-</HYPH1><LE/>
+<HYPH2>vermählten</HYPH2></SPC>«. Lustspiel in zwei<LE/>
+Aufzügen von Björnstjerne <SPC><HYPH1 cont="Björnson">Björn-</HYPH1><LE/>
+<HYPH2>son</HYPH2></SPC>. — »<SPC>Komödie der <HYPH1 cont="Irrungen">Irrun-</HYPH1><LE/>
+<HYPH2>gen</HYPH2></SPC>«. Lustspiel in einem Act von<LE/>
+<SPC>Shakespeare</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>143</rn>
+   <author></author>
+   <title>Burgtheater </title>
+   <issue>Nr. 14</issue>
+   <page>S. 588</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-02-14_n0558.xml#//P[@parID='00539']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00033</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-14_n0558.xml#//DIV_END[@divEndID='deID_2433_00030']</divEndPtr>
+   <targetTitle><P parID="00539"><TAB/><SPC>Burgtheater</SPC>. »<SPC><HYPH1 cont="Mädchentraum">Mädchen-</HYPH1><LE/>
+<HYPH2>traum</HYPH2></SPC>.« Spiel in drei Acten von<LE/>
+Max <SPC>Bernstein</SPC>.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>144</rn>
+   <author></author>
+   <title>Burgtheater </title>
+   <issue>Nr. 15</issue>
+   <page>S. 595</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-02-15_n0595.xml#//P[@parID='00827']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00163</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0595.xml#//DIV_END[@divEndID='deID_2433_00160']</divEndPtr>
+   <targetTitle><P part="initial" parID="00827" complete="false"><TAB/><SPC>Burgtheater</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>145</rn>
+   <author></author>
+   <title>Burgtheater </title>
+   <issue>Nr. 16</issue>
+   <page>S. 637</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-02-16_n0637.xml#//P[@parID='01007']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00186</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-16_n0637.xml#//DIV_END[@divEndID='deID_2433_00183']</divEndPtr>
+   <targetTitle><P parID="01007" complete="false"><TAB/><SPC>Burgtheater</SPC>.</P></targetTitle>
+   <auctores><AUCTOR><DOUBT sug="—i—">— i —</DOUBT></AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>146</rn>
+   <author></author>
+   <title>Burgtheater </title>
+   <issue>Nr. 22</issue>
+   <page>S. 862</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-02-22_n0862.xml#//TITLE[@titleID='tiID_2433_00154']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00301</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-22_n0863.xml#//DIV_END[@divEndID='deID_2433_00299']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00154"><TITLEPART type="repeated"><U>THEATER.</U></TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>147</rn>
+   <author></author>
+   <title>Burgtheater</title>
+   <issue>Nr. 23</issue>
+   <page>S. 901</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-02-23_n0901.xml#//TITLE[@titleID='tiID_2433_00163']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00319</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-23_n0902.xml#//DIV_END[@divEndID='deID_2433_00315']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00163"><TITLEPART><U>BURGTHEATER.</U></TITLEPART></TITLE>
+<P parID="02226"><TAB/>»<SPC>Cyrano von Bergerac</SPC>«.<LE/>
+Romantische Komödie in fünf<LE/>
+Acten von Edmond <SPC>Rostand</SPC>.<LE/>
+Deutsch von Ludwig <SPC>Fulda</SPC><ERR sug=".">,</ERR></P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>148</rn>
+   <author></author>
+   <title>Burgtheater </title>
+   <issue>Nr. 24</issue>
+   <page>S. 944</page>
+   <contDoc>WR-02-01-00_i0007.xml   </contDoc>
+   <contDocID>0178   </contDocID>
+   <target>WR-02-02-24_n0944.xml#//TITLE[@titleID='tiID_2433_00194']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00623</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-24_n0944.xml#//DIV_END[@divEndID='deID_2433_00620']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00194"><TITLEPART><U>BURGTHEATER.</U></TITLEPART></TITLE>
+<P part="initial" parID="02647"><TAB/>»<SPC>Der Vielgeprüfte</SPC>«, <HYPH1 cont="Lustspiel">Lust-</HYPH1><LE/>
+<HYPH2>spiel</HYPH2> in drei Acten von Wilhelm<LE/>
+<SPC>Meyer</SPC></P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>149</rn>
+   <author></author>
+   <title>Operntheater  </title>
+   <issue>Nr. 6</issue>
+   <page>S. 236</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0179 </contDocID>
+   <target>WR-02-01-06_n0236.xml#//P[@parID='01641']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00280</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0236.xml#//DIV_END[@divEndID='deID_2432_00278']</divEndPtr>
+   <targetTitle><P part="initial" parID="01641" complete="false"><TAB/><C>Das Wiener <HYPH1 cont="Hofoperntheater">Hofopern-</HYPH1><LE/>
+<HYPH2>theater</HYPH2></C></P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>150</rn>
+   <author></author>
+   <title>Operntheater  </title>
+   <issue>Nr. 8</issue>
+   <page>S. 317</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0179 </contDocID>
+   <target>WR-02-01-08_n0317.xml#//P[@parID='02261']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00495</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-08_n0318.xml#//DIV_END[@divEndID='deID_2432_00493']</divEndPtr>
+   <targetTitle><P part="initial" parID="02261" complete="false"><TAB/>»<C>Die Bohème</C>« von Ruggiero<LE/>
+<SPC>Leoncavallo</SPC></P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>151</rn>
+   <author></author>
+   <title>Operntheater  </title>
+   <issue>Nr. 22</issue>
+   <page>S. 861</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0179 </contDocID>
+   <target>WR-02-02-22_n0861.xml#//P[@parID='01993']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00300</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-22_n0862.xml#//DIV_END[@divEndID='deID_2433_00296']</divEndPtr>
+   <targetTitle><P part="initial" parID="01993" complete="false"><TAB/><SPC>Das Wiener <HYPH1 cont="Hofoperntheater">Hofopern-</HYPH1><LE/>
+<HYPH2>theater</HYPH2></SPC></P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>152</rn>
+   <author></author>
+   <title>Deutsches Volkstheater </title>
+   <issue>Nr. 2</issue>
+   <page>S. 78</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0180 </contDocID>
+   <target>WR-02-01-02_n0078.xml#//P[@parID='00465']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00053</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-02_n0079.xml#//DIV_END[@divEndID='deID_2432_00051']</divEndPtr>
+   <targetTitle><P part="initial" parID="00465" complete="false"><TAB/><C>Deutsches Volkstheater</C>.<LE/></P></targetTitle>
+   <auctores><AUCTOR>f. r.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>153</rn>
+   <author></author>
+   <title>Deutsches Volkstheater </title>
+   <issue>Nr. 3</issue>
+   <page>S. 117</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0180 </contDocID>
+   <target>WR-02-01-03_n0117.xml#//P[@parID='00766']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00220</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-03_n0117.xml#//DIV_END[@divEndID='deID_2432_00218']</divEndPtr>
+   <targetTitle><P part="initial" parID="00766" complete="false"><TAB/><C>Deutsches Volkstheater</C>.<LE/>
+»<SPC>Bartel Turaser</SPC>«, Drama in<LE/>
+drei Acten von Philipp <SPC><HYPH1 cont="Langmann">Lang-</HYPH1><LE/>
+<HYPH2>mann</HYPH2></SPC>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>154</rn>
+   <author></author>
+   <title>Deutsches Volkstheater </title>
+   <issue>Nr. 4</issue>
+   <page>S. 158</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0180 </contDocID>
+   <target>WR-02-01-04_n0158.xml#//P[@parID='00962']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00243</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-04_n0158.xml#//DIV_END[@divEndID='deID_2432_00241']</divEndPtr>
+   <targetTitle><P parID="00962"><TAB/><C>Deutsches Volkstheater</C>.<LE/>
+»<SPC>Josephine</SPC>.« Ein Spiel in vier<LE/>
+Acten von Hermann <SPC>Bahr</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>155</rn>
+   <author></author>
+   <title>Deutsches Volkstheater </title>
+   <issue>Nr. 6</issue>
+   <page>S. 236</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0180 </contDocID>
+   <target>WR-02-01-06_n0236.xml#//P[@parID='01644']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00281</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0237.xml#//DIV_END[@divEndID='deID_2432_00279']</divEndPtr>
+   <targetTitle><P parID="01644"><TAB/><C>Deutsches Volkstheater</C>.<LE/>
+»<SPC>Figaro’s Hochzeit</SPC>«, <HYPH1 cont="Lustspiel">Lust-</HYPH1><LE/>
+<HYPH2>spiel</HYPH2> von <SPC>Beaumarchais</SPC>. <HYPH1 cont="Uebersetzt">Ueber-</HYPH1><LE/>
+<HYPH2>setzt</HYPH2> und bearbeitet von Ludwig<LE/>
+<SPC>Fulda</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>156</rn>
+   <author></author>
+   <title>Deutsches Volkstheater </title>
+   <issue>Nr. 8</issue>
+   <page>S. 318</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0180 </contDocID>
+   <target>WR-02-01-08_n0318.xml#//P[@parID='02266']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00496</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-08_n0319.xml#//DIV_END[@divEndID='deID_2432_00494']</divEndPtr>
+   <targetTitle><P parID="02266"><TAB/><C>Deutsches Volkstheater</C>.<LE/>
+»<SPC>Das Ende der Liebe</SPC>« <HYPH1 cont="Satirische">Satiri-</HYPH1><LE/>
+<HYPH2>sche</HYPH2> Komödie in vier Acten von<LE/>
+Roberto <SPC>Bracco</SPC>. Deutsch von Otto<LE/>
+<SPC>Eisenschitz</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>157</rn>
+   <author></author>
+   <title>Deutsches Volkstheater </title>
+   <issue>Nr. 20</issue>
+   <page>S. 783</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0180 </contDocID>
+   <target>WR-02-02-20_n0783.xml#//P[@parID='01654']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00262</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-20_n0784.xml#//DIV_END[@divEndID='deID_2433_00258']</divEndPtr>
+   <targetTitle><P part="initial" parID="01654" complete="false"><TAB/>Die Langeweile ist gekräftigt aus<LE/>
+den Ferien wieder in die Wiener<LE/>
+Theater eingerückt.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>158</rn>
+   <author></author>
+   <title>Deutsches Volkstheater </title>
+   <issue>Nr. 22</issue>
+   <page>S. 862</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0180 </contDocID>
+   <target>WR-02-02-22_n0862.xml#//P[@parID='01998']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00302</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-22_n0863.xml#//DIV_END[@divEndID='deID_2433_00298']</divEndPtr>
+   <targetTitle><P part="initial" parID="01998" complete="false"><TAB/><SPC>Saisonbeginn</SPC>.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>159</rn>
+   <author></author>
+   <title>Deutsches Volkstheater </title>
+   <issue>Nr. 22</issue>
+   <page>S. 863</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0180 </contDocID>
+   <target></target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00320</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-23_n0903.xml#//DIV_END[@divEndID='deID_2433_00316']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00164"><TITLEPART><U>DEUTSCHES VOLKSTHEATER.</U></TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>160</rn>
+   <author></author>
+   <title>Deutsches Volkstheater </title>
+   <issue>Nr. 23</issue>
+   <page>S. 902</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0180 </contDocID>
+   <target>WR-02-02-23_n0902.xml#//TITLE[@titleID='tiID_2433_00164']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00320</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-23_n0903.xml#//DIV_END[@divEndID='deID_2433_00316']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00164"><TITLEPART><U>DEUTSCHES VOLKSTHEATER.</U></TITLEPART></TITLE>
+<P part="initial" parID="02231"><TAB/>»<SPC>Mutter Erde</SPC>«, Drama in<LE/>
+5 Acten von Max <SPC>Halbe</SPC></P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>161</rn>
+   <author></author>
+   <title>Deutsches Volkstheater </title>
+   <issue>Nr. 24</issue>
+   <page>S. 944</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0180 </contDocID>
+   <target>WR-02-02-24_n0944.xml#//TITLE[@titleID='tiID_2433_00195']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00624</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-24_n0944.xml#//DIV_END[@divEndID='deID_2433_00621']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00195"><TITLEPART><U>DEUTSCHES VOLKSTHEATER.</U></TITLEPART></TITLE>
+<P parID="02649"><TAB/>»<SPC>Im weissen Rössl</SPC>«. Schwank<LE/>
+in drei Acten von <SPC>Blumenthal</SPC><LE/>
+und <SPC>Kadelburg</SPC>.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>162</rn>
+   <author></author>
+   <title>Raimund-Theater </title>
+   <issue>Nr. 9</issue>
+   <page>S. 357</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0181 </contDocID>
+   <target>WR-02-01-09_n0357.xml#//P[@parID='02496']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00545</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0358.xml#//DIV_END[@divEndID='deID_2432_00543']</divEndPtr>
+   <targetTitle><P parID="02496"><TAB/><C>Raimund-Theater</C>. »<SPC>Im<LE/>
+Fegefeuer</SPC>.« Schwank in drei<LE/>
+Aufzügen von Ernst <SPC>Gettke</SPC> und<LE/>
+Alexander <SPC>Engel</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>163</rn>
+   <author></author>
+   <title>Raimund-Theater </title>
+   <issue>Nr. 20</issue>
+   <page>S. 783</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0181 </contDocID>
+   <target>WR-02-02-20_n0783.xml#//P[@parID='01654']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00262</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-20_n0784.xml#//DIV_END[@divEndID='deID_2433_00258']</divEndPtr>
+   <targetTitle><P part="initial" parID="01654" complete="false"><TAB/>Die Langeweile ist gekräftigt aus<LE/>
+den Ferien wieder in die Wiener<LE/>
+Theater eingerückt.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>164</rn>
+   <author></author>
+   <title>Carltheater </title>
+   <issue>Nr. 1</issue>
+   <page>S. 277</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0182  </contDocID>
+   <target>WR-02-01-07_n0277.xml#//P[@parID='01981']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00478</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-07_n0278.xml#//DIV_END[@divEndID='deID_2432_00476']</divEndPtr>
+   <targetTitle><P parID="01981"><TAB/><C>Carltheater</C>. »Freiwild.«<LE/>
+Schauspiel in drei Acten von<LE/>
+Arthur <SPC>Schnitzler</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>165</rn>
+   <author></author>
+   <title>Carltheater </title>
+   <issue>Nr. 12</issue>
+   <page>S. 478</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0182  </contDocID>
+   <target>WR-02-01-12_n0478.xml#//P[@parID='03210']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00609</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0479.xml#//DIV_END[@divEndID='deID_2432_00607']</divEndPtr>
+   <targetTitle><P part="initial" parID="03210" complete="false"><TAB/><C>Carltheater</C>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>166</rn>
+   <author></author>
+   <title>Carltheater </title>
+   <issue>Nr. 15</issue>
+   <page>S. 595</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0182  </contDocID>
+   <target>WR-02-02-15_n0595.xml#//P[@parID='00830']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00164</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0596.xml#//DIV_END[@divEndID='deID_2433_00161']</divEndPtr>
+   <targetTitle><P part="initial" parID="00830" complete="false"><TAB/><SPC>Carltheater</SPC>. »<SPC>Gastspiel des<LE/>
+Ibsen-Theaters aus Leipzig</SPC><LE/>
+unter Leitung des Herrn Dr. Carl<LE/>
+Heine.«</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>167</rn>
+   <author></author>
+   <title>Carltheater </title>
+   <issue>Nr. 22</issue>
+   <page>S. 862</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0182  </contDocID>
+   <target>WR-02-02-22_n0862.xml#//P[@parID='01998']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00302</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-22_n0863.xml#//DIV_END[@divEndID='deID_2433_00298']</divEndPtr>
+   <targetTitle><P part="initial" parID="01998" complete="false"><TAB/><SPC>Saisonbeginn</SPC>.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>168</rn>
+   <author></author>
+   <title>Arnau’sche Theaterschule </title>
+   <issue>Nr. 6</issue>
+   <page>S. 237</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0183 </contDocID>
+   <target>WR-02-01-06_n0237.xml#//P[@parID='01649']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00282</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0237.xml#//DIV_END[@divEndID='deID_2432_00280']</divEndPtr>
+   <targetTitle><P part="initial" parID="01649" complete="false"><TAB/><C>Arnau’sche <HYPH1 cont="Theaterschule">Theater-</HYPH1><LE/>
+<HYPH2>schule</HYPH2></C>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>169</rn>
+   <author></author>
+   <title>Directionswechsel im Burgtheater </title>
+   <issue>Nr. 6</issue>
+   <page>S. 237</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0184 </contDocID>
+   <target>WR-02-01-06_n0237.xml#//P[@parID='01652']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00283</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0238.xml#//DIV_END[@divEndID='deID_2432_00281']</divEndPtr>
+   <targetTitle><P part="initial" parID="01652" complete="false"><TAB/><C>Directionswechsel im<LE/>
+Burgtheater</C>.</P></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>170</rn>
+   <author></author>
+   <title>Anlässlich des Gastspieles der Yvette Guilbert </title>
+   <issue>Nr. 8</issue>
+   <page>S. 319</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0185 </contDocID>
+   <target>WR-02-01-08_n0319.xml#//P[@parID='02272']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00497</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-08_n0320.xml#//DIV_END[@divEndID='deID_2432_00495']</divEndPtr>
+   <targetTitle><P part="initial" parID="02272" complete="false"><TAB/><C>Anlässlich des <HYPH1 cont="Gastspieles">Gast-</HYPH1><LE/>
+<HYPH2>spieles</HYPH2> der Yvette <HYPH1 cont="Guilbert">Guil-</HYPH1><LE/>
+<HYPH2>bert</HYPH2></C>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>171</rn>
+   <author></author>
+   <title>Helene Hartmann  </title>
+   <issue>Nr. 9</issue>
+   <page>S. 357</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0186 </contDocID>
+   <target>WR-02-01-09_n0357.xml#//P[@parID='02493']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00544</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0357.xml#//DIV_END[@divEndID='deID_2432_00542']</divEndPtr>
+   <targetTitle><P part="initial" parID="02493" complete="false"><TAB/><C>Helene Hartmann</C></P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>172</rn>
+   <author></author>
+   <title>Marie Geistinger </title>
+   <issue>Nr. 12</issue>
+   <page>S. 479</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0187 </contDocID>
+   <target>WR-02-01-12_n0479.xml#//P[@parID='03214']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2432_00610</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0479.xml#//DIV_END[@divEndID='deID_2432_00608']</divEndPtr>
+   <targetTitle><P part="initial" parID="03214" complete="false"><TAB/><C>Marie Geistinger</C></P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>173</rn>
+   <author></author>
+   <title>Die Neugestaltung der Schauspielschule am Conservatorium </title>
+   <issue>Nr. 16</issue>
+   <page>S. 637</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0188 </contDocID>
+   <target>WR-02-02-16_n0637.xml#//P[@parID='01009']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00187</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-16_n0638.xml#//DIV_END[@divEndID='deID_2433_00184']</divEndPtr>
+   <targetTitle><P part="initial" parID="01009" complete="false"><TAB/><SPC>Die Neugestaltung der<LE/>
+Schauspielschule am <HYPH1 cont="Conservatorium">Conser-</HYPH1><LE/>
+<HYPH2>vatorium</HYPH2></SPC>.</P></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>174</rn>
+   <author></author>
+   <title>Wiener Freie Bühne </title>
+   <issue>Nr. 18</issue>
+   <page>S. 712</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0189 </contDocID>
+   <target>WR-02-02-18_n0712.xml#//TITLE[@titleID='tiID_2433_00087']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID>dsID_2433_00221</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-18_n0712.xml#//DIV_END[@divEndID='deID_2433_00219']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00087"><TITLEPART>»WIENER FREIE BÜHNE.«</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>175</rn>
+   <author></author>
+   <title>Die Censur </title>
+   <issue>Nr. 20</issue>
+   <page>S. 783</page>
+   <contDoc>WR-02-01-00_i0007.xml </contDoc>
+   <contDocID>0190 </contDocID>
+   <target>WR-02-02-20_n0782.xml#//P[@parID='01642']</target>
+   <secTitle>Notizen.Theater</secTitle>
+   <divStartID></divStartID>
+   <divType></divType>
+   <divEndPtr></divEndPtr>
+   <targetTitle><P parID="01642"><TAB/><SPC>Die Censur</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>176</rn>
+   <author></author>
+   <title>Bauer, »An Paul Schlenther«</title>
+   <issue>Nr. 8</issue>
+   <page>S. 320</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-01-08_n0320.xml#//P[@parID='02277']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00498</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-08_n0320.xml#//DIV_END[@divEndID='deID_2432_00496']</divEndPtr>
+   <targetTitle><P parID="02277"><TAB/><C>An Paul Schlenther</C>. Ein<LE/>
+offener Brief von Ludwig <SPC>Bauer</SPC>.<LE/>
+Wien, Verlag von A. Bauer. <DATE>1898</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>177</rn>
+   <author></author>
+   <title>Bölsche, »Das Liebesleben in der Natur«</title>
+   <issue>Nr. 22</issue>
+   <page>S. 864</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-22_n0864.xml#//P[@parID='02009']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00306</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-22_n0864.xml#//DIV_END[@divEndID='deID_2433_00302']</divEndPtr>
+   <targetTitle><P parID="02009" complete="false"><TAB/><SPC>Den ersten Theil einer <HYPH1 cont="Entwicklungs">Ent-</HYPH1><LE/>
+<HYPH2>wicklungs</HYPH2></SPC>-<SPC>Geschichte der<LE/>
+Liebe hat Wilhelm Bölsche</SPC><LE/>
+dieser Tage (bei Eugen Diederichs,<LE/>
+Florenz und Leipzig) erscheinen<LE/>
+lassen.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>178</rn>
+   <author></author>
+   <title>Bruns, »Aus meinem Blute«</title>
+   <issue>Nr. 23</issue>
+   <page>S. 903</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-23_n0903.xml#//P[@parID='02235']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00322</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-23_n0903.xml#//DIV_END[@divEndID='deID_2433_00318']</divEndPtr>
+   <targetTitle><P parID="02235"><TAB/>»<SPC>Aus meinem Blute</SPC>.« <HYPH1 cont="Gedichte">Ge-</HYPH1><LE/>
+<HYPH2>dichte</HYPH2> von Max Bruns. Minden,<LE/>
+Bruns’ Verlag. — <SPC>Gedichte</SPC> von<LE/>
+Paul <SPC>Verlaine</SPC>, übertragen von<LE/>
+<SPC>Hans Kirchner</SPC>, Halle, Otto<LE/>
+Hendel.</P></targetTitle>
+   <auctores><AUCTOR>m. m.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>179</rn>
+   <author></author>
+   <title>Cantacuzène, »La steppe«</title>
+   <issue>Nr. 4</issue>
+   <page>S. 158</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-01-04_n0158.xml#//P[@parID='00966']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00244</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-04_n0159.xml#//DIV_END[@divEndID='deID_2432_00242']</divEndPtr>
+   <targetTitle><P part="initial" parID="00966" complete="false"><TAB/>— Wir haben im <DATERANGE>Frühling vorigen<LE/>
+Jahres</DATERANGE> an dieser Stelle über das<LE/>
+erste Buch der Fürstin Alice <SPC><HYPH1 cont="Cantacuzène">Can-</HYPH1><LE/>
+<HYPH2>tacuzène</HYPH2></SPC> berichtet, welches mit<LE/>
+dem Titel <LANG iso="fr">»la Steppe«</LANG> unter dem<LE/>
+Pseudonym Alex. d’Arc bei <HYPH1 cont="Calmann">Cal-</HYPH1><LE/>
+<HYPH2>mann</HYPH2> Levy erschienen ist.</P></targetTitle>
+   <auctores><AUCTOR>O. A. H. Sch.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>180</rn>
+   <author></author>
+   <title>Christomanos, »Die graue Frau«</title>
+   <issue>Nr. 18</issue>
+   <page>S. 710</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-18_n0710.xml#//P[@parID='01330']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00218</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-18_n0711.xml#//DIV_END[@divEndID='deID_2433_00214']</divEndPtr>
+   <targetTitle><P parID="01330"><TAB/>»<SPC>Die graue Frau</SPC>«. Ein<LE/>
+hellenisches Drama von <HYPH1 cont="Constantin">Con-</HYPH1><LE/>
+<HYPH2>stantin</HYPH2> <SPC>Christomanos</SPC>. Wien,<LE/>
+C. <SPC>Konegen</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>—i—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>181</rn>
+   <author></author>
+   <title>Fischer &amp; Franke, »Bibliothek für Bücherliebhaber«,</title>
+   <issue>Nr. 4</issue>
+   <page>S. 159</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-01-04_n0159.xml#//P[@parID='00975']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00246</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-04_n0160.xml#//DIV_END[@divEndID='deID_2432_00244']</divEndPtr>
+   <targetTitle><P part="initial" parID="00975" complete="false"><TAB/><C>Bibliothek für <HYPH1 cont="Bücherliebhaber">Bücher-</HYPH1><LE/>
+<HYPH2>liebhaber</HYPH2></C>.</P></targetTitle>
+   <auctores><AUCTOR>Richard Schaukal</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>182</rn>
+   <author></author>
+   <title>Garborg, »Paulus«</title>
+   <issue>Nr. 22</issue>
+   <page>S. 864</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-22_n0864.xml#//P[@parID='02005']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00305</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-22_n0864.xml#//DIV_END[@divEndID='deID_2433_00301']</divEndPtr>
+   <targetTitle><P parID="02005"><TAB/><SPC>Paulus</SPC>. Von Arne <SPC><HYPH1 cont="Garborg">Gar-</HYPH1><LE/>
+<HYPH2>borg</HYPH2></SPC>, Leipzig, Reclams <HYPH1 cont="Universalbibliothek">Universal-</HYPH1><LE/>
+<HYPH2>bibliothek</HYPH2>.</P></targetTitle>
+   <auctores><AUCTOR>m. m.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>183</rn>
+   <author></author>
+   <title>Graf, »Deutsche Musik im 19. Jahrhundert«</title>
+   <issue>Nr. 16</issue>
+   <page>S. 639</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-16_n0639.xml#//P[@parID='01018']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00190</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-16_n0640.xml#//DIV_END[@divEndID='deID_2433_00187']</divEndPtr>
+   <targetTitle><P part="initial" parID="01018" complete="false"><TAB/><SPC>Deutsche Musik im <DATERANGE><HYPH1 cont="neunzehnten">neun-</HYPH1><LE/>
+<HYPH2>zehnten</HYPH2> Jahrhundert</DATERANGE></SPC> v. Dr. Max<LE/>
+<SPC>Graf</SPC></P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>184</rn>
+   <author></author>
+   <title>Guth, »Draussen im Leben«</title>
+   <issue>Nr. 9</issue>
+   <page>S. 358</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-01-09_n0358.xml#//P[@parID='02501']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00546</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0358.xml#//DIV_END[@divEndID='deID_2432_00545']</divEndPtr>
+   <targetTitle><P parID="02501"><TAB/><C>Alfred Guth</C>: »<SPC>Draussen<LE/>
+im Leben</SPC>«. Berlin, Hugo Storm,<LE/>
+<DATE>1898</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>Max Messer</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>185</rn>
+   <author></author>
+   <title>Hardt, »Priester des Todes«</title>
+   <issue>Nr. 19</issue>
+   <page>S. 747</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-19_n0747.xml#//P[@parID='01491']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00242</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-19_n0748.xml#//DIV_END[@divEndID='deID_2433_00238']</divEndPtr>
+   <targetTitle><P parID="01491"><TAB/><SPC>Ernst Hardt</SPC>: »<SPC>Priester des<LE/>
+Todes</SPC>«. Dreizehn Novellen. Berlin,<LE/>
+S. Fischer, <DATE>1898</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>—ff</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>186</rn>
+   <author></author>
+   <title>Herzfeld, »Die skandinavische Literatur und ihre Tendenzen nebst anderen Essays«</title>
+   <issue>Nr. 11</issue>
+   <page>S. 438</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-01-11_n0438.xml#//P[@parID='02953']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00586</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-11_n0439.xml#//DIV_END[@divEndID='deID_2432_00584']</divEndPtr>
+   <targetTitle><P part="initial" parID="02953" complete="false"><TAB/><C>»Die skandinavische <HYPH1 cont="Literatur">Li-</HYPH1><LE/>
+<HYPH2>teratur</HYPH2> und ihre <HYPH1 cont="Tendenzen">Ten-</HYPH1><LE/>
+<HYPH2>denzen</HYPH2> nebst anderen <HYPH1 cont="Essays">Es-</HYPH1><LE/>
+<HYPH2>says</HYPH2>«</C> betitelt sich ein Buch von<LE/>
+Marie <SPC>Herzfe1d</SPC> (Verlag Schuster<LE/>
+&amp;amp;amp;amp;amp;amp; Loeffler, <DATE>1898</DATE>)</P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>187</rn>
+   <author></author>
+   <title>Kämmel, »Der Werdegang des deutschen Volkes«</title>
+   <issue>Nr. 15</issue>
+   <page>S. 598</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-15_n0598.xml#//P[@parID='00840']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00167</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0599.xml#//DIV_END[@divEndID='deID_2433_00164']</divEndPtr>
+   <targetTitle><P part="initial" parID="00840"><TAB/><SPC>Der Werdegang des <HYPH1 cont="deutschen">deut-</HYPH1><LE/>
+<HYPH2>schen</HYPH2> Volkes</SPC>. Historische <HYPH1 cont="Richtlinien">Richt-</HYPH1></P>
+<P part="final" parID="00841"><HYPH2>linien</HYPH2> f&amp;amp;amp;amp;amp;#xFC;r gebildete Leser von<LE/>
+<SPC>Otto K&amp;amp;amp;amp;amp;#xE4;mmel</SPC>. Zwei B&amp;amp;amp;amp;amp;#xE4;nde.</P></targetTitle>
+   <auctores><AUCTOR>Grävell</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>188</rn>
+   <author></author>
+   <title>Key, »Missbrauchte Frauenkraft«</title>
+   <issue>Nr. 15</issue>
+   <page>S. 596</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-15_n0596.xml#//P[@parID='00833']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00166</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0598.xml#//DIV_END[@divEndID='deID_2433_00163']</divEndPtr>
+   <targetTitle><P parID="00833"><TAB/><SPC>Ellen Key</SPC>: <SPC>Missbrauchte<LE/>
+Frauenkraft</SPC>. Autorisierte <HYPH1 cont="Übersetzung">Über-</HYPH1><LE/>
+<HYPH2>setzung</HYPH2> von Therese Krüger. Paris,<LE/>
+Leipzig, München. Verlag von<LE/>
+Albert Langen. <DATE>1898</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>Leo Berg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>189</rn>
+   <author></author>
+   <title>Levetzows »Neueste Dichtungen«</title>
+   <issue>Nr. 3</issue>
+   <page>S. 117</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-01-03_n0117.xml#//P[@parID='00769']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00221</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-03_n0118.xml#//DIV_END[@divEndID='deID_2432_00220']</divEndPtr>
+   <targetTitle><P parID="00769" complete="false"><TAB/><C>Levetzow’s neueste <HYPH1 cont="Dichtungen">Dich-</HYPH1><LE/>
+<HYPH2>tungen</HYPH2></C>.</P></targetTitle>
+   <auctores><AUCTOR>R. v. E.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>190</rn>
+   <author></author>
+   <title>Lie, »Troll«</title>
+   <issue>Nr. 7</issue>
+   <page>S. 280</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-01-07_n0280.xml#//P[@parID='02000']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00482</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-07_n0280.xml#//DIV_END[@divEndID='deID_2432_00480']</divEndPtr>
+   <targetTitle><P parID="02000"><TAB/><C>Troll</C>, Märchen von Jonas<LE/>
+<SPC>Lie</SPC>. Autorisirte Uebersetzung von<LE/>
+E. <SPC>Brausewetter</SPC>. Leipzig. <HYPH1 cont="Verlag">Ver-</HYPH1><LE/>
+<HYPH2>lag</HYPH2> von Aug. Dieckmann.</P></targetTitle>
+   <auctores><AUCTOR>A. N.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>191</rn>
+   <author></author>
+   <title>Maeterlinck, »La sagesse et la destinée«</title>
+   <issue>Nr. 21</issue>
+   <page>S. 824</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-21_n0824.xml#//P[@parID='01825']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00287</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0824.xml#//DIV_END[@divEndID='deID_2433_00283']</divEndPtr>
+   <targetTitle><P parID="01825"><TAB/>Von Maurice <SPC>Maeterlinck</SPC> <HYPH1 cont="erscheint">er-</HYPH1><LE/>
+<HYPH2>scheint</HYPH2> im Laufe <DATERANGE>dieses Herbstes</DATERANGE><LE/>
+ein neuer Band Essays.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>192</rn>
+   <author></author>
+   <title>Möller, »Todtentanz«</title>
+   <issue>Nr. 19</issue>
+   <page>S. 747</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-19_n0747.xml#//P[@parID='01485']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00241</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-19_n0747.xml#//DIV_END[@divEndID='deID_2433_00237']</divEndPtr>
+   <targetTitle><P parID="01485"><TAB/>»<SPC>Todtentanz</SPC>.« Eine <HYPH1 cont="Aschermittwochsdichtung">Ascher-</HYPH1><LE/>
+<HYPH2>mittwochsdichtung</HYPH2> von Max<LE/>
+Möller.</P></targetTitle>
+   <auctores><AUCTOR>M. M.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>193</rn>
+   <author></author>
+   <title>Mörner, »Allerhöchst Plaisir«</title>
+   <issue>Nr. 17</issue>
+   <page>S. 676</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-02-17_n0676.xml#//P[@parID='01200']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00205</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-17_n0676.xml#//DIV_END[@divEndID='deID_2433_00201']</divEndPtr>
+   <targetTitle><P part="initial" parID="01200" complete="false"><TAB/>Feine, edle, zarte Damen, leset<LE/>
+»<SPC>Allerhöchst Plaisir</SPC>«, die <HYPH1 cont="Geschichte">Ge-</HYPH1><LE/>
+<HYPH2>schichte</HYPH2> der <SPC>Marie Anne <HYPH1 cont="Reventlov">Re-</HYPH1><LE/>
+<HYPH2>ventlov</HYPH2></SPC>, von <SPC>Birger Mörner</SPC>,<LE/>
+Verlag S. Fischer.</P></targetTitle>
+   <auctores><AUCTOR>Peter Altenberg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>194</rn>
+   <author></author>
+   <title>Prévost, »Eine Pariser Ehe«</title>
+   <issue>Nr.12</issue>
+   <page>480</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-01-12_n0480.xml#//P[@parID='03221']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00612</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0480.xml#//DIV_END[@divEndID='deID_2432_00610']</divEndPtr>
+   <targetTitle><P parID="03221"><TAB/><C>Marcel Prévost</C>, »<SPC>Eine<LE/>
+Pariser Ehe</SPC>«. München, Verlag<LE/>
+von Albert Langen. <DATE>1898</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>m. m.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>195</rn>
+   <author></author>
+   <title>Przybyszewski, »Über Bord«</title>
+   <issue>Nr. 4</issue>
+   <page>S.159</page>
+   <contDoc>WR-02-01-00_i0007.xml  </contDoc>
+   <contDocID>0192  </contDocID>
+   <target>WR-02-01-04_n0159.xml#//P[@parID='00972']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00245</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-04_n0159.xml#//DIV_END[@divEndID='deID_2432_00243']</divEndPtr>
+   <targetTitle><P parID="00972"><TAB/><C>Stanislaw <HYPH1 cont="Przybyszewski">Przybyszew-</HYPH1><LE/>
+<HYPH2>ski</HYPH2></C>. Ueber Bord. Roman (<LANG iso="la">Homo<LE/>
+sapiens</LANG> I.) Berlin, Hugo Storm.<LE/>
+<DATE>1898</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>R. Schaukal</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>196</rn>
+   <author></author>
+   <title>Rink, »Aus dem hohen Norden«</title>
+   <issue>Nr. 3</issue>
+   <page>S. 118</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-01-03_n0118.xml#//P[@parID='00783']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00223</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-03_n0120.xml#//DIV_END[@divEndID='deID_2432_00221']</divEndPtr>
+   <targetTitle><P parID="00783"><TAB/><C>Aus dem hohen Norden</C>.<LE/>
+<SPC>Kajakmänner</SPC>. Erzählungen <HYPH1 cont="grönländischer">grön-</HYPH1><LE/>
+<HYPH2>ländischer</HYPH2> Seehundsfänger, <HYPH1 cont="herausgegeben">heraus-</HYPH1><LE/>
+<HYPH2>gegeben</HYPH2> von <SPC>Signe Rink</SPC>. —<LE/>
+S. Fischer, Berlin <DATE>1897</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>E. K.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>197</rn>
+   <author></author>
+   <title>Rosée, »Der sterbende Ahasver«</title>
+   <issue>Nr. 15</issue>
+   <page>S. 599</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-02-15_n0599.xml#//P[@parID='00849']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00168</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0600.xml#//DIV_END[@divEndID='deID_2433_00165']</divEndPtr>
+   <targetTitle><P part="initial" parID="00849" complete="false"><TAB/><SPC>Adolf Rosée</SPC>. <SPC>Der sterbende<LE/>
+Ahasver</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>F. Wa—n</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>198</rn>
+   <author></author>
+   <title>Sachs, »Von zwei Geschwistern«</title>
+   <issue>Nr. 12</issue>
+   <page>S. 480</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-01-12_n0480.xml#//P[@parID='03225']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00613</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0480.xml#//DIV_END[@divEndID='deID_2432_00611']</divEndPtr>
+   <targetTitle><P parID="03225" complete="false"><TAB/><C>Die Ballade: Maudalay</C><LE/>
+von Rudyard Kipling</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>199</rn>
+   <author></author>
+   <title>Salus, »Gedichte«</title>
+   <issue>Nr. 7</issue>
+   <page>Nr. 279</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-01-07_n0279.xml#//P[@parID='01996']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00481</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-07_n0279.xml#//DIV_END[@divEndID='deID_2432_00479']</divEndPtr>
+   <targetTitle><P parID="01996"><TAB/><C>Hugo Salus</C>, <SPC>Gedichte</SPC>.<LE/>
+München. Albert <SPC>Langen</SPC>, <DATE>1898</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>200</rn>
+   <author></author>
+   <title>Scheerbart, »Der Tod der Barmekiden«</title>
+   <issue>Nr. 13</issue>
+   <page>S. 519</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-02-13_n0519.xml#//P[@parID='00287']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00019</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-13_n0519.xml#//DIV_END[@divEndID='deID_2433_00016']</divEndPtr>
+   <targetTitle><P parID="00287"><TAB/><C>Paul Scheerbart</C>: <SPC>Der Tod<LE/>
+der Barmekiden</SPC>. Arabischer<LE/>
+Haremsroman. Verlag Kreisende<LE/>
+Ringe, Leipzig 1898.</P></targetTitle>
+   <auctores><AUCTOR>m. m.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>201</rn>
+   <author></author>
+   <title>Schmidt, »Vive Montmartre!«</title>
+   <issue>Nr. 13</issue>
+   <page>S. 520</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-02-13_n0520.xml#//P[@parID='00292']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00020</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-13_n0520.xml#//DIV_END[@divEndID='deID_2433_00017']</divEndPtr>
+   <targetTitle><P parID="00292"><TAB/><C>Vive Montmartre</C>! Von<LE/>
+K. E. <SPC>Schmidt</SPC>. Verlag Gebrüder<LE/>
+Knauer, Frankfurt a. M. Mit einem<LE/>
+Titelblatt von Ch. Léandre.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>202</rn>
+   <author></author>
+   <title>Schnitzler,»Die Frau des Weisen«</title>
+   <issue>Nr. 16</issue>
+   <page>S. 638</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-02-16_n0638.xml#//P[@parID='01014']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00189</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-16_n0639.xml#//DIV_END[@divEndID='deID_2433_00186']</divEndPtr>
+   <targetTitle><P part="initial" parID="01014" complete="false"><TAB/><SPC>Arthur Schnitzlers</SPC> neue<LE/>
+Novellettensammlung — nach dem<LE/>
+wenig nachahmenswerten Vorgang<LE/>
+der Franzosen mit dem Titel einer<LE/>
+der untereinander in gar keinem<LE/>
+Zusammenhange stehenden Skizzen<LE/>
+(»Die Frau des Weisen«) versehen<LE/></P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>203</rn>
+   <author></author>
+   <title>Spitteler, »Lachende Wahrheiten«</title>
+   <issue>Nr. 11</issue>
+   <page>S. 439</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-01-11_n0439.xml#//P[@parID='02958']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2432_00587</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-11_n0440.xml#//DIV_END[@divEndID='deID_2432_00585']</divEndPtr>
+   <targetTitle><P parID="02958"><TAB/><C>Carl Spitteler</C>, <SPC>Lachende<LE/>
+Wahrheiten</SPC>. Gesammelte Essays.<LE/>
+Verlag von Eugen <SPC>Diederichs</SPC>.<LE/>
+Florenz und Leipzig. <DATE>1898</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>204</rn>
+   <author></author>
+   <title>Tschechow, »Starker Tobak«</title>
+   <issue>Nr. 18</issue>
+   <page>S. 711</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-02-18_n0711.xml#//P[@parID='01336']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00219</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-18_n0711.xml#//DIV_END[@divEndID='deID_2433_00215']</divEndPtr>
+   <targetTitle><P parID="01336" complete="false"><TAB/>Von Anton <SPC>Tschechow</SPC> ist<LE/>
+soeben ein neues Bändchen unter<LE/>
+dem Titel: »<SPC>Starker Tobak</SPC>« bei<LE/>
+Albert Langen erschienen.</P></targetTitle>
+   <auctores><AUCTOR>gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>205</rn>
+   <author></author>
+   <title>Verlaine,»Gedichte«</title>
+   <issue>Nr. 23</issue>
+   <page>903</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-02-23_n0903.xml#//P[@parID='02235']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00322</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-23_n0903.xml#//DIV_END[@divEndID='deID_2433_00318']</divEndPtr>
+   <targetTitle><P parID="02235"><TAB/>»<SPC>Aus meinem Blute</SPC>.« <HYPH1 cont="Gedichte">Ge-</HYPH1><LE/>
+<HYPH2>dichte</HYPH2> von Max Bruns. Minden,<LE/>
+Bruns’ Verlag. — <SPC>Gedichte</SPC> von<LE/>
+Paul <SPC>Verlaine</SPC>, übertragen von<LE/>
+<SPC>Hans Kirchner</SPC>, Halle, Otto<LE/>
+Hendel.</P></targetTitle>
+   <auctores><AUCTOR>m. m.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>206</rn>
+   <author></author>
+   <title>Weissheimer, »Erlebnisse mit Richard Wagner, Franz Liszt und vielen anderen Zeitgenossen«</title>
+   <issue>Nr. 14</issue>
+   <page>S. 560</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-02-14_n0560.xml#//P[@parID='00546']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00036</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-14_n0560.xml#//DIV_END[@divEndID='deID_2433_00033']</divEndPtr>
+   <targetTitle><P part="initial" parID="00546" complete="false"><TAB/><SPC>Erlebnisse mit Richard<LE/>
+Wagner</SPC>, <SPC>Franz Liszt und vielen<LE/>
+andern Zeitgenossen <HYPH1 cont="vonWendelin">vonWen-</HYPH1><LE/>
+<HYPH2>delin</HYPH2> Weissheimer</SPC> (Stuttgart,<LE/>
+Deutsche Verlagsanstalt),</P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>207</rn>
+   <author></author>
+   <title>Wolff, »Dunkle Sehnsucht«</title>
+   <issue>Nr. 15</issue>
+   <page>S. 600</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-02-15_n0600.xml#//P[@parID='00853']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00169</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-15_n0600.xml#//DIV_END[@divEndID='deID_2433_00166']</divEndPtr>
+   <targetTitle><P parID="00853"><TAB/><SPC>Ludwig Wolff</SPC>: <SPC>Dunkle<LE/>
+Sehnsucht</SPC>. Wiener Intérieurs.<LE/>
+Leipzig. F. E. Neupert’s <HYPH1 cont="Nachfolger">Nach-</HYPH1><LE/>
+<HYPH2>folger</HYPH2> <DATE>1898</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>208</rn>
+   <author></author>
+   <title>Hugo Wolf-Verein, »Gesammelte Aufsätze über Hugo Wolf«</title>
+   <issue>Nr. 13</issue>
+   <page>S. 517</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0193  </contDocID>
+   <target>WR-02-02-13_n0517.xml#//P[@parID='00280']</target>
+   <secTitle>Notizen. Bücher</secTitle>
+   <divStartID>dsID_2433_00018</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-13_n0519.xml#//DIV_END[@divEndID='deID_2433_00015']</divEndPtr>
+   <targetTitle><P part="initial" parID="00280"><TAB/>Der Wiener »<C>Hugo <HYPH1 cont="Wolf-Verein">Wolf-</HYPH1><LE/>
+<HYPH2>Verein</HYPH2></C>« hat im Verlage von<LE/>
+Fischer in Berlin eine <HYPH1 cont="Sammlung">Samm-</HYPH1></P>
+<P part="medial" parID="00282"><HYPH2>lung</HYPH2> von Aufs&amp;amp;amp;amp;amp;#xE4;tzen &amp;amp;amp;amp;amp;#xFC;ber die<LE/>
+k&amp;amp;amp;amp;amp;#xFC;nstlerische Eigenart und <HYPH1 cont="Bedeutung">Bedeu-</HYPH1><LE/>
+<HYPH2>tung</HYPH2> des von ihm patronisirten<LE/>
+musikalischen Lyrikers erscheinen<LE/>
+lassen. </P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>209</rn>
+   <author></author>
+   <title>Werestschagin-Ausstellung</title>
+   <issue>Nr. 1</issue>
+   <page>S. 40</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0195  </contDocID>
+   <target>WR-02-01-01_n0040.xml#//P[@parID='00190']</target>
+   <secTitle>Notizen. Kunst</secTitle>
+   <divStartID>dsID_2432_00035</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-01_n0040.xml#//DIV_END[@divEndID='deID_2432_00033']</divEndPtr>
+   <targetTitle><P part="initial" parID="00190" complete="false"><TAB/><C><HYPH1 cont="Werestschagin-Ausstellung">Werestschagin-Ausstel-</HYPH1><LE/>
+<HYPH2>lung</HYPH2>.</C></P></targetTitle>
+   <auctores><AUCTOR>p. w—m</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>210</rn>
+   <author></author>
+   <title>Franz Stuck in Wien</title>
+   <issue>Nr. 2</issue>
+   <page>S. 79</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0195  </contDocID>
+   <target>WR-02-01-02_n0079.xml#//P[@parID='00470']</target>
+   <secTitle>Notizen. Kunst</secTitle>
+   <divStartID>dsID_2432_00054</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-02_n0080.xml#//DIV_END[@divEndID='deID_2432_00052']</divEndPtr>
+   <targetTitle><P part="initial" parID="00470" complete="false"><TAB/><C>Franz Stuck in Wien</C>.<LE/></P></targetTitle>
+   <auctores><AUCTOR>Paul Wilhelm</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>211</rn>
+   <author></author>
+   <title>Aquarellisten-Club</title>
+   <issue>Nr. 6</issue>
+   <page>238</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0195  </contDocID>
+   <target>WR-02-01-06_n0238.xml#//P[@parID='01656']</target>
+   <secTitle>Notizen. Kunst</secTitle>
+   <divStartID>dsID_2432_00284</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0239.xml#//DIV_END[@divEndID='deID_2432_00282']</divEndPtr>
+   <targetTitle><P part="initial" parID="01656" complete="false"><TAB/>— In den Räumen der <SPC><HYPH1 cont="Künstlergenossenschaft">Künstler-</HYPH1><LE/>
+<HYPH2>genossenschaft</HYPH2></SPC> hat deren <HYPH1 cont="Abzweigung">Ab-</HYPH1><LE/>
+<HYPH2>zweigung</HYPH2>, der <SPC><HYPH1 cont="Aquarellistenclub">Aquarellisten-</HYPH1><LE/>
+<HYPH2>club</HYPH2></SPC>, eine sehr reichhaltige und<LE/>
+schon durch ihre Anordnung<LE/>
+empfohlene Ausstellung <HYPH1 cont="veranstaltet">veran-</HYPH1><LE/>
+<HYPH2>staltet</HYPH2>.</P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>212</rn>
+   <author></author>
+   <title>Ver sacrum</title>
+   <issue>Nr. 7</issue>
+   <page>S. 278</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0195  </contDocID>
+   <target>WR-02-01-07_n0278.xml#//P[@parID='01990']</target>
+   <secTitle>Notizen. Kunst</secTitle>
+   <divStartID>dsID_2432_00480</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-07_n0279.xml#//DIV_END[@divEndID='deID_2432_00478']</divEndPtr>
+   <targetTitle><P part="initial" parID="01990" complete="false"><TAB/><C>Ver Sacrum</C> nennt sich das<LE/>
+neugeschaffene Organ der <HYPH1 cont="Vereinigung">Ver-</HYPH1><LE/>
+<HYPH2>einigung</HYPH2> der bildenden Künstler<LE/>
+Oesterreichs</P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>213</rn>
+   <author></author>
+   <title>Ausstellung der Vereinigung bildender Künstler Österreichs</title>
+   <issue>Nr. 10</issue>
+   <page>S. 399</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0195  </contDocID>
+   <target>WR-02-01-10_n0399.xml#//P[@parID='02725']</target>
+   <secTitle>Notizen. Kunst</secTitle>
+   <divStartID>dsID_2432_00569</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0399.xml#//DIV_END[@divEndID='deID_2432_00567']</divEndPtr>
+   <targetTitle><P part="initial" parID="02725" complete="false"><TAB/><C>Ausstellung der <HYPH1 cont="Vereinigung">Vereini-</HYPH1><LE/>
+<HYPH2>gung</HYPH2> bildender Künstler<LE/>
+Österreichs</C>.</P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>214</rn>
+   <author></author>
+   <title>Hofrath Scala</title>
+   <issue>Nr. 10</issue>
+   <page>S. 399</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0195  </contDocID>
+   <target>WR-02-01-10_n0399.xml#//P[@parID='02728']</target>
+   <secTitle>Notizen. Kunst</secTitle>
+   <divStartID>dsID_2432_00570</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0400.xml#//DIV_END[@divEndID='deID_2432_00568']</divEndPtr>
+   <targetTitle><P part="initial" parID="02728" complete="false"><TAB/><C>Hofrath Scala</C>.</P></targetTitle>
+   <auctores><AUCTOR>—n</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>215</rn>
+   <author></author>
+   <title>Dreyfus</title>
+   <issue>Nr. 6</issue>
+   <page>S. 239</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0197  </contDocID>
+   <target>WR-02-01-06_n0239.xml#//P[@parID='01664']</target>
+   <secTitle>Notizen. Politik, Cultur</secTitle>
+   <divStartID>dsID_2432_00286</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0240.xml#//DIV_END[@divEndID='deID_2432_00284']</divEndPtr>
+   <targetTitle><P part="initial" parID="01664" complete="false"><TAB/><C>Dreyfus</C>.</P></targetTitle>
+   <auctores><AUCTOR>St. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>216</rn>
+   <author></author>
+   <title>Unsere Studenten</title>
+   <issue>Nr. 9</issue>
+   <page>S. 358</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0197  </contDocID>
+   <target>WR-02-01-09_n0358.xml#//P[@parID='02516']</target>
+   <secTitle>Notizen. Politik, Cultur</secTitle>
+   <divStartID>dsID_2432_00548</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0359.xml#//DIV_END[@divEndID='deID_2432_00546']</divEndPtr>
+   <targetTitle><P part="initial" parID="02516" complete="false"><TAB/><C>Unsere Studenten</C>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>217</rn>
+   <author></author>
+   <title>Im Hause der Abgeordneten</title>
+   <issue>Nr. 11</issue>
+   <page>S. 437</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0197  </contDocID>
+   <target>WR-02-01-11_n0437.xml#//P[@parID='02948']</target>
+   <secTitle>Notizen. Politik, Cultur</secTitle>
+   <divStartID>dsID_2432_00585</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-11_n0438.xml#//DIV_END[@divEndID='deID_2432_00583']</divEndPtr>
+   <targetTitle><P part="initial" parID="02948" complete="false"><TAB/><AUCTOR><I>F. R.</I></AUCTOR> <C>Im Hause der <HYPH1 cont="Abgeordneten">Abge-</HYPH1><LE/>
+<HYPH2>ordneten</HYPH2></C> fiel, kaum beachtet, vor<LE/>
+Kurzem ein eigenthümliches Wort.<LE/></P></targetTitle>
+   <auctores><AUCTOR>F. R.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>218</rn>
+   <author></author>
+   <title>Im Lande der Hofräthe</title>
+   <issue>Nr. 12</issue>
+   <page>S. 479</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0197  </contDocID>
+   <target>WR-02-01-12_n0479.xml#//P[@parID='03217']</target>
+   <secTitle>Notizen. Politik, Cultur</secTitle>
+   <divStartID>dsID_2432_00611</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-12_n0480.xml#//DIV_END[@divEndID='deID_2432_00609']</divEndPtr>
+   <targetTitle><P part="initial" parID="03217" complete="false"><TAB/><C>Im Lande der Hofräthe</C>.<LE/></P></targetTitle>
+   <auctores><AUCTOR>f. r.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>219</rn>
+   <author></author>
+   <title>Der Czar</title>
+   <issue>Nr. 20</issue>
+   <page>S. 782</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0197  </contDocID>
+   <target>WR-02-02-20_n0782.xml#//P[@parID='01640']</target>
+   <secTitle>Notizen. Politik, Cultur</secTitle>
+   <divStartID>dsID_2433_00259</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-20_n0782.xml#//DIV_END[@divEndID='deID_2433_00255']</divEndPtr>
+   <targetTitle><P parID="01640" complete="false"><TAB/>Der Czar und sein Minister<LE/>
+Murawiew haben erkannt, dass</P></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>220</rn>
+   <author></author>
+   <title>Politik</title>
+   <issue>Nr. 21</issue>
+   <page>S. 823</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0197  </contDocID>
+   <target>WR-02-02-21_n0823.xml#//TITLE[@titleID='tiID_2433_00143']</target>
+   <secTitle>Notizen. Politik, Cultur</secTitle>
+   <divStartID>dsID_2433_00283</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0823.xml#//DIV_END[@divEndID='deID_2433_00281']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00143"><TITLEPART type="repeated"><U>POLITIK.</U></TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>F. Schik</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>221</rn>
+   <author></author>
+   <title>Hermann Bahr</title>
+   <issue>Nr. 1</issue>
+   <page>S. 39</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0199  </contDocID>
+   <target>WR-02-01-01_n0039.xml#//P[@parID='00186']</target>
+   <secTitle>Notizen. Vorträge</secTitle>
+   <divStartID>dsID_2432_00034</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-01_n0039.xml#//DIV_END[@divEndID='deID_2432_00032']</divEndPtr>
+   <targetTitle><P part="initial" parID="00186" complete="false"><TAB/><C>Hermann Bahr</C></P></targetTitle>
+   <auctores><AUCTOR>G. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>222</rn>
+   <author></author>
+   <title>Moriz von Egidy</title>
+   <issue>Nr. 6</issue>
+   <page>S. 239</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0199  </contDocID>
+   <target>WR-02-01-06_n0239.xml#//P[@parID='01661']</target>
+   <secTitle>Notizen. Vorträge</secTitle>
+   <divStartID>dsID_2432_00285</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-06_n0239.xml#//DIV_END[@divEndID='deID_2432_00283']</divEndPtr>
+   <targetTitle><P part="initial" parID="01661" complete="false"><TAB/><C><ERR sug="Moritz">Moriz</ERR> von Egidy</C>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>223</rn>
+   <author></author>
+   <title>Maximilian Harden</title>
+   <issue>Nr. 7</issue>
+   <page>S. 278</page>
+   <contDoc>WR-02-01-00_i0008.xml </contDoc>
+   <contDocID>0199  </contDocID>
+   <target>WR-02-01-07_n0278.xml#//P[@parID='01987']</target>
+   <secTitle>Notizen. Vorträge</secTitle>
+   <divStartID>dsID_2432_00479</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-07_n0278.xml#//DIV_END[@divEndID='deID_2432_00477']</divEndPtr>
+   <targetTitle><P part="initial" parID="01987" complete="false"><TAB/><C>Maximilian Harden</C>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>224</rn>
+   <author></author>
+   <title>Wenn die Zeitungsschreiber symbolistisch werden</title>
+   <issue>Nr. 9</issue>
+   <page>S. 359</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0201  </contDocID>
+   <target>WR-02-01-09_n0359.xml#//P[@parID='02521']</target>
+   <secTitle>Notizen. Literarisches</secTitle>
+   <divStartID>dsID_2432_00549</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-09_n0360.xml#//DIV_END[@divEndID='deID_2432_00548']</divEndPtr>
+   <targetTitle><P part="initial" parID="02521" complete="false"><TAB/><C>Wenn die <HYPH1 cont="Zeitungsschreiber">Zeitungsschrei-</HYPH1><LE/>
+<HYPH2>ber</HYPH2> symbolistisch werden.</C></P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>225</rn>
+   <author></author>
+   <title>Der Berliner socialdemokratische »Vorwärts«</title>
+   <issue>Nr. 10</issue>
+   <page>S. 400</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0201  </contDocID>
+   <target>WR-02-01-10_n0400.xml#//P[@parID='02732']</target>
+   <secTitle>Notizen. Literarisches</secTitle>
+   <divStartID>dsID_2432_00571</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-10_n0400.xml#//DIV_END[@divEndID='deID_2432_00569']</divEndPtr>
+   <targetTitle><P part="initial" parID="02732" complete="false"><TAB/><C>Der Berliner <HYPH1 cont="socialdemokratische">sozialde-</HYPH1><LE/>
+<HYPH2>mokratische</HYPH2> »Vorwärts«</C><LE/></P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>226</rn>
+   <author></author>
+   <title>Blind, Ranzoni, Thaler, Jordan</title>
+   <issue>Nr. 11</issue>
+   <page>S. 437</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0201  </contDocID>
+   <target>WR-02-01-11_n0437.xml#//P[@parID='02945']</target>
+   <secTitle>Notizen. Literarisches</secTitle>
+   <divStartID>dsID_2432_00584</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-01-11_n0437.xml#//DIV_END[@divEndID='deID_2432_00582']</divEndPtr>
+   <targetTitle><P part="initial" parID="02945" complete="false"><TAB/><C>Blind</C>, <C>Ranzoni</C>, <C>Thaler</C>,<LE/>
+<C>Jordan</C>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>227</rn>
+   <author></author>
+   <title>Chronik</title>
+   <issue>Nr. 13</issue>
+   <page>S. 517</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0201  </contDocID>
+   <target>WR-02-02-13_n0517.xml#//TITLE[@titleID='tiID_2433_00019']</target>
+   <secTitle>Notizen. Literarisches</secTitle>
+   <divStartID>dsID_2433_00015</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-13_n0517.xml#//DIV_END[@divEndID='deID_2433_00014']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2433_00019"><TITLEPART type="repeated"><U>CHRONIK.</U></TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>228</rn>
+   <author></author>
+   <title>Literarische Notizen in der Tagespresse</title>
+   <issue>Nr. 20</issue>
+   <page>S. 784</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0201  </contDocID>
+   <target>WR-02-02-20_n0784.xml#//P[@parID='01657']</target>
+   <secTitle>Notizen. Literarisches</secTitle>
+   <divStartID>dsID_2433_00264</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-20_n0784.xml#//DIV_END[@divEndID='deID_2433_00260']</divEndPtr>
+   <targetTitle><P part="initial" parID="01657" complete="false"><TAB/><SPC>Literarische Notizen in der<LE/>
+Tagespresse</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>Stefan Grossmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>229</rn>
+   <author></author>
+   <title>Stéphane Mallarmé</title>
+   <issue>Nr. 21</issue>
+   <page>S. 823</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0201  </contDocID>
+   <target>WR-02-02-21_n0823.xml#//P[@parID='01820']</target>
+   <secTitle>Notizen. Literarisches</secTitle>
+   <divStartID>dsID_2433_00286</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-21_n0824.xml#//DIV_END[@divEndID='deID_2433_00282']</divEndPtr>
+   <targetTitle><P parID="01820"><TAB/><SPC>Stéphane Mallarmé</SPC> <SYMBOL type="died"/>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>230</rn>
+   <author></author>
+   <title>Herr Nordau</title>
+   <issue>Nr. 22</issue>
+   <page>S. 863</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0201  </contDocID>
+   <target>WR-02-02-22_n0863.xml#//P[@parID='02001']</target>
+   <secTitle>Notizen. Literarisches</secTitle>
+   <divStartID>dsID_2433_00304</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-22_n0864.xml#//DIV_END[@divEndID='deID_2433_00300']</divEndPtr>
+   <targetTitle><P part="initial" parID="02001" complete="false"><TAB/><SPC>Herr Nordau</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>st. gr.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>231</rn>
+   <author></author>
+   <title>Von der Wiener Kritik</title>
+   <issue>Nr. 23</issue>
+   <page>S. 903</page>
+   <contDoc>WR-02-01-00_i0008.xml  </contDoc>
+   <contDocID>0201  </contDocID>
+   <target>WR-02-02-23_n0903.xml#//P[@parID='02239']</target>
+   <secTitle>Notizen. Literarisches</secTitle>
+   <divStartID>dsID_2433_00323</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-02-02-23_n0904.xml#//DIV_END[@divEndID='deID_2433_00320']</divEndPtr>
+   <targetTitle><P part="initial" parID="02239" complete="false"><TAB/><SPC>Von der Wiener Kritik</SPC>.<LE/></P></targetTitle>
+   <auctores><AUCTOR>st gr.</AUCTOR></auctores>
+</ci>
+
+</root>

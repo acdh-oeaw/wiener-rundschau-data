@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-21_n0797.xml</PREV>
+<NEXT>WR-02-02-21_n0799.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 798</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>9</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">798</LTEXT><CTEXT>GRAF.</CTEXT></HD>
+<P part="final" parID="01707">einmal eine Reihe von heiteren Liedern, von h&#xF6;chstem, intensivsten<LE/>
+Leben erf&#xFC;llt, voll von leichtem Blut und lebhaftem Athem und<LE/>
+hat viel Heiterkeit und Lachen um sich her verbreitet. M&#xE4;nner<LE/>
+von Geist und Witz, wie Nestroy, waren seine ersten classischen<LE/>
+Interpreten; das alte Wien mit seinen Glacis und Kaffeeg&#xE4;rtchen,<LE/>
+und seiner engen begrenzten, vom Takte Lanner&#x2019;scher und <HYPH1 cont="Straussscher">Strauss-</HYPH1><LE/>
+<HYPH2>scher</HYPH2> Walzer bewegten Welt war sein Podium. Deshalb d&#xFC;rfen<LE/>
+wir nur sagen, dass es einmal eine Periode des Wiener Couplets<LE/>
+gegeben hat, von der ihre Zeitgenossen sagen, dass es &#xC4;hnliches an<LE/>
+Witz, Heiterkeit und Vergn&#xFC;gen in unserer Zeit nicht mehr g&#xE4;be.</P>
+<P parID="01708"><TAB/>Die Verschiebung, welche von der <DATERANGE>Mitte der Sechziger-Jahre</DATERANGE><LE/>
+an im Besitzstand der Wiener Gesellschaft eingetreten ist, hat eine<LE/>
+neue Form des Wiener Couplets zur Bl&#xFC;te gebracht, welche eine<LE/>
+sehr sonderbare und eigenth&#xFC;mliche Geschichte hat. An die Stelle<LE/>
+der alten, beschr&#xE4;nkten und liebensw&#xFC;rdigen b&#xFC;rgerlichen <HYPH1 cont="Gesellschaft">Gesell-</HYPH1><LE/>
+<HYPH2>schaft</HYPH2> des alten Wien tritt in den Jahren <DATERANGE>1860&#x2014;1873</DATERANGE> eine ganz<LE/>
+neue Gesellschaft des Finanzadels, der industriell und gesch&#xE4;ftlich<LE/>
+Arrivierten und der mit diesen verbundenen alten Wiener <HYPH1 cont="Aristokratie">Aristo-</HYPH1><LE/>
+<HYPH2>kratie</HYPH2>. Eine Gesellschaft von Reichthum, kosmopolitischer Haltung,<LE/>
+Vergn&#xFC;gungssucht und wie jede Empork&#xF6;mmlingskaste mit Energie<LE/>
+darauf bedacht, von dem neugewonnenen Boden Besitz zu nehmen.<LE/>
+Je weniger sie durch Cultur und Tradition mit dem Wiener Boden<LE/>
+zusammenhieng, desto gr&#xF6;sser war die Sehnsucht, sich rasch alle<LE/>
+Merkmale des Wienerthums anzueignen. Es war das die Zeit des<LE/>
+Heurigenliberalismus. Aristokratie, Finanz- und Gesch&#xE4;ftsadel zog<LE/>
+hinaus zu den Heurigenschenken, verbr&#xFC;derte sich mit <HYPH1 cont="Kunstpfeifern">Kunst-</HYPH1><LE/>
+<HYPH2>pfeifern</HYPH2> und Naturs&#xE4;ngern, zog Kleid und St&#xF6;sser des <HYPH1 cont="Fiakerkutschers">Fiaker-</HYPH1><LE/>
+<HYPH2>kutschers</HYPH2> an, und von den h&#xF6;chsten Kreisen an war alles stolz, mit<LE/>
+diesen edelsten Vertretern des Naturwiener-Cavalierthums <HYPH1 cont="Freundschaft">Freund-</HYPH1><LE/>
+<HYPH2>schaft</HYPH2> zu schliessen. Da entstanden die wundervollen Verse, welche<LE/>
+in alle Welt als Wiener Couplet hinausflogen, vom goldnen Wiener<LE/>
+Herzen, von der goldnen Wienerin, vom goldnen Stefansdom,<LE/>
+von der goldnen Gem&#xFC;thlichkeit, und wenn in diesem goldenen<LE/>
+Wiener Dusel vom Prinzen bis zum Fiaker alles betrunken war,<LE/>
+dann ert&#xF6;nte der herrliche Rundgesang:</P>
+<DIV_START author="(other)" cat="song" type="verse" divStartID="dsID_2433_00274" endPtr="WR-02-02-21_n0798.xml#//DIV_END[@divEndID='deID_2433_00271']"/>
+<LG parID="01709"><LANG iso="de-loc"><L>&#xBB;Menschen, Menschen san mir alle,</L>
+<L>Fehler hat ein jeder gnua,</L>
+<L>&#x2019;s k&#xF6;nnen ja nicht alle gleich sein,</L>
+<L>Ist schon so von der Natua.&#xAB;</L></LANG></LG>
+<DIV_END divEndID="deID_2433_00271" startPtr="WR-02-02-21_n0798.xml#//DIV_START[@divStartID='dsID_2433_00274']"/>
+</PAGE>

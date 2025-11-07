@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-07_n0242.xml</PREV>
+<NEXT>WR-02-01-07_n0244.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 243</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>DER B&#xC4;R.</CTEXT><RTEXT type="pn">243</RTEXT></HD>
+<P part="final" parID="01691">dann erl&#xF6;schen, wenn mein armes Herz aufgeh&#xF6;rt haben wird, zu<LE/>
+schlagen. <SD>(Lacht mit Thr&#xE4;nen.)</SD> Und du sch&#xE4;mst dich gar nicht? Ich bin<LE/>
+artig, bin ein treues Frauchen, habe mich eingeschlossen und werde<LE/>
+dir bis ans Grab treu bleiben, du aber <SYMBOL type="3dots"/> und du sch&#xE4;mst dich gar<LE/>
+nicht, Kleiner? Warst mir untreu, warst aufbrausend, liessest mich<LE/>
+wochenlang allein <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2432_00302" startPtr="WR-02-01-07_n0242.xml#//DIV_START[@divStartID='dsID_2432_00305']"/>
+<DIV_END divEndID="deID_2432_00303" startPtr="WR-02-01-07_n0242.xml#//DIV_START[@divStartID='dsID_2432_00304']"/>
+<DIV_START cat="scene" divStartID="dsID_2432_00306" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00311']"/>
+<TITLE titleID="tiID_2432_00081"><TITLEPART type="enum">III.</TITLEPART></TITLE>
+<P parID="01692"><SD><SPK><SPC>Frau Popowa</SPC></SPK> und <SPK><SPC>Lukas</SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00307" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00304']"/>
+<P parID="01693"><TAB/><SPK><SPC>Lukas</SPC></SPK> <SD>(tritt ein, aufgeregt)</SD>. Gn&#xE4;dige Frau, Jemand fragt nach<LE/>
+Ihnen, m&#xF6;chte Sie sehen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2432_00304" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00307']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00308" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00305']"/>
+<P parID="01694"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Aber du hast doch gesagt, dass ich seit dem<LE/>
+Tode meines Mannes Niemand empfange?</P>
+<DIV_END divEndID="deID_2432_00305" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00308']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00309" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00306']"/>
+<P parID="01695"><TAB/><SPK><SPC>Lukas</SPC></SPK>. Ja wohl, er achtete aber gar nicht darauf, er sagte, er<LE/>
+komme in einer wichtigen Angelegenheit.</P>
+<DIV_END divEndID="deID_2432_00306" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00309']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00310" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00307']"/>
+<P parID="01696"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Ich <SPAN cont="empfange">em&#x2014;pfan&#x2014;ge</SPAN> nicht!</P>
+<DIV_END divEndID="deID_2432_00307" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00310']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00311" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00308']"/>
+<P parID="01697"><TAB/><SPK><SPC>Lukas</SPC></SPK>. Ich hab&#x2019;s ihm ja gesagt, aber <SYMBOL type="3dots"/> das ist so ein Teufel <SYMBOL type="3dots"/><LE/>
+er schimpfte und trat mit Gewalt ins Zimmer <SYMBOL type="3dots"/> er steht schon im<LE/>
+Speisezimmer <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2432_00308" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00311']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00312" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00309']"/>
+<P parID="01698"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK> <SD>(aufgebracht)</SD>. Gut, ich bitte <SYMBOL type="3dots"/> Welch grobe<LE/>
+Menschen!</P>
+<DIV_END divEndID="deID_2432_00309" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00312']"/>
+<P parID="01699"><SD>(Lukas ab.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00313" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00310']"/>
+<P parID="01700"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Wie unertr&#xE4;glich sind doch die Menschen! Was<LE/>
+wollen sie von mir? Weshalb suchen sie mir meine Ruhe zu rauben?<LE/>
+<SD>(Seufzt.)</SD> Nein, allem Anschein nach werde ich mich gezwungen f&#xFC;hlen,<LE/>
+ins Kloster zu treten <SYMBOL type="3dots"/> <SD>(Wird nachdenklich.)</SD> Ja, ins Kloster <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2432_00310" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00313']"/>
+<DIV_END divEndID="deID_2432_00311" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00306']"/>
+<DIV_START cat="scene" divStartID="dsID_2432_00314" endPtr="WR-02-01-07_n0244.xml#//DIV_END[@divEndID='deID_2432_00334']"/>
+<TITLE titleID="tiID_2432_00082"><TITLEPART type="enum">IV.</TITLEPART></TITLE>
+<P parID="01701"><SD><SPK><SPC>Frau Popowa</SPC></SPK>, <SPK><SPC>Lukas</SPC></SPK> und <SPK><SPC>Smyrnow</SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00315" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00312']"/>
+<P parID="01702"><TAB/><SPK><SPC>Smyrnow</SPC></SPK> <SD>(eintretend, zu Lukas)</SD>. Dummkopf, du liebst es, viel zu<LE/>
+schwatzen <SYMBOL type="3dots"/> Esel! <SD>(Frau Popowa erblickend, sagt w&#xFC;rdevoll.)</SD> Gn&#xE4;dige Frau,<LE/>
+habe die Ehre mich vorzustellen: Reservelieutenant, Gutsbesitzer Grigorji<LE/>
+Stepanowitsch Smyrnow. Bin gen&#xF6;thigt, Sie eines wichtigen Gesch&#xE4;ftes<LE/>
+wegen zu bel&#xE4;stigen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2432_00312" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00315']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00316" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00313']"/>
+<P parID="01703"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK> <SD>(ohne die Hand zu reichen)</SD>. Was w&#xFC;nschen Sie?</P>
+<DIV_END divEndID="deID_2432_00313" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00316']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00317" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00314']"/>
+<P parID="01704"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Von Ihrem seligen Herrn Gemahl, mit dem ich die<LE/>
+Ehre hatte, bekannt zu sein, sind mir zwei Wechsel im Werthe von<LE/>
+tausendzweihundert Rubel ausgestellt worden. Da ich morgen Zinsen in<LE/>
+die Agrarbank zahlen muss, so m&#xF6;chte ich Sie, gn&#xE4;dige Frau, bitten,<LE/>
+mir das Geld heute einzuh&#xE4;ndigen.</P>
+<DIV_END divEndID="deID_2432_00314" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00317']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00318" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00315']"/>
+<P parID="01705"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. <SPAN sug="Tausendzweihundert">Tausendzweihund...</SPAN> Wof&#xFC;r blieb Ihnen mein<LE/>
+Mann schuldig?</P>
+<DIV_END divEndID="deID_2432_00315" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00318']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00319" endPtr="WR-02-01-07_n0243.xml#//DIV_END[@divEndID='deID_2432_00316']"/>
+<P parID="01706"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Er kaufte bei mir Hafer.</P>
+<DIV_END divEndID="deID_2432_00316" startPtr="WR-02-01-07_n0243.xml#//DIV_START[@divStartID='dsID_2432_00319']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00320" endPtr="WR-02-01-07_n0244.xml#//DIV_END[@divEndID='deID_2432_00317']"/>
+<P part="initial" parID="01707"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK> <SD>(seufzend, zu Lukas)</SD>. Lukas, vergiss also nicht zu<LE/>
+sagen, dass man dem Tobby ein Mass Hafer mehr geben soll. <SD>(Lukas<LE/>
+ab. Zu Smyrnow.)</SD> Wenn Nicolaus Iwanowitsch Ihnen schuldig blieb, so</P>
+</PAGE>

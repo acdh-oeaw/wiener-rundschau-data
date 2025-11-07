@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-15_n0600.xml</PREV>
+<NEXT>WR-01-02-16_n0602.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 16, S. 601</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>7</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2398_00061" endPtr="WR-01-02-16_n0640.xml#//DIV_END[@divEndID='deID_2398_00137']"/>
+<DIV_START cat="masthead" divStartID="dsID_2398_00062" endPtr="WR-01-02-16_n0601.xml#//DIV_END[@divEndID='deID_2398_00061']"/>
+<P parID="00856"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00857"><B><DATE>1. <SPC>JULI</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2398_00061" startPtr="WR-01-02-16_n0601.xml#//DIV_START[@divStartID='dsID_2398_00062']"/>
+<DIV_START type="performance" divStartID="dsID_2398_00063" endPtr="WR-01-02-16_n0607.xml#//DIV_END[@divEndID='deID_2398_00118']"/>
+<TITLE titleID="tiID_2398_00045"><TITLEPART type="main">QUINTIN MESSIS.*)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Ferdinand K&#xFC;rnberger</C></AUCTOR> (Wien).</TITLEPART></TITLE>
+<DIV_START cat="act" divStartID="dsID_2398_00064" endPtr="WR-01-02-16_n0607.xml#//DIV_END[@divEndID='deID_2398_00117']"/>
+<TITLE titleID="tiID_2398_00046"><TITLEPART>IV. AUFZUG.</TITLEPART></TITLE>
+<P parID="00858"><SD>Im Hause Hildebald&#x2019;s in K&#xF6;ln.</SD></P>
+<DIV_START cat="scene" divStartID="dsID_2398_00065" endPtr="WR-01-02-16_n0605.xml#//DIV_END[@divEndID='deID_2398_00082']"/>
+<TITLE titleID="tiID_2398_00047"><TITLEPART>1. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="00859"><SD><SPC>Hildebald</SPC>. <SPC>Memling</SPC>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2398_00066" endPtr="WR-01-02-16_n0601.xml#//DIV_END[@divEndID='deID_2398_00062']"/>
+<P parID="00860"><TAB/><SPK><SPC>Memling</SPC></SPK>. Gott zum Gruss, theuerster Freund! Ihr habt mich<LE/>
+rufen lassen, was ist Euer Begehr?</P>
+<DIV_END divEndID="deID_2398_00062" startPtr="WR-01-02-16_n0601.xml#//DIV_START[@divStartID='dsID_2398_00066']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00067" endPtr="WR-01-02-16_n0602.xml#//DIV_END[@divEndID='deID_2398_00063']"/>
+<P part="initial" parID="00861"><TAB/><SPK><SPC>Hildebald</SPC></SPK>. Willkommen, Meister Memling, willkommen! Setzt<LE/>
+Euch. &#x2014; Ihr wisst, die K&#xF6;lner Kaufmannschaft sendet mich als ihren<LE/>
+Senior in Gesch&#xE4;ften der Hansa nach Gross-Nowgorod. Das ist eine<LE/>
+Reise wie ans Ende der Welt, und wohl bedenke Jeder sein Haus zu<LE/>
+bestellen, der sie antritt. Nun stehen aber die Sachen in meinem Hause<LE/>
+so: Dagobert, Euer Sch&#xFC;ler, liebt meine Tochter Dorothea und bewirbt</P>
+<HR/>
+<FN>
+<P parID="00862"><TAB/>*) Es ist eine sehr eigenth&#xFC;mliche Erscheinung, dass Ferdinand <HYPH1 cont="K&#xFC;rnberger"><SPC>K&#xFC;rn</SPC>-</HYPH1><LE/>
+<HYPH2><SPC>berger</SPC></HYPH2>, der gleich mit seinem ersten Romane &#xBB;Der Amerikam&#xFC;de&#xAB; (<DATE>1856</DATE>) sich<LE/>
+eine schriftstellerische Position ersten Ranges erworben, der als feinsinniger<LE/>
+Novellist von den Besten anerkannt wurde, und dessen geistspr&#xFC;hende Feuilletons<LE/>
+(&#xBB;Siegelringe&#xAB;, &#xBB;Literarische Herzenssachen&#xAB;) von den feinsten literarischen K&#xF6;pfen<LE/>
+zu den besten Hervorbringungen dieser Art gez&#xE4;hlt werden, es trotz &#xBB;heissem<LE/>
+Bem&#xFC;hen&#xAB; nicht dahin bringen konnte, das Theater zu erobern. Mit Ausnahme<LE/>
+des &#xBB;Firdusi&#xAB;, der es auf der M&#xFC;nchener Hofb&#xFC;hne zu einigen schlecht besuchten<LE/>
+Vorstellungen brachte, blieb ihm die B&#xFC;hne verschlossen.</P>
+<P parID="00863"><TAB/>Im Jahre <DATE>1848</DATE> hatte <SPC>K&#xFC;rnberger</SPC> der Direction des Burgtheaters ein <HYPH1 cont="f&#xFC;nfactiges">f&#xFC;nf-</HYPH1><LE/>
+<HYPH2>actiges</HYPH2> Schauspiel &#xBB;Quintin Messis&#xAB; eingereicht. Director Franz von <SPC>Holbein</SPC><LE/>
+begr&#xFC;sste das St&#xFC;ck, in welchem er &#xBB;feine Goethe&#x2019;sche Z&#xFC;ge&#xAB; erkannte, &#xBB;mit<LE/>
+inniger Seelenfreude&#xAB;, er liess es einstudiren, im <DATE>August 1849</DATE> war sogar der Tag<LE/>
+der Auff&#xFC;hrung im gedruckten Wochen-Repertoire verzeichnet, als es in letzter<LE/>
+Stunde abgesetzt und zur&#xFC;ckgelegt wurde, da sich die Schauspieler keinen Erfolg<LE/>
+damit versprachen.</P>
+<P part="initial" parID="00864"><TAB/><SPC>K&#xFC;rnberger</SPC>&#x2019;s Freunde Leopold <SPC>Kompert</SPC> und Ludwig August <SPC>Frankl</SPC><LE/>
+waren anderer Meinung. Nach ihrer Anschauung ist &#xBB;Quintin Messis&#xAB; zur&#xFC;ckgelegt</P>
+</FN>
+</PAGE>

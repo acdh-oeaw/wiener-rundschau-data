@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-08_n0291.xml</PREV>
+<NEXT>WR-02-01-08_n0293.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 8, S. 292</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2432_00487" endPtr="WR-02-01-08_n0292.xml#//DIV_END[@divEndID='deID_2432_00486']"/>
+<TITLE titleID="tiID_2432_00100"><TITLEPART>FELDW&#xC4;RTS.</TITLEPART></TITLE>
+<LG parID="02060"><L><IN>Die</IN> Herbstnacht ist von Sternen klar,</L>
+<L>Dort liegt sein Haus. Mir weht ein tr&#xFC;ber</L>
+<L>Erinnrungshauch um Stirn und Haar.</L>
+<L>Er kannte Freundschaft nicht. Vor&#xFC;ber!</L></LG>
+<LG parID="02061"><L>Ich zeigte ihm ein Bild, das leis&#x2019;</L>
+<L>Noch zuckt auf meinem Seelengrunde:</L>
+<L>Ihr Bild. Da lachte er sein Eis</L>
+<L>In meine halbvernarbte Wunde.</L></LG>
+<LG parID="02062"><L>Er wusste doch, wie weh das schnitt!</L>
+<L>Ich horche, Nacht wogt auf den Wegen,</L>
+<L>Und schreite feldw&#xE4;rts, Schritt f&#xFC;r Schritt</L>
+<L>Der neuen Einsamkeit entgegen.</L></LG>
+<P parID="02063">M&#xFC;nchen. <AUCTOR><C>Emanuel von Bodman</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2432_00486" startPtr="WR-02-01-08_n0292.xml#//DIV_START[@divStartID='dsID_2432_00487']"/>
+</PAGE>

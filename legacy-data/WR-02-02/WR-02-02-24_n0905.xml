@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-23_n0904.xml</PREV>
+<NEXT>WR-02-02-24_n0906.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 905</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2433_00326" endPtr="WR-02-02-24_n0944.xml#//DIV_END[@divEndID='deID_2433_00625']"/>
+<DIV_START cat="masthead" divStartID="dsID_2433_00327" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00326']"/>
+<P parID="02247"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02248"><B><DATE>1. <SPC>NOVEMBER</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2433_00326" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00327']"/>
+<DIV_START type="performance" divStartID="dsID_2433_00328" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00611']"/>
+<TITLE titleID="tiID_2433_00166"><TITLEPART>(Den B&#xFC;hnen gegen&#xFC;ber Manuscript.)</TITLEPART><LE/>
+<TITLEPART type="main"><SPC>DIE MONDSCHEINSONATE</SPC>.</TITLEPART><LE/>
+<TITLEPART type="desc">Kom&#xF6;die in einem Act von <AUCTOR>LUDWIG WOLFF</AUCTOR> (Wien).</TITLEPART></TITLE>
+<DIV_START cat="persList" divStartID="dsID_2433_00329" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00327']"/>
+<TITLE titleID="tiID_2433_00167"><TITLEPART><SPC>Personen</SPC>:</TITLEPART></TITLE>
+<TABLE parID="02249"><ROW ciID="0035"><CELL>
+<PERS><SPC>Frau Klein</SPC>.</PERS><LE/>
+<GRPDESCR><LE/>
+<TABLE parID="02250"><ROW ciID="0036"><CELL>
+<BRAC pos="right" type="curly">
+<PERS><SPC>Grete</SPC>,</PERS><LE/>
+<PERS><SPC>Rosa</SPC>,</PERS><LE/>
+</BRAC>
+</CELL><CELL>
+<PERSGRP>ihre T&#xF6;chter.</PERSGRP><LE/>
+</CELL></ROW></TABLE>
+</GRPDESCR><LE/>
+</CELL><CELL>
+<PERS><SPC>Isidor Klein</SPC>, ihr Neffe.</PERS><LE/>
+<PERS><SPC>Armin Stransky</SPC>.</PERS><LE/>
+<PERS><SPC>Lisi</SPC>, Dienstm&#xE4;dchen.</PERS><LE/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2433_00327" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00329']"/>
+<DIV_START cat="act" divStartID="dsID_2433_00330" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00610']"/>
+<P parID="02251"><SD>Zimmer bei Kleins. Abend. H&#xE4;ngelampe. Ein Pianino, eine Credenz. Links<LE/>
+vom Zuschauer eine Th&#xFC;re zu einem Cabinet, rechts zu einem Zimmer. Das<LE/>
+ganze Zimmer blank geputzt und mit allerlei Deckchen und Tischt&#xFC;chern<LE/>
+geschm&#xFC;ckt.</SD></P>
+<DIV_START cat="scene" divStartID="dsID_2433_00331" endPtr="WR-02-02-24_n0906.xml#//DIV_END[@divEndID='deID_2433_00347']"/>
+<TITLE titleID="tiID_2433_00168"><TITLEPART>1. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="02252"><SD>Grete und Lisi decken den Tisch.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2433_00332" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00328']"/>
+<P parID="02253"><TAB/><SPK><SPC>Grete</SPC></SPK>. Sie haben ja den Tischl&#xE4;ufer vergessen, Lisi.</P>
+<DIV_END divEndID="deID_2433_00328" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00332']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00333" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00329']"/>
+<P parID="02254"><TAB/><SPK><SPC>Lisi</SPC></SPK>. <LANG iso="de-loc">No, no, i hab&#x2019; net g&#x2019;wusst, dass heut&#x2019; so nobel wird.</LANG> <SD>(Holt<LE/>
+den Tischl&#xE4;ufer).</SD></P>
+<DIV_END divEndID="deID_2433_00329" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00333']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00334" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00330']"/>
+<P parID="02255"><TAB/><SPK><SPC>Grete</SPC></SPK>. <LANG iso="de-loc">Und i bitt&#x2019; Sie, Lisi, binden Sie sich ein weisses<LE/>
+Sch&#xFC;rzerl um.</LANG></P>
+<DIV_END divEndID="deID_2433_00330" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00334']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00335" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00331']"/>
+<P parID="02256"><TAB/><SPK><SPC>Lisi</SPC></SPK>. <LANG iso="de-loc">Woher nehmen und net stehl&#x2019;n. Bei zehn Gulden Lohn<LE/>
+sammt&#x2019;n Nachtmahlgeld kann ma sich kane weisse Sch&#xFC;rzerl vergunna.</LANG></P>
+<DIV_END divEndID="deID_2433_00331" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00335']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00336" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00332']"/>
+<P parID="02257"><TAB/><SPK><SPC>Grete</SPC></SPK>. Ich leihe Ihnen eine von mir.</P>
+<DIV_END divEndID="deID_2433_00332" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00336']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00337" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00333']"/>
+<P parID="02258"><TAB/><SPK><SPC>Lisi</SPC></SPK>. Nachher ja. <SD>(Vertraulich.)</SD> Heut geht&#x2019;s los, was?</P>
+<DIV_END divEndID="deID_2433_00333" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00337']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00338" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00334']"/>
+<P parID="02259"><TAB/><SPK><SPC>Grete</SPC></SPK>. Reden Sie doch nicht solchen Unsinn.</P>
+<DIV_END divEndID="deID_2433_00334" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00338']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00339" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00335']"/>
+<P parID="02260"><TAB/><SPK><SPC>Lisi</SPC></SPK>. <LANG iso="de-loc">&#x2019;s is do nix dabei, Fr&#xE4;ul&#x2019;n.</LANG></P>
+<DIV_END divEndID="deID_2433_00335" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00339']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00340" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00336']"/>
+<P parID="02261"><TAB/><SPK><SPC>Grete</SPC></SPK> <SD>(nimmt aus einem Kasten eine Sch&#xFC;rze, die sie dem M&#xE4;dchen<LE/>
+gibt)</SD>. <LANG iso="de-loc">So, da hab&#x2019;n &#x2019;s.</LANG></P>
+<DIV_END divEndID="deID_2433_00336" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00340']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00341" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00337']"/>
+<P parID="02262"><TAB/><SPK><SPC>Lisi</SPC></SPK>. <LANG iso="de-loc">I dank&#x2019; sch&#xF6;n.</LANG> <SD>(Bindet die Sch&#xFC;rze um.)</SD> <LANG iso="de-loc">A feine Sch&#xFC;rz&#x2019;n! Net<LE/>
+wahr, Fr&#xE4;ul&#x2019;n Grete, wenn&#x2019;s heut einig wer&#x2019;n, g&#x2019;h&#xF6;rt d&#x2019; Sch&#xFC;rzen mein.</LANG></P>
+<DIV_END divEndID="deID_2433_00337" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00341']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00342" endPtr="WR-02-02-24_n0905.xml#//DIV_END[@divEndID='deID_2433_00338']"/>
+<P parID="02263"><TAB/><SPK><SPC>Grete</SPC></SPK>. Ach was, schw&#xE4;tzen Sie nicht, ich schenk&#x2019; sie Ihnen<LE/>
+auch so.</P>
+<DIV_END divEndID="deID_2433_00338" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00342']"/>
+</PAGE>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-08_n0320.xml</PREV>
+<NEXT>WR-02-01-09_n0322.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 321</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00500" endPtr="WR-02-01-09_n0360.xml#//DIV_END[@divEndID='deID_2432_00551']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00501" endPtr="WR-02-01-09_n0321.xml#//DIV_END[@divEndID='deID_2432_00500']"/>
+<P parID="02284"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02285"><B><DATE>15. <SPC>M&#xC4;RZ</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00500" startPtr="WR-02-01-09_n0321.xml#//DIV_START[@divStartID='dsID_2432_00501']"/>
+<DIV_START divStartID="dsID_2432_00502" endPtr="WR-02-01-09_n0327.xml#//DIV_END[@divEndID='deID_2432_00501']"/>
+<TITLE titleID="tiID_2432_00107"><TITLEPART type="main"><SPC>WIE JONAS LIE LEBT UND DICHTET</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Arne Garborg</C></AUCTOR> (Hvalstad).</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Marie Herzfeld</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE>
+<P parID="02286"><TAB/>Seit <DATE>1882</DATE> wohnt Jonas Lie in Paris, einer Stadt, die er lieben<LE/>
+gelernt hat.</P>
+<P parID="02287"><TAB/>Nur im Sommer wird es ihm dort zu heiss; dann zieht er nach<LE/>
+Berchtesgaden, einer kleinen Hochgebirgsstadt in S&#xFC;dbayern. Da hat<LE/>
+er nun seit elf Jahren seine Sommerresidenz.</P>
+<P part="initial" parID="02288"><TAB/>In Reisebriefen aus Deutschland schildert er mit Begeisterung<LE/>
+&#xAB;den sch&#xF6;nen, von W&#xE4;ldern umkr&#xE4;nzten und in all seiner berggrossen<LE/>
+Herrlichkeit so sehr an die Heimat erinnernden&#xAB; Ort. &#xBB;Der Markt<LE/>
+liegt gegen 2000 Fuss hoch. Die Fjeldluft duftet den ersten Tag fast<LE/>
+bet&#xE4;ubend von w&#xFC;rzigen Alpenkr&#xE4;utern und von all dem neugem&#xE4;hten<LE/>
+Gras, das frisch und fett zur Sonnend&#xF6;rrung &#xFC;ber den Wiesen liegt.<LE/>
+Vor meinem mit Weinlaub gedeckten Balkon breitet sich das <HYPH1 cont="K&#xF6;nigseethal">K&#xF6;nigsee-</HYPH1><LE/>
+<HYPH2>thal</HYPH2> mit seinem Gewimmel malerischer Berg- und Waldlinien, und<LE/>
+rundherum schlagen die Salzburger Alpen einen Ring von Bergen<LE/>
+mit gr&#xFC;nen Seiten und gezackten, schwindelerregenden, zum Theil<LE/>
+schneebedeckten Zinken von 6000&#x2014;8000 Fuss H&#xF6;he. Mit dem Opernglas<LE/>
+sehen wir von unten her die Gemsen auf dem Watzmann droben<LE/>
+&#xFC;ber die Schneefelder gehen. Zwei, drei B&#xFC;chsensch&#xFC;sse unter dem<LE/>
+Hause str&#xF6;men durch Tannenwald und gr&#xFC;ne Grashalden ein paar<LE/>
+breite, eiskalte, milchblaue, im Sonngeglitzer smaragdgr&#xFC;ne <LANG iso="undefined">J&#xF6;kulelve</LANG>,<LE/>
+in denen man die Forellen als hastige Schatten &#xFC;ber den Steingrund<LE/>
+hin kann huschen sehen.&#xAB; <SYMBOL type="3dots"/> &#xBB;Ueberall Waldessausen und <HYPH1 cont="B&#xE4;chebrausen">B&#xE4;che-</HYPH1><LE/>
+<HYPH2>brausen</HYPH2>! &#x2014; Und auf der Landstrasse, jenseits unseres vom Gr&#xFC;n halb<LE/>
+&#xFC;berwachsenen, kalkweissen Hauses, saust noch ein Strom: der Reisenden<LE/>
+unabl&#xE4;ssiger Wagenzug niederw&#xE4;rts zum K&#xF6;nigsee. Und zwischen den</P>
+</PAGE>

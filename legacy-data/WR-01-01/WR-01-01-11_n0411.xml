@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-11_n0410.xml</PREV>
+<NEXT>WR-01-01-11_n0412.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 411</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00525" endPtr="WR-01-01-11_n0411.xml#//DIV_END[@divEndID='deID_2397_00526']"/>
+<TITLE titleID="tiID_2397_00161"><TITLEPART><SPC>LIEDER</SPC>.</TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2397_00526" endPtr="WR-01-01-11_n0411.xml#//DIV_END[@divEndID='deID_2397_00524']"/>
+<TITLE titleID="tiID_2397_00162"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="02963"><L><IN>Ich</IN> will beneidet sein und lachend schreiten</L>
+<L>Durch die vergr&#xE4;mte, lichtentw&#xF6;hnte Schar;</L>
+<L>Aus meiner Stimme zittern Seligkeiten;</L>
+<L>Aus meinen Augen leuchtet&#x2019;s flammenklar.</L></LG>
+<LG parID="02964"><L>Blickt her, ihr Kampfesm&#xFC;den, Freudelosen!</L>
+<L>Ich trage jauchzend einen Kranz im Haar</L>
+<L>Von scharfen Dornen und von rothen Rosen!</L></LG>
+<DIV_END divEndID="deID_2397_00524" startPtr="WR-01-01-11_n0411.xml#//DIV_START[@divStartID='dsID_2397_00526']"/>
+<DIV_START type="verse" divStartID="dsID_2397_00527" endPtr="WR-01-01-11_n0411.xml#//DIV_END[@divEndID='deID_2397_00525']"/>
+<TITLE titleID="tiID_2397_00163"><TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="02965"><L>Lehr&#x2019; mich vergessen, lehre mich versinken</L>
+<L>In eine tiefe, stille Seligkeit;</L>
+<L>Ich will den Hauch von deinen Lippen trinken,</L>
+<L>Der mich erl&#xF6;st, der mir den Glauben leiht.</L></LG>
+<LG parID="02966"><L>O, lehr&#x2019; mich glauben, dass in fernen Tagen</L>
+<L>Ein Strahl uns bleibt von dieser Sonnenzeit, &#x2014;</L>
+<L>Nur ein Erinnern, nur ein leises Fragen &#x2014; &#x2014; &#x2014;</L></LG>
+<DIV_END divEndID="deID_2397_00525" startPtr="WR-01-01-11_n0411.xml#//DIV_START[@divStartID='dsID_2397_00527']"/>
+<P parID="02967">Wien. <AUCTOR><C>Paul Althof</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00526" startPtr="WR-01-01-11_n0411.xml#//DIV_START[@divStartID='dsID_2397_00525']"/>
+</PAGE>

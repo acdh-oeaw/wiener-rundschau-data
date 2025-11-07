@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-21_n0512.xml</PREV>
+<NEXT>WR-03-02-22_n0514.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 22, S. 513</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2434_01141" endPtr="WR-03-02-22_n0536.xml#//DIV_END[@divEndID='deID_2434_01156']"/>
+<DIV_START divStartID="dsID_2434_01142" endPtr="WR-03-02-22_n0517.xml#//DIV_END[@divEndID='deID_2434_01142']"/>
+<TITLE titleID="tiID_2434_00256"><TITLEPART type="main"><B><LANG iso="la">LAUS VENERIS</LANG></B> <HR emDashNum="13" type="doubleInline"/></TITLEPART><LE/>
+<TITLEPART type="bystmt">VON <AUCTOR><B>ALGERNON CH. SWINBURNE</B></AUCTOR></TITLEPART><LE/>
+<TITLEPART type="desc">UMDICHTUNG <HR emDashNum="19" type="doubleInline"/><LE/>
+VON <AUCTOR>HEDWIG LACHMANN</AUCTOR> <HR emDashNum="13" type="doubleInline"/></TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2434_01143" endPtr="WR-03-02-22_n0517.xml#//DIV_END[@divEndID='deID_2434_01141']"/>
+<TITLE titleID="tiID_2434_00257"><TITLEPART type="enum">III.</TITLEPART></TITLE>
+<LG parID="05728"><L>Ihr Haar umfloss sie bis herab ans Knie.</L>
+<L>Mit leicht erhobnem Finger streifte sie</L>
+<L>Im Gehn das Gras. O Gott, wie tief errieth</L>
+<L>Ich ihres Leibes heimliche Magie!</L></LG>
+<LG parID="05729"><L>Im Halmgewoge nahte sie sich mir,</L>
+<L>Mit blinden Lippen f&#xFC;hlte ich nach ihr,</L>
+<L>&#x2014; Die ohne Wink mich stumm zu sich beschied &#x2014;</L>
+<L>In meinem Leib den Stachel ihrer Gier.</L></LG>
+<LG parID="05730"><L>O Du! Steh&#x2019; auf, f&#xFC;r mich zu zeugen und</L>
+<L>Versiegle mir mit Deinem Kuss den Mund,</L>
+<L>Damit vor meiner S&#xFC;nde Seligkeit</L>
+<L>In Wahnsinn nicht entbrenne, wem sie kund.</L></LG>
+<LG parID="05731"><L>Doch ward&#x2019; ich schwach allm&#xE4;hlich von Genuss,</L>
+<L>Von Wohlger&#xFC;chen und dem tr&#xE4;gen Fluss</L>
+<L>Der schweren, unver&#xE4;nderlichen Zeit.</L>
+<L>In meiner Liebe welkem &#xDC;berdruss,</L></LG>
+<FT type="pn" num="513" c_text="&#x2014; 513 &#x2014;"/>
+</PAGE>

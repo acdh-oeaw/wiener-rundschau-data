@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-09_n0333.xml</PREV>
+<NEXT>WR-01-01-09_n0335.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 9, S. 334</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00468" endPtr="WR-01-01-09_n0334.xml#//DIV_END[@divEndID='deID_2397_00467']"/>
+<TITLE titleID="tiID_2397_00135"><TITLEPART>DUNKELSTUNDE.</TITLEPART></TITLE>
+<LG parID="02483"><L><IN>Des</IN> Winterfrosttags letzter Sonnenschimmer</L>
+<L>Umgoldet meinen B&#xFC;cherschrank im Zimmer.</L>
+<L>Wie eines Todten L&#xE4;cheln &#x2014; kalt und starr geworden.</L>
+<L>Das Holz im Ofen knistert, flammt und knackt;</L>
+<L>Und wie die H&#xE4;ngeuhr tickt leisen Takt,</L>
+<L>Umrauscht es mich in rhythmischen Accorden.</L></LG>
+<LG parID="02484"><L>Ich halte lauschend meine Dunkelstunde.</L>
+<L>Secunde aber wandelt auf Secunde</L>
+<L>Geheimnissvoll vorbei auf leichten Sohlen.</L>
+<L>Und jede spricht ein stummes Wort zu mir,</L>
+<L>Ausstreuend meiner liebsten Blumen Zier</L>
+<L>Von Tuberosen oder Nachtviolen.</L></LG>
+<LG parID="02485"><L>Mein Sehnen sinkt herab auf matten Schwingen.</L>
+<L>Die Innenwelt schwimmt mit den Aussendingen</L>
+<L>In <SPC>einem</SPC> grossen, tr&#xFC;ben Weiterfluthen.</L>
+<L>Kaum pocht der Puls <SYMBOL type="4dots"/> Ein Schweigen athemlos <SYMBOL type="3dots"/></L>
+<L>Die Nacht spannt ihre Arme riesengross</L>
+<L>Und l&#xF6;scht der Sinne letzte, letzte Gluthen.</L></LG>
+<P parID="02486">Wien. <AUCTOR><C>Victor Feldegg</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00467" startPtr="WR-01-01-09_n0334.xml#//DIV_START[@divStartID='dsID_2397_00468']"/>
+</PAGE>

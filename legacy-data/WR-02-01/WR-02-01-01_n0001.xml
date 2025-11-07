@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-00_i0008.xml</PREV>
+<NEXT>WR-02-01-01_n0002.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 1</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00003" endPtr="WR-02-01-01_n0040.xml#//DIV_END[@divEndID='deID_2432_00036']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00004" endPtr="WR-02-01-01_n0001.xml#//DIV_END[@divEndID='deID_2432_00003']"/>
+<P parID="00009"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00010"><B><DATE>15. <SPC>NOVEMBER</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00003" startPtr="WR-02-01-01_n0001.xml#//DIV_START[@divStartID='dsID_2432_00004']"/>
+<DIV_START divStartID="dsID_2432_00005" endPtr="WR-02-01-01_n0005.xml#//DIV_END[@divEndID='deID_2432_00017']"/>
+<TITLE titleID="tiID_2432_00009"><TITLEPART type="main">DER HERBST.</TITLEPART><LE/>
+<TITLEPART type="desc">Ein Triptychon.</TITLEPART><LE/>
+<TITLEPART type="bystmt"><SPC>Von <AUCTOR><C>Georg Fuchs</C></AUCTOR></SPC>(<SPC>M&#xFC;nchen</SPC>).</TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2432_00006" endPtr="WR-02-01-01_n0002.xml#//DIV_END[@divEndID='deID_2432_00004']"/>
+<TITLE titleID="tiID_2432_00010"><TITLEPART type="enum">I.</TITLEPART><LE/>
+<TITLEPART type="main"><SPC>Der Rufer</SPC>.</TITLEPART></TITLE>
+<LG parID="00011"><L>Es stiess ein Rufer rauh ins Horn,</L>
+<L>Dess schauert hohl der feuchte Forst,</L>
+<L>Im Nebel bricht das Wild vom Born,</L>
+<L>Der Fittig schl&#xE4;gt erschreckt den Horst.</L></LG>
+<LG parID="00012"><L>Im Osten rauchen noch die Schatten,</L>
+<L>Und morscher Hauch entg&#xE4;hrt dem Bruch</L>
+<L>Durch endlos flachgereihte Matten:</L>
+<L>Geborstner Schollen N&#xE4;hrgeruch.</L></LG>
+<LG parID="00013"><L>Zu H&#xE4;upten tr&#xE4;gt die Tracht der Frucht</L>
+<L>Gesch&#xFC;rzten Schrittes stolz die Magd,</L>
+<L>Es st&#xFC;tzt der Arm die volle Wucht,</L>
+<L>Die Kraft der Br&#xFC;ste strotzt und ragt.</L>
+<L>Es klingt ein Licht zur Bergeszinne</L>
+<L>Noch aus des Abends rothem Dom,</L>
+<L>Schon dunkel wogt in tiefer Rinne</L>
+<L>Gelabter Gr&#xFC;nde gr&#xFC;ner Strom</L>
+<L>Durch buntbelaubte, goldne Ufer,</L>
+<L>Da erdr&#xF6;hnst du, grosser Rufer:</L></LG>
+</PAGE>

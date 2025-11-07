@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0412.xml</PREV>
+<NEXT>WR-03-02-17_n0414.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 413</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: BLAUBART UND ARIANE.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_01012" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01009']"/>
+<P parID="04885"><SPK>ARIANE</SPK>:</P>
+<P parID="04886"><TAB/>Habt Ihr Leinen?</P>
+<DIV_END divEndID="deID_2434_01009" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01012']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01013" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01010']"/>
+<P parID="04887"><SPK>MELISANDE</SPK>:</P>
+<P parID="04888"><TAB/>Hier ist mein Tuch.</P>
+<DIV_END divEndID="deID_2434_01010" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01013']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01014" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01011']"/>
+<P parID="04889"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04890"><TAB/>Er erstickt, soll ich ihm den Kopf halten? <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01011" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01014']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01015" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01012']"/>
+<P parID="04891"><SPK>MELISANDE</SPK>:</P>
+<P parID="04892"><TAB/>Warte, ich will Dir helfen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01012" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01015']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01016" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01013']"/>
+<P parID="04893"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04894"><TAB/>Nein, Alladine hilft mir schon <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01013" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01016']"/>
+<P parID="04895"><SD>(Alladine hilft ihr wirklich Blaubarts Kopf halten, wobei sie schluchzend einen <HYPH1 cont="verstohlenen">ver-</HYPH1><LE/>
+<HYPH2>stohlenen</HYPH2> Kuss auf seine Stirne dr&#xFC;ckt.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_01017" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01014']"/>
+<P parID="04896"><SPK>MELISANDE</SPK>:</P>
+<P parID="04897"><TAB/>Alladine, was thust Du? <SYMBOL type="3dots"/> Sachte, sachte <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01014" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01017']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01018" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01015']"/>
+<P parID="04898"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04899"><TAB/>Oh, seine Stirne brennt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01015" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01018']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01019" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01016']"/>
+<P parID="04900"><SPK>MELISANDE</SPK>:</P>
+<P parID="04901"><TAB/>Er hat sich den Bart abgeschnitten, er ist nicht mehr so schrecklich <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01016" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01019']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01020" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01017']"/>
+<P parID="04902"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04903"><TAB/>Habt Ihr etwas Wasser? <SYMBOL type="3dots"/> Sein Gesicht klebt von Blut und Staub <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01017" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01020']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01021" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01018']"/>
+<P parID="04904"><SPK>YGRAINE</SPK>:</P>
+<P parID="04905"><TAB/>Er athmet nur mit M&#xFC;he <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01018" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01021']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01022" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01019']"/>
+<P parID="04906"><SPK>ARIANE</SPK>:</P>
+<P parID="04907"><TAB/>Die Brust ist ihm eingeschn&#xFC;rt <SYMBOL type="3dots"/> Sie haben Stricke genommen, um einen<LE/>
+Stein zu zermalmen <SYMBOL type="3dots"/> Habt Ihr ein Messer?</P>
+<DIV_END divEndID="deID_2434_01019" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01022']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01023" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01020']"/>
+<P parID="04908"><SPK>YGRAINE</SPK>:</P>
+<P parID="04909"><TAB/>Auf dem Tische lagen zwei <SYMBOL type="3dots"/> Hier ist das gr&#xF6;ssere <SD>(sie gibt Ariane<LE/>
+das Messer.)</SD></P>
+<DIV_END divEndID="deID_2434_01020" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01023']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01024" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01021']"/>
+<P parID="04910"><SPK>DIE AMME</SPK><LE/>
+<SD>(erschrocken)</SD>:</P>
+<P parID="04911"><TAB/>Ihr wollt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01021" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01024']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01025" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01022']"/>
+<P parID="04912"><SPK>ARIANE</SPK>:</P>
+<P parID="04913"><TAB/>Ja.</P>
+<DIV_END divEndID="deID_2434_01022" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01025']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01026" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01023']"/>
+<P parID="04914"><SPK>DIE AMME</SPK>:</P>
+<P parID="04915"><TAB/>Aber er ist nicht <SYMBOL type="3dots"/> Seht, er blickt Euch an <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01023" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01026']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01027" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01024']"/>
+<P parID="04916"><SPK>ARIANE</SPK>:</P>
+<P parID="04917"><TAB/>Hebt den Strick gut hoch, damit ich ihn nicht verletze <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01024" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01027']"/>
+<P parID="04918"><SD>(Sie zerschneidet die Stricke, mit denen Blaubart geknebelt ist, einen nach dem<LE/>
+andern. Da sie an die letzten kommt, die seine Arme auf dem R&#xFC;cken festhalten,<LE/>
+f&#xE4;llt ihr die Amme in die H&#xE4;nde, um sie zu hindern.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_01028" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01025']"/>
+<P parID="04919"><SPK>DIE AMME</SPK>:</P>
+<P parID="04920"><TAB/>Wartet doch, bis er spricht <SYMBOL type="3dots"/> Wir wissen durchaus nicht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01025" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01028']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01029" endPtr="WR-03-02-17_n0413.xml#//DIV_END[@divEndID='deID_2434_01026']"/>
+<P parID="04921"><SPK>ARIANE</SPK>:</P>
+<P parID="04922"><TAB/>Habt Ihr ein anderes Messer da? Die Klinge ist gesprungen. Diese Stricke<LE/>
+sind zu hart <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01026" startPtr="WR-03-02-17_n0413.xml#//DIV_START[@divStartID='dsID_2434_01029']"/>
+<FT type="pn" num="413" c_text="&#x2014; 413 &#x2014;"/>
+</PAGE>

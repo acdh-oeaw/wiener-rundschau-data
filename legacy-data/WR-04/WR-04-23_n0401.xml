@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-22_n0400.xml</PREV>
+<NEXT>WR-04-23_n0402.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 23, S. 401</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>20</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_00856" endPtr="WR-04-23_n0420.xml#//DIV_END[@divEndID='deID_2436_00874']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_00857" endPtr="WR-04-23_n0401.xml#//DIV_END[@divEndID='deID_2436_00856']"/>
+<P parID="04583"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="04584">HERAUSGEGEBEN VON FELIX RAPPAPORT</P>
+<TABLE parID="04585"><ROW ciID="0805"><CELL>
+<DATE>1. DECEMBER 1900</DATE><LE/>
+</CELL><CELL>
+IV. JAHRGANG, N<SUP>R.</SUP> 23<LE/>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_00856" startPtr="WR-04-23_n0401.xml#//DIV_START[@divStartID='dsID_2436_00857']"/>
+<DIV_START divStartID="dsID_2436_00858" endPtr="WR-04-23_n0404.xml#//DIV_END[@divEndID='deID_2436_00857']" titleID="tiID_2436_00225"/>
+<TITLE titleID="tiID_2436_00225" parDivStartID="dsID_2436_00858"><TITLEPART type="main">GEDANKEN &#xDC;BER EIN DRAMA BJ&#xD6;RNSONS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>E. FREIIN VON GUMPPENBERG</AUCTOR> (M&#xFC;nchen).</TITLEPART></TITLE>
+<TABLE parID="04586"><ROW ciID="0806"><CELL>
+<P parID="04587"><TAB/>Ich habe B. Bj&#xF6;rnsons Drama &#xBB;&#xDC;ber<LE/>
+unsere Kraft&#xAB; mit wachsendem Interesse<LE/>
+gelesen, doch als ich das B&#xFC;chlein <HYPH1 cont="niederlegte">nieder-</HYPH1><LE/>
+<HYPH2>legte</HYPH2>, schien mir die angeregte Frage:<LE/>
+&#xBB;Was ist Christenthum?&#xAB; von solcher<LE/>
+Bedeutung, dass ich den Versuch wagen<LE/>
+m&#xF6;chte, zu deren L&#xF6;sung einige Gedanken<LE/>
+beizutragen.</P>
+<P part="initial" parID="04588"><TAB/>Wenn wir Dinge, die der Ewigkeit<LE/>
+angeh&#xF6;ren, aus den uns sichtbaren <HYPH1 cont="Wirkungen">Wir-</HYPH1><LE/>
+<HYPH2>kungen</HYPH2> eines kleinen Zeit-Atoms beurtheilen<LE/>
+wollen, ist es mir immer, als wollte man<LE/>
+die Wunder des Lebens, die der Grund<LE/>
+des Meeres birgt, aus einer mikroskopischen<LE/>
+Untersuchung des Schaumes erkennen, den<LE/>
+es ans Ufer schleudert. &#x2014; Kann wohl<LE/>
+der &#xBB;Glaube&#xAB; eines denkenden Menschen<LE/>
+etwas anderes sein, als seine &#xDC;berzeugung,<LE/>
+die Form und Gestalt annimmt als <HYPH1 cont="Ergebnis">Er-</HYPH1><LE/>
+<HYPH2>gebnis</HYPH2> seines individuellen, metaphysischen<LE/>
+Bed&#xFC;rfnisses, das er vor das Kriterium<LE/>
+seiner erwachten Seele stellt? Ich wei&#xDF;<LE/>
+es, dieser Begriff wird oft anders definiert,<LE/>
+und man nennt &#xBB;Glauben&#xAB; das starre<LE/>
+Festhalten an der Lehre einer Confession;<LE/>
+das Ergebnis des metaphysischen <HYPH1 cont="Bed&#xFC;rfnisses">Be-</HYPH1></P>
+</CELL><CELL>
+<P part="final" parID="04589"><HYPH2>d&#xFC;rfnisses</HYPH2> des Nebenmenschen hingegen<LE/>
+&#x2014; wenn es sich nicht in allen Theilen<LE/>
+mit eigener &#xDC;berzeugung deckt &#x2014; <HYPH1 cont="Irrthum">Irr-</HYPH1><LE/>
+<HYPH2>thum</HYPH2> und Unglaube. Das ist die <HYPH1 cont="Definition">Defi-</HYPH1><LE/>
+<HYPH2>nition</HYPH2> solcher Menschen, die noch an<LE/>
+Sonderstellungen glauben &#x2014; an die <HYPH1 cont="Sonderstellung">Son-</HYPH1><LE/>
+<HYPH2>derstellung</HYPH2> unserer kleinen Erde im <HYPH1 cont="unermesslichen">un-</HYPH1><LE/>
+<HYPH2>ermesslichen</HYPH2> Universum, an die <HYPH1 cont="Sonderstellung">Sonder-</HYPH1><LE/>
+<HYPH2>stellung</HYPH2> einer Confession oder <HYPH1 cont="Glaubenslehre">Glaubens-</HYPH1><LE/>
+<HYPH2>lehre</HYPH2>, die sie als allein seligmachend <HYPH1 cont="betrachten">be-</HYPH1><LE/>
+<HYPH2>trachten</HYPH2>, und vielleicht gar noch an die<LE/>
+Sonderstellung ihrer Person, die in der<LE/>
+halb unbewussten Empfindung gipfelt:<LE/>
+&#xBB;Herr, ich danke dir, dass ich nicht so<LE/>
+bin wie Jener hier!&#xAB; Diese m&#xFC;ssen wir<LE/>
+der heilenden, reifenden Zeit &#xFC;berlassen!</P>
+<P part="initial" parID="04590"><TAB/>Jene aber, die eine gro&#xDF;e Einheit und<LE/>
+verbindende Solidarit&#xE4;t alles Lebens ahnen<LE/>
+oder davon &#xFC;berzeugt sind; Jene, die da<LE/>
+wissen, dass unsere Erde innerhalb <HYPH1 cont="derselben">der-</HYPH1><LE/>
+<HYPH2>selben</HYPH2> gro&#xDF;en, f&#xFC;hrenden Gesetzeswelt steht,<LE/>
+wie das ganze sichtbare und unsichtbare<LE/>
+Universum; Jene, die wissen, dass es keine<LE/>
+&#xBB;H&#xF6;lle&#xAB; geben kann, weil damit der<LE/>
+Begriff &#xBB;Himmel&#xAB; aufh&#xF6;ren w&#xFC;rde, zu sein;<LE/>
+Jene, die in dem Glauben oder in der</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="401" c_text="&#x2014; 401 &#x2014;"/>
+</PAGE>

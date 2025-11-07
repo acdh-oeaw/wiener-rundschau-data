@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-19_n0464.xml</PREV>
+<NEXT>WR-03-02-20_n0466.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 20, S. 465</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2434_01100" endPtr="WR-03-02-20_n0488.xml#//DIV_END[@divEndID='deID_2434_01116']"/>
+<DIV_START divStartID="dsID_2434_01101" endPtr="WR-03-02-20_n0468.xml#//DIV_END[@divEndID='deID_2434_01101']"/>
+<TITLE titleID="tiID_2434_00234"><TITLEPART type="main"><B><LANG iso="la">LAUS VENERIS</LANG></B> <HR emDashNum="13" type="doubleInline"/></TITLEPART><LE/>
+<TITLEPART type="bystmt">VON <AUCTOR><B>ALGERNON CH. SWINBURNE</B></AUCTOR></TITLEPART><LE/>
+<TITLEPART type="desc">UMDICHTUNG <HR emDashNum="19" type="doubleInline"/><LE/>
+VON <AUCTOR>HEDWIG LACHMANN</AUCTOR> <HR emDashNum="13" type="doubleInline"/></TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2434_01102" endPtr="WR-03-02-20_n0468.xml#//DIV_END[@divEndID='deID_2434_01100']"/>
+<TITLE titleID="tiID_2434_00235"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="05315"><L>Ist Wachen oder Schlafen dies? Noch fleckt</L>
+<L>Ein Purpurbrandmal, darin sich erschreckt</L>
+<L>Das Blut aufb&#xE4;umte und dann taumelnd wich,</L>
+<L>Den Hals ihr, der mit K&#xFC;ssen dicht bedeckt.</L></LG>
+<LG parID="05316"><L>Doch gleichwohl meine Lippen wie in Wuth</L>
+<L>Noch fest sich saugen, w&#xE4;hrend sie so ruht,</L>
+<L>Gehn ihre Pulse friedlich &#x2014; sicherlich &#x2014;</L>
+<L>Ein tiefer Schlaf durchw&#xE4;rmt ihr ganzes Blut.</L></LG>
+<LG parID="05317"><L>Seht, das ist sie, um deren Gunst die Welt</L>
+<L>Einst buhlte, deren Macht anheimgestellt</L>
+<L>Die Lose waren, und um deren Fuss</L>
+<L>Wirbelnd die Zeit zerstob, wie Spreu zerf&#xE4;llt.</L></LG>
+<LG parID="05318"><L>Seht, so war sie, als noch ihr Leib begl&#xFC;ckt</L>
+<L>Die tausende, die nun, der Welt entr&#xFC;ckt,</L>
+<L>Am Kreuze knien, mit Lippen welk vom Kuss</L>
+<L>Der blut&#x2019;gen F&#xFC;sse und vom Leid erdr&#xFC;ckt.</L></LG>
+<FT type="pn" num="465" c_text="&#x2014; 465 &#x2014;"/>
+</PAGE>

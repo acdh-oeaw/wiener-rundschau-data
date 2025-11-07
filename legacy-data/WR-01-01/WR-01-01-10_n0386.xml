@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-10_n0385.xml</PREV>
+<NEXT>WR-01-01-10_n0387.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 10, S. 386</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">386</LTEXT><CTEXT>SZCZEPANSKI.</CTEXT></HD>
+<LG parID="02791"><L>Ein stolz&#x2019; Juwel, dem K&#xFC;nstler zum Genuss!</L>
+<L>Was k&#xFC;mmert mich plebeisches Gesp&#xF6;tte!</L>
+<L>Gerundet schlingen Blumen sich zur Kette,</L>
+<L>Gerundet beut die Lippe sich zum Kuss,</L>
+<L>Gerundet glitzert mit des Reimes Gl&#xE4;tte</L>
+<L>Das Rondeau!</L></LG>
+<DIV_END divEndID="deID_2397_00506" startPtr="WR-01-01-10_n0385.xml#//DIV_START[@divStartID='dsID_2397_00508']"/>
+<SEPARATOR type="asterismDown"/>
+<P parID="02792"><TAB/>K&#xFC;hl und alabasterhaft ist die Lyrik Miriams, aber voll edlen<LE/>
+Gehaltes. Er ist Pessimist; allein sein Pessimismus ist der geruhige,<LE/>
+heitere und <SPC>objective</SPC> Pessimismus des Weisen.</P>
+<P parID="02793"><TAB/>Heute lebt der Dichter in Paris, besch&#xE4;ftigt mit Studien zu einem<LE/>
+Werke &#xFC;ber Hoene-Wronski, einen genialen Mystiker (aus der Zeit<LE/>
+Napoleons des Grossen), dessen Sch&#xFC;ler Eliphas Levi war. So geht er<LE/>
+abseits von der Menge, heiter und still <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00507" startPtr="WR-01-01-10_n0383.xml#//DIV_START[@divStartID='dsID_2397_00506']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00509" endPtr="WR-01-01-10_n0386.xml#//DIV_END[@divEndID='deID_2397_00508']"/>
+<TITLE titleID="tiID_2397_00152"><TITLEPART><SPC>DER L&#xC4;UFER</SPC>.</TITLEPART></TITLE>
+<LG parID="02794"><L><IN>Da</IN> liegt das Land, so hart und todt.</L>
+<L>Ein L&#xE4;ufer l&#xE4;uft in das Abendroth.</L></LG>
+<LG parID="02795"><L>Es keucht die Brust. Es rinnt der Schweiss.</L>
+<L>? du Lauf zur Sonne, wie bist du so heiss!</L></LG>
+<LG parID="02796"><L>Der nackte Fuss schl&#xE4;gt sich wund am Stein.</L>
+<L>Kein Quell. Kein Schatten. Nur Sonnenschein.</L></LG>
+<LG parID="02797"><L>Nur Sonnenschein, so gl&#xFC;hend, so fern.</L>
+<L>Kein k&#xFC;hles Mondlicht. Kein Abendstern.</L></LG>
+<LG parID="02798"><L>Wann hat der L&#xE4;ufer die Sonne erreicht?</L>
+<L>Schon senken sich Schatten. Der Purpur erbleicht.</L></LG>
+<LG parID="02799"><L>Da st&#xFC;rzt er zu Boden &#x2014; er ist zu Haus</L>
+<L>Und ruht in den Armen des Lichtgott&#x2019;s aus.</L></LG>
+<P parID="02800">Z&#xFC;rich. <AUCTOR><C>Maurice von Stern</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00508" startPtr="WR-01-01-10_n0386.xml#//DIV_START[@divStartID='dsID_2397_00509']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

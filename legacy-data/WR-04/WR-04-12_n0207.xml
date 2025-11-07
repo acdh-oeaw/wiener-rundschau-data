@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0206.xml</PREV>
+<NEXT>WR-04-12_n0208.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 207</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2436_00617" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00614']"/>
+<P parID="02887"><TAB/><SPK>HERODES</SPK>: Ah! Wundervoll! Wundervoll! Siehst du, sie hat f&#xFC;r mich getanzt,<LE/>
+deine Tochter. Komm&#x2019; her, Salome, komm&#x2019; her, du sollst deinen Lohn haben. Ah!<LE/>
+Ich zahle Denen k&#xF6;niglichen Preis, die mir zur Lust tanzen wollen. Ich will dich <HYPH1 cont="k&#xF6;niglich">k&#xF6;nig-</HYPH1><LE/>
+<HYPH2>lich</HYPH2> belohnen. Ich will dir alles geben, was dein Herz begehrt. Was willst du<LE/>
+haben? Sprich!</P>
+<DIV_END divEndID="deID_2436_00614" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00617']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00618" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00615']"/>
+<P parID="02888"><TAB/><SPK>SALOME</SPK> <SD>(kniend)</SD>: Ich m&#xF6;chte, dass sie mir gleich in einer Silbersch&#xFC;ssel <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_00615" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00618']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00619" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00616']"/>
+<P parID="02889"><TAB/><SPK>HERODES</SPK> <SD>(lachend)</SD>: In einer Silbersch&#xFC;ssel? Gewiss doch, in einer <HYPH1 cont="Silbersch&#xFC;ssel">Silber-</HYPH1><LE/>
+<HYPH2>sch&#xFC;ssel</HYPH2>! Sie ist reizend, nicht? Was ist es, das du in einer Silbersch&#xFC;ssel haben<LE/>
+m&#xF6;chtest, o s&#xFC;&#xDF;e, sch&#xF6;ne Salome, du, die sch&#xF6;ner ist, als alle T&#xF6;chter Jud&#xE4;as? Was<LE/>
+sollen sie dir in einer Silbersch&#xFC;ssel bringen? Sag&#x2019; es mir<DOUBT sug="!">?</DOUBT> Was es auch sein mag,<LE/>
+du sollst es erhalten. Meine Reichth&#xFC;mer geh&#xF6;ren dir. Was ist es, das du haben<LE/>
+m&#xF6;chtest, Salome?</P>
+<DIV_END divEndID="deID_2436_00616" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00619']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00620" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00617']"/>
+<P parID="02890"><TAB/><SPK>SALOME</SPK> <SD>(steht auf)</SD>: Den Kopf des Jochanaan.</P>
+<DIV_END divEndID="deID_2436_00617" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00620']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00621" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00618']"/>
+<P parID="02891"><TAB/><SPK>HERODIAS</SPK>: Ah! Das sagst du gut, meine Tochter.</P>
+<DIV_END divEndID="deID_2436_00618" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00621']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00622" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00619']"/>
+<P parID="02892"><TAB/><SPK>HERODES</SPK>: Nein, nein!</P>
+<DIV_END divEndID="deID_2436_00619" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00622']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00623" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00620']"/>
+<P parID="02893"><TAB/><SPK>HERODIAS</SPK>: Das sagst du gut, meine Tochter.</P>
+<DIV_END divEndID="deID_2436_00620" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00623']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00624" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00621']"/>
+<P parID="02894"><TAB/><SPK>HERODES</SPK>: Nein, nein, Salome. Das ist es nicht, was du begehrst. H&#xF6;r&#x2019;<LE/>
+nicht auf die Stimme deiner Mutter. Sie hat dir immer schlechten Rath gegeben.<LE/>
+Achte nicht auf sie.</P>
+<DIV_END divEndID="deID_2436_00621" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00624']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00625" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00622']"/>
+<P parID="02895"><TAB/><SPK>SALOME</SPK>: Ich achte nicht auf die Stimme meiner Mutter. Zu meiner eigenen<LE/>
+Lust will ich den Kopf des Jochanaan in einer Silbersch&#xFC;ssel haben. Du hast einen<LE/>
+Eid geschworen, Herodes. Vergiss es nicht, du hast einen Eid geschworen!</P>
+<DIV_END divEndID="deID_2436_00622" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00625']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00626" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00623']"/>
+<P parID="02896"><TAB/><SPK>HERODES</SPK>: Ich wei&#xDF; es. Ich habe einen Eid geschworen, bei meinen G&#xF6;ttern<LE/>
+habe ich geschworen. Jch wei&#xDF; es wohl. Aber ich beschw&#xF6;re dich, Salome, <HYPH1 cont="verlange">ver-</HYPH1><LE/>
+<HYPH2>lange</HYPH2> etwas anderes von mir. Verlange die H&#xE4;lfte meines K&#xF6;nigreichs von mir.<LE/>
+Ich will sie dir geben. Aber verlange nicht von mir, was deine Lippen verlangt haben.</P>
+<DIV_END divEndID="deID_2436_00623" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00626']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00627" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00624']"/>
+<P parID="02897"><TAB/><SPK>SALOME</SPK>: Ich verlange von dir den Kopf des Jochanaan.</P>
+<DIV_END divEndID="deID_2436_00624" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00627']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00628" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00625']"/>
+<P parID="02898"><TAB/><SPK>HERODES</SPK>: Nein, nein, ich will ihn dir nicht geben.</P>
+<DIV_END divEndID="deID_2436_00625" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00628']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00629" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00626']"/>
+<P parID="02899"><TAB/><SPK>SALOME</SPK>: Du hast einen Eid geschworen, Herodes.</P>
+<DIV_END divEndID="deID_2436_00626" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00629']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00630" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00627']"/>
+<P parID="02900"><TAB/><SPK>HERODIAS</SPK>: Ja, du hast einen Eid geschworen. Alle haben es geh&#xF6;rt. Du<LE/>
+hast es vor allen geschworen.</P>
+<DIV_END divEndID="deID_2436_00627" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00630']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00631" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00628']"/>
+<P parID="02901"><TAB/><SPK>HERODES</SPK>: Still, Weib! Zu dir spreche ich nicht.</P>
+<DIV_END divEndID="deID_2436_00628" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00631']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00632" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00629']"/>
+<P parID="02902"><TAB/><SPK>HERODIAS</SPK>: Meine Tochter hat wohl daran gethan, den Kopf des Jochanaan<LE/>
+zu verlangen. Er hat mich mit Schimpf und Schande bedeckt. Er hat uns&#xE4;gliche<LE/>
+Dinge gegen mich gesagt. Man kann sehen, dass sie ihre Mutter lieb hat.<LE/>
+Gib nicht nach, meine Tochter. Er hat einen Eid geschworen, er hat einen Eid<LE/>
+geschworen.</P>
+<DIV_END divEndID="deID_2436_00629" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00632']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00633" endPtr="WR-04-12_n0207.xml#//DIV_END[@divEndID='deID_2436_00630']"/>
+<P parID="02903"><TAB/><SPK>HERODES</SPK>: Still! Sprich nicht zu mir! <SYMBOL type="4dots"/> Salome, ich beschw&#xF6;re dich,<LE/>
+sei nicht trotzig. Ich bin immer gut zu dir gewesen. Ich habe dich immer lieb<LE/>
+gehabt <SYMBOL type="4dots"/> Kann sein, ich habe dich zu lieb gehabt. Drum verlange das nicht<LE/>
+von mir. Das ist etwas Schreckliches, etwas Grauenvolles, was du von mir verlangst.<LE/>
+Sicher, ich glaube, du willst scherzen. Der Kopf eines Mannes, der vom Rumpf<LE/>
+getrennt ist, das ist ein &#xFC;bler Anblick, nicht? Es ziemt sich nicht, dass die Augen<LE/>
+eines M&#xE4;dchens auf so etwas fallen. Was f&#xFC;r eine Lust k&#xF6;nntest du darin finden?<LE/>
+Du k&#xF6;nntest keine Lust darin finden. Nein, nein, das begehrst du nicht. Horch,<LE/>
+was ich sage. Ich habe einen Smaragd, einen gro&#xDF;en Smaragd, einen runden, den<LE/>
+C&#xE4;sars Freundin mir hergeschickt hat. Wenn du durch diesen Smaragd siehst, kannst<LE/>
+du sehen, was weit weg vor sich geht. C&#xE4;sar selbst tr&#xE4;gt solch einen Smaragd,<LE/>
+wenn er in den Circus geht. Aber mein Smaragd ist der gr&#xF6;&#xDF;ere. Ich wei&#xDF; es, er<LE/>
+ist der gr&#xF6;&#xDF;ere. Er ist der gr&#xF6;&#xDF;te Smaragd in der ganzen Welt. Den willst du<LE/>
+haben, nicht wahr? Verlange ihn von mir, ich werde ihn dir geben.</P>
+<DIV_END divEndID="deID_2436_00630" startPtr="WR-04-12_n0207.xml#//DIV_START[@divStartID='dsID_2436_00633']"/>
+<FT type="pn" num="207" c_text="&#x2014; 207 &#x2014;"/>
+</PAGE>

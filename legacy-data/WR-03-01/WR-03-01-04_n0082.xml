@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-04_n0081.xml</PREV>
+<NEXT>WR-03-01-04_n0083.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 82</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>STRINDBERG: DIE SCHL&#xDC;SSEL DES HIMMELREICHS.</CTEXT></HD>
+<TABLE parID="01093"><ROW ciID="0367"><CELL>
+<P part="final" parID="01094">einem Riesen, wie es keinen gr&#xF6;sseren<LE/>
+im ganzen Norden gibt, avanciert. Er<LE/>
+jubelt:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00338" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00337']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00339" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00336']"/>
+<ADD><P parID="01095"><SPK><SPC>Der Schmied</SPC></SPK>.</P></ADD>
+<LG parID="01096"><L>Bin ich auch just nicht sch&#xF6;n, bin ich</L>
+<L>doch schaurig gross,</L>
+<L>Weit blick&#x2019; ich ringsumher, viel weiter</L>
+<L>als die meisten.</L>
+<L>Ich spiegle mich im See, auch in der</L>
+<L>Wolke Schoss u. s. w.</L></LG>
+<DIV_END divEndID="deID_2434_00336" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00339']"/>
+<DIV_END divEndID="deID_2434_00337" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00338']"/>
+<P parID="01097"><TAB/>Allein ungetr&#xFC;bt ist seine Freude<LE/>
+nicht:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00340" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00339']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00341" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00338']"/>
+<ADD><P parID="01098"><SPK><SPC>Der Schmied</SPC></SPK>.</P></ADD>
+<LG parID="01099"><L>Dort unten in dem Thale, da wohnt der</L>
+<L>Priestergreis,</L>
+<L>Aus seiner Kirche h&#xF6;r&#x2019; ich&#x2019;s immer</L>
+<L>bimmeln,</L>
+<L>Das Volk in altem Trotte, hinwallet</L>
+<L>scharenweis,</L>
+<L>Um ihren weissen Balder gl&#xE4;ubig zu</L>
+<L>verhimmeln.</L>
+<L>Doch auch den Berg, den Riesen, ehrt</L>
+<L>keiner mehr f&#xFC;rwahr,</L>
+<L>Obgleich an Kraft er allen &#xFC;berlegen;</L>
+<L>Er sch&#xFC;tzt im Thal die Menschen vor</L>
+<L>wilder Sturmgefahr.</L>
+<L>Die blauen Blitze f&#xE4;ngt er in seinem</L>
+<L>eig&#x2019;nen Haar,</L>
+<L>Dem Acker gibt er W&#xE4;rme, die <HYPH1 cont="Sonnenlicht">Sonnen-</HYPH1></L>
+<L><HYPH2>licht</HYPH2> gebar,</L>
+<L>Im tiefen Schosse sammelt er den Regen.</L></LG>
+<DIV_END divEndID="deID_2434_00338" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00341']"/>
+<DIV_END divEndID="deID_2434_00339" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00340']"/>
+<P parID="01100"><TAB/>Das Gef&#xFC;hl seiner Erhabenheit &#xFC;ber<LE/>
+das erb&#xE4;rmliche Volk, das sich da unten<LE/>
+angebaut, l&#xE4;sst ihn jedoch ihren Undank<LE/>
+verschmerzen. Voll Geringsch&#xE4;tzung sieht<LE/>
+er sie vor dem Spuk der Nacht sich <HYPH1 cont="angstvoll">angst-</HYPH1><LE/>
+<HYPH2>voll</HYPH2> in die Betten verkriechen, Gebete<LE/>
+stammelnd.</P>
+<P parID="01101"><TAB/>Er hingegen, der Riese</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00342" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00341']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00343" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00340']"/>
+<ADD><P parID="01102"><SPK><SPC>Der Schmied</SPC></SPK>.</P></ADD>
+<LG parID="01103"><L><SYMBOL type="3dots"/> liebt das Dunkel, in dem die Ruhe</L>
+<L>thront,</L>
+<L>Im Dunkel herrscht die Stille, wo der</L>
+<L>Gedanke wohnt,</L>
+<L>Denn vor der Sonne tanzen doch nur</L>
+<L>M&#xFC;cken.</L></LG>
+<DIV_END divEndID="deID_2434_00340" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00343']"/>
+<DIV_END divEndID="deID_2434_00341" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00342']"/>
+<P parID="01104"><TAB/>Es erf&#xFC;llt ihn mit Stolz, dass sich<LE/>
+die Eule ihm auf die Schulter setzt:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00344" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00343']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00345" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00342']"/>
+<ADD><P parID="01105"><SPK><SPC>Der Schmied</SPC></SPK>.</P></ADD>
+<LG parID="01106"><L>Da ist mein Lieblingsvogel, mein <HYPH1 cont="Nachtfreund">Nacht-</HYPH1></L>
+<L><HYPH2>freund</HYPH2> und Berather,</L>
+<L>Zwei Augen auf zwei Schwingen, mit</L>
+<L>Krallen wie ein Kater.</L>
+<L>Um Weisheit kann man dich allein befragen,</L>
+<L>Und niemand wird den Strauss mit Ries&#x2019;</L>
+<L>und Vogel wagen.</L></LG>
+<DIV_END divEndID="deID_2434_00342" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00345']"/>
+<DIV_END divEndID="deID_2434_00343" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00344']"/>
+<P part="initial" parID="01107"><TAB/>Da kommen mit Grabscheiten, Hauen<LE/>
+und Spaten die Zwerge anger&#xFC;ckt. Unten</P>
+</CELL><CELL>
+<P part="final" parID="01108">am Berge zu F&#xFC;ssen des Riesen, fangen<LE/>
+sie an zu hacken und zu graben. Sie<LE/>
+singen:</P>
+<DIV_START author="(other)" cat="song" type="performance" divStartID="dsID_2434_00346" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00345']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00347" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00344']"/>
+<ADD><P parID="01109"><SPK><SPC>Die Zwerge</SPC></SPK>.</P></ADD>
+<LG parID="01110"><L>Wir picken, wir hacken,</L>
+<L>Wir knicken, wir knacken,</L>
+<L>Wir geben nicht Ruh&#x2019;,</L>
+<L>Wir hetzen, wir fetzen,</L>
+<L>Wir wetzen, wir setzen</L>
+<L>Dem Bergk&#xF6;nig zu.</L></LG>
+<DIV_END divEndID="deID_2434_00344" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00347']"/>
+<DIV_END divEndID="deID_2434_00345" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00346']"/>
+<P parID="01111"><TAB/>Mit Staunen sieht der Alte die frechen<LE/>
+Knirpse sich anschicken, seine Stellung zu<LE/>
+untergraben:</P>
+<DIV_START author="(other)" cat="song" type="performance" divStartID="dsID_2434_00348" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00347']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00349" endPtr="WR-03-01-04_n0082.xml#//DIV_END[@divEndID='deID_2434_00346']"/>
+<ADD><P parID="01112"><SPK><SPC>Die Zwerge</SPC></SPK>.</P></ADD>
+<P parID="01113">Wir sch&#xFC;tteln, wir schmeissen,<LE/>
+Wir r&#xFC;tteln, wir reissen<LE/>
+Den Riesen schon um.<LE/>
+Wir picken, wir packen,<LE/>
+Wir knicken, wir knacken,<LE/>
+Im Staub liegt er &#x2014; plumm!<LE/>
+Plumm! <SD>(Lang anhaltend).</SD></P>
+<DIV_END divEndID="deID_2434_00346" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00349']"/>
+<DIV_END divEndID="deID_2434_00347" startPtr="WR-03-01-04_n0082.xml#//DIV_START[@divStartID='dsID_2434_00348']"/>
+<P parID="01114"><TAB/>Er warnt sie, aber sie lassen nicht ab<LE/>
+von ihrem Vorhaben. Da niest er und<LE/>
+es regnet Ger&#xF6;lle, er hustet und Steine<LE/>
+st&#xFC;rzen herab und versch&#xFC;tten den <HYPH1 cont="Zwergk&#xF6;nig">Zwerg-</HYPH1><LE/>
+<HYPH2>k&#xF6;nig</HYPH2>. Wie sich die Zwerge nun um den<LE/>
+erledigten Thron in die Haare gerathen,<LE/>
+R&#xE4;nke schmieden und &#xBB;nicht um ein Haar<LE/>
+besser sind als die grossen Menschen!&#xAB;<LE/>
+Mitten im Gewirre tritt der D&#xE4;umling in<LE/>
+Siebenmeilenstiefeln, mit seiner Gemahlin,<LE/>
+dem Aschenbr&#xF6;del auf, und m&#xF6;chte nun<LE/>
+den Thron an sich reissen. Seinen <HYPH1 cont="Anspruch">An-</HYPH1><LE/>
+<HYPH2>spruch</HYPH2> begr&#xFC;ndet er darauf, dass er der<LE/>
+Kleinste unter den Kleinen, und wer sich<LE/>
+erniedrigt, der wird erh&#xF6;ht. Im <HYPH1 cont="Zweikampfe">Zwei-</HYPH1><LE/>
+<HYPH2>kampfe</HYPH2> soll es ausgefochten werden. Er<LE/>
+wird &#xFC;berlistet, um seine <HYPH1 cont="Siebenmeilenstiefel">Siebenmeilen-</HYPH1><LE/>
+<HYPH2>stiefel</HYPH2> betrogen und bei dem entstehenden<LE/>
+Tumult und dem vom Hoberg-Alten auf<LE/>
+die Raufenden geschleuderten Steinregen<LE/>
+sammt dem Aschenbr&#xF6;del get&#xF6;dtet. Hier<LE/>
+findet Petrus die Erschlagenen und macht<LE/>
+dem Hoberg-Alten Vorw&#xFC;rfe, dass er es &#xFC;bers<LE/>
+Herz bringen konnte, die armen Kleinen<LE/>
+zu t&#xF6;dten. Allein letzterer weist seine <HYPH1 cont="Anklage">An-</HYPH1><LE/>
+<HYPH2>klage</HYPH2> zur&#xFC;ck: &#xBB;Sie h&#xE4;tten sonst mich <HYPH1 cont="get&#xF6;dtet">ge-</HYPH1><LE/>
+<HYPH2>t&#xF6;dtet</HYPH2>!&#xAB; &#xBB;Wahr&#x2019; Dich,&#xAB; ruft er ihm zu,<LE/>
+&#xBB;vor Zwergen. Sie beherrschen die Welt.<LE/>
+Im Innern der Berge verbringen sie ihre<LE/>
+Zeit damit, nach Gold zu sch&#xFC;rfen, f&#xFC;r<LE/>
+das die Menschenkinder Glaube und Seele<LE/>
+verkaufen, und Schwerter zu schmieden,<LE/>
+mit denen die Menschenkinder einander<LE/>
+umbringen.&#xAB;</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="82" c_text="&#x2014; 82 &#x2014;"/>
+</PAGE>

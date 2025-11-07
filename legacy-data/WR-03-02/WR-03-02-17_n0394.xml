@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0393.xml</PREV>
+<NEXT>WR-03-02-17_n0395.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 394</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="persList" divStartID="dsID_2434_00801" endPtr="WR-03-02-17_n0394.xml#//DIV_END[@divEndID='deID_2434_00799']"/>
+<TITLE titleID="tiID_2434_00195"><TITLEPART><SPC>PERSONEN</SPC>:</TITLEPART></TITLE>
+<PERS>ARIANE.</PERS><LE/>
+<PERS>S&#xC9;LYSETTE.</PERS><LE/>
+<PERS>MELISANDE.</PERS><LE/>
+<PERS>YGRAINE.</PERS><LE/>
+<PERS>BELLANG&#xC8;RE.</PERS><LE/>
+<PERS>ALLADINE.</PERS><LE/>
+<PERS>ARIANES AMME.</PERS><LE/>
+<PERS>BLAUBART.</PERS><LE/>
+<PERS>DIE MENGE.</PERS><LE/>
+<DIV_END divEndID="deID_2434_00799" startPtr="WR-03-02-17_n0394.xml#//DIV_START[@divStartID='dsID_2434_00801']"/>
+<SEPARATOR type="hr"/>
+<DIV_START cat="editorialStatement" divStartID="dsID_2434_00802" endPtr="WR-03-02-17_n0394.xml#//DIV_END[@divEndID='deID_2434_00800']"/>
+<P parID="04440"><TAB/>Dieses <SPC>j&#xFC;ngste</SPC>, <SPC>aus dem soeben vollendeten Manuscript <HYPH1 cont="&#xFC;bersetzte">&#xFC;ber-</HYPH1><LE/>
+<HYPH2>setzte</HYPH2></SPC> Werk des vl&#xE4;mischen Dichter-Philosophen <SPC>Maurice Maeterlinck</SPC> <HYPH1 cont="erscheint">er-</HYPH1><LE/>
+<HYPH2>scheint</HYPH2> hier zum <SPC>erstenmale</SPC> in der &#xD6;ffentlichkeit. In Paris und London<LE/>
+wird es erst in den <DATERANGE>Wintermonaten dieses Jahres</DATERANGE> publiciert werden. Der Dichter<LE/>
+beabsichtigt, Theile davon in Musik setzen zu lassen, weswegen auch <HYPH1 cont="verschiedene">ver-</HYPH1><LE/>
+<HYPH2>schiedene</HYPH2> sangbare Lieder eingeschoben sind.</P>
+<DIV_END divEndID="deID_2434_00800" startPtr="WR-03-02-17_n0394.xml#//DIV_START[@divStartID='dsID_2434_00802']"/>
+</PAGE>

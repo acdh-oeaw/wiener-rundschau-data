@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-10_n0374.xml</PREV>
+<NEXT>WR-01-01-10_n0376.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 10, S. 375</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>SANTA CATERINA DI SIEN?.</CTEXT><RTEXT type="pn">375</RTEXT></HD>
+<P part="final" parID="02739"><HYPH2>pfahn</HYPH2>.&#xAB; Ein verwundertes L&#xE4;cheln zog &#xFC;ber sein Antlitz. Sollte das,<LE/>
+was er um ihretwillen gethan, das Himmelreich verdienen? Er erhob<LE/>
+seine Augen, um zu sehen, was sie sah, da fiel die Axt des B&#xFC;ttels.</P>
+<P parID="02740"><TAB/>Aber sie sah die Engel immer tiefer und tiefer hinabschweben,<LE/>
+sah sie seine Seele emporheben, sie gen Himmel tragen.</P>
+<HR emDashNum="15" type="emDash"/><LE/>
+<P parID="02741"><TAB/>Dass sie all diese f&#xFC;nfhundert Jahre weiter gelebt hat, erscheint<LE/>
+mit einemmale so nat&#xFC;rlich. Wie sollte man sie vergessen k&#xF6;nnen,<LE/>
+das grosse, liebende Herz? Wieder und wieder muss man zu ihrem<LE/>
+Preise singen, so wie es jetzt in den kleinen Capellen gesungen wird &#x2014;:</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2397_00503" endPtr="WR-01-01-10_n0375.xml#//DIV_END[@divEndID='deID_2397_00501']"/>
+<LG parID="02742"><LANG iso="la"><L>Pia Mater et humilis</L>
+<L>Naturae menor fragilis</L>
+<L>In hujus vitae fluctibus</L>
+<L>Nos rege tuis precibus</L>
+<L>Quem vidi, quem amavi</L>
+<L>In quem credidi, quem dilexi</L>
+<L>Ora pro nobis</L>
+<L>Ut digni efficiamme, promessioribus Christ,</L>
+<L>Santa Caterina, ora pro nobis.</L></LANG></LG>
+<DIV_END divEndID="deID_2397_00501" startPtr="WR-01-01-10_n0375.xml#//DIV_START[@divStartID='dsID_2397_00503']"/>
+<DIV_END divEndID="deID_2397_00502" startPtr="WR-01-01-10_n0366.xml#//DIV_START[@divStartID='dsID_2397_00502']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

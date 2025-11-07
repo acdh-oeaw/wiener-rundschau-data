@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-07_n0174.xml</PREV>
+<NEXT>WR-04-08_n0176.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 8, S. 175</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>34</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_00180" endPtr="WR-04-08_n0208.xml#//DIV_END[@divEndID='deID_2436_00206']"/>
+<CAPTION><P parID="01598"><AUCTOR>JAN TOOROP</AUCTOR>: <HR emDashNum="2" type="DoubleInline"/></P>
+<P parID="01599"><LANG iso="en">O grave where is thy Victory</LANG></P></CAPTION>
+<IMG>
+<SIGNATURE/>
+</IMG>
+<FT type="pn" num="175" c_text="&#x2014; 175 &#x2014;"/>
+</PAGE>

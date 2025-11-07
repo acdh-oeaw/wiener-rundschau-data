@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-19_n0444.xml</PREV>
+<NEXT>WR-03-02-19_n0446.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 19, S. 445</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>CHARLES BAUDELAIRE: DIE BLUMEN DES B&#xD6;SEN.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2434_01082" endPtr="WR-03-02-19_n0445.xml#//DIV_END[@divEndID='deID_2434_01080']"/>
+<TITLE titleID="tiID_2434_00223"><TITLEPART>IN IHREN KLEIDERN <SYMBOL type="3dots"/></TITLEPART></TITLE>
+<LG parID="05162"><L>In ihren Kleidern, die mit Schillern flattern,</L>
+<L>Erscheint es, dass sie tanzt, auch wenn sie geht,</L>
+<L>Wie eines heilgen Gauklers lange Nattern,</L>
+<L>Die er auf einem Stab im Takte dreht.</L></LG>
+<LG parID="05163"><L>Wie todter Sand und Wolkenrand der W&#xFC;sten,</L>
+<L>Zu denen fruchtlos menschlich Leiden schreit,</L>
+<L>Wie Wellennetze an den Meeresk&#xFC;sten</L>
+<L>Entfaltet sie sich ohne Achtsamkeit.</L></LG>
+<LG parID="05164"><L>Ihr gl&#xE4;nzend Aug ist herrlich Mineral.</L>
+<L>In diesem Wesen, Sinnbild seltner Art,</L>
+<L>Wo reiner Cherub mit dem Sphinx sich paart,</L></LG>
+<LG parID="05165"><L>Wo alles Gold ist, Diamant und Stahl,</L>
+<L>Liegt, wie der eitle Glanz der Sternenscharen,</L>
+<L>Die kalte Hoheit einer Unfruchtbaren.</L></LG>
+<DIV_END divEndID="deID_2434_01080" startPtr="WR-03-02-19_n0445.xml#//DIV_START[@divStartID='dsID_2434_01082']"/>
+<SEPARATOR type="undefined"/>
+<DIV_START type="verse" divStartID="dsID_2434_01083" endPtr="WR-03-02-19_n0445.xml#//DIV_END[@divEndID='deID_2434_01081']"/>
+<TITLE titleID="tiID_2434_00224"><TITLEPART>TRAUER DER MONDG&#xD6;TTIN.</TITLEPART></TITLE>
+<LG parID="05166"><L>Heut strahlt der Abendg&#xF6;ttin Licht geringer.</L>
+<L>Wie eine Sch&#xF6;nheit auf der Kissen Wust,</L>
+<L>Die vor dem Schlafe mit zerstreutem Finger</L>
+<L>Leis &#xFC;berspielt die Linien ihrer Brust,</L></LG>
+<LG parID="05167"><L>So ruht sie auf den flaumigen Lawinen</L>
+<L>Im Sterben langen Schw&#xE4;chen hingegeben,</L>
+<L>Das Auge richtend auf die weissen Mienen,</L>
+<L>Die B&#xFC;teng&#xFC;ssen gleich im Azur schweben.</L></LG>
+<LG parID="05168"><L>Wenn m&#xFC;d und schmachtend sie auf unsre Sph&#xE4;re</L>
+<L>Verstohlen manchmal tr&#xE4;ufelt eine Z&#xE4;hre,</L>
+<L>So naht ein Dichter, der den Schlummer flieht.</L></LG>
+<LG parID="05169"><L>Er f&#xE4;ngt die Z&#xE4;hre auf, die Hand als Schale,</L>
+<L>Dies St&#xFC;ck von farbenspiegelndem Opale</L>
+<L>Verbirgt er, dass es nicht die Sonne sieht.</L></LG>
+<DIV_END divEndID="deID_2434_01081" startPtr="WR-03-02-19_n0445.xml#//DIV_START[@divStartID='dsID_2434_01083']"/>
+<SEPARATOR num="3" type="undefined"/>
+<DIV_END divEndID="deID_2434_01082" startPtr="WR-03-02-19_n0441.xml#//DIV_START[@divStartID='dsID_2434_01077']"/>
+<FT type="pn" num="445" c_text="&#x2014; 445 &#x2014;"/>
+</PAGE>

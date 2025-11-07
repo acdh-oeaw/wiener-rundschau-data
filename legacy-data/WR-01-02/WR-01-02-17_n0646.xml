@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-17_n0645.xml</PREV>
+<NEXT>WR-01-02-17_n0647.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 17, S. 646</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>7</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="performance" divStartID="dsID_2398_00142" endPtr="WR-01-02-17_n0652.xml#//DIV_END[@divEndID='deID_2398_00192']"/>
+<TITLE titleID="tiID_2398_00067"><TITLEPART type="main">QUINTIN MESSIS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Ferdinand K&#xFC;rnberger</C></AUCTOR> (Wien).</TITLEPART></TITLE>
+<DIV_START cat="act" divStartID="dsID_2398_00143" endPtr="WR-01-02-17_n0652.xml#//DIV_END[@divEndID='deID_2398_00191']"/>
+<TITLE titleID="tiID_2398_00068"><TITLEPART>IV. AUFZUG.</TITLEPART></TITLE>
+<P parID="01158">(Schluss.)</P>
+<DIV_START cat="scene" divStartID="dsID_2398_00144" endPtr="WR-01-02-17_n0652.xml#//DIV_END[@divEndID='deID_2398_00190']"/>
+<TITLE titleID="tiID_2398_00069"><TITLEPART>V. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="01159"><SD><SPC>Messis</SPC>. <SPC>Memling</SPC>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2398_00145" endPtr="WR-01-02-17_n0646.xml#//DIV_END[@divEndID='deID_2398_00141']"/>
+<P parID="01160"><TAB/><SPK><SPC>Messis</SPC></SPK> <SD>(fliegt mit dem Ausbruche ungest&#xFC;mer Freude an Memling&#x2019;s<LE/>
+Hals)</SD>. Ich habe gesiegt, Meister, ich feiere den sch&#xF6;nsten Tag meines<LE/>
+Lebens!</P>
+<DIV_END divEndID="deID_2398_00141" startPtr="WR-01-02-17_n0646.xml#//DIV_START[@divStartID='dsID_2398_00145']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00146" endPtr="WR-01-02-17_n0646.xml#//DIV_END[@divEndID='deID_2398_00142']"/>
+<P parID="01161"><TAB/><SPK><SPC>Memling</SPC></SPK>. Das habe ich nicht erwartet! Dagobert und diese<LE/>
+Niederlage! So kann die Leidenschaft jedes menschliche Verm&#xF6;gen<LE/>
+ausl&#xF6;schen!</P>
+<DIV_END divEndID="deID_2398_00142" startPtr="WR-01-02-17_n0646.xml#//DIV_START[@divStartID='dsID_2398_00146']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00147" endPtr="WR-01-02-17_n0646.xml#//DIV_END[@divEndID='deID_2398_00143']"/>
+<P parID="01162"><TAB/><SPK><SPC>Messis</SPC></SPK>. Kommt zu Euch, Meister! Bin ich nicht auch Euer<LE/>
+Sch&#xFC;ler? Ihr g&#xF6;nnt mir nicht mein Gl&#xFC;ck.</P>
+<DIV_END divEndID="deID_2398_00143" startPtr="WR-01-02-17_n0646.xml#//DIV_START[@divStartID='dsID_2398_00147']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00148" endPtr="WR-01-02-17_n0646.xml#//DIV_END[@divEndID='deID_2398_00144']"/>
+<P parID="01163"><TAB/><SPK><SPC>Memling</SPC></SPK>. Sein Fall war tief, er muss mich ersch&#xFC;ttern! &#x2014; Ja,<LE/>
+Ihr habt gesiegt, Messis. Der Streit ist entschieden. Und hoffen wir,<LE/>
+dass Euer Gl&#xFC;ck ihn selbst nicht zu ungl&#xFC;cklich macht. Die raschen<LE/>
+Flammen sind&#x2019;s, die schnell verl&#xF6;schen. Es wird vertoben, dann hat<LE/>
+auch er noch eine Zukunft. Also Gl&#xFC;ck auf, mein Sohn! Ihr habt das<LE/>
+grosse Los gezogen. Ihr seid mit Eurem Leben im Reinen. &#x2014; Folgt<LE/>
+mir zu Werner Hildebald!</P>
+<DIV_END divEndID="deID_2398_00144" startPtr="WR-01-02-17_n0646.xml#//DIV_START[@divStartID='dsID_2398_00148']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00149" endPtr="WR-01-02-17_n0646.xml#//DIV_END[@divEndID='deID_2398_00145']"/>
+<P parID="01164"><TAB/><SPK><SPC>Messis</SPC></SPK>. K&#xF6;ln am Rhein! Das hab&#x2019; ich geahnt, als ich in deine<LE/>
+Thore zog. Sei umschlungen mit deinen Mauern und Th&#xFC;rmen, sei<LE/>
+gek&#xFC;sst, Hochschule der deutschen Kunst! O Meister, was bedeutet<LE/>
+mir diese Stunde!</P>
+<DIV_END divEndID="deID_2398_00145" startPtr="WR-01-02-17_n0646.xml#//DIV_START[@divStartID='dsID_2398_00149']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00150" endPtr="WR-01-02-17_n0646.xml#//DIV_END[@divEndID='deID_2398_00146']"/>
+<P parID="01165"><TAB/><SPK><SPC>Memling</SPC></SPK>. Fasst Euch in der Trunkenheit Eures ersten<LE/>
+Triumphes. Ihr habt jetzt vor einem Manne zu erscheinen, der Eueren<LE/>
+Jubel leicht auch wie Schadenfreude oder Gewinnsucht deuten k&#xF6;nnte.<LE/>
+&#x2014; M&#xE4;ssigt Euch darum, seid ernst und besonnen. &#x2014; Kommt!</P>
+<DIV_END divEndID="deID_2398_00146" startPtr="WR-01-02-17_n0646.xml#//DIV_START[@divStartID='dsID_2398_00150']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00151" endPtr="WR-01-02-17_n0646.xml#//DIV_END[@divEndID='deID_2398_00147']"/>
+<P parID="01166"><TAB/><SPK><SPC>Messis</SPC></SPK>. Wohin, Meister?</P>
+<DIV_END divEndID="deID_2398_00147" startPtr="WR-01-02-17_n0646.xml#//DIV_START[@divStartID='dsID_2398_00151']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00152" endPtr="WR-01-02-17_n0646.xml#//DIV_END[@divEndID='deID_2398_00148']"/>
+<P parID="01167"><TAB/><SPK><SPC>Memling</SPC></SPK>. Hat Euch die Freude um alle Sinne gebracht? Zu<LE/>
+Werner Hildebald sagt&#x2019; ich ja schon.</P>
+<DIV_END divEndID="deID_2398_00148" startPtr="WR-01-02-17_n0646.xml#//DIV_START[@divStartID='dsID_2398_00152']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00153" endPtr="WR-01-02-17_n0646.xml#//DIV_END[@divEndID='deID_2398_00149']"/>
+<P parID="01168"><TAB/><SPK><SPC>Messis</SPC></SPK>. Zu Hildebald? Was sollen wir dort und jetzt?</P>
+<DIV_END divEndID="deID_2398_00149" startPtr="WR-01-02-17_n0646.xml#//DIV_START[@divStartID='dsID_2398_00153']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00154" endPtr="WR-01-02-17_n0646.xml#//DIV_END[@divEndID='deID_2398_00150']"/>
+<P parID="01169"><TAB/><SPK><SPC>Memling</SPC></SPK>. Den Preis Eueres Sieges in Empfang nehmen. Dem<LE/>
+w&#xFC;rdigen B&#xFC;rger Euch als Eidam vorstellen. Kommt, kommt. Er ist<LE/>
+voll Harren und Erwarten &#xFC;ber die Entscheidung hier.</P>
+<DIV_END divEndID="deID_2398_00150" startPtr="WR-01-02-17_n0646.xml#//DIV_START[@divStartID='dsID_2398_00154']"/>
+</PAGE>

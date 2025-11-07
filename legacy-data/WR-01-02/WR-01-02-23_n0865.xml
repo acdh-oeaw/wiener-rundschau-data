@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-22_n0864.xml</PREV>
+<NEXT>WR-01-02-23_n0866.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 23, S. 865</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>10</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2398_00284" endPtr="WR-01-02-23_n0904.xml#//DIV_END[@divEndID='deID_2398_00302']"/>
+<DIV_START cat="masthead" divStartID="dsID_2398_00285" endPtr="WR-01-02-23_n0865.xml#//DIV_END[@divEndID='deID_2398_00284']"/>
+<P parID="02258"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02259"><B><DATE>15. <SPC>OCTOBER</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2398_00284" startPtr="WR-01-02-23_n0865.xml#//DIV_START[@divStartID='dsID_2398_00285']"/>
+<DIV_START divStartID="dsID_2398_00286" endPtr="WR-01-02-23_n0867.xml#//DIV_END[@divEndID='deID_2398_00285']"/>
+<TITLE titleID="tiID_2398_00130"><TITLEPART type="main">HERBST.</TITLEPART><LE/>
+<TITLEPART type="desc">Ein Fragment.</TITLEPART> <TITLEPART type="bystmt">Von <AUCTOR><C>Sigbj&#xF6;rn Obstfelder</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART>Aus dem Norwegischen von <AUCTOR type="translator"><C>Tyra Bentsen</C></AUCTOR>.</TITLEPART></TITLE>
+<P parID="02260"><TAB/>Es ist Herbst. In all seiner Gewalt ist das Gewitter gekommen.<LE/>
+Es ist, als k&#xE4;mpfe die Ebene draussen f&#xFC;r ihre Jugend, f&#xFC;r ihre<LE/>
+Blumen und ihre Thiere. Man sitzt da und empfindet, wie noch ein<LE/>
+Blatt herabf&#xE4;llt, wie noch ein Halm von dem Erdreiche losgerissen<LE/>
+wird. Zuletzt ist es einem, als w&#xE4;re einer, der draussen umhergeht,<LE/>
+und er geht &#xFC;ber die Wurzeln hin, &#xFC;ber das ganze Erdreich, &#xFC;ber das<LE/>
+Haidekraut, er geht unabl&#xE4;ssig im Takt mit dem Regen, ein <HYPH1 cont="unab&#xE4;nderliches">unab-</HYPH1><LE/>
+<HYPH2>&#xE4;nderliches</HYPH2> Leid steht auf seinem Antlitz zu lesen, und er geht von<LE/>
+Ort zu Ort. Er will es nicht, und doch muss sein Fuss von Nacht zu<LE/>
+Nacht die Halme niedertreten, einen nach dem anderen, und muss er<LE/>
+Blatt f&#xFC;r Blatt von ihren Zweigen abpfl&#xFC;cken.</P>
+<P parID="02261"><TAB/>Es war gestern Abends, als ich da sass und all dies vor mir sah,<LE/>
+als mit einemmale jemand auf der Treppe ging. Es musste er sein<LE/>
+&#x2014; der Einzige, den ich in dieser Gegend kennen gelernt habe. Er<LE/>
+kommt gew&#xF6;hnlich bei diesem Wetter. Er kann wochenlang fort bleiben,<LE/>
+wenn es aber regnet oder st&#xFC;rmisch ist, dann weiss ich fast gewiss,<LE/>
+dass er kommt. Wenn er hereintritt, vermeidet er gew&#xF6;hnlich meinen<LE/>
+Blick, dr&#xFC;ckt aber meine Hand fest, ohne etwas zu sagen, oder <HYPH1 cont="murmelt">mur-</HYPH1><LE/>
+<HYPH2>melt</HYPH2> nur eine Art &#xBB;Guten Abend&#xAB;. Wir sitzen in Stillschweigen.</P>
+<P parID="02262"><TAB/>Es scheint, als fiele es ihm schwer, von seinem Verkehr mit<LE/>
+Wind und Regen zu lassen. Es dauert gew&#xF6;hnlich lange, bis er etwas<LE/>
+sagt. Zuweilen steht er auf und geht ein paar Schritte, zieht das <HYPH1 cont="Rouleau">Rou-</HYPH1><LE/>
+<HYPH2>leau</HYPH2> bei Seite, schaut &#xFC;ber die Ebene hinaus.</P>
+<P parID="02263"><TAB/>Es kommt solche Ruhe &#xFC;ber mich, wenn er hier sitzt. Und doch<LE/>
+liegt gew&#xF6;hnlich &#xFC;ber seinem Antlitz ein so entsetzlich trauriger Zug.<LE/>
+Ich sah auch noch nie ein so kr&#xE4;ftiges Angesicht mit so weichem<LE/>
+Ausdruck. Es kann etwas Sanftes dar&#xFC;ber kommen, wenn er von den<LE/>
+N&#xE4;chten spricht, wo er draussen beim Angeln gelegen hat, und von<LE/>
+dem, was ihm da durch den Sinn zog.</P>
+</PAGE>

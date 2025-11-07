@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-04_n0086.xml</PREV>
+<NEXT>WR-03-01-04_n0088.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 87</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>STRINDBERG: DIE SCHL&#xDC;SSEL DES HIMMELREICHS.</CTEXT></HD>
+<TABLE parID="01246"><ROW ciID="0372"><CELL>
+<LG parID="01247"><L>2. Prometheus.</L></LG>
+<LG parID="01248"><L>Hier ist Prometheus, wohl der Kuckuck</L>
+<L>In Deiner Himmelsst&#xFC;rmer Schaar,</L>
+<L>Im &#xFC;brigen verwandt dem Riesen,</L>
+<L>Gedenkst doch sein? Willst lieber ihn</L>
+<L>vergessen! &#x2014;</L></LG>
+<LG parID="01249"><L>3. Jakob ringt mit Jehovah.</L></LG>
+<LG parID="01250"><L>Hier sieh den Patriarchen Jakob,</L>
+<L>Der k&#xE4;mpfen wollte wider seinen Gott</L>
+<L>Mit dem Erfolge, den die Bibel lehrt. &#x2014;</L>
+<L>Willst mehr Du sehen, sage nur ein Wort!</L></LG>
+<DIV_END divEndID="deID_2434_00417" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00421']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00422" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00418']"/>
+<P parID="01251"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01252"><L>Ich sah genug, hab&#x2019;s auch verstanden!</L></LG>
+<DIV_END divEndID="deID_2434_00418" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00422']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00423" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00419']"/>
+<P parID="01253"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01254"><L>So bist des Himmelsfluges Du nun satt!</L>
+<L>Wohlan, zur&#xFC;ck denn auf die Erde!</L></LG>
+<DIV_END divEndID="deID_2434_00419" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00423']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00424" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00420']"/>
+<P parID="01255"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01256"><L>Ein Wort noch! Diese Leiter hier?</L></LG>
+<DIV_END divEndID="deID_2434_00420" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00424']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00425" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00421']"/>
+<P parID="01257"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01258"><L>O, das ist die ber&#xFC;hmte Jakobsleiter. &#x2014;</L></LG>
+<DIV_END divEndID="deID_2434_00421" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00425']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00426" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00422']"/>
+<P parID="01259"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01260"><L>Auf der die Engel steigen auf &#x2014;</L></LG>
+<DIV_END divEndID="deID_2434_00422" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00426']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00427" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00423']"/>
+<P parID="01261"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01262"><L>Und nieder!</L>
+<L>Mein Seel&#x2019;, ich glaub&#x2019;, &#x2019;s l&#xE4;sst Dich nicht</L>
+<L>ruh&#x2019;n,</L>
+<L>Dem Himmelswahn noch nachzujagen!</L></LG>
+<DIV_END divEndID="deID_2434_00423" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00427']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00428" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00424']"/>
+<P parID="01263"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01264"><L>Der steckt in einem, wie die S&#xFC;nde</L>
+<L>selbst!</L></LG>
+<DIV_END divEndID="deID_2434_00424" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00428']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00429" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00425']"/>
+<P parID="01265"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01266"><L>Kein Wunder das! Demselben Baum</L>
+<L>Entspross er wie die S&#xFC;nde.</L>
+<L>Wohlan, klimm auf, versuch&#x2019; die Leiter</L>
+<L>Und tr&#xE4;gt sie Dich nicht himmelan</L>
+<L>Steht sie doch fest auf Erden.</L>
+<L>Nun scheiden wir, doch eh Du gehst,</L>
+<L>Nimm hier die kleine Sammlung Angedenken</L>
+<L>Von einem, der Dich f&#xFC;hrt&#x2019; ins Sagenland</L>
+<L>Und so verplauderte den Winterabend.</L>
+<L>Als gleich dem Regen weint&#x2019; des Schmiedes</L>
+<L>Gram,</L>
+<L>Zog ich aus meinem grossen Korb</L>
+<L>Des Spielzeugladens beste Waren,</L>
+<L>Gebrauchend sie nach Zauberart.</L></LG>
+<P parID="01267"><SD>(W&#xE4;hrend des Folgenden nimmt er Spielsachen<LE/>
+und M&#xE4;rchenb&#xFC;cher aus dem Korbe und legt<LE/>
+sie auf den Tisch.)</SD></P>
+</CELL><CELL>
+<LG parID="01268"><L>Hier sieh, den Riesen, greulich anzuschaun,</L>
+<L>Der Felsen schleudert, und die Kleinen</L>
+<L>schluckt.</L>
+<L>Da haben wir den winz&#x2019;gen D&#xE4;umling,</L>
+<L>Der Riesen fr&#xE4;sse, k&#xE4;m&#x2019; er ihnen bei,</L>
+<L>Und seine treue Gattin Cendrillon.</L>
+<L>Sieh hier die Sagen mit den h&#xFC;bschen</L>
+<L>Bildern,</L>
+<L>Den Ritter Blaubart mit den Frauen,</L>
+<L>St. Peter, der auf Erden wandelt,</L>
+<L>Ob er auch lang schon, lange todt,</L>
+<L>Den Schuster aus Jerusalem, <HYPH1 cont="Schlaraffenland">Schlaraffen-</HYPH1></L>
+<L><HYPH2>land</HYPH2> &#x2014; &#x2014; &#x2014;</L>
+<L>Lass Dir&#x2019;s gen&#xFC;gen und trags heim den</L>
+<L>Kindern.</L></LG>
+<DIV_END divEndID="deID_2434_00425" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00429']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00430" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00426']"/>
+<P parID="01269"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01270"><L>Was soll der Hohn, der grausamer denn</L>
+<L>all die Bilder?</L></LG>
+<DIV_END divEndID="deID_2434_00426" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00430']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00431" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00427']"/>
+<P parID="01271"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01272"><L>Nie sprach ich je ein wahrer Wort! &#x2014;</L>
+<L>Steig auf die Jakobsleiter dort</L>
+<L>Und Du wirst sehn &#x2014; ja, stelle Dir nur</L>
+<L>vor &#x2014;</L>
+<L>Dort wirst zu allererst Du sehn</L>
+<L>Die Schmiede und Dein K&#xE4;mmerlein;</L>
+<L>Drin an der Wand drei kleine Bettchen.</L></LG>
+<DIV_END divEndID="deID_2434_00427" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00431']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00432" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00428']"/>
+<P parID="01273"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01274"><L>Die R&#xE4;ume will ich niemals wiederschaun!</L></LG>
+<DIV_END divEndID="deID_2434_00428" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00432']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00433" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00429']"/>
+<P parID="01275"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01276"><L>Und in der Kammer findest Du Bekannte!</L>
+<L>Doch glaub&#x2019; nur nicht, der Himmel falle</L>
+<L>nieder,</L>
+<L>Und dass auf Leitern seine Engel wallen.</L></LG>
+<DIV_END divEndID="deID_2434_00429" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00433']"/>
+<P parID="01277"><SD>(Die Kinder des Schmiedes erscheinen in der<LE/>
+Nische.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00434" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00430']"/>
+<P parID="01278"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01279"><L>O, meine Kinder!</L></LG>
+<DIV_END divEndID="deID_2434_00430" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00434']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00435" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00431']"/>
+<P parID="01280"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01281"><L>Nun geh ich fort,</L>
+<L>Denn meine Zauberkunst vermag hier</L>
+<L>nichts.</L>
+<L>Bau nun ein neues Himmelreich Dir selbst,</L>
+<L>Glaub denen nicht, die mit den Schl&#xFC;sseln</L>
+<L>klappern,</L>
+<L>Vertrau der Wirklichkeit und nicht dem</L>
+<L>Schein,</L>
+<L>Bau&#x2019; keinen Babelsthurm; er st&#xFC;rzt Dir ein.</L></LG>
+<DIV_END divEndID="deID_2434_00431" startPtr="WR-03-01-04_n0087.xml#//DIV_START[@divStartID='dsID_2434_00435']"/>
+<P parID="01282"><SD>(Der Vorhang f&#xE4;llt. &#x2014; Schluss.)</SD></P>
+<DIV_END divEndID="deID_2434_00432" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00411']"/>
+<DIV_END divEndID="deID_2434_00433" startPtr="WR-03-01-04_n0085.xml#//DIV_START[@divStartID='dsID_2434_00374']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2434_00434" startPtr="WR-03-01-04_n0081.xml#//DIV_START[@divStartID='dsID_2434_00335']"/>
+<SEPARATOR type="hr"/>
+<FT type="pn" num="87" c_text="&#x2014; 87 &#x2014;"/>
+</PAGE>

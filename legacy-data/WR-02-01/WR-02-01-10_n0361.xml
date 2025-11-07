@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-09_n0360.xml</PREV>
+<NEXT>WR-02-01-10_n0362.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 10, S. 361</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00552" endPtr="WR-02-01-10_n0400.xml#//DIV_END[@divEndID='deID_2432_00572']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00553" endPtr="WR-02-01-10_n0361.xml#//DIV_END[@divEndID='deID_2432_00552']"/>
+<P parID="02531"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02532"><B><DATE>1. <SPC>APRIL</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00552" startPtr="WR-02-01-10_n0361.xml#//DIV_START[@divStartID='dsID_2432_00553']"/>
+<DIV_START divStartID="dsID_2432_00554" endPtr="WR-02-01-10_n0367.xml#//DIV_END[@divEndID='deID_2432_00554']"/>
+<TITLE titleID="tiID_2432_00118"><TITLEPART type="main"><SPC>WIE JONAS LIE LEBT UND DICHTET</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Arne Garborg</C></AUCTOR> (Hvalstad bei Christiania).</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Marie Herzfeld</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART>(Schluss.)</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE>
+<P parID="02533"><TAB/>Redet man mit Jonas Lie &#xFC;ber seine Dichtung, wird stets ein<LE/>
+Moment kommen, in dem er abbricht und sagt: &#xBB;Nun ja, hab&#x2019; ich<LE/>
+etwas Gutes geschrieben, so besitzt meine Frau daran ebensoviel<LE/>
+Verdienst wie ich <SYMBOL type="3dots"/> Ohne sie w&#xE4;re nichts als Unsinn draus geworden.&#xAB;</P>
+<P parID="02534"><TAB/>Ich kann nicht beurtheilen, ob Jonas Lie da &#xFC;bertreibt. Unmittelbar<LE/>
+und intuitiv, wie er selbst ist, hat er einen &#xFC;berm&#xE4;ssigen Respect vor<LE/>
+dem klaren Blick und der ordnenden Hand. Und seine Dankbarkeit<LE/>
+gegen Thomasine, die wie ein guter Kamerad an seiner Seite <HYPH1 cont="gestanden">ge-</HYPH1><LE/>
+<HYPH2>standen</HYPH2> und so manchen wirren Haspel f&#xFC;r ihn zurecht gebracht hat,<LE/>
+ist &#xFC;berhaupt grenzenlos. Er betrachtet sie mit einer Art von <HYPH1 cont="Abg&#xF6;tterei">Ab-</HYPH1><LE/>
+<HYPH2>g&#xF6;tterei</HYPH2> als die, welche eigentlich Alles gemacht hat.</P>
+<P parID="02535"><TAB/>&#xBB;Sie ist eine ewig wirksame, pflanzende Natur,&#xAB; schreibt er<LE/>
+einmal aus Holskogen, wo er <DATE>1893</DATE> den Sommer zubrachte,<SUP>1</SUP>) &#xBB;hier setzt<LE/>
+sie aus dem Wald Hagedorn und Wachholder und Taxus und Epheu<LE/>
+und Wurmfarren aus, ent- und bekleidet Felsklippen und arrangirt die<LE/>
+Vegetation, baut und s&#xE4;et und j&#xE4;tet im Garten, tapezirt die Zimmer,<LE/>
+schm&#xFC;ckt die W&#xE4;nde, setzt Glasmalereien in die Fenster u. s. f. Und<LE/>
+dazwischen Abschreiberei und Durchlesen der Sachen mit mir <SYMBOL type="3dots"/>&#xAB;</P>
+<P part="initial" parID="02536"><TAB/>Sicher ist, dass Frau Lie selbst die Wichtigkeit dieser ihrer <HYPH1 cont="Mitarbeiterschaft">Mit-</HYPH1><LE/>
+<HYPH2>arbeiterschaft</HYPH2> nicht so stark betont. Vielleicht will sie nicht gern f&#xFC;r<LE/>
+&#xBB;literarisch&#xAB; gelten; sie ist ja ein Weib. B&#xFC;cherschreibende Damen<LE/>
+sind nicht ganz ihr Geschmack. Ja, bewahre! Alle Anerkennung f&#xFC;r<LE/>
+das &#xBB;Recht&#xAB; der Frau und alle Anerkennung, wenn von weiblicher</P>
+<HR/>
+<FN>
+<P parID="02537"><TAB/><SUP>1</SUP>) Hier schrieb Jonas Lie seinen meisterhaften Roman &#xBB;Niobe&#xAB;.</P>
+</FN>
+</PAGE>

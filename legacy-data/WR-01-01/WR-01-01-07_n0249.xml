@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-07_n0248.xml</PREV>
+<NEXT>WR-01-01-07_n0250.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 7, S. 249</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00427" endPtr="WR-01-01-07_n0249.xml#//DIV_END[@divEndID='deID_2397_00426']"/>
+<TITLE titleID="tiID_2397_00110"><TITLEPART><SPC>DIE SEHNSUCHT</SPC>.</TITLEPART></TITLE>
+<LG parID="01994"><L>Sie war mir unter fremdem Himmel nah,</L>
+<L>Ich f&#xFC;hlte einmal ihre grossen Blicke,</L>
+<L>Ich f&#xFC;hlte, wie sie mir ins Innre sah &#x2014;</L>
+<L>Und weiss seitdem die leiseren Geschicke:</L></LG>
+<LG parID="01995"><L>Ich weiss von Faltern, die vor Sehnsucht starben,</L>
+<L>Als eine Blume sacht zu bleichen schien,</L>
+<L>Von grossen Pflanzen, die im Licht verdarben,</L>
+<L>Von V&#xF6;geln, die nach schwarzen W&#xE4;ldern ziehn.</L></LG>
+<LG parID="01996"><L>Und weiss von Menschen, die in schweren N&#xE4;chten</L>
+<L>Mit blassen Wangen nacheinander streben &#x2014;</L>
+<L>Sie hoffen, dass die Tage Frieden br&#xE4;chten,</L>
+<L>Und f&#xFC;hlen doch, es ist umsonst &#x2014; und beben.</L></LG>
+<LG parID="01997"><L>Sah sie dich an mit Augen, grau und gross,</L>
+<L>Dann musst du immer ihr dein Opfer bringen,</L>
+<L>Dann sp&#xFC;rst ihr Wesen du in allen Dingen,</L>
+<L>Und nie mehr l&#xE4;sst sie deine Seele los.</L></LG>
+<P parID="01998">Berlin. <AUCTOR><C>Franz Evers</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00426" startPtr="WR-01-01-07_n0249.xml#//DIV_START[@divStartID='dsID_2397_00427']"/>
+</PAGE>

@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-07_n0158.xml</PREV>
+<NEXT>WR-05-08_n0160.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 8, S. 159</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>30</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_01274" endPtr="WR-05-08_n0188.xml#//DIV_END[@divEndID='deID_2436_01287']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_01275" endPtr="WR-05-08_n0159.xml#//DIV_END[@divEndID='deID_2436_01274']"/>
+<P parID="06576"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="06577"><B>HERAUSGEGEBEN VON FELIX RAPPAPORT</B></P>
+<TABLE parID="06578"><ROW ciID="1060"><CELL>
+<P parID="06579"><DATE><B>15. APRIL 1901</B></DATE></P>
+</CELL><CELL>
+<P parID="06580"><B>V. JAHRGANG, N<SUP>R.</SUP> 8</B></P>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_01274" startPtr="WR-05-08_n0159.xml#//DIV_START[@divStartID='dsID_2436_01275']"/>
+<DIV_START divStartID="dsID_2436_01276" endPtr="WR-05-08_n0166.xml#//DIV_END[@divEndID='deID_2436_01275']"/>
+<TITLE titleID="tiID_2436_00312"><TITLEPART type="main"><SPC>DER GEIST DER BIENEN</SPC>.*</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAURICE MAETERLINCK</AUCTOR> (Paris).</TITLEPART></TITLE>
+<TABLE parID="06581"><ROW ciID="1061"><CELL>
+<TITLE titleID="tiID_2436_00313"><TITLEPART>AUF DER SCHWELLE DES<LE/>
+BIENENSTOCKES.</TITLEPART></TITLE>
+<TITLE titleID="tiID_2436_00314"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<P parID="06582"><TAB/>Es ist kein Buch &#xFC;ber Bienenzucht,<LE/>
+kein Handbuch f&#xFC;r Bienenz&#xFC;chter, was<LE/>
+ich hier schreiben will. Jedes Land<LE/>
+besitzt treffliche Werke dieser Art,<LE/>
+und es w&#xE4;re zwecklos, sie noch <HYPH1 cont="einmal">ein-</HYPH1><LE/>
+<HYPH2>mal</HYPH2> zu schreiben. In Frankreich hat<LE/>
+man die Werke von Dadant, Georges<LE/>
+de Layens, Bonnier, Bertrand, Hamet,<LE/>
+Weber, Cl&#xE9;ment und Abb&#xE9; Collin,<LE/>
+auf englischem Sprachgebiete die<LE/>
+Schriften von Langstroth, Bevan, Cook,<LE/>
+Cheshire, Cowan und Root, in <HYPH1 cont="Deutschland">Deutsch-</HYPH1><LE/>
+<HYPH2>land</HYPH2> die des Pfarrers Dzierzon, des<LE/>
+Barons von Berlepsch, Pollmann,<LE/>
+Vogel u. v. A.</P>
+<P part="initial" parID="06583"><TAB/>Ebensowenig will ich eine <HYPH1 cont="wissenschaftliche">wissen-</HYPH1><LE/>
+<HYPH2>schaftliche</HYPH2> Monographie &#xFC;ber apis<LE/>
+mellifica, ligustica, fasciata, dorsata<LE/>
+u. s. w. schreiben oder die Ergebnisse<LE/>
+neuer Forschungen und Beobachtungen<LE/>
+mittheilen. Ich werde fast nichts sagen,</P>
+</CELL><CELL>
+<P part="medial" parID="06584">was nicht Jedem, der sich ein wenig<LE/>
+mit Bienenzucht befasst hat, gel&#xE4;ufig<LE/>
+w&#xE4;re, und, um dieses Buch nicht <HYPH1 cont="unn&#xFC;tz">un-</HYPH1><LE/>
+<HYPH2>n&#xFC;tz</HYPH2> zu beschweren, eine gewisse <HYPH1 cont="Anzahl">An-</HYPH1><LE/>
+<HYPH2>zahl</HYPH2> von Beobachtungen und <HYPH1 cont="Erfahrungen">Erfah-</HYPH1><LE/>
+<HYPH2>rungen</HYPH2>, die ich in zwanzigj&#xE4;hrigem<LE/>
+Verkehr mit den Bienen gewonnen,<LE/>
+mir f&#xFC;r ein Specialwerk vorbehalten,<LE/>
+da sie nur von beschr&#xE4;nktem, <HYPH1 cont="technischem">tech-</HYPH1><LE/>
+<HYPH2>nischem</HYPH2> Interesse sind. Ich will nur<LE/>
+ganz einfach von den Bienen reden,<LE/>
+wie man von einem vertrauten und<LE/>
+geliebten Gegenstande redet, wenn man<LE/>
+Nichtkenner dar&#xFC;ber belehren will. Ich<LE/>
+will weder die Wahrheit zu Ehren<LE/>
+bringen, noch, was R&#xE9;aumur mit<LE/>
+vollem Recht allen seinen Vorg&#xE4;ngern<LE/>
+in der Bienenkunde vorwirft, ein<LE/>
+h&#xFC;bsch erfundenes M&#xE4;rchen an die<LE/>
+Stelle der ebenso wunderbaren <HYPH1 cont="Wirklichkeit">Wirk-</HYPH1><LE/>
+<HYPH2>lichkeit</HYPH2> setzen. Es gibt Wunder genug<LE/>
+im Bienenstaat, und man braucht darum<LE/>
+keine hinzu erfinden. &#xDC;berdies habe<LE/>
+ich schon lange darauf verzichtet, etwas<LE/>
+Interessanteres und Sch&#xF6;neres auf dieser<LE/>
+Welt zu finden, als die Wahrheit oder</P>
+</CELL></ROW></TABLE>
+<FN>
+<P parID="06585"><TAB/>* Aus dem franz&#xF6;sischen Manuscript &#xFC;bertragen von F. v. Oppeln-Bronikowski. Diese<LE/>
+Ausf&#xFC;hrungen bilden die einleitenden Capitel eines gr&#xF6;&#xDF;eren Werkes, das demn&#xE4;chst unter dem<LE/>
+Titel &#xBB;<SPC>Die Bienen</SPC>&#xAB; in franz&#xF6;sischer und deutscher Sprache erscheinen wird.</P>
+</FN>
+<FT type="pn" num="159" c_text="&#x2014; 159 &#x2014;"/>
+</PAGE>

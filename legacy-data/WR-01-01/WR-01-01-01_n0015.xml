@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-01_n0014.xml</PREV>
+<NEXT>WR-01-01-01_n0016.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 15</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00041" endPtr="WR-01-01-01_n0015.xml#//DIV_END[@divEndID='deID_2397_00042']"/>
+<TITLE titleID="tiID_2397_00019"><TITLEPART><SPC>GEDICHTE</SPC>.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00042" endPtr="WR-01-01-01_n0015.xml#//DIV_END[@divEndID='deID_2397_00040']"/>
+<TITLE titleID="tiID_2397_00020"><TITLEPART><LANG iso="grc">&#x399;&#x3A3;&#x399;&#x3A3;</LANG></TITLEPART></TITLE>
+<LG parID="00130"><L><IN>Hinan</IN> die hohen Marmorstufen steigen</L>
+<L>Der Priester zw&#xF6;lf in weissen Festtalaren;</L></LG>
+<LG parID="00131"><L>Posaunen laden und die heilgen Geigen</L>
+<L>Hin in den Vorhof der Geweihten Schaaren.</L></LG>
+<LG parID="00132"><L>Der Dreifuss hebt sich hier dem Weltenschweigen,</L>
+<L>Und was verborgen, wird sich offenbaren &#x2014;</L></LG>
+<LG parID="00133"><L>Der Rhythmus t&#xF6;nt uns in der Sterne Reigen</L>
+<L>Gleich einem Rufen aus dem Unsichtbaren.</L></LG>
+<P parID="00134">Wien. <AUCTOR><C>Felix Rappaport</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00040" startPtr="WR-01-01-01_n0015.xml#//DIV_START[@divStartID='dsID_2397_00042']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00043" endPtr="WR-01-01-01_n0015.xml#//DIV_END[@divEndID='deID_2397_00041']"/>
+<TITLE titleID="tiID_2397_00021"><TITLEPART type="main">&#xC7;AVITRI.</TITLEPART><LE/>
+<TITLEPART type="desc">Deutsch von <AUCTOR type="translator"><C>Richard Schaukal</C></AUCTOR>.</TITLEPART></TITLE>
+<LG parID="00135"><L><IN>Nach</IN> Maha-Barrata, der Heldensage,</L>
+<L>Hielt sich &#xC7;avitri aufrecht &#xBB;wie ein Pfahl&#xAB;</L>
+<L>Drei N&#xE4;chte lang, drei sonnenheisse Tage,</L>
+<L>Weil sie gelobt, zu retten den Gemahl.</L></LG>
+<LG parID="00136"><L>Es gl&#xFC;hten &#xC7;urya&#x2019;s R&#xE4;der &#xFC;ber ihr,</L>
+<L>Und Tchandra kam, den Schlaf auf seinen Fl&#xFC;geln:</L>
+<L>Ihr Herz blieb stark, vergeblich riss die Gier</L>
+<L>Nach Ruhe an des Willens straffen Z&#xFC;geln.</L></LG>
+<LG parID="00137"><L>&#x2014; Wenn Euch die Sehnsucht an der Seele zerrt,</L>
+<L>Der Giftwahn des Vergessens lockend bl&#xFC;ht,</L>
+<L>Dann h&#xFC;llet das verz&#xE4;rtelte Gem&#xFC;th</L>
+<L>In hartes Erz und seid &#xC7;avitri&#x2019;s werth.</L></LG>
+<P parID="00138">Paris. <AUCTOR><C>Paul Verlaine</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00041" startPtr="WR-01-01-01_n0015.xml#//DIV_START[@divStartID='dsID_2397_00043']"/>
+<DIV_END divEndID="deID_2397_00042" startPtr="WR-01-01-01_n0015.xml#//DIV_START[@divStartID='dsID_2397_00041']"/>
+</PAGE>

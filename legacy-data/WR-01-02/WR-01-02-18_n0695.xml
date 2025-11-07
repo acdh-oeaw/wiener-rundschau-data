@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-18_n0694.xml</PREV>
+<NEXT>WR-01-02-18_n0696.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 18, S. 695</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>8</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>DIE GONCOURTS UND DER KUNSTGEDANKE.</CTEXT><RTEXT type="pn">695</RTEXT></HD>
+<P part="final" parID="01431">Inbrunst &#x2014; eben weil wir Vorbilder zur Nachahmung brauchen &#x2014;<LE/>
+vielleicht unsere Sehnsucht wachrufen, und &#xFC;ber die genialen, uns<LE/>
+hypnotisirenden Werke hinaus wird unsere Begeisterung, sich an das<LE/>
+Princip anlehnend, das sie zeugte, in Lenzespracht die versiegte Quelle<LE/>
+unserer Thaten zu neuem Leben erwecken.</P>
+<DIV_END divEndID="deID_2398_00202" startPtr="WR-01-02-18_n0683.xml#//DIV_START[@divStartID='dsID_2398_00203']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2398_00204" endPtr="WR-01-02-18_n0695.xml#//DIV_END[@divEndID='deID_2398_00203']"/>
+<TITLE titleID="tiID_2398_00080"><TITLEPART>DIE MENSCHEN.</TITLEPART></TITLE>
+<LG parID="01432"><L><IN>Wir</IN> leben an einander stolz dahin,</L>
+<L>So wie die B&#xE4;ume in dem gr&#xFC;nen Garten.</L>
+<L>Tagt&#xE4;glich kommt die alte G&#xE4;rtnerin,</L>
+<L>Mit Eimern hellen Wassers sie zu warten.</L></LG>
+<LG parID="01433"><L>Es steht f&#xFC;r sich ein jeder Tag f&#xFC;r Tag,</L>
+<L>Sieht von den anderen nur Laub und Rinde,</L>
+<L>Nicht was im Innern sie erregen mag,</L>
+<L>Und sch&#xFC;ttelt hoch sein Haupt im weiten Winde.</L></LG>
+<LG parID="01434"><L>Bisweilen aber kommt die alte Frau,</L>
+<L>Dem Nachbar einen Ast entzwei zu s&#xE4;gen.</L>
+<L>Dann schauert jeder; jeder sieht genau,</L>
+<L>Sieht eine andre Seele sich bewegen.</L></LG>
+<P parID="01435">M&#xFC;nchen. <AUCTOR><C>Emanuel v. Bodman</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2398_00203" startPtr="WR-01-02-18_n0695.xml#//DIV_START[@divStartID='dsID_2398_00204']"/>
+</PAGE>

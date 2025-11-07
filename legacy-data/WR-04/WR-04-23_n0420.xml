@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-23_n0419.xml</PREV>
+<NEXT>WR-04-24_n0421.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 23, S. 420</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>20</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<TABLE parID="04728"><ROW ciID="0830"><CELL>
+<DIV_START cat="advertisement" divStartID="dsID_2436_00870" endPtr="WR-04-23_n0420.xml#//DIV_END[@divEndID='deID_2436_00869']"/>
+<P parID="04729">SECESSION</P>
+<P parID="04730">AUSSTELLUNG<LE/>
+WIEN-ZEILE<LE/>
+EINTRITT &#xB7; 50K</P>
+<DIV_END divEndID="deID_2436_00869" startPtr="WR-04-23_n0420.xml#//DIV_START[@divStartID='dsID_2436_00870']"/>
+</CELL><CELL>
+<DIV_START cat="advertisement" divStartID="dsID_2436_00871" endPtr="WR-04-23_n0420.xml#//DIV_END[@divEndID='deID_2436_00870']"/>
+<TABLE parID="04731"><ROW ciID="0831"><CELL>
+<IMG/>
+</CELL><CELL>
+<P parID="04732"><B>A. F&#xD6;RSTER</B></P>
+<P parID="04733"><B>k. u. k. Hof-Leder-Galanterie-</B><LE/>
+und<LE/>
+<B>Luxuswaren-Fabrik</B></P>
+<P parID="04734"><SPC>WIEN</SPC></P>
+<P parID="04735"><B>I. Kohlmarkt Nr. 5.</B></P>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2436_00870" startPtr="WR-04-23_n0420.xml#//DIV_START[@divStartID='dsID_2436_00871']"/>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_START cat="advertisement" divStartID="dsID_2436_00872" endPtr="WR-04-23_n0420.xml#//DIV_END[@divEndID='deID_2436_00871']"/>
+<P parID="04736">Local=Ver&#xE4;nderung.</P>
+<SEPARATOR num="8" type="undefined"/>
+<P rend="bl" parID="04737"><B>Die Kunst= und Landkarten=Handlung</B></P>
+<P parID="04738">ARTARIA &amp; C<SYMBOL type="mascOrdInd"/>.</P>
+<P parID="04739">befindet sich w&#xE4;hrend des Umbaues ihres Gesch&#xE4;ftshauses</P>
+<P parID="04740">&#x261B; <B>I., Kohlmarkt Nr. 20, Mezzanin</B> &#x261A;</P>
+<P parID="04741">(schr&#xE4;g gegen&#xFC;ber dem alten Locale in der N&#xE4;he des Michaelerplatzes).</P>
+<TABLE parID="04742"><ROW ciID="0832"><CELL>
+<P parID="04743"><B>Links:</B></P>
+<P parID="04744">Landkarten-Verkauf.</P>
+</CELL><CELL>
+<P parID="04745"><B>Rechts:</B></P>
+<P parID="04746"><SPC>Kunst=Salon</SPC>.</P>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2436_00871" startPtr="WR-04-23_n0420.xml#//DIV_START[@divStartID='dsID_2436_00872']"/>
+<HR/>
+<DIV_START cat="editorialStatement" divStartID="dsID_2436_00873" endPtr="WR-04-23_n0420.xml#//DIV_END[@divEndID='deID_2436_00872']"/>
+<P parID="04747"><B>Wiener Rundschau</B></P>
+<P parID="04748">Redaction: Wien, I/<SUB>1</SUB> Schreyvogelgasse 3 Administration: Wien, I/<SUB>1</SUB> Wollzeile 13</P>
+<P parID="04749">erscheint in Halbmonats-Heften am 1. und 15. eines jeden Monats.</P>
+<P parID="04750">Der Abonnementspreis betr&#xE4;gt bis zum Schlusse des laufenden vierten Jahrganges viertelj&#xE4;hrlich<LE/>
+4 Kronen f&#xFC;r &#xD6;sterreich-Ungarn, 4 Mark f&#xFC;r Deutschland, 6 Francs f&#xFC;r die L&#xE4;nder des <HYPH1 cont="Weltpostvereines">Welt-</HYPH1><LE/>
+<HYPH2>postvereines</HYPH2>. Einzelne Hefte kosten 80 Heller <SYMBOL type="equals"/> 80 Pfg. <SYMBOL type="equals"/> 1 Franc.</P>
+<P parID="04751">Am <DATE>1. J&#xE4;nner 1901</DATE> beginnt die &#xBB;Wiener Rundschau&#xAB; ihren <B>f&#xFC;nften</B> Jahrgang.</P>
+<P parID="04752">Der st&#xE4;ndig wachsende Abonnentenkreis unserer Zeitschrift setzt uns in die<LE/>
+angenehme Lage, von diesem Zeitpunkte ab eine Preiserm&#xE4;&#xDF;igung eintreten zu lassen.<LE/>
+Wir liefern fernerhin das Quartal mit 3 Kronen f&#xFC;r &#xD6;sterreich-Ungarn, 3 Mark f&#xFC;r<LE/>
+Deutschland, 4 Francs 50 Centimes f&#xFC;r die L&#xE4;nder des Weltpostvereines, jedes Heft<LE/>
+mit 60 Heller <SYMBOL type="equals"/> 60 Pfennig <SYMBOL type="equals"/> 75 Centimes.</P>
+<P parID="04753">Alle Buchhandlungen, Zeitungsverschlei&#xDF;er und Postanstalten des In- und Auslandes, sowie die Administration nehmen<LE/>
+Abonnementsbestellungen entgegen. Das Abonnement kann jederzeit beginnen, muss aber mit Quartalsschlu&#xDF; endigen.<LE/>
+Erfolgt nach Ablauf des Abonnements keine Abbestellung, so gilt das als stillschweigendes Einverst&#xE4;ndnis zur Verl&#xE4;ngerung.</P>
+<P parID="04754"><B>Probehefte unentgeltlich und postfrei</B> von der Administration.</P>
+<P parID="04755"><B>Leipzig,</B> in Commission bei <B>Wilhelm Opetz.</B></P>
+<P parID="04756">Vertretung f&#xFC;r <B>Berlin: Carl Siegismund,</B> SW. Dessauerstra&#xDF;e 13. &#x2014;Vertretung f&#xFC;r M&#xFC;nchen:<LE/>
+<B>Franz C. Mickl,</B> Destouchesstra&#xDF;e 3.</P>
+<P parID="04757">&#x261B; In den <B>Wintercurorten</B> liegt die &#xBB;<SPC>Wiener Rundschau</SPC>&#xAB; in jeder soliden<LE/>
+Buchhandlung auf. &#x261A;</P>
+<DIV_END divEndID="deID_2436_00872" startPtr="WR-04-23_n0420.xml#//DIV_START[@divStartID='dsID_2436_00873']"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2436_00874" endPtr="WR-04-23_n0420.xml#//DIV_END[@divEndID='deID_2436_00873']"/>
+<P parID="04758">K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortlich A. Rimrich.)</P>
+<DIV_END divEndID="deID_2436_00873" startPtr="WR-04-23_n0420.xml#//DIV_START[@divStartID='dsID_2436_00874']"/>
+<DIV_END divEndID="deID_2436_00874" startPtr="WR-04-23_n0401.xml#//DIV_START[@divStartID='dsID_2436_00856']"/>
+</PAGE>

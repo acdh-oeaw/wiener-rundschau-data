@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-07_n0169.xml</PREV>
+<NEXT>WR-03-01-07_n0171.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 7, S. 170</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>SCHMITZ: EIN DEUTSCHES DRAMA.</CTEXT></HD>
+<TABLE parID="02293"><ROW ciID="0470"><CELL>
+<P part="final" parID="02294">Frucht seiner That. Reift doch sein Werk<LE/>
+in der Brust des andern, der nicht <HYPH1 cont="einmal">ein-</HYPH1><LE/>
+<HYPH2>mal</HYPH2> den Streuer der Saat erkennt. Sein<LE/>
+Gegenspieler ist der selbsts&#xFC;chtige, <HYPH1 cont="unsch&#xF6;pferische">un-</HYPH1><LE/>
+<HYPH2>sch&#xF6;pferische</HYPH2> Rother.</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00511" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00510']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00512" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00509']"/>
+<LG parID="02295"><L>&#xBB;Er riss die Gottgeweihte vom Altare,</L>
+<L>Die Frau des B&#xFC;rgers aus dem Haus, er nahm</L>
+<L>Dem Z&#xF6;llner den Zoll, dem Schiffer die Ware,</L>
+<L>Dem Bauern das Vieh, dem Kr&#xE4;mer den Kram.<ERR sug="&#xAB;">&#xBB;</ERR></L></LG>
+<DIV_END divEndID="deID_2434_00509" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00512']"/>
+<DIV_END divEndID="deID_2434_00510" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00511']"/>
+<P parID="02296"><TAB/>Es scheint, als ob der lebensfeindliche<LE/>
+Dunstkreis dieses Mannes l&#xE4;hmend &#xFC;ber<LE/>
+der Burg und ihren zur&#xFC;ckgebliebenen<LE/>
+Insassen lastet. In dieser Burg, wo das<LE/>
+Leben schl&#xE4;ft,</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2434_00513" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00511']"/>
+<LG parID="02297"><L>&#xBB;Dem dumpfen Hafen</L>
+<L>Der seelenlosen stillen G&#xE4;hrung&#xAB;</L></LG>
+<DIV_END divEndID="deID_2434_00511" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00513']"/>
+<P parID="02298">hat sich Eulenspiegel als Th&#xFC;rmer <HYPH1 cont="verdingt">ver-</HYPH1><LE/>
+<HYPH2>dingt</HYPH2>. Mit seinem Tagelied beginnt der<LE/>
+<B>1.</B> Act:</P>
+<DIV_START author="(other)" cat="song" type="performance" divStartID="dsID_2434_00514" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00513']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00515" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00512']"/>
+<ADD><P parID="02299"><SPK><SPC>Eulenspiegel</SPC></SPK>:</P></ADD>
+<LG parID="02300"><L>&#xBB;Was Euch nur wuchs, erraffet<ERR sug=",">,&#xBB;</ERR></L>
+<L>Die Frucht ist sonder Zahl.&#xAB;</L></LG>
+<DIV_END divEndID="deID_2434_00512" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00515']"/>
+<DIV_END divEndID="deID_2434_00513" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00514']"/>
+<P parID="02301"><TAB/>So t&#xF6;nt es in das Leben der Burg<LE/>
+mit seinen M&#xF6;glichkeiten und keiner <HYPH1 cont="Erf&#xFC;llung">Er-</HYPH1><LE/>
+<HYPH2>f&#xFC;llung</HYPH2>. Sein Lied singt sich in der<LE/>
+Frauen Herz:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00516" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00515']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00517" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00514']"/>
+<LG parID="02302"><L>&#xBB;Es ist,</L>
+<L>Als ob er all unser Wollen w&#xFC;sst.&#xAB;</L></LG>
+<DIV_END divEndID="deID_2434_00514" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00517']"/>
+<DIV_END divEndID="deID_2434_00515" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00516']"/>
+<P parID="02303"><TAB/>Das Wollen der wilden, &#xFC;berm&#xFC;thigen<LE/>
+Titanietta, des Gauklerkindes mit <HYPH1 cont="prunkender">prunken-</HYPH1><LE/>
+<HYPH2>der</HYPH2> Brust, die alle Herzen trunken macht,<LE/>
+die von dem tr&#xE4;umt, der da kommen<LE/>
+wird und die alle andern verachten darf,<LE/>
+die tr&#xE4;umt von der Jagd auf schnell <HYPH1 cont="entf&#xFC;hrendem">ent-</HYPH1><LE/>
+<HYPH2>f&#xFC;hrendem</HYPH2> Ross &#x2014; und w&#xE4;r&#x2019;s der Ritt<LE/>
+in den Tod, das Wollen nach Macht und<LE/>
+F&#xFC;lle:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00518" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00517']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00519" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00516']"/>
+<ADD><P parID="02304"><SPK><SPC>Titanietta</SPC></SPK>:</P></ADD>
+<LG parID="02305"><L>&#xBB;Gold, o in die schweren, g&#xFC;ld&#x2019;nen, k&#xFC;hlen</L>
+<L>Haufen die nackten Arme zu versenken</L>
+<L>Und in gewichtiger voller F&#xFC;lle w&#xFC;hlen.&#xAB;</L></LG>
+<DIV_END divEndID="deID_2434_00516" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00519']"/>
+<DIV_END divEndID="deID_2434_00517" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00518']"/>
+<P parID="02306"><TAB/>Also erkennt sie Eulenspiegel, &#xBB;das<LE/>
+weiblichste Weib im Lieben und im<LE/>
+Hassen&#xAB;:</P>
+<DIV_START author="(other)" cat="song" type="performance" divStartID="dsID_2434_00520" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00519']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00521" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00518']"/>
+<ADD><P parID="02307"><SPK><SPC>Eulenspiegel</SPC></SPK>:</P></ADD>
+<LG parID="02308"><L>&#xBB;Jungfr&#xE4;ulich schmachtest Du nach dem <HYPH1 cont="Befreier">Be-</HYPH1></L>
+<L><HYPH2>freier</HYPH2>,</L>
+<L>Nahm erst ein Starker Dir den Schleier,</L>
+<L>Und h&#xE4;ttest Du dein Bestes selig ihm gegeben,</L>
+<L>Dann beg&#xF6;nne erst Dein Leben.&#xAB;</L></LG>
+<DIV_END divEndID="deID_2434_00518" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00521']"/>
+<DIV_END divEndID="deID_2434_00519" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00520']"/>
+<P parID="02309"><TAB/>Aber ehe dieser eine kommt, ist sie<LE/>
+die Geissel der halben M&#xE4;nner, die ihr<LE/>
+sich selbst und ihr Gold zu F&#xFC;ssen legen:</P>
+<DIV_START author="(other)" cat="song" type="performance" divStartID="dsID_2434_00522" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00521']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00523" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00520']"/>
+<ADD><P parID="02310"><SPK><SPC>Eulenspiegel</SPC></SPK>:</P></ADD>
+<LG parID="02311"><L>&#xBB;Macht willst Du und Ruhm und Gold,</L>
+<L>Siehst F&#xFC;rsten noch in Deinem Sold!</L></LG>
+</CELL><CELL>
+<LG parID="02312"><L>Auf einem rosinfarben Thiere,</L>
+<L>Scharlaken zum Gewand,</L>
+<L>Auf goldgeh&#xF6;rntem Stiere,</L>
+<L>Schaumbecher in der Hand,</L></LG>
+<LG parID="02313"><L>Und trunken Deine Lippen,</L>
+<L>Trunken von heiligem Blut,</L>
+<L>Umst&#xF6;hnt von erschlafften Gerippen,</L>
+<L>Peitschend die br&#xFC;nstige Flut:</L></LG>
+<LG parID="02314"><L>So f&#xE4;hrst Du vollendet durch Dein Reich,</L>
+<L>Frohlockst der grossen Babel gleich!</L>
+<L>Unrein oder rein:</L>
+<L>Was gilts? &#x2014; Schlag ein!</L>
+<L>So bist Du geboren, so sollst Du sein!&#xAB;</L></LG>
+<DIV_END divEndID="deID_2434_00520" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00523']"/>
+<DIV_END divEndID="deID_2434_00521" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00522']"/>
+<P parID="02315"><TAB/>Und gleicherweise erkennt er das<LE/>
+Wollen der halberschlossenen, verachteten<LE/>
+Emma, er erkennt ihr adeliges Blut und<LE/>
+ihre k&#xF6;nigliche Seele, er erkennt in ihr<LE/>
+das einzige Wesen, in welchem er nichts<LE/>
+aufzur&#xFC;tteln hat, das ihm alles von selbst<LE/>
+entgegenbringt:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00524" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00525']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00525" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00522']"/>
+<P parID="02316"><SPK><SPC>Eulenspiegel</SPC></SPK>:</P>
+<LG parID="02317"><L>Was ich in andern m&#xE4;chtig erst errege<ERR sug=",">.</ERR></L>
+<L>Das bringst Du voll Vertrauen mir zum Pfand,</L>
+<L>Dass ich Dich stets auf meinem Wege</L>
+<L>Neu finden darf, wie ich Dich fand,</L>
+<L>Weil Du Dich selber mir gegeben,</L>
+<L>Weil Du Dich mir aus Liebe gabst. &#x2014;</L></LG>
+<DIV_END divEndID="deID_2434_00522" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00525']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00526" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00523']"/>
+<P parID="02318"><SPK><SPC>Emma</SPC></SPK>:</P>
+<LG parID="02319"><L>Von allem, was Du sprichst und gibst,</L>
+<L>Versteh&#x2019; ich nur, dass Du mich liebst.</L></LG>
+<DIV_END divEndID="deID_2434_00523" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00526']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00527" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00524']"/>
+<P parID="02320"><SPK><SPC>Eulenspiegel</SPC></SPK>:</P>
+<LG parID="02321"><L>Emma. Jungfer K&#xF6;nigin!</L></LG>
+<DIV_END divEndID="deID_2434_00524" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00527']"/>
+<DIV_END divEndID="deID_2434_00525" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00524']"/>
+<P parID="02322"><TAB/>Eulenspiegel, Rother, Emma und <HYPH1 cont="Titanietta">Tita-</HYPH1><LE/>
+<HYPH2>nietta</HYPH2>, das sind die vier Ausnahmsgestalten<LE/>
+dieser Kom&#xF6;die, es sind vier Arten Mensch,<LE/>
+w&#xE4;hrend die &#xFC;brigen Mitspieler der einen<LE/>
+Art des Durchschnittes angeh&#xF6;ren, womit<LE/>
+nat&#xFC;rlich nichts gegen die Dichtung <HYPH1 cont="gesagt">ge-</HYPH1><LE/>
+<HYPH2>sagt</HYPH2> ist. Eulenspiegel und Emma sind<LE/>
+gebend und sch&#xF6;pferisch. Rother, der <HYPH1 cont="zerst&#xF6;rende">zer-</HYPH1><LE/>
+<HYPH2>st&#xF6;rende</HYPH2> Nachtalbe, muss vor dem <HYPH1 cont="Ansturm">An-</HYPH1><LE/>
+<HYPH2>sturm</HYPH2> des Lebens fallen. Titanietta, das<LE/>
+Weib, kann gerettet werden durch den<LE/>
+&#xBB;Arm, der mit Gewalt umwindet&#xAB;, durch<LE/>
+den Liebenden, der naht der Braut. Sie<LE/>
+erkennt durch ihn ihr nichtiges, <HYPH1 cont="vernichtendes">vernich-</HYPH1><LE/>
+<HYPH2>tendes</HYPH2> Sein:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00528" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00527']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00529" endPtr="WR-03-01-07_n0170.xml#//DIV_END[@divEndID='deID_2434_00526']"/>
+<ADD><P parID="02323"><SPK><SPC>Titanietta</SPC></SPK>:</P></ADD>
+<LG parID="02324"><L>&#xBB;Ach w&#xE4;r ich diesem leeren Nichts entronnen!</L>
+<L>K&#xF6;nnt ich auch nur das Kleinste schaffen.</L>
+<L>Ein weniges, dem ich mein Wesen lieh!</L>
+<L>Ich kann nur reizen und vernichten.&#xAB;</L></LG>
+<DIV_END divEndID="deID_2434_00526" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00529']"/>
+<DIV_END divEndID="deID_2434_00527" startPtr="WR-03-01-07_n0170.xml#//DIV_START[@divStartID='dsID_2434_00528']"/>
+<P part="initial" parID="02325"><TAB/>Gleichzeitig greift Eulenspiegel <HYPH1 cont="erf&#xFC;llend">er-</HYPH1><LE/>
+<HYPH2>f&#xFC;llend</HYPH2> ein in die Geschicke der <HYPH1 cont="liebensw&#xFC;rdigen">liebens-</HYPH1><LE/>
+<HYPH2>w&#xFC;rdigen</HYPH2> Alltagsgestalten, indem er den</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="170" c_text="&#x2014; 170 &#x2014;"/>
+</PAGE>

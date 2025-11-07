@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-09_n0132.xml</PREV>
+<NEXT>WR-04-10_n0134.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 10, S. 133</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_00225" endPtr="WR-04-10_n0156.xml#//DIV_END[@divEndID='deID_2436_00242']"/>
+<CAPTION><P parID="02090"><AUCTOR>GUSTAVE MOREAU</AUCTOR>:</P>
+<P parID="02091"><LANG iso="fr">Les Muses quittent Apollon</LANG> <HR emDashNum="3" type="DoubleInline"/></P></CAPTION>
+<IMG/>
+<FT type="pn" num="133" c_text="&#x2014; 133 &#x2014;"/>
+</PAGE>

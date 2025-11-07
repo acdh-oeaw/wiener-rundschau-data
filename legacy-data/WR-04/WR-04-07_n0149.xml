@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-06_n0148.xml</PREV>
+<NEXT>WR-04-07_n0150.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 7, S. 149</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>26</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_00132" endPtr="WR-04-07_n0174.xml#//DIV_END[@divEndID='deID_2436_00179']"/>
+<DIV_START type="performance" divStartID="dsID_2436_00133" endPtr="WR-04-07_n0152.xml#//DIV_END[@divEndID='deID_2436_00159']" titleID="tiID_2436_00071"/>
+<TITLE titleID="tiID_2436_00071" parDivStartID="dsID_2436_00133"><TITLEPART type="main">DER GARTEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>L. YSAEY</AUCTOR> (Wien).*</TITLEPART></TITLE>
+<P parID="01377"><SD>Ein vornehm und dunkel gehaltenes Zimmer, in tiefer D&#xE4;mmerung.</SD></P>
+<P parID="01378"><SD>Zwei Personen stehen am Fenster.</SD></P>
+<P parID="01379"><SD>MAREEN, 29 Jahre.</SD></P>
+<P parID="01380"><SD>FERRAND, ihr Gatte, 35 Jahre.</SD></P>
+<TABLE parID="01381"><ROW ciID="0391"><CELL>
+<DIV_START cat="speech" divStartID="dsID_2436_00134" endPtr="WR-04-07_n0149.xml#//DIV_END[@divEndID='deID_2436_00132']"/>
+<P parID="01382"><SPK>FERRAND</SPK>:</P>
+<P parID="01383">Nun endlich ist der lange Tag vorbei!</P>
+<DIV_END divEndID="deID_2436_00132" startPtr="WR-04-07_n0149.xml#//DIV_START[@divStartID='dsID_2436_00134']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00135" endPtr="WR-04-07_n0149.xml#//DIV_END[@divEndID='deID_2436_00133']"/>
+<P parID="01384"><SPK>MAREEN</SPK>:</P>
+<LG parID="01385"><L>Du nennst ihn lang, ein andrer hei&#xDF;t ihn kurz</L>
+<L>Und allzu kurz und wird ihn darum schelten,</L>
+<L>Ein Dritter lebt ihn, wie er eben ist.</L></LG>
+<DIV_END divEndID="deID_2436_00133" startPtr="WR-04-07_n0149.xml#//DIV_START[@divStartID='dsID_2436_00135']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00136" endPtr="WR-04-07_n0149.xml#//DIV_END[@divEndID='deID_2436_00134']"/>
+<P parID="01386"><SPK>FERRAND</SPK>:</P>
+<LG parID="01387"><L>Der Dritte, das bist Du. &#x2014; Ich wei&#xDF;, Mareen,</L>
+<L>Dir furcht nicht Zorn die ewig glatte Stirne,</L>
+<L>Wenn tr&#xE4;ge Stunde sich an Stunde reiht,</L>
+<L>Du klagst nicht, wenn die raschen <HYPH1 cont="Augenblicke">Augen-</HYPH1></L>
+<L><HYPH2>blicke</HYPH2></L>
+<L>Des Gl&#xFC;cks entfliehn, eh man sie recht</L>
+<L>genoss.</L>
+<L>Doch ist Dein Wesen anders, als das unsre,</L>
+<L>Fremdartig, wie Dein Heimatland im Norden.</L>
+<L>Dort lernt man sich bescheiden, lernt den Tag</L>
+<L>Durch eine lange D&#xE4;mmerung erwarten;</L>
+<L>Man lernt auch schweigen, seltsam lernt</L>
+<L>man reden,</L>
+<L>Doch leben, nein, Mareen, das lernt man</L>
+<L>nicht.</L></LG>
+<DIV_END divEndID="deID_2436_00134" startPtr="WR-04-07_n0149.xml#//DIV_START[@divStartID='dsID_2436_00136']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00137" endPtr="WR-04-07_n0149.xml#//DIV_END[@divEndID='deID_2436_00135']"/>
+<P parID="01388"><SPK>MAREEN</SPK>:</P>
+<LG part="initial" parID="01389"><L>Das sagst Du, weil Du unser Leben nie</L>
+<L>Gelebt, und weil Du meinst, dass Hasten,</L>
+<L>Jagen,</L>
+<L>Jetzt fieberhaft erregt, dann wieder schlaff,</L>
+<L>Bald voller Gl&#xFC;ck, von Schmerz dann ganz</L>
+<L>gebeugt,</L>
+<L>Dass dieser ewige Wechsel &#xBB;Leben&#xAB; hei&#xDF;t &#x2014;</L>
+<L>Ich lebe anders und ich glaube besser</L>
+<L>Und wahrer, als es Deinem Spotte d&#xFC;nkt &#x2014;</L>
+<L>Was hast Du denn vom Tag, wenn Du</L>
+<L>ihn treibst</L>
+<L>Und schiltst, dass er besch&#xE4;mt von dannen</L>
+<L>eilt,</L></LG>
+</CELL><CELL>
+<LG part="final" parID="01390"><L>Und all die Gaben, die Dir zugedacht,</L>
+<L>Im Fliehen achtlos auf die Erde schleudert?</L>
+<L>Und kommt sein Bruder, geht es ihm nicht</L>
+<L>besser,</L>
+<L>Bis endlich eine Stunde naht, die Du</L>
+<L>Festhalten m&#xF6;chtest Ewigkeiten lang,</L>
+<L>Wo zitternd Du um Augenblicke k&#xE4;mpfst,</L>
+<L>Wo Du Dich selbst betr&#xFC;gst und l&#xE4;chelnd</L>
+<L>sprichst,</L>
+<L>Indes die Angst schon bebt in Deiner Stimme:</L>
+<L>&#xBB;Du bist vorbei? O nein, Du fiengst erst an,</L>
+<L>Ich halte Dich, ich lass Dich nicht von</L>
+<L>hinnen!&#xAB;</L>
+<L>Doch Bitten sind und Klagen da vergeblich,</L>
+<L>Sie geht, so wie so viele vor ihr giengen,</L>
+<L>Auf deren Gehen Du nicht sonderlich</L>
+<L>Geachtet, und im Dunkeln bleibst Du dann</L>
+<L>Allein und leise schleicht das Gl&#xFC;ck <HYPH1 cont="hinaus">hin-</HYPH1></L>
+<L><HYPH2>aus</HYPH2> &#x2014; &#x2014; &#x2014;</L>
+<L>Wenn <SPC>mein</SPC> Tag kommt, so &#xF6;ffne ich die</L>
+<L>Arme</L>
+<L>Und gr&#xFC;&#xDF;e ihn wie einen lieben Gast.</L>
+<L>Die Pforten meiner Seele thu ich auf</L>
+<L>Und Freude lass ich ein zu allen Thoren.</L>
+<L>Doch gehn die Tage meistens still dahin,</L>
+<L>Sie halten wenig in den offnen H&#xE4;nden,</L>
+<L>Zuweilen nur die Sehnsucht nach den Gaben</L>
+<L>Des Lebens und zuweilen auch nicht</L>
+<L>die &#x2014; &#x2014; &#x2014;</L>
+<L>Nun, sei es, wie es will, ich sehe ruhig</L>
+<L>Sie kommen, sehe ruhig sie entschwinden,</L>
+<L>Was sie mir geben k&#xF6;nnen, nehm ich an</L>
+<L>Und trag nach andern Sch&#xE4;tzen kein <HYPH1 cont="Verlangen">Ver-</HYPH1></L>
+<L><HYPH2>langen</HYPH2>.</L></LG>
+<DIV_END divEndID="deID_2436_00135" startPtr="WR-04-07_n0149.xml#//DIV_START[@divStartID='dsID_2436_00137']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00138" endPtr="WR-04-07_n0150.xml#//DIV_END[@divEndID='deID_2436_00136']"/>
+<P parID="01391"><SPK>FERRAND</SPK>:</P>
+<LG part="initial" parID="01392"><L>Du Schw&#xE4;rmerin, ein hingeworfnes Wort,</L>
+<L>Bei dem ich kaum mir wirklich etwas dachte,</L>
+<L>Bringt Dich in Feuer, macht Dich lebhaft</L>
+<L>reden,</L></LG>
+</CELL></ROW></TABLE>
+<FN>
+<P parID="01393"><TAB/>* Aus dem Buche der n&#xE4;mlichen Verfasserin, das demn&#xE4;chst unter dem Titel &#xBB;<HYPH1 cont="GRASHALME">GRAS-</HYPH1><LE/>
+<HYPH2>HALME</HYPH2>&#xAB; im Verlage der &#xBB;Deutsch-&#xD6;sterreichischen Literatur-Gesellschaft&#xAB; erscheinen wird.</P>
+</FN>
+<FT type="pn" num="149" c_text="&#x2014; 149 &#x2014;"/>
+</PAGE>

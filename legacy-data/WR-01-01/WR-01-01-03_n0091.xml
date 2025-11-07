@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0090.xml</PREV>
+<NEXT>WR-01-01-03_n0092.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 91</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ALLADINE UND PALOMIDES.</CTEXT><RTEXT type="pn">91</RTEXT></HD>
+<DIV_START cat="scene" divStartID="dsID_2397_00145" endPtr="WR-01-01-03_n0095.xml#//DIV_END[@divEndID='deID_2397_00181']"/>
+<TITLE titleID="tiID_2397_00053"><TITLEPART>III. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="00614"><SD>Ein Gang vor Alladinens Gemach.</SD></P>
+<P parID="00615"><SD><SPK><SPC>Astolaine</SPC></SPK> und <SPK><SPC>Palomidens Schwestern</SPC></SPK> treten auf.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00146" endPtr="WR-01-01-03_n0091.xml#//DIV_END[@divEndID='deID_2397_00142']"/>
+<P parID="00616"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00617"><TAB/>Die Pferde warten im Walde, aber Palomides will nicht<LE/>
+fliehen, w&#xE4;hrend euer Leben und das seine in Gefahr ist. Ich<LE/>
+erkenne meinen armen Vater nicht mehr. Er hat eine fixe<LE/>
+Idee, die seinen Verstand verwirrt. Drei Tage sind es nun,<LE/>
+dass ich ihm folge Schritt f&#xFC;r Schritt; indem ich mich hinter<LE/>
+Pfeilern und Mauern verberge, denn er duldet nicht, dass<LE/>
+ihn Jemand begleitet. Heute wie die anderen Tage begann<LE/>
+er, beim ersten Morgenschimmer durch die G&#xE4;nge und S&#xE4;le<LE/>
+des Palastes und l&#xE4;ngs der Gr&#xE4;ben und W&#xE4;lle umherzuirren,<LE/>
+indem er grosse goldene Schl&#xFC;ssel sch&#xFC;ttelte, die er anfertigen<LE/>
+liess; und mit voller Stimme jenes sonderbare Lied sang,<LE/>
+dessen Kehrreim: &#xBB;Fahrt hin und folgt dem Gesicht,&#xAB;<LE/>
+vielleicht bis in das Innere euerer Gem&#xE4;cher drang. Ich <HYPH1 cont="verbarg">ver-</HYPH1><LE/>
+<HYPH2>barg</HYPH2> euch bisher Alles, was vorgefallen, weil ich ohne Grund<LE/>
+von diesen Dingen nicht sprechen will. Er muss Alladine in<LE/>
+diesem Gemache eingesperrt haben, aber Niemand weiss, was<LE/>
+er mit ihr gethan. Ich horchte jede Nacht, sobald er sich<LE/>
+nur einen Augenblick entfernte, doch h&#xF6;rte ich niemals<LE/>
+irgend ein Ger&#xE4;usch im Zimmer <SYMBOL type="3dots"/> H&#xF6;rt ihr etwas?</P>
+<DIV_END divEndID="deID_2397_00142" startPtr="WR-01-01-03_n0091.xml#//DIV_START[@divStartID='dsID_2397_00146']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00147" endPtr="WR-01-01-03_n0091.xml#//DIV_END[@divEndID='deID_2397_00143']"/>
+<P parID="00618"><SPK><SPC>Eine von Palomidens Schwestern</SPC></SPK>.</P>
+<P parID="00619"><TAB/>Nein; ich h&#xF6;re nichts als das S&#xE4;useln der Luft, die durch<LE/>
+die kleinen Ritzen des Holzes streicht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00143" startPtr="WR-01-01-03_n0091.xml#//DIV_START[@divStartID='dsID_2397_00147']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00148" endPtr="WR-01-01-03_n0091.xml#//DIV_END[@divEndID='deID_2397_00144']"/>
+<P parID="00620"><SPK><SPC>Eine andere Schwester</SPC></SPK>.</P>
+<P parID="00621"><TAB/>Mir ist, wenn ich lausche, als h&#xF6;rte ich das grosse Pendel<LE/>
+der Uhr.</P>
+<DIV_END divEndID="deID_2397_00144" startPtr="WR-01-01-03_n0091.xml#//DIV_START[@divStartID='dsID_2397_00148']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00149" endPtr="WR-01-01-03_n0091.xml#//DIV_END[@divEndID='deID_2397_00145']"/>
+<P parID="00622"><SPK><SPC>Dritte Schwester</SPC></SPK>.</P>
+<P parID="00623"><TAB/>Aber wer ist denn diese kleine Alladine und warum<LE/>
+z&#xFC;rnt er ihr so?</P>
+<DIV_END divEndID="deID_2397_00145" startPtr="WR-01-01-03_n0091.xml#//DIV_START[@divStartID='dsID_2397_00149']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00150" endPtr="WR-01-01-03_n0092.xml#//DIV_END[@divEndID='deID_2397_00146']"/>
+<P parID="00624"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P part="initial" parID="00625"><TAB/>Sie ist eine kleine griechische Sclavin, die aus dem<LE/>
+Innern Arcadiens gekommen ist <SYMBOL type="3dots"/>Er z&#xFC;rnt ihr nicht, aber</P>
+</PAGE>

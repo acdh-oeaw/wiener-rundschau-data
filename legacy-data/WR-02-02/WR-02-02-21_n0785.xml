@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-20_n0784.xml</PREV>
+<NEXT>WR-02-02-21_n0786.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 785</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>9</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2433_00266" endPtr="WR-02-02-21_n0824.xml#//DIV_END[@divEndID='deID_2433_00287']"/>
+<DIV_START cat="masthead" divStartID="dsID_2433_00267" endPtr="WR-02-02-21_n0785.xml#//DIV_END[@divEndID='deID_2433_00265']"/>
+<P parID="01663"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="01664"><B><DATE>15. <SPC>SEPTEMBER</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2433_00265" startPtr="WR-02-02-21_n0785.xml#//DIV_START[@divStartID='dsID_2433_00267']"/>
+<DIV_START divStartID="dsID_2433_00268" endPtr="WR-02-02-21_n0787.xml#//DIV_END[@divEndID='deID_2433_00266']"/>
+<TITLE titleID="tiID_2433_00124"><TITLEPART><SPC>UM DIE TODTE</SPC>.</TITLEPART></TITLE>
+<P parID="01665"><TAB/>Es fauchte der Wind aus einer H&#xF6;hle, und Sie<LE/>
+erstarrte. &#x2014; &#x2014; Es fauchte der Moder aus einem finsteren<LE/>
+Sterne, und <SPC>Sie</SPC> entbl&#xE4;tterte <SYMBOL type="3dots"/> &#xBB;<SPC>Sie</SPC>!&#xAB; &#x2014; &#xBB;<SPC><HYPH1 cont="Elisabeth">Elisa-</HYPH1><LE/>
+<HYPH2>beth</HYPH2></SPC>!&#xAB; Gibt es heiligere Namen im Himmel oder auf<LE/>
+Erden, als &#xBB;Sie&#xAB; und &#xBB;Elisabeth&#xAB;. War sie nicht <HYPH1 cont="gekommen">ge-</HYPH1><LE/>
+<HYPH2>kommen</HYPH2> von den entfernten Meeren, ein Wunder allen<LE/>
+Rosen der G&#xE4;rten? <SYMBOL type="5dots"/> O du, der heiligsten Blumenopfer<LE/>
+lichter Altar! (und alle Blumen, geh&#xF6;rten sie nicht mein?)<LE/>
+Ein Blitz fiel, und du versankest in den Abgrund &#x2014; &#x2014;<LE/>
+H&#xF6;ret! &#x2014; er versank in der Vergangenheit <HYPH1 cont="unverg&#xE4;nglichen">unverg&#xE4;ng-</HYPH1><LE/>
+<HYPH2>lichen</HYPH2> Abgrund &#x2014; &#x2014; Psyche, Psyche! Die Blumen,<LE/>
+die deine Haare sind, deine Haare, die Veilchen und<LE/>
+Hyakinthen sind, irren auf den n&#xE4;chtlichen Wogen der<LE/>
+Trauer <SYMBOL type="3dots"/> Psyche, Psyche! Du bist selbst Welle geworden<LE/>
+&#x2014; wilde Woge n&#xE4;chtlicher Verzweiflung, taub den eigenen<LE/>
+Seufzern, die wie Lilien den N&#xE4;chten deiner Br&#xFC;ste <HYPH1 cont="entspriessen">ent-</HYPH1><LE/>
+<HYPH2>spriessen</HYPH2>: Nie! nie! nie! &#x2014; &#x2014; H&#xF6;rt ihr, die gebrochenen<LE/>
+Lilienseufzer aus den Nachtbr&#xFC;sten der Zukunft: Nie!<LE/>
+nie! nie wieder! &#x2014; &#x2014; &#x2014;</P>
+<P parID="01666"><TAB/>O Stern der Sch&#xF6;nheit, erloschen wie ein Traum, der<LE/>
+viel zu licht war <SYMBOL type="3dots"/></P>
+</PAGE>

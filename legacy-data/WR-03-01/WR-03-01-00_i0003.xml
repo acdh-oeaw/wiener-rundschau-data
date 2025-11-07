@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-00_i0002.xml</PREV>
+<NEXT>WR-03-01-00_i0004.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Inhalt S. 3</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS></ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<TITLE titleID="tiID_2434_00001"><TITLEPART>AUTOREN- UND INHALTS-VERZEICHNIS.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<P parID="00001">Die erste Ziffer gibt das betreffende Heft, die zweite die betreffende Seite an. &#x2014; Das mit <SYMBOL type="asterisk"/> Bezeichnete ist im <HYPH1 cont="Notizentheil">Notizen-</HYPH1><LE/>
+<HYPH2>theil</HYPH2> des betreffenden Heftes enthalten.</P>
+<TABLE parID="00002"><ROW ciID="0000"><CELL>
+<TABLE parID="00003">
+<ROW ciID="0001"><CELL><EMPTY/>
+</CELL><CELL>Nr. 
+</CELL><CELL>Seite
+</CELL></ROW>
+<ROW ciID="0002"><CELL><SPC>Altenberg</SPC>, Peter, Der Freund <SYMBOL type="dots"/>
+</CELL><CELL>1 
+</CELL><CELL>14
+</CELL></ROW>
+<ROW ciID="0003"><CELL><DITTO cont="Altenberg, Peter," rend="&#x2014;"/> Ein &#xBB;Wiener&#xAB; <SYMBOL type="dots"/>
+</CELL><CELL>2 
+</CELL><CELL>31
+</CELL></ROW>
+<ROW ciID="0004"><CELL><DITTO cont="Altenberg, Peter," rend="&#x2014;"/> Sapientia <SYMBOL type="dots"/>
+</CELL><CELL>3 
+</CELL><CELL>67
+</CELL></ROW>
+<ROW ciID="0005"><CELL><DITTO cont="Altenberg, Peter," rend="&#x2014;"/> Der Zeichner Fidus <SYMBOL type="dots"/>
+</CELL><CELL>3 
+</CELL><CELL>68
+</CELL></ROW>
+<ROW ciID="0006"><CELL><DITTO cont="Altenberg, Peter," rend="&#x2014;"/> Melusine <SYMBOL type="dots"/>
+</CELL><CELL>6 
+</CELL><CELL>130
+</CELL></ROW>
+<ROW ciID="0007"><CELL><DITTO cont="Altenberg, Peter," rend="&#x2014;"/> Selbstbiographie <SYMBOL type="dots"/>
+</CELL><CELL>7 
+</CELL><CELL>167
+</CELL></ROW>
+<ROW ciID="0008"><CELL><DITTO cont="Altenberg, Peter," rend="&#x2014;"/> Des Dichters Freundin <SYMBOL type="dots"/>
+</CELL><CELL>9 
+</CELL><CELL>208
+</CELL></ROW>
+<ROW ciID="0009"><CELL><DITTO cont="Altenberg, Peter," rend="&#x2014;"/> Gift <SYMBOL type="dots"/>
+</CELL><CELL>10 
+</CELL><CELL>225
+</CELL></ROW>
+<ROW ciID="0010"><CELL><DITTO cont="Altenberg, Peter," rend="&#x2014;"/> Ansichtskarten <SYMBOL type="dots"/>
+</CELL><CELL>13 
+</CELL><CELL>297
+</CELL></ROW>
+<ROW ciID="0011"><CELL><DITTO cont="Altenberg, Peter," rend="&#x2014;"/> Angenehme Reise-Eindr&#xFC;cke <SYMBOL type="dots"/>
+</CELL><CELL>26 
+</CELL><CELL>610
+</CELL></ROW>
+<ROW ciID="0012"><CELL>d&#x2019;<SPC>Annunzio</SPC>, Gabriele, Umsonst <SYMBOL type="dots"/>
+</CELL><CELL>25 
+</CELL><CELL>585
+</CELL></ROW>
+<ROW ciID="0013"><CELL><DITTO cont="d&#x2019;Annunzio, Gabriele," rend="&#x2014;"/> Zwei Sonette <SYMBOL type="dots"/>
+</CELL><CELL>26 
+</CELL><CELL>609
+</CELL></ROW>
+<ROW ciID="0014"><CELL><SPC>Arjuna</SPC>, Harald van Jostenoode, Der<LE/>
+Theosoph Franz Hartmann <SYMBOL type="dots"/>
+</CELL><CELL>13 
+</CELL><CELL>313
+</CELL></ROW>
+<ROW ciID="0015"><CELL><DITTO cont="Arjuna, Harald van Jostenoode," rend="&#x2014;"/> Ein deutscher Buddhist <SYMBOL type="dots"/>
+</CELL><CELL>24 
+</CELL><CELL>566
+</CELL></ROW>
+<ROW ciID="0016"><CELL><DITTO cont="Arjuna, Harald van Jostenoode," rend="&#x2014;"/> Zur Physiologie des Betens <SYMBOL type="dots"/>
+</CELL><CELL>25 
+</CELL><CELL>597
+</CELL></ROW>
+<ROW ciID="0017"><CELL><DITTO cont="Arjuna, Harald van Jostenoode," rend="&#x2014;"/> Imperium und Katholicit&#xE4;t <SYMBOL type="dots"/>
+</CELL><CELL>27 
+</CELL><CELL>651
+</CELL></ROW>
+<ROW ciID="0018"><CELL><SPC>Asenijeff</SPC>, Elsa, Ehe <SYMBOL type="dots"/>
+</CELL><CELL>10 
+</CELL><CELL>227
+</CELL></ROW>
+<ROW ciID="0019"><CELL><SPC>Barr&#xE8;s</SPC>, Maurice, Kaiserin Elisabeth
+</CELL><CELL>18 
+</CELL><CELL>417
+</CELL></ROW>
+<ROW ciID="0020"><CELL><SPC>Basedow</SPC>, Hans von,<LE/>
+Konrad Ferdinand Meyer <SYMBOL type="dots"/>
+</CELL><CELL>3 
+</CELL><CELL>68
+</CELL></ROW>
+<ROW ciID="0021"><CELL><SPC>Berg</SPC>, Leo, Von der Frauen Scham<LE/>
+und Freiheit <SYMBOL type="dots"/>
+</CELL><CELL>19 
+</CELL><CELL>450
+</CELL></ROW>
+<ROW ciID="0022"><CELL><SPC>Bliss</SPC>, Paul, Eine von vielen <SYMBOL type="dots"/>
+</CELL><CELL>6 
+</CELL><CELL>146
+</CELL></ROW>
+<ROW ciID="0023"><CELL><SPC>B&#xF6;hme</SPC>, Edwin, Religi&#xF6;se Symbole <SYMBOL type="dots"/>
+</CELL><CELL>16 
+</CELL><CELL>381
+</CELL></ROW>
+<ROW ciID="0024"><CELL><DITTO cont="B&#xF6;hme, Edwin," rend="&#x2014;"/> Das Evangelium der Wahrheit
+</CELL><CELL>21 
+</CELL><CELL>495
+</CELL></ROW>
+<ROW ciID="0025"><CELL><SPC>B&#xF6;tticher</SPC>, Georg, Randglossen zur<LE/>
+Bacon-Shakespeare-Frage <SYMBOL type="dots"/>
+</CELL><CELL>6 
+</CELL><CELL>144
+</CELL></ROW>
+<ROW ciID="0026"><CELL><SPC>Buet</SPC>, Charles, Henry de Groux <SYMBOL type="dots"/>
+</CELL><CELL>23 
+</CELL><CELL>542
+</CELL></ROW>
+<ROW ciID="0027"><CELL><SPC>Burgtheater</SPC>: &#xBB;Paracelsus&#xAB;. &#x2014; &#xBB;Die<LE/>
+Gef&#xE4;hrtin&#xAB;. &#x2014; &#xBB;Der gr&#xFC;ne <HYPH1 cont="Kakadu">Ka-</HYPH1><LE/>
+<HYPH2>kadu</HYPH2>&#xAB;<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>9 
+</CELL><CELL>222
+</CELL></ROW>
+<ROW ciID="0028"><CELL><DITTO cont="Burgtheater:" rend="&#x2014;"/> &#xBB;Der Abenteurer und die <HYPH1 cont="S&#xE4;ngerin">S&#xE4;n-</HYPH1><LE/>
+<HYPH2>gerin</HYPH2>&#xAB;. &#x2014; &#xBB;Die Hochzeit der<LE/>
+Sobe&#xEF;de&#xAB;<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>10 
+</CELL><CELL>247
+</CELL></ROW>
+<ROW ciID="0029"><CELL><DITTO cont="Burgtheater:" rend="&#x2014;"/> &#xBB;Peter Kron&#xAB;<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>12 
+</CELL><CELL>293
+</CELL></ROW>
+<ROW ciID="0030"><CELL><SPC>Carltheater</SPC>: &#xBB;Eine <ERR sug="gute">guter</ERR> Partie&#xAB;<SYMBOL type="asterisk"/>
+</CELL><CELL>1 
+</CELL><CELL>23
+</CELL></ROW>
+<ROW ciID="0031"><CELL><DITTO cont="Carltheater:" rend="&#x2014;"/> &#xBB;Nora&#xAB;<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>13 
+</CELL><CELL>320
+</CELL></ROW>
+<ROW ciID="0032"><CELL><SPC>Ceconi-Huch</SPC>, Ricarda, &#xBB;Schicksale<LE/>
+einer Seele&#xAB;. Von Dohm <SYMBOL type="dots"/>
+</CELL><CELL>16 
+</CELL><CELL>390
+</CELL></ROW>
+</TABLE>
+</CELL><CELL>
+<TABLE parID="00004">
+<ROW ciID="0033"><CELL><EMPTY/>
+</CELL><CELL>Nr. 
+</CELL><CELL>Seite
+</CELL></ROW>
+<ROW ciID="0034"><CELL><SPC>Chamberlain</SPC>, Houston Stewart,<LE/>
+Wagnertage <SYMBOL type="dots"/>
+</CELL><CELL>11 
+</CELL><CELL>249
+</CELL></ROW>
+<ROW ciID="0035"><CELL><SPC>Christomanos</SPC> Constantin, Hofrath<LE/>
+v. Scala und die Banausen<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>1 
+</CELL><CELL>24
+</CELL></ROW>
+<ROW ciID="0036"><CELL><SPC>Cippico</SPC>, Anton, Die Trag&#xF6;die des<LE/>
+d&#x2019;Annunzio <SYMBOL type="dots"/>
+</CELL><CELL>10 
+</CELL><CELL>236
+</CELL></ROW>
+<ROW ciID="0037"><CELL><DITTO cont="Cippico, Anton," rend="&#x2014;"/> Enrico Corradini <SYMBOL type="dots"/>
+</CELL><CELL>21 
+</CELL><CELL>500
+</CELL></ROW>
+<ROW ciID="0038"><CELL><SPC>Claassen</SPC>, Ria, Das &#xBB;Wunderbare&#xAB;<LE/>
+bei Ibsen <SYMBOL type="dots"/>
+</CELL><CELL>3 
+</CELL><CELL>63
+</CELL></ROW>
+<ROW ciID="0039"><CELL><SPC>Conrad</SPC>, M. G., &#xBB;Der bunte Vogel von<LE/>
+<DATE>1899</DATE>&#xAB;. Von O. J. Bierbaum<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>11 
+</CELL><CELL>270
+</CELL></ROW>
+<ROW ciID="0040"><CELL><SPC>Deinhard</SPC>, Ludwig, Carl du Prel <SYMBOL type="dots"/>
+</CELL><CELL>19 
+</CELL><CELL>459
+</CELL></ROW>
+<ROW ciID="0041"><CELL><DITTO cont="Deinhard, Ludwig," rend="&#x2014;"/> Zur Psychologie des Hellsehens
+</CELL><CELL>21 
+</CELL><CELL>506
+</CELL></ROW>
+<ROW ciID="0042"><CELL><SPC>Deutsches Volkstheater</SPC>:<LE/>
+&#xBB;Orangenbl&#xFC;te&#xAB;. &#x2014; &#xBB;Gretes<LE/>
+Gl&#xFC;ck&#xAB;<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>9 
+</CELL><CELL>222
+</CELL></ROW>
+<ROW ciID="0043"><CELL><DITTO cont="Deutsches Volkstheater:" rend="&#x2014;"/> &#xBB;K&#xF6;nigin&#xAB;<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>12
+</CELL><CELL>293
+</CELL></ROW>
+<ROW ciID="0044"><CELL><SPC>Ehrhart</SPC>, Robert von, Burgtheater:<LE/>
+&#xBB;Fuhrmann Henschel&#xAB;<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>6 
+</CELL><CELL>151
+</CELL></ROW>
+<ROW ciID="0045"><CELL><SPC>Eloesser</SPC>, Arthur, Das Tagebuch<LE/>
+eines Bettlers <SYMBOL type="dots"/>
+</CELL><CELL>1 
+</CELL><CELL>10
+</CELL></ROW>
+<ROW ciID="0046"><CELL><SPC>Ephron</SPC>, Heinrich, Wie Tolstoi lebt<LE/>
+und arbeitet <SYMBOL type="dots"/>
+</CELL><CELL>24 
+</CELL><CELL>564
+</CELL></ROW>
+<ROW ciID="0047"><CELL><SPC>Esswein</SPC>, Hermann, Von der <HYPH1 cont="Erl&#xF6;sung">Er-</HYPH1><LE/>
+<HYPH2>l&#xF6;sung</HYPH2> <SYMBOL type="dots"/>
+</CELL><CELL>9 
+</CELL><CELL>201
+</CELL></ROW>
+<ROW ciID="0048"><CELL><DITTO cont="Esswein, Hermann," rend="&#x2014;"/> Im Zeichen des Zwiespalts<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>23 
+</CELL><CELL>559
+</CELL></ROW>
+<ROW ciID="0049"><CELL>&#xBB;Freie B&#xFC;hne&#xAB;<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>3 
+</CELL><CELL>79
+</CELL></ROW>
+<ROW ciID="0050"><CELL><SPC>Fuchs</SPC>, Georg, Karl Hallwachs <SYMBOL type="dots"/>
+</CELL><CELL>6 
+</CELL><CELL>137
+</CELL></ROW>
+<ROW ciID="0051"><CELL><DITTO cont="Fuchs, Georg," rend="&#x2014;"/> Sermon wider die Literaten in<LE/>
+Dingen der dramatischen <HYPH1 cont="Dichtkunst">Dicht-</HYPH1><LE/>
+<HYPH2>kunst</HYPH2> <SYMBOL type="dots"/>
+</CELL><CELL>13 
+</CELL><CELL>298
+</CELL></ROW>
+<ROW ciID="0052"><CELL><DITTO cont="Fuchs, Georg," rend="&#x2014;"/> Die Schaub&#xFC;hne &#x2014; ein Fest<LE/>
+des Lebens <SYMBOL type="dots"/>
+</CELL><CELL>20
+</CELL><CELL>483
+</CELL></ROW>
+<ROW ciID="0053"><CELL><DITTO cont="Fuchs, Georg," rend="&#x2014;"/> Die Schauspieler <SYMBOL type="dots"/>
+</CELL><CELL>21 
+</CELL><CELL>504
+</CELL></ROW>
+<ROW ciID="0054"><CELL><SPC>Gemberg</SPC>, Adine, Liebe <SYMBOL type="dots"/>
+</CELL><CELL>7 
+</CELL><CELL>159
+</CELL></ROW>
+<ROW ciID="0055"><CELL><DITTO cont="Gemberg, Adine," rend="&#x2014;"/> &#xBB;Der Scorpion&#xAB;. Von Pr&#xE9;vost<SYMBOL type="asterisk"/> <SYMBOL type="dots"/>
+</CELL><CELL>11 
+</CELL><CELL>271
+</CELL></ROW>
+</TABLE>
+</CELL></ROW></TABLE>
+</PAGE>

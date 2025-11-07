@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0181.xml</PREV>
+<NEXT>WR-01-01-05_n0183.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 182</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">182</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<P part="final" parID="01396"><SD part="final">w&#xE4;hrend das Licht, in unaufhaltsamen Fluthen immer mehr und mehr <HYPH1 cont="hereinstr&#xF6;mend">herein-</HYPH1><LE/>
+<HYPH2>str&#xF6;mend</HYPH2>, ihnen allm&#xE4;lig die Traurigkeit des unterirdischen Gew&#xF6;lbes enth&#xFC;llt,<LE/>
+das sie f&#xFC;r wunderbar gehalten; der Zaubersee wird tr&#xFC;b und unheimlich; das<LE/>
+Edelgestein erlischt um sie her, und die leuchtenden Rosen erscheinen als<LE/>
+Schmutz und zersetzte Ueberreste, die sie waren. Endlich st&#xFC;rzt ein ganzes<LE/>
+Felsst&#xFC;ck heftig in die Grotte herab. Die Sonne dringt blendend herein. Man<LE/>
+h&#xF6;rt Rufe und Ges&#xE4;nge von aussen. Alladine und Palomides weichen zur&#xFC;ck.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00310" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00306']"/>
+<P parID="01397"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01398"><TAB/>Wo sind wir?</P>
+<DIV_END divEndID="deID_2397_00306" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00310']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00311" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00307']"/>
+<P parID="01399"><SPK><SPC>Alladine</SPC></SPK> <SD>(ihn traurig umschlingend)</SD>.</P>
+<P parID="01400"><TAB/>Ich liebe dich noch immer, Palomides <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00307" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00311']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00312" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00308']"/>
+<P parID="01401"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01402"><TAB/>Ich liebe dich auch, meine Alladine <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00308" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00312']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00313" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00309']"/>
+<P parID="01403"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01404"><TAB/>Sie kommen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00309" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00313']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00314" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00310']"/>
+<P parID="01405"><SPK><SPC>Palomides</SPC></SPK> <SD>(blickt hinter sich, w&#xE4;hrend sie noch mehr zur&#xFC;ckweichen)</SD>.</P>
+<P parID="01406"><TAB/>Gib Acht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00310" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00314']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00315" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00311']"/>
+<P parID="01407"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01408"><TAB/>Nein, nein, gib nicht mehr Acht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00311" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00315']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00316" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00312']"/>
+<P parID="01409"><SPK><SPC>Palomides</SPC></SPK> <SD>(indem er sie anblickt)</SD>.</P>
+<P parID="01410"><TAB/>Alladine?</P>
+<DIV_END divEndID="deID_2397_00312" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00316']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00317" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00313']"/>
+<P parID="01411"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01412"><TAB/>Ja <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00313" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00317']"/>
+<P parID="01413"><SD>(Sie weichen immer mehr zur&#xFC;ck vor der Ueberfluthung des Lichtes oder<LE/>
+der Gefahr, bis sie den Boden verlieren; und sie fallen und verschwinden<LE/>
+hinter dem Felsen, der &#xFC;ber das unterirdische, jetzt dunkle Wasser ragt. &#x2014;<LE/>
+Stille. &#x2014; Astolaine und Palomides&#x2019; Schwestern dringen in die Grotte ein.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00318" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00314']"/>
+<P parID="01414"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="01415"><TAB/>Wo sind sie?</P>
+<DIV_END divEndID="deID_2397_00314" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00318']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00319" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00315']"/>
+<P parID="01416"><SPK><SPC>Eine von Palomides</SPC>&#x2019; <SPC>Schwestern</SPC></SPK>.</P>
+<P parID="01417"><TAB/>Palomides! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00315" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00319']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00320" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00316']"/>
+<P parID="01418"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="01419"><TAB/>Alladine! Alladine! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00316" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00320']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00321" endPtr="WR-01-01-05_n0182.xml#//DIV_END[@divEndID='deID_2397_00317']"/>
+<P parID="01420"><SPK><SPC>Eine andere Schwester</SPC></SPK>.</P>
+<P parID="01421"><TAB/>Palomides! <SYMBOL type="3dots"/> Wir sind es! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00317" startPtr="WR-01-01-05_n0182.xml#//DIV_START[@divStartID='dsID_2397_00321']"/>
+</PAGE>

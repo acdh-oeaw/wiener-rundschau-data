@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-06_n0212.xml</PREV>
+<NEXT>WR-01-01-06_n0214.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 213</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="performance" divStartID="dsID_2397_00353" endPtr="WR-01-01-06_n0219.xml#//DIV_END[@divEndID='deID_2397_00410']"/>
+<TITLE titleID="tiID_2397_00101"><TITLEPART type="main">ALLADINE UND PALOMIDES.</TITLEPART><LE/>
+<TITLEPART type="desc">Ein kleines Drama f&#xFC;r Marionetten von <AUCTOR><C>Maurice Maeterlinck</C></AUCTOR>.<LE/>
+Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Marie Lang</C></AUCTOR>.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<DIV_START cat="act" divStartID="dsID_2397_00354" endPtr="WR-01-01-06_n0219.xml#//DIV_END[@divEndID='deID_2397_00409']"/>
+<TITLE titleID="tiID_2397_00102"><TITLEPART>V. ACT.</TITLEPART></TITLE>
+<P parID="01674"><SD><SPC>Ein Gang</SPC>.</SD></P>
+<P parID="01675"><SD>(Er ist so lang, dass seine letzten Bogen sich in einer Art inneren <HYPH1 cont="Horizontes">Hori-</HYPH1><LE/>
+<HYPH2>zontes</HYPH2> zu verlieren scheinen. Palomides&#x2019; Schwestern warten vor einer der <HYPH1 cont="unz&#xE4;hligen">un-</HYPH1><LE/>
+<HYPH2>z&#xE4;hligen</HYPH2> geschlossenen Th&#xFC;ren, die auf diesen Gang m&#xFC;nden, und scheinen<LE/>
+sie zu h&#xFC;ten. Ein wenig weiter unten und auf der entgegengesetzten Seite<LE/>
+sprechen Astolaine und der Arzt vor einer anderen Th&#xFC;re, die ebenfalls<LE/>
+geschlossen ist.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00355" endPtr="WR-01-01-06_n0214.xml#//DIV_END[@divEndID='deID_2397_00352']"/>
+<P parID="01676"><SPK><SPC>Astolaine</SPC></SPK> <SD>(zum Arzt)</SD>.</P>
+<P part="initial" parID="01677"><TAB/>Bis jetzt hatte sich in diesem Palaste nichts ereignet,<LE/>
+in dem, seit meine Schwestern darin gestorben sind, Alles zu<LE/>
+schlafen schien; und mein armer, alter Vater z&#xFC;rnte, verfolgt<LE/>
+von einer sonderbaren Besorgniss, ohne Grund &#xFC;ber diese<LE/>
+Ruhe, welche indessen die wenigst gef&#xE4;hrliche Gestalt des<LE/>
+Gl&#xFC;ckes scheint. Es ist nicht lange her &#x2014; seine Vernunft<LE/>
+begann bereits zu schwinden &#x2014; da stieg er auf einen Thurm,<LE/>
+und w&#xE4;hrend er die Arme zaghaft gegen die W&#xE4;lder und<LE/>
+gegen das Meer ausbreitete, sagte er mir &#x2014; mit einem<LE/>
+bangen L&#xE4;cheln, als wollte er mein ungl&#xE4;ubiges L&#xE4;cheln<LE/>
+entwaffnen &#x2014; dass er von allen Seiten die Ereignisse riefe,<LE/>
+die sich seit Langem am Horizont verb&#xE4;rgen. Sie sind nun<LE/>
+eingetroffen, ach, fr&#xFC;her und zahlreicher, als er sie erwartet,<LE/>
+und wenige Tage haben gen&#xFC;gt, dass sie an seiner Stelle<LE/>
+herrschen. Er ward ihr erstes Opfer. Ganz in Thr&#xE4;nen floh<LE/>
+er an jenem Abend, als er die kleine Alladine und den <HYPH1 cont="ungl&#xFC;cklichen">un-</HYPH1><LE/>
+<HYPH2>gl&#xFC;cklichen</HYPH2> Palomides in die Grotten hinab bringen liess,<LE/>
+singend in die Wiesen. Man sah ihn seitdem nicht wieder.</P>
+</PAGE>

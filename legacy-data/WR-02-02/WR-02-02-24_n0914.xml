@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-24_n0913.xml</PREV>
+<NEXT>WR-02-02-24_n0915.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 914</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">914</LTEXT><CTEXT>WOLFF.</CTEXT></HD>
+<DIV_START cat="scene" divStartID="dsID_2433_00574" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00589']"/>
+<TITLE titleID="tiID_2433_00178"><TITLEPART>11. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="02501"><SD part="initial">Frau Klein, Grete, Rosa.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2433_00575" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00571']"/>
+<P parID="02502"><TAB/><SPK><SPC>Frau Klein</SPC></SPK> <SD>(ruft)</SD>. Grete, Rosa! <SD>(Die M&#xE4;dchen treten ein, Grete<LE/>
+verweint, Rosa gleichgiltig)</SD>.</P>
+<DIV_END divEndID="deID_2433_00571" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00575']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00576" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00572']"/>
+<P parID="02503"><TAB/><SPK><SPC>Grete</SPC></SPK> <SD>(Frau Klein umschlingend)</SD>. O, Mama, Mama!</P>
+<DIV_END divEndID="deID_2433_00572" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00576']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00577" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00573']"/>
+<P parID="02504"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Ihr wisst?</P>
+<DIV_END divEndID="deID_2433_00573" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00577']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00578" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00574']"/>
+<P parID="02505"><TAB/><SPK><SPC>Rosa</SPC></SPK>. Ihr habt ja so laut gesprochen, dass man jedes Wort<LE/>
+h&#xF6;ren konnte.</P>
+<DIV_END divEndID="deID_2433_00574" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00578']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00579" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00575']"/>
+<P parID="02506"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Ihr d&#xFC;rft es dem Armin nicht so &#xFC;bel nehmen,<LE/>
+er kann nicht, wie er will. Er l&#xE4;sst sich ganz von seiner Mutter leiten.<LE/>
+Er selbst ist ein ganz guter Junge.</P>
+<DIV_END divEndID="deID_2433_00575" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00579']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00580" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00576']"/>
+<P parID="02507"><TAB/><SPK><SPC>Rosa</SPC></SPK> <SD>(leichtsinnig)</SD>. Ach was, mir ist es egal. Ich nehme auch<LE/>
+den Isidor. <SD>(Grete hat sich in einen Stuhl gesetzt und beginnt erneut zu<LE/>
+schluchzen.)</SD></P>
+<DIV_END divEndID="deID_2433_00576" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00580']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00581" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00577']"/>
+<P parID="02508"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Geh&#x2019; Gretel, du darfst die Sache nicht so tragisch<LE/>
+nehmen. Schau, in der Ehe sind die M&#xE4;nner einer wie der andere.<LE/>
+Wenn man aufrichtig sein will, ist es ganz gleichgiltig, wen man<LE/>
+heiratet. Und siehst du, der Armin ist nicht der &#xC4;rgste. Er wird sich<LE/>
+lenken lassen. Hast du denn so eine Antipathie gegen ihn?</P>
+<DIV_END divEndID="deID_2433_00577" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00581']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00582" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00578']"/>
+<P parID="02509"><TAB/><SPK><SPC>Grete</SPC></SPK>. Nein, aber ich hab&#x2019; mich so an den Isidor gew&#xF6;hnt.</P>
+<DIV_END divEndID="deID_2433_00578" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00582']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00583" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00579']"/>
+<P parID="02510"><TAB/><SPK><SPC>Rosa</SPC></SPK> <SD>(&#xFC;berlegen)</SD>. Du wirst Dich jetzt an den Armin gew&#xF6;hnen.</P>
+<DIV_END divEndID="deID_2433_00579" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00583']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00584" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00580']"/>
+<P parID="02511"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Schau, Kind, ich will Dich ja nicht zwingen. Ich<LE/>
+will gewiss das Beste f&#xFC;r Dich. Will ich das nicht, sag&#x2019; selbst?</P>
+<DIV_END divEndID="deID_2433_00580" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00584']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00585" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00581']"/>
+<P parID="02512"><TAB/><SPK><SPC>Grete</SPC></SPK> <SD>(nachgiebig)</SD>. O ja, Mama.</P>
+<DIV_END divEndID="deID_2433_00581" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00585']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00586" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00582']"/>
+<P parID="02513"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Wenn Du den Armin nicht willst, so brauchst Du<LE/>
+ihn nicht zu nehmen. Da werde ich halt wieder von neuem <HYPH1 cont="herumlaufen">herum-</HYPH1><LE/>
+<HYPH2>laufen</HYPH2>, einen f&#xFC;r die Rosa zu finden. Es ist freilich nicht leicht, und<LE/>
+ich bin auch nicht mehr jung, aber was soll man machen? Euer Gl&#xFC;ck<LE/>
+liegt mir vor allem am Herzen. Also entscheide Dich. Ich kann ihn<LE/>
+doch nicht so lange warten lassen. Ja oder nein? Es ist gar kein<LE/>
+Zwang da. Du kannst thun, was Du willst. Ich werde Dir keine <HYPH1 cont="Vorw&#xFC;rfe">Vor-</HYPH1><LE/>
+<HYPH2>w&#xFC;rfe</HYPH2> machen.</P>
+<DIV_END divEndID="deID_2433_00582" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00586']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00587" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00583']"/>
+<P parID="02514"><TAB/><SPK><SPC>Grete</SPC></SPK> <SD>(nach einigem Kampf aufstehend)</SD>. Also gut &#x2014; &#x2014;</P>
+<DIV_END divEndID="deID_2433_00583" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00587']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00588" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00584']"/>
+<P parID="02515"><TAB/><SPK><SPC>Frau Klein</SPC></SPK> <SD>(sie auf die Stirne k&#xFC;ssend)</SD>. Du bist mein braves Kind.<LE/>
+Darf ich ihn jetzt rufen?</P>
+<DIV_END divEndID="deID_2433_00584" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00588']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00589" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00585']"/>
+<P parID="02516"><TAB/><SPK><SPC>Grete</SPC></SPK>. Ja. Sehe ich sehr verweint aus?</P>
+<DIV_END divEndID="deID_2433_00585" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00589']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00590" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00586']"/>
+<P parID="02517"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Es ist nicht so arg. Weisst Du, hauch&#x2019; ein bisserl<LE/>
+das Taschentuch an und leg&#x2019;s auf die Augen. <SD>(Grete thut es.)</SD> Ja, was<LE/>
+ich noch sagen wollte, sei nicht unfreundlich gegen ihn. Es ist ihm<LE/>
+ja auch peinlich.</P>
+<DIV_END divEndID="deID_2433_00586" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00590']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00591" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00587']"/>
+<P parID="02518"><TAB/><SPK><SPC>Grete</SPC></SPK>. Ja, Mama.</P>
+<DIV_END divEndID="deID_2433_00587" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00591']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00592" endPtr="WR-02-02-24_n0914.xml#//DIV_END[@divEndID='deID_2433_00588']"/>
+<P parID="02519"><TAB/><SPK><SPC>Frau Klein</SPC></SPK> <SD>(zu Rosa)</SD>. Du geh&#x2019; in die K&#xFC;che, Rosa, und<LE/>
+schau&#x2019;, dass der Braten nicht ganz eintrocknet. Jetzt werden wir<LE/>
+doch endlich essen k&#xF6;nnen. <SD>(Rosa ab.)</SD> Also, ich rufe ihn jetzt.<LE/>
+<SD>(Geht in das Cabinet.)</SD></P>
+<DIV_END divEndID="deID_2433_00588" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00592']"/>
+<DIV_END divEndID="deID_2433_00589" startPtr="WR-02-02-24_n0914.xml#//DIV_START[@divStartID='dsID_2433_00574']"/>
+</PAGE>

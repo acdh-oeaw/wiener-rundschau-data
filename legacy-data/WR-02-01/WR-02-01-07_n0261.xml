@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-07_n0260.xml</PREV>
+<NEXT>WR-02-01-07_n0262.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 261</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2432_00470" endPtr="WR-02-01-07_n0261.xml#//DIV_END[@divEndID='deID_2432_00469']"/>
+<TITLE titleID="tiID_2432_00092"><TITLEPART>AN DER SCHWELLE DES TODES.</TITLEPART></TITLE>
+<LG parID="01895"><L><IN>Herbstschatten</IN> ziehn um deine weisse Stirne,</L>
+<L>Das rauhe Gr&#xFC;n der B&#xE4;ume sieht dich an,</L>
+<L>Das Laub rauscht schwer, als kennte es dein Leid.</L></LG>
+<LG parID="01896"><L>Du bist so blass. Die H&#xE4;nde zittern dir,</L>
+<L>Krank qu&#xE4;lt dein Auge sich zum kalten Licht,</L>
+<L>Ein Schauer geht durch deinen hageren Leib.</L></LG>
+<LG parID="01897"><L>Dein Schritt ist matt, und m&#xFC;de ist dein Arm,</L>
+<L>In heissen Tr&#xE4;umen &#xE4;ngstigt sich dein Hirn,</L>
+<L>Und in dir lacht&#x2019;s und weint&#x2019;s und spottet&#x2019;s wild.</L></LG>
+<LG parID="01898"><L>Ich gehe stumpf und still an deiner Seite,</L>
+<L>Ich bin von deinem Schmerz so furchtbar m&#xFC;de:</L>
+<L>Ich weiss ja nicht, wie ich dir helfen soll.</L></LG>
+<P parID="01899">Charlottenburg. <AUCTOR><C>Fiedrich Perzy&#x144;ski</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2432_00469" startPtr="WR-02-01-07_n0261.xml#//DIV_START[@divStartID='dsID_2432_00470']"/>
+</PAGE>

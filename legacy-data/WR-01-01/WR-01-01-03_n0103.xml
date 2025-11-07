@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0102.xml</PREV>
+<NEXT>WR-01-01-03_n0104.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 103</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>GEDICHTE.</CTEXT><RTEXT type="pn">103</RTEXT></HD>
+<LG part="final" parID="00783"><L>sp&#xFC;r&#x2019; ein Kindchen unterm Herzen,</L>
+<L>und ist nit von deinem Blut.</L>
+<L>Sanfter, du! mich qu&#xE4;lt die Hitze;</L>
+<L>oh du, mein geliebter Thor,</L>
+<L>heb mal deine Kinnbartspitze,</L>
+<L>sanft &#x2014; so &#x2014; kitzel mich ins Ohr!</L></LG>
+<LG parID="00784"><L>Ihr schwarzes Haar erschauert ganz,</L>
+<L>zwei Menschen wiegen sich im Tanz.</L></LG>
+<P parID="00785">Berlin. <AUCTOR><C>Richard Dehmel</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00188" startPtr="WR-01-01-03_n0102.xml#//DIV_START[@divStartID='dsID_2397_00190']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00191" endPtr="WR-01-01-03_n0103.xml#//DIV_END[@divEndID='deID_2397_00189']"/>
+<TITLE titleID="tiID_2397_00061"><TITLEPART type="main">DAS INNERE SCHWEIGEN.</TITLEPART><LE/>
+<TITLEPART>Aus: &#xBB;<SOURCE><LANG iso="grc">&#x39F;&#x3A1;&#x3A6;&#x399;&#x39A;&#x391;</LANG> &#x2014; Musikalische Verse</SOURCE>.&#xAB;*)</TITLEPART></TITLE>
+<LG parID="00786"><L><IN>Wann</IN> sah ich jenen bleichen See,</L>
+<L>der ewig schwieg <SYMBOL type="2dots"/>,</L>
+<L>in fliehender Ferne,</L>
+<L>unter des Mondes modernden Schleiern? &#x2014; &#x2014;</L>
+<L>und die Weiden,</L>
+<L>die leidohnm&#xE4;chtig sich neigten</L>
+<L>&#xFC;ber die Ufer <SYMBOL type="2dots"/>,</L>
+<L>und ihre traurigen Tr&#xE4;ume verschwiegen? &#x2014; &#x2014; &#x2014;</L></LG>
+<LG parID="00787"><L>Wann sah ich den See und die Weiden? &#x2014;</L>
+<L><SYMBOL type="2dots"/> wann sah ich den See und die Weiden <SYMBOL type="3dots"/></L></LG>
+<LG parID="00788"><L><SYMBOL type="2dots"/> Immer jenes bleiche Schweigen</L>
+<L>in mir h&#xF6;ren <SYMBOL type="2dots"/>,</L>
+<L>und das Herz voll der verschwiegenen Tr&#xE4;ume</L>
+<L>trauriger B&#xE4;ume:</L>
+<L>und mein Herz voll traurig schweigender Tr&#xE4;ume <SYMBOL type="3dots"/></L></LG>
+<P parID="00789">Wien. <AUCTOR><C>Constantin Christomanos</C></AUCTOR>.</P>
+<HR/>
+<FN>
+<P parID="00790"><TAB/>*) Zur Kennzeichnung der Intentionen des griechischen Dichters sei <HYPH1 cont="folgender">fol-</HYPH1><LE/>
+<HYPH2>gender</HYPH2> Passus aus einem Brief an uns citirt: &#xBB;Ich versuche hier den Reim durch<LE/>
+musikalischen Rhythmus zu ersetzen &#x2014; durch den Rhythmus einer Zeit, da <HYPH1 cont="Dichtung">Dich-</HYPH1><LE/>
+<HYPH2>tung</HYPH2> und Musik noch Eins waren, und dessen Empfinden ich vielleicht von<LE/>
+jenem Volke geerbt habe, das seine Ges&#xE4;nge von den Wellen des Meeres <HYPH1 cont="erlernte">er-</HYPH1><LE/>
+<HYPH2>lernte</HYPH2>.&#xAB;</P>
+</FN>
+<DIV_END divEndID="deID_2397_00189" startPtr="WR-01-01-03_n0103.xml#//DIV_START[@divStartID='dsID_2397_00191']"/>
+<DIV_END divEndID="deID_2397_00190" startPtr="WR-01-01-03_n0102.xml#//DIV_START[@divStartID='dsID_2397_00189']"/>
+</PAGE>

@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-05_n0104.xml</PREV>
+<NEXT>WR-04-05_n0106.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 5, S. 105</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>KUHLENBECK: DIE PHILOSOPHIE DES GIORDANO BRUNO.</CTEXT></HD>
+<TABLE parID="00967"><ROW ciID="0336"><CELL>
+<P parID="00968"><TAB/>Es schwieg die opalene Weite des<LE/>
+Meeres, melancholisch rauschten die Wellen<LE/>
+auf den Sand, und ich blickte stumm <HYPH1 cont="hin&#xFC;ber">hin-</HYPH1><LE/>
+<HYPH2>&#xFC;ber</HYPH2> zu Ragim, der eben aufgeh&#xF6;rt, sein<LE/>
+Lied vom Falken dem Meere zu erz&#xE4;hlen.<LE/>
+Auf dem Wasser zeigten sich immer <HYPH1 cont="zahlreicher">zahl-</HYPH1><LE/>
+<HYPH2>reicher</HYPH2> jene Flecken, die von den Strahlen<LE/>
+des Mondes kamen <SYMBOL type="2dots"/> Unser Kesselchen<LE/>
+lief still &#xFC;ber.</P>
+<P parID="00969"><TAB/>T&#xE4;ndelnd wiegte sich eine von den<LE/>
+Wellen auf das Ufer und mit <HYPH1 cont="herausforderndem">heraus-</HYPH1><LE/>
+<HYPH2>forderndem</HYPH2> Rauschen stieg sie zum Kopfe<LE/>
+Ragims empor.</P>
+<P parID="00970"><TAB/>&#xBB;Wohin krabbelst du? <SYMBOL type="3dots"/> Marsch!&#xAB; &#x2014;<LE/>
+trieb sie Ragim mit einem Handschlage<LE/>
+fort, und sie zog sich gehorsamst wieder<LE/>
+ins Meer zur&#xFC;ck.</P>
+<P part="initial" parID="00971"><TAB/>Mir kam das auffallende Benehmen<LE/>
+Ragims, der die Wellen beseelte, nicht</P>
+</CELL><CELL>
+<P part="final" parID="00972">im geringsten l&#xE4;cherlich oder entsetzlich<LE/>
+vor. Ringsumher sah alles seltsam, weich,<LE/>
+sanft und lebhaft aus. Das Meer lag<LE/>
+ruhig da und athmete; sein Athem fiel<LE/>
+auf die Berge, die von der Tageshitze<LE/>
+noch nicht abgek&#xFC;hlt waren; man f&#xFC;hlte,<LE/>
+dass in seinem frischen Hauch viel starke,<LE/>
+unterdr&#xFC;ckte Kraft verborgen lag. Auf<LE/>
+dem goldenen Grunde des tiefblauen<LE/>
+Sternenhimmels war etwas Feierliches <HYPH1 cont="aufgeschrieben">auf-</HYPH1><LE/>
+<HYPH2>geschrieben</HYPH2>, was die Seele im Zauber<LE/>
+hielt und den Verstand mit der s&#xFC;&#xDF;en<LE/>
+Erwartung einer Offenbarung beunruhigte.</P>
+<P parID="00973"><TAB/>Alles schlummerte, doch dieser <HYPH1 cont="Schlummer">Schlum-</HYPH1><LE/>
+<HYPH2>mer</HYPH2> war eine gespannte Wachsamkeit,<LE/>
+und es schien, als m&#xFC;sse sich alles in der<LE/>
+n&#xE4;chsten Secunde aus dem Schlummer<LE/>
+erheben und unbeschreiblich s&#xFC;&#xDF;e T&#xF6;ne<LE/>
+zu herrlichen Harmonien verbinden.</P>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2436_00088" startPtr="WR-04-05_n0102.xml#//DIV_START[@divStartID='dsID_2436_00089']"/>
+<SEPARATOR num="8" type="undefined"/>
+<DIV_START divStartID="dsID_2436_00090" endPtr="WR-04-05_n0109.xml#//DIV_END[@divEndID='deID_2436_00095']" titleID="tiID_2436_00051"/>
+<TITLE titleID="tiID_2436_00051" parDivStartID="dsID_2436_00090"><TITLEPART type="main"><SPC>DIE PHILOSOPHIE DES GIORDANO BRUNO</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LUDWIG KUHLENBECK</AUCTOR> (Jena).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE>
+<TABLE parID="00974"><ROW ciID="0337"><CELL>
+<P parID="00975"><TAB/>In Giordano Brunos Lehrgedicht <LANG iso="it"><I>de<LE/>
+immenso</I></LANG> findet sich eine mit <HYPH1 cont="wissenschaftlicher">wissenschaft-</HYPH1><LE/>
+<HYPH2>licher</HYPH2> Phantasie angetretene Reise durch<LE/>
+die Sonnenwelt. Hier hei&#xDF;t es u. a.:</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2436_00091" endPtr="WR-04-05_n0106.xml#//DIV_END[@divEndID='deID_2436_00089']"/>
+<LG part="initial" parID="00976"><L>Werden sie* dir glauben,</L>
+<L>Wenn du auf deine Heimatwelt dort zeigst</L>
+<L>Und sagst, der dunkle Fleck im Silberglanze</L>
+<L>Sei vor Jahrhunderten nicht dort gewesen?</L>
+<L>Er habe sich im Lauf der Zeit verschoben?</L>
+<L>Denn Ceres und Neptun wechseln hienieden</L>
+<L>Im Zeitenlauf erheblich oft die Grenzen,</L>
+<L>Wie altererbte &#xDC;berlieferung nachweist!</L>
+<L>Die Grenzver&#xE4;nderung, die ein Jahrhundert</L>
+<L>Kaum merklich oft dem K&#xFC;stennachbar wirkt,</L>
+<L>Wird man von dort aus schwerlich einseh&#x2019;n</L>
+<L>wollen!</L>
+<L>Und doch gibt, stetig und allm&#xE4;hlich weichend,</L>
+<L>Von Spaniens Strand genau soviel das Meer ab,</L>
+<L>Wie&#x2019;s fortsp&#xFC;lt an dem K&#xFC;stenstrand bei Calpe.</L></LG>
+</CELL><CELL>
+<LG part="medial" parID="00977"><L>Denn durch Jahrhunderte verblichen, hat die</L>
+<L>Sage</L>
+<L>Vom Wandern des Aleiden, der sich hier</L>
+<L>Ein Siegeszeichen aufgerichtet, fast</L>
+<L>Den Glauben bei der Nachwelt eingeb&#xFC;&#xDF;t!</L>
+<L>Und doch kann man daraus erseh&#x2019;n, dass Thetis</L>
+<L>Der Ceres &#xC4;cker zu erwerben strebt,</L>
+<L>Und dass die letzt&#x2019;re zum Entgelt daf&#xFC;r den</L>
+<L>Pan</L>
+<L>Auf eines hohen Berges R&#xFC;cken weiden hei&#xDF;t,</L>
+<L>Der eh&#x2019;dem, eine Klippe nur, den Proteus sah,</L>
+<L>Den meeresgr&#xFC;nen, wenn er seine Robben</L>
+<L>h&#xFC;tete.</L>
+<L>Und im Verh&#xE4;ltnis zu der Erde Lebenszeit,</L>
+<L>Kann solche &#xC4;nderung des Anseh&#x2019;ns nichts</L>
+<L>bedeuten!</L>
+<L>Was m&#xFC;sste erst geschehen, wenn von dort,</L>
+<L>Vom Mondgestade aus sie merkbar w&#xFC;rde?</L>
+<L>Sieh&#x2019; nur, zu welchem P&#xFC;nktchen England</L>
+<L>schrumpfte,</L>
+<L>Ein d&#xFC;nnes H&#xE4;rchen ward Italien,</L></LG>
+</CELL></ROW></TABLE>
+<FN>
+<P parID="00978"><TAB/>* N&#xE4;mlich die etwaigen Bewohner des Mondes, zu denen er den Leser gelangen l&#xE4;sst.</P>
+</FN>
+<FT type="pn" num="105" c_text="&#x2014; 105 &#x2014;"/>
+</PAGE>

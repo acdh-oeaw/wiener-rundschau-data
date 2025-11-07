@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-16_n0326.xml</PREV>
+<NEXT>WR-05-17_n0328.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 17, S. 327</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>16</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>9</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_01374" endPtr="WR-05-17_n0342.xml#//DIV_END[@divEndID='deID_2436_01414']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_01375" endPtr="WR-05-17_n0327.xml#//DIV_END[@divEndID='deID_2436_01374']"/>
+<P parID="07760"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="07761"><B>HERAUSGEGEBEN VON FELIX RAPPAPORT</B></P>
+<TABLE parID="07762"><ROW ciID="1241"><CELL>
+<P parID="07763"><DATE><B>1. SEPTEMBER 1901</B></DATE></P>
+</CELL><CELL>
+<P parID="07764"><B>V. JAHRGANG, N<SUP>R.</SUP> 17</B></P>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_01374" startPtr="WR-05-17_n0327.xml#//DIV_START[@divStartID='dsID_2436_01375']"/>
+<DIV_START type="performance" divStartID="dsID_2436_01376" endPtr="WR-05-17_n0329.xml#//DIV_END[@divEndID='deID_2436_01403']"/>
+<TITLE titleID="tiID_2436_00366"><TITLEPART type="main"><SPC>MELEAGERS TOD</SPC>.</TITLEPART><LE/>
+<TITLEPART>(Aus Atalanta in Calydon.)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CHARLES ALGERNON SWINBURNE</AUCTOR>.</TITLEPART></TITLE>
+<TABLE parID="07765"><ROW ciID="1242"><CELL>
+<DIV_START cat="speech" divStartID="dsID_2436_01377" endPtr="WR-05-17_n0327.xml#//DIV_END[@divEndID='deID_2436_01375']"/>
+<P parID="07766"><SPK>MELEAGER</SPK>.</P>
+<LG parID="07767"><L>Wie eine Schlinge f&#xFC;gt</L>
+<L>Eure H&#xE4;nde um mein Gesicht,</L>
+<L>Hebt mich empor, als tr&#xFC;gt</L>
+<L>Ihr eines Todten Gewicht,</L>
+<L>Denn mein Fleisch schmilzt wie Blei,</L>
+<L>Glied um Glied meines Leibes</L>
+<L>zerbricht.</L></LG>
+<DIV_END divEndID="deID_2436_01375" startPtr="WR-05-17_n0327.xml#//DIV_START[@divStartID='dsID_2436_01377']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01378" endPtr="WR-05-17_n0327.xml#//DIV_END[@divEndID='deID_2436_01376']"/>
+<P parID="07768"><SPK>CHOR</SPK>.</P>
+<LG parID="07769"><L>O das edle Gebild!</L>
+<L>Der Blick voll Majest&#xE4;t,</L>
+<L>Im Scheiden so mild</L>
+<L>Wie der Tag, der vergeht!</L>
+<L>Wer ist sie, Herr, die schmerzzerrissen</L>
+<L>am Lager steht?</L></LG>
+<DIV_END divEndID="deID_2436_01376" startPtr="WR-05-17_n0327.xml#//DIV_START[@divStartID='dsID_2436_01378']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01379" endPtr="WR-05-17_n0327.xml#//DIV_END[@divEndID='deID_2436_01377']"/>
+<P parID="07770"><SPK>MELEAGER</SPK>.</P>
+<LG parID="07771"><L>Wie kam durch Gefahr,</L>
+<L>So furchtlos geschwind,</L>
+<L>Im flatternden Haar,</L>
+<L>Die Wange im Wind.</L>
+<L>Atalanta, die Reine, deren Name wie</L>
+<L>Balsam lind?</L></LG>
+<DIV_END divEndID="deID_2436_01377" startPtr="WR-05-17_n0327.xml#//DIV_START[@divStartID='dsID_2436_01379']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01380" endPtr="WR-05-17_n0327.xml#//DIV_END[@divEndID='deID_2436_01378']"/>
+<P parID="07772"><SPK>ATALANTA</SPK>.</P>
+<LG part="initial" parID="07773"><L>War&#x2019; ich nie, allzu k&#xFC;hn,</L>
+<L>Zu Wasser, zu Land,</L></LG>
+</CELL><CELL>
+<LG part="final" parID="07774"><L>In Gefahren und M&#xFC;h&#x2019;n,</L>
+<L>Unbedacht, unverwandt,</L>
+<L>Von Arkadien nordw&#xE4;rts geeilt, an</L>
+<L>Calydons ungastlichen Strand!</L></LG>
+<DIV_END divEndID="deID_2436_01378" startPtr="WR-05-17_n0327.xml#//DIV_START[@divStartID='dsID_2436_01380']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01381" endPtr="WR-05-17_n0327.xml#//DIV_END[@divEndID='deID_2436_01379']"/>
+<P parID="07775"><SPK>MELEAGER</SPK>.</P>
+<LG parID="07776"><L>Vor&#x2019;m Geschick kein Entflieh&#x2019;n!</L>
+<L>Nicht mit Trotz, noch Bedacht</L>
+<L>Kann sich Einer entzieh&#x2019;n</L>
+<L>Der bestimmenden Macht.</L>
+<L>Doch ich wollte, mich tr&#xE4;fe der Tod</L>
+<L>im Tumult der Schlacht.</L></LG>
+<DIV_END divEndID="deID_2436_01379" startPtr="WR-05-17_n0327.xml#//DIV_START[@divStartID='dsID_2436_01381']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01382" endPtr="WR-05-17_n0327.xml#//DIV_END[@divEndID='deID_2436_01380']"/>
+<P parID="07777"><SPK>CHOR</SPK>.</P>
+<LG parID="07778"><L>Nicht beim klirrenden Sprung</L>
+<L>Des Schildes, in Kraft,</L>
+<L>Wenn der t&#xF6;dtliche Schwung</L>
+<L>Den Speer trennt vom Schaft,</L>
+<L>F&#xE4;llst du, du f&#xE4;llst von Drangsal und</L>
+<L>Schrecken dahingerafft.</L></LG>
+<DIV_END divEndID="deID_2436_01380" startPtr="WR-05-17_n0327.xml#//DIV_START[@divStartID='dsID_2436_01382']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01383" endPtr="WR-05-17_n0327.xml#//DIV_END[@divEndID='deID_2436_01381']"/>
+<P parID="07779"><SPK>MELEAGER</SPK>.</P>
+<LG parID="07780"><L>O, dass ich getroffen</L>
+<L>In festlicher Schar,</L>
+<L>In Freude und Hoffen,</L>
+<L>Des Geschick&#x2019;s nicht gewahr,</L>
+<L>Mit Liedern auf den Lippen und mit</L>
+<L>Rosen im Haar!</L></LG>
+<DIV_END divEndID="deID_2436_01381" startPtr="WR-05-17_n0327.xml#//DIV_START[@divStartID='dsID_2436_01383']"/>
+</CELL></ROW></TABLE>
+<FT type="pn" num="327" c_text="&#x2014; 327 &#x2014;"/>
+</PAGE>

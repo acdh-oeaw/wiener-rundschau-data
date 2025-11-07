@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-00_i0004.xml</PREV>
+<NEXT>WR-01-01-00_i0006.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Inhalt S. 5</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS></ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>INHALTS-VERZEICHNISS.</CTEXT></HD>
+<TABLE parID="00003">
+<ROW ciID="0081"><CELL><EMPTY/>
+</CELL><CELL>Seite
+</CELL></ROW>
+<ROW ciID="0082"><CELL><SPC>Stiglitz</SPC>, Dr. Maximilian, Die Theatercensur <SYMBOL type="dots"/>
+</CELL><CELL>235
+</CELL></ROW>
+<ROW ciID="0083"><CELL><SPC>Strauss</SPC>, Rudolf, Die treue Frau <SYMBOL type="dots"/>
+</CELL><CELL>64
+</CELL></ROW>
+<ROW ciID="0084"><CELL><DITTO cont="Strauss," rend="&#xAB;"/> <DITTO cont="Rudolf," rend="&#xAB;"/> Pyrrhussieg <SYMBOL type="dots"/>
+</CELL><CELL>291
+</CELL></ROW>
+<ROW ciID="0085"><CELL><DITTO cont="Strauss," rend="&#xAB;"/> <DITTO cont="Rudolf," rend="&#xAB;"/> Raimund-Theater <SYMBOL type="dots"/>
+</CELL><CELL>395
+</CELL></ROW>
+<ROW ciID="0086"><CELL><SPC>Szczepanski</SPC>, Ludwig, Jungpolnische Lyrik <SYMBOL type="dots"/>
+</CELL><CELL>383
+</CELL></ROW>
+<ROW ciID="0087"><CELL><SPC>Tchechow</SPC>, Anton, Wanjka <SYMBOL type="dots"/> 
+</CELL><CELL>6
+</CELL></ROW>
+<ROW ciID="0088"><CELL><SPC>V&#xE9;ber</SPC>, Pierre, Kritik <SYMBOL type="dots"/>
+</CELL><CELL>288
+</CELL></ROW>
+<ROW ciID="0089"><CELL><SPC>Verhaeren</SPC>, Emile, Paul Verlaine <SYMBOL type="dots"/>
+</CELL><CELL>456
+</CELL></ROW>
+<ROW ciID="0090"><CELL><SPC>Verlaine</SPC>, Paul, &#xC7;avitri <SYMBOL type="dots"/>
+</CELL><CELL>15
+</CELL></ROW>
+<ROW ciID="0091"><CELL><DITTO cont="Verlaine," rend="&#xAB;"/> <DITTO cont="Paul," rend="&#xAB;"/> Mit ged&#xE4;mpfter Stimme <SYMBOL type="dots"/>
+</CELL><CELL>172
+</CELL></ROW>
+<ROW ciID="0092"><CELL><DITTO cont="Verlaine," rend="&#xAB;"/> <DITTO cont="Paul," rend="&#xAB;"/> Herbst <SYMBOL type="dots"/>
+</CELL><CELL>365
+</CELL></ROW>
+<ROW ciID="0093"><CELL><SPC>Weisengr&#xFC;n</SPC>, Dr. Paul, Zur Psychologie Nietzsche&#x2019;s <SYMBOL type="dots"/>
+</CELL><CELL>186
+</CELL></ROW>
+<ROW ciID="0094"><CELL><DITTO cont="Weisengr&#xFC;n," rend="&#xAB;"/> <DITTO cont="Dr." rend="&#xAB;"/> <DITTO cont="Paul," rend="&#xAB;"/> Gegen die Emancipation des Weibes <SYMBOL type="dots"/> 
+</CELL><CELL>387, 431
+</CELL></ROW>
+<ROW ciID="0095"><CELL><SPC>Wilhelm</SPC>, Paul, Golgatha <SYMBOL type="dots"/>
+</CELL><CELL>173
+</CELL></ROW>
+<ROW ciID="0096"><CELL><DITTO cont="Wilhelm," rend="&#xAB;"/> <DITTO cont="Paul," rend="&#xAB;"/> Wiener Kunst und Kunstkritik <SYMBOL type="dots"/>
+</CELL><CELL>220
+</CELL></ROW>
+<ROW ciID="0097"><CELL><DITTO cont="Wilhelm," rend="&#xAB;"/> <DITTO cont="Paul," rend="&#xAB;"/> K&#xFC;nstlerhaus <SYMBOL type="dots"/>
+</CELL><CELL>392
+</CELL></ROW>
+</TABLE>
+<TITLE titleID="tiID_2397_00002"><TITLEPART>KRITIK.</TITLEPART></TITLE>
+<TABLE parID="00004">
+<ROW ciID="0098"><CELL colspan="2"><TITLE titleID="tiID_2397_00003"><TITLEPART><B>Theater-Besprechungen.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0099"><CELL>Burgtheater <SYMBOL type="dots"/>
+</CELL><CELL>37, 78, 119, 196, 238, 358
+</CELL></ROW>
+<ROW ciID="0100"><CELL>Carl-Theater <SYMBOL type="dots"/>
+</CELL><CELL>398, 478
+</CELL></ROW>
+<ROW ciID="0101"><CELL>Deutsches Volkstheater <SYMBOL type="dots"/>
+</CELL><CELL>158, 196, 177, 439, 479
+</CELL></ROW>
+<ROW ciID="0102"><CELL>Hof-Operntheater <SYMBOL type="dots"/>
+</CELL><CELL>79, 177
+</CELL></ROW>
+<ROW ciID="0103"><CELL>Raimund-Theater <SYMBOL type="dots"/>
+</CELL><CELL>38, 317
+</CELL></ROW>
+<ROW ciID="0104"><CELL>Rudolfsheimer Volkstheater <SYMBOL type="dots"/>
+</CELL><CELL>480
+</CELL></ROW>
+<ROW ciID="0105"><CELL colspan="2"><TITLE titleID="tiID_2397_00004"><TITLEPART><B>B&#xFC;cher.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0106"><CELL colspan="2"><SPC>Brauner</SPC>, &#xBB;Russische Novellen&#xAB; 39; <SPC>David</SPC>, &#xBB;Fr&#xFC;hschein&#xAB; 79; <SPC>Evers</SPC>, &#xBB;Hohe
+Lieder&#xAB; 318; <SPC>Hafner</SPC> und Weilhart, &#xBB;Keine S&#xFC;hne&#xAB; 439; <SPC>Harden</SPC>, &#xBB;Literatur
+und Theater&#xAB; 120; <SPC>Hauptmann</SPC> Carl, &#xBB;Sonnenwanderer&#xAB; 480; <SPC>Lange</SPC>, &#xBB;Thor-
+waldsen&#x2019;s Darstellung des Menschen&#xAB; 279; <SPC>Lie</SPC>, &#xBB;Grossvater&#xAB; 239; <SPC>Lilien-
+cron</SPC>, &#xBB;Poggfred&#xAB; 198; <SPC>Louys</SPC>, &#xBB;Aphrodite&#xAB; 360; <SPC>Morgenstern</SPC>, &#xBB;In Phanta&#x2019;s
+Schloss&#xAB; 319; <SPC>Pastor</SPC>, &#xBB;Der Andere&#xAB; 240; <SPC>Przybyszewski</SPC>, &#xBB;Satans Kinder&#xAB; 399;
+<SPC>Rechert</SPC>, &#xBB;Rauchringe&#xAB; 440; <SPC>Rilke</SPC>, &#xBB;Traumgekr&#xF6;nt&#xAB; 319; <SPC>Schlaf</SPC>, &#xBB;Fr&#xFC;hling&#xAB; 240;
+<SPC>Schmidt</SPC>, &#xBB;Exredacteur Sauer&#xAB; 159; <SPC>Servaes</SPC>, &#xBB;Goethe am Ausgang des Jahr-
+hunderts&#xAB; 359; <SPC>Verlaine</SPC>, <LANG iso="fr">&#xBB;Choix de Po&#xE9;sies&#xAB;</LANG> 280; <SPC>Weigand</SPC>, &#xBB;Der zwie-
+fache Eros&#xAB; 439; <SPC>Weilhart</SPC> und Hafner, &#xBB;Keine S&#xFC;hne&#xAB; 439; <SPC>Weingartner</SPC>,
+&#xBB;Bayreuth&#xAB; 199; <SPC>Wrede</SPC>, &#xBB;Vom Baum des Lebens&#xAB; 319.
+</CELL></ROW>
+<ROW ciID="0107"><CELL colspan="2"><TITLE titleID="tiID_2397_00005"><TITLEPART><B>Kunst.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0108"><CELL colspan="2">K&#xFC;nstlerhaus 197, Placatkunst 278, Rumpler-Ausstellung 438, Schubert-Aus-<LE/>
+stellung 239.
+</CELL></ROW>
+</TABLE>
+</PAGE>

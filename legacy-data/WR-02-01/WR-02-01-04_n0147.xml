@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-04_n0146.xml</PREV>
+<NEXT>WR-02-01-04_n0148.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 4, S. 147</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2432_00237" endPtr="WR-02-01-04_n0147.xml#//DIV_END[@divEndID='deID_2432_00236']"/>
+<TITLE titleID="tiID_2432_00056"><TITLEPART>EINE MADONNA VON MURILLO.</TITLEPART></TITLE>
+<LG parID="00921"><L><IN>In</IN> Deinen Augen spiegeln blaue Fernen,</L>
+<L>die nimmer ein bew&#xF6;lkter Blick erreicht,</L>
+<L>das blasse Licht von letzten Morgensternen</L>
+<L>die Stirne Deiner Kindertr&#xE4;ume bleicht.</L></LG>
+<LG parID="00922"><L>des Himmels Farbe schm&#xFC;cket Dein Gewand,</L>
+<L>du sinnest &#xFC;ber einer frommen Weise,</L>
+<L>das seidene Buch entsinkt der matten Hand</L>
+<L>und Deine schmalen Lippen zittern leise.</L></LG>
+<LG parID="00923"><L>ein Irrthum Gottes bannt Dein freies Sein</L>
+<L>in tr&#xFC;ber Tage wunschgehemmte Bahnen,</L>
+<L>du bist des Lebens lichter Widerschein,</L>
+<L>das unsere betr&#xFC;bten Seelen ahnen.</L></LG>
+<P parID="00924">Paris. <AUCTOR><C>Oscar A. H. Schmitz</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2432_00236" startPtr="WR-02-01-04_n0147.xml#//DIV_START[@divStartID='dsID_2432_00237']"/>
+</PAGE>

@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-03_n0100.xml</PREV>
+<NEXT>WR-02-01-03_n0102.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 101</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>DIE SUGGESTION BEI SHAKESPEARE.</CTEXT><RTEXT type="pn">101</RTEXT></HD>
+<P parID="00698"><TAB/><SPC>Edgar</SPC> vergleicht seinen Vater mit den zarten F&#xE4;den, dem<LE/>
+Blumenflaum und Spinngewebe, das an milden Herbstabenden die Luft<LE/>
+erf&#xFC;llt und von dem stillen Lufthauch bald hierhin, bald dorthin <HYPH1 cont="getragen">ge-</HYPH1><LE/>
+<HYPH2>tragen</HYPH2> wird. Gleich solch gewichtlosen, luftigen Geweben ist er, <HYPH1 cont="getragen">ge-</HYPH1><LE/>
+<HYPH2>tragen</HYPH2> von den Aetherfluthen, die ein Windhauch leicht bewegt, auf<LE/>
+den Boden herabgesunken. Doch acceptirt <SPC>Gloster</SPC> nicht so <HYPH1 cont="ohneweiters">ohne-</HYPH1><LE/>
+<HYPH2>weiters</HYPH2> diese poetische Erkl&#xE4;rung. Er fr&#xE4;gt:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2432_00200" endPtr="WR-02-01-03_n0101.xml#//DIV_END[@divEndID='deID_2432_00200']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00201" endPtr="WR-02-01-03_n0101.xml#//DIV_END[@divEndID='deID_2432_00198']"/>
+<ADD><P parID="00699"><SPK><SPC>Gloster</SPC></SPK>.</P></ADD>
+<LG parID="00700"><L>Bin ich gefallen oder nicht?</L></LG>
+<DIV_END divEndID="deID_2432_00198" startPtr="WR-02-01-03_n0101.xml#//DIV_START[@divStartID='dsID_2432_00201']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00202" endPtr="WR-02-01-03_n0101.xml#//DIV_END[@divEndID='deID_2432_00199']"/>
+<P parID="00701"><SPK><SPC>Edgar</SPC></SPK>.</P>
+<LG parID="00702"><L>Vom grausen Gipfel dieses Kreidefelsens.</L>
+<L>Blick&#x2019; in die H&#xF6;h&#x2019; &#x2014; die laute Lerche kann so weit</L>
+<L>Geseh&#x2019;n, geh&#xF6;rt nicht werden. Blick&#x2019; doch auf!</L></LG>
+<DIV_END divEndID="deID_2432_00199" startPtr="WR-02-01-03_n0101.xml#//DIV_START[@divStartID='dsID_2432_00202']"/>
+<DIV_END divEndID="deID_2432_00200" startPtr="WR-02-01-03_n0101.xml#//DIV_START[@divStartID='dsID_2432_00200']"/>
+<P parID="00703"><TAB/><SPC>Edgar</SPC> f&#xFC;hrt seine neugeschaffene Rolle consequent durch. Er<LE/>
+weiss von der Blindheit <SPC>Gloster</SPC>&#x2019;s nichts, k&#xF6;nnte sie auch nicht <HYPH1 cont="bemerken">be-</HYPH1><LE/>
+<HYPH2>merken</HYPH2>, da dieser mit dem Gesichte nach abw&#xE4;rts gekehrt am Boden<LE/>
+liegt. Dadurch klingt seine Aufforderung: Blick&#x2019; doch auf! nicht wie<LE/>
+ein Hohn, sondern er erreicht im Gegentheil durch sie, dass <SPC>Gloster</SPC><LE/>
+seinen Worten glaubt und nur sein Missgeschick, das ihm sogar den<LE/>
+Trost des Selbstmords raubt, beklagt.</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2432_00203" endPtr="WR-02-01-03_n0101.xml#//DIV_END[@divEndID='deID_2432_00202']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00204" endPtr="WR-02-01-03_n0101.xml#//DIV_END[@divEndID='deID_2432_00201']"/>
+<P parID="00704"><SPK><SPC>Gloster</SPC></SPK>.</P>
+<LG parID="00705"><L>Ach, ich habe keine Augen.</L>
+<L>Ist Elend auch der Gunst beraubt,</L>
+<L>Sich selbst durch Tod zu enden? Ein Trost war&#x2019;s doch,</L>
+<L>Als Noth Tyrannenwuth betr&#xFC;gen konnte,</L>
+<L>Sein stolzes Wollen ihm vereitelnd.</L></LG>
+<DIV_END divEndID="deID_2432_00201" startPtr="WR-02-01-03_n0101.xml#//DIV_START[@divStartID='dsID_2432_00204']"/>
+<DIV_END divEndID="deID_2432_00202" startPtr="WR-02-01-03_n0101.xml#//DIV_START[@divStartID='dsID_2432_00203']"/>
+<P parID="00706"><TAB/>Der Gedanke an den Tod ist also aufgegeben und damit die<LE/>
+Todesgefahr. Autosuggestion h&#xE4;tte ihn get&#xF6;dtet &#x2014; Fremdsuggestion<LE/>
+rettet ihn.</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2432_00205" endPtr="WR-02-01-03_n0101.xml#//DIV_END[@divEndID='deID_2432_00207']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00206" endPtr="WR-02-01-03_n0101.xml#//DIV_END[@divEndID='deID_2432_00203']"/>
+<P parID="00707"><SPK><SPC>Edgar</SPC></SPK> <SD>(hilft ihm auf)</SD>.</P>
+<LG parID="00708"><L>Gebt mir den Arm &#x2014;</L>
+<L>Auf &#x2014; so &#x2014; wie geht&#x2019;s? F&#xFC;hlt ihr die Beine?</L>
+<L>Ihr steht.</L></LG>
+<DIV_END divEndID="deID_2432_00203" startPtr="WR-02-01-03_n0101.xml#//DIV_START[@divStartID='dsID_2432_00206']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00207" endPtr="WR-02-01-03_n0101.xml#//DIV_END[@divEndID='deID_2432_00204']"/>
+<P parID="00709"><SPK><SPC>Gloster</SPC></SPK>.</P>
+<LG parID="00710"><L>Zu gut. Zu gut.</L></LG>
+<DIV_END divEndID="deID_2432_00204" startPtr="WR-02-01-03_n0101.xml#//DIV_START[@divStartID='dsID_2432_00207']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00208" endPtr="WR-02-01-03_n0101.xml#//DIV_END[@divEndID='deID_2432_00205']"/>
+<P parID="00711"><SPK><SPC>Edgar</SPC></SPK>.</P>
+<LG parID="00712"><L>Dies ist schon mehr als seltsam.</L>
+<L>Am Gipfel dieser Klippe trenntet Ihr</L>
+<L>Von etwas Euch. Was war&#x2019;s?</L></LG>
+<DIV_END divEndID="deID_2432_00205" startPtr="WR-02-01-03_n0101.xml#//DIV_START[@divStartID='dsID_2432_00208']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00209" endPtr="WR-02-01-03_n0101.xml#//DIV_END[@divEndID='deID_2432_00206']"/>
+<P parID="00713"><SPK><SPC>Gloster</SPC></SPK>.</P>
+<LG parID="00714"><L>Ein armer, ungl&#xFC;cklicher Bettler.</L></LG>
+<DIV_END divEndID="deID_2432_00206" startPtr="WR-02-01-03_n0101.xml#//DIV_START[@divStartID='dsID_2432_00209']"/>
+<DIV_END divEndID="deID_2432_00207" startPtr="WR-02-01-03_n0101.xml#//DIV_START[@divStartID='dsID_2432_00205']"/>
+<P part="initial" parID="00715"><TAB/><SPC>Edgar</SPC>, der seinem Vater auf die F&#xFC;sse hilft, fr&#xE4;gt ihn, ob er<LE/>
+sich bei Kr&#xE4;ften f&#xFC;hle. Zu gut (sehr)! ist seine Antwort. Dann fr&#xE4;gt<LE/>
+er ihn, was das &#xBB;Etwas&#xAB; oben gewesen sei. N&#xE4;her darf er sich nicht<LE/>
+ausdr&#xFC;cken, sonst ist der Widerspruch mit R&#xFC;cksicht auf den Umstand,<LE/>
+dass man so hoch hinauf weder Bestimmtes sehen, noch h&#xF6;ren k&#xF6;nnte,<LE/>
+zu gross. Diese Frage soll die nachfolgende Erkl&#xE4;rung des gl&#xFC;cklichen</P>
+</PAGE>

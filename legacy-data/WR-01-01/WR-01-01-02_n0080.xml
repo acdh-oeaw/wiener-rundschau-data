@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-02_n0079.xml</PREV>
+<NEXT>WR-01-01-03_n0081.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 80</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">80</LTEXT><CTEXT>KRITIK.</CTEXT></HD>
+<TABLE parID="00523"><ROW ciID="0125"><CELL>
+<P part="final" parID="00524">von <SPC>Georg Heinrich Meyer</SPC>.<LE/>
+<DATE>1896</DATE>.</P>
+<P part="initial" parID="00525"><TAB/>Von J. J. David, dem Autor<LE/>
+des &#xBB;H&#xF6;ferechtes&#xAB; und des <HYPH1 cont="Romanes">Ro-</HYPH1><LE/>
+<HYPH2>manes</HYPH2> &#xBB;Blut&#xAB;, ist eben, &#xFC;beraus<LE/>
+reizend ausgestattet, nach l&#xE4;ngerer<LE/>
+Pause ein neuer Novellenband <HYPH1 cont="erschienen">er-</HYPH1><LE/>
+<HYPH2>schienen</HYPH2>. Was die vier Erz&#xE4;hlungen<LE/>
+des Buches verbindet, ist das <HYPH1 cont="gemeinsame">ge-</HYPH1><LE/>
+<HYPH2>meinsame</HYPH2> locale Colorit, der <HYPH1 cont="bedeutende">be-</HYPH1><LE/>
+<HYPH2>deutende</HYPH2> Hintergrund des <HYPH1 cont="dreissigj&#xE4;hrigen">dreissig-</HYPH1><LE/>
+<HYPH2>j&#xE4;hrigen</HYPH2> Krieges. Man kennt<LE/>
+die Art dieses Novellisten. Man<LE/>
+weiss, dass er lieber meisselt<LE/>
+als malt, dass er lieber wuchtige<LE/>
+und herbe als gef&#xE4;llige Stoffe in<LE/>
+harter, gedrungener Form behandelt.<LE/>
+Man f&#xFC;hlt sich endlich von seiner<LE/>
+dunklen und schweren <HYPH1 cont="Weltbetrachtung">Welt-</HYPH1><LE/>
+<HYPH2>betrachtung</HYPH2> und dem Zuge<LE/>
+pers&#xF6;nlicher Verbitterung, der<LE/>
+ihm eigen, vielfach nicht eben<LE/>
+sympathisch ber&#xFC;hrt; so wird es<LE/>
+Niemanden wundern, dass die<LE/>
+weiche, empfindliche Grazie unserer</P>
+</CELL><CELL>
+<P part="final" parID="00526">Kunst an dieser eckig-schroffen<LE/>
+Pers&#xF6;nlichkeit oft anst&#xF6;sst, mit der<LE/>
+man sich befreunden oder welcher<LE/>
+man offen entgegen sein muss.<LE/>
+Daneben aber &#x2014; jenseits des <HYPH1 cont="Gebietes">Ge-</HYPH1><LE/>
+<HYPH2>bietes</HYPH2> pers&#xF6;nlicher Sympathien &#x2014;<LE/>
+wird es ihm stets unvergessen<LE/>
+bleiben: dass er in seinen <HYPH1 cont="Erz&#xE4;hlungen">Er-</HYPH1><LE/>
+<HYPH2>z&#xE4;hlungen</HYPH2> eine Reihe wirklicher<LE/>
+Menschen hingestellt, und dass er<LE/>
+Lieder von tiefer und warmer<LE/>
+Seele und bleibender Sch&#xF6;nheit<LE/>
+geschaffen hat. Liebhaber seiner<LE/>
+Richtung werden das neue Buch<LE/>
+mit Freude, wenn auch nicht mit<LE/>
+Heiterkeit empfangen, und der<LE/>
+lichtere Ausblick, der sich darin<LE/>
+bei allen Eigenheiten seiner auch<LE/>
+hier bewahrten Herbheit er&#xF6;ffnet,<LE/>
+mag zu dem vielleicht bewusst<LE/>
+angedeuteten Wunsche Veranlassung<LE/>
+geben, dass die Bezeichnung des<LE/>
+Buches f&#xFC;r das fernere Wirken<LE/>
+David&#x2019;s symbolisch werde! <AUCTOR><I>W.</I></AUCTOR></P>
+<DIV_END divEndID="deID_2397_00123" startPtr="WR-01-01-02_n0079.xml#//DIV_START[@divStartID='dsID_2397_00125']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2397_00124" startPtr="WR-01-01-02_n0078.xml#//DIV_START[@divStartID='dsID_2397_00122']"/>
+<SEPARATOR type="hr"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2397_00126" endPtr="WR-01-01-02_n0080.xml#//DIV_END[@divEndID='deID_2397_00125']"/>
+<P parID="00527">Herausgeber und verantwortlicher Redacteur: <SPC>Rudolf Strauss</SPC>.</P>
+<P parID="00528">Ch. Reisser &amp; M. Werthner, Wien.</P>
+<DIV_END divEndID="deID_2397_00125" startPtr="WR-01-01-02_n0080.xml#//DIV_START[@divStartID='dsID_2397_00126']"/>
+<DIV_END divEndID="deID_2397_00126" startPtr="WR-01-01-02_n0041.xml#//DIV_START[@divStartID='dsID_2397_00056']"/>
+</PAGE>

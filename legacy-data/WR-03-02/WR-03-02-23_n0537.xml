@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-22_n0536.xml</PREV>
+<NEXT>WR-03-02-23_n0538.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 23, S. 537</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2434_01157" endPtr="WR-03-02-23_n0560.xml#//DIV_END[@divEndID='deID_2434_01180']"/>
+<DIV_START divStartID="dsID_2434_01158" endPtr="WR-03-02-23_n0540.xml#//DIV_END[@divEndID='deID_2434_01160']"/>
+<TITLE titleID="tiID_2434_00265"><TITLEPART type="main"><B>GEDICHTE IN PROSA</B> <HR emDashNum="5" type="doubleInline"/></TITLEPART><LE/>
+<TITLEPART type="bystmt">VON <AUCTOR><B>MAURICE MAETERLINCK</B></AUCTOR><LE/>
+PARIS <HR emDashNum="16" type="doubleInline"/></TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2434_01159" endPtr="WR-03-02-23_n0537.xml#//DIV_END[@divEndID='deID_2434_01157']"/>
+<TITLE titleID="tiID_2434_00266"><TITLEPART>TREIBHAUS.</TITLEPART></TITLE>
+<LG parID="05930"><L>O Treibhaus inmitten des Waldes</L>
+<L>mit deinen stets geschlossnen Th&#xFC;ren <SYMBOL type="3dots"/></L>
+<L>Und was deine Kuppel Alles birgt!</L>
+<L>Dinge, die mich an meine Seele mahnen:</L></LG>
+<LG parID="05931"><L>Die Gedanken einer Prinzessin, die Hunger qu&#xE4;lt,</L>
+<L>die Verzweiflung eines Seemanns in &#xF6;der W&#xFC;ste,</L>
+<L>Trompetenmusik an den Fenstern von unheilbar Kranken.</L></LG>
+<LG parID="05932"><L>Geht in die schw&#xFC;lsten Winkel!</L>
+<L>Dort meint man, es liege ein Weib in Ohnmacht an einem heissen Schnittertag,</L>
+<L>Postillons durchlaufen den Hof des Hospizes;</L>
+<L>fern geht ein Krankenw&#xE4;rter vorbei.</L></LG>
+<LG parID="05933"><L>O seht, seht im Mondenlicht!</L>
+<L>&#x201E;Nichts ist an seinem Platze!&#x201C;</L>
+<L>Man meint, eine Wahnsinnige steht vor den Richtern,</L>
+<L>ein Kriegsschiff passiert, die Segel gebl&#xE4;ht, den Canal,</L>
+<L>Nachtv&#xF6;gel wiegen auf Lilien,</L>
+<L>ein Todtenglockenschlag um Mittag,</L>
+<L>ein Krankenzug in der W&#xFC;ste,</L>
+<L>ein &#xC4;therduft an einem Tag voll brennnender Sonnenglut <SYMBOL type="3dots"/></L></LG>
+<LG parID="05934"><L>Mein Gott, mein Gott, wann kommt Regen,</L>
+<L>Schnee und Wind in das Treibhaus!</L></LG>
+<DIV_END divEndID="deID_2434_01157" startPtr="WR-03-02-23_n0537.xml#//DIV_START[@divStartID='dsID_2434_01159']"/>
+<SEPARATOR type="undefined"/>
+<FT type="pn" num="537" c_text="&#x2014; 537 &#x2014;"/>
+</PAGE>

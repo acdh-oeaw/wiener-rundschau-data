@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0095.xml</PREV>
+<NEXT>WR-01-01-03_n0097.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 96</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00185" endPtr="WR-01-01-03_n0096.xml#//DIV_END[@divEndID='deID_2397_00185']"/>
+<TITLE titleID="tiID_2397_00054"><TITLEPART><SPC>GEDICHT</SPC>.</TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2397_00186" endPtr="WR-01-01-03_n0096.xml#//DIV_END[@divEndID='deID_2397_00184']"/>
+<TITLE titleID="tiID_2397_00055"><TITLEPART>WUNDER.</TITLEPART></TITLE>
+<LG parID="00700"><L><IN>Wunderbar</IN> ist diese Nacht,</L>
+<L>Die mich in dein Haus geladen;</L>
+<L>Wie die fernen W&#xE4;lder baden</L>
+<L>In tiefdunkelblauer Pracht.</L></LG>
+<LG parID="00701"><L>Und du hast das Fenster offen,</L>
+<L>Dass wir alle Wunder schauen <SYMBOL type="3dots"/></L>
+<L>Lass mich deinen Blicken trauen,</L>
+<L>Halte deine Flechten offen.</L></LG>
+<LG parID="00702"><L>Sieh! die Sterne gl&#xFC;hn wie nie!</L>
+<L>Nimm die Alabasterschale,</L>
+<L>Reich&#x2019; sie mir zum Abendmahle &#x2014;</L>
+<L>Diese N&#xE4;chte, f&#xFC;hlst du sie? <SYMBOL type="3dots"/></L></LG>
+<LG parID="00703"><L>Keinen Schleier sollst du tragen;</L>
+<L>Deine Sch&#xF6;nheit will ich k&#xFC;ssen,</L>
+<L>Will sie ganz erkennen m&#xFC;ssen</L>
+<L>Und es dann dem Himmel sagen.</L></LG>
+<LG parID="00704"><L>Gib mir Leben! gib, oh gib!</L>
+<L>Gib mir Wein, dass ich ihn trinke.</L>
+<L>Meine Seele hat dich lieb &#x2014;</L>
+<L>Du mein Traum, drin ich versinke.</L></LG>
+<LG parID="00705"><L>O du weisst nicht, wie das ist,</L>
+<L>Wenn ich so an dir vergehe</L>
+<L>Und nur herrlicher erstehe,</L>
+<L>Wie du dann mein Wunder bist.</L></LG>
+<P parID="00706">Berlin. <AUCTOR><C>Franz Evers</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00184" startPtr="WR-01-01-03_n0096.xml#//DIV_START[@divStartID='dsID_2397_00186']"/>
+<DIV_END divEndID="deID_2397_00185" startPtr="WR-01-01-03_n0096.xml#//DIV_START[@divStartID='dsID_2397_00185']"/>
+</PAGE>

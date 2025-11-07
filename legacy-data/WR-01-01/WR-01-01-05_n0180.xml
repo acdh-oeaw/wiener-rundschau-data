@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0179.xml</PREV>
+<NEXT>WR-01-01-05_n0181.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 180</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">180</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00291" endPtr="WR-01-01-05_n0180.xml#//DIV_END[@divEndID='deID_2397_00287']"/>
+<P parID="01356"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01357"><TAB/>Schliess&#x2019; nicht die Augen, wenn ich dich so k&#xFC;sse <SYMBOL type="3dots"/><LE/>
+Ich will die K&#xFC;sse sehen, die in deinem Herzen zittern; und<LE/>
+all den Thau, der aus deiner Seele quillt <SYMBOL type="3dots"/> uns werden<LE/>
+keine K&#xFC;sse mehr zu theil wie diese <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00287" startPtr="WR-01-01-05_n0180.xml#//DIV_START[@divStartID='dsID_2397_00291']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00292" endPtr="WR-01-01-05_n0180.xml#//DIV_END[@divEndID='deID_2397_00288']"/>
+<P parID="01358"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01359"><TAB/>Immer, immer! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00288" startPtr="WR-01-01-05_n0180.xml#//DIV_START[@divStartID='dsID_2397_00292']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00293" endPtr="WR-01-01-05_n0180.xml#//DIV_END[@divEndID='deID_2397_00289']"/>
+<P parID="01360"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01361"><TAB/>Nein, nein; man k&#xFC;sst kein zweitesmal unter den <HYPH1 cont="Fittichen">Fit-</HYPH1><LE/>
+<HYPH2>tichen</HYPH2> des Todes <SYMBOL type="3dots"/> Wie sch&#xF6;n du bist! <SYMBOL type="3dots"/> Es ist das<LE/>
+erstemal, dass ich dich in der N&#xE4;he sehe <SYMBOL type="3dots"/> Wie eigen, man<LE/>
+glaubt, eins das andere gesehen zu haben, weil man zwei Schritte<LE/>
+weit an einander vor&#xFC;berging; aber Alles verwandelt sich<LE/>
+im Augenblick, da die Lippen sich ber&#xFC;hren <SYMBOL type="3dots"/> So ist es;<LE/>
+ich muss dich gew&#xE4;hren lassen <SYMBOL type="3dots"/> Ich strecke die Arme<LE/>
+aus, um dich zu bewundern, als w&#xE4;rest du nicht mehr mein,<LE/>
+und schliesse dich dann wieder an mich, bis ich deine K&#xFC;sse<LE/>
+f&#xFC;hle und nichts mehr als ewige Seligkeit gewahre <SYMBOL type="3dots"/> Wir<LE/>
+bedurften dieses &#xFC;bernat&#xFC;rlichen Lichtes! <SYMBOL type="3dots"/> <SD>(Er k&#xFC;sst sie wieder.)</SD><LE/>
+Ach! Was thust du? Gib Acht, wir stehen auf dem Grat<LE/>
+eines Felsens, der &#xFC;ber das leuchtende Meer ragt. Tritt<LE/>
+nicht zur&#xFC;ck. Es war hohe Zeit <SYMBOL type="3dots"/> Wende dich nicht zu<LE/>
+rasch um. Ich war geblendet <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00289" startPtr="WR-01-01-05_n0180.xml#//DIV_START[@divStartID='dsID_2397_00293']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00294" endPtr="WR-01-01-05_n0180.xml#//DIV_END[@divEndID='deID_2397_00290']"/>
+<P parID="01362"><SPK><SPC>Alladine</SPC></SPK></P>
+<P parID="01363"><SD>(wendet sich um und betrachtet das blaue Wasser, das sie beleuchtet)</SD>. Oh! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00290" startPtr="WR-01-01-05_n0180.xml#//DIV_START[@divStartID='dsID_2397_00294']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00295" endPtr="WR-01-01-05_n0180.xml#//DIV_END[@divEndID='deID_2397_00291']"/>
+<P parID="01364"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01365"><TAB/>Man k&#xF6;nnte glauben, der Himmel fluthet bis hieher <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00291" startPtr="WR-01-01-05_n0180.xml#//DIV_START[@divStartID='dsID_2397_00295']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00296" endPtr="WR-01-01-05_n0180.xml#//DIV_END[@divEndID='deID_2397_00292']"/>
+<P parID="01366"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01367"><TAB/>Das Wasser ist voll regungsloser Blumen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00292" startPtr="WR-01-01-05_n0180.xml#//DIV_START[@divStartID='dsID_2397_00296']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00297" endPtr="WR-01-01-05_n0180.xml#//DIV_END[@divEndID='deID_2397_00293']"/>
+<P parID="01368"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01369"><TAB/>Es ist voll regungsloser, sonderbarer Blumen <SYMBOL type="3dots"/> Siehst<LE/>
+du die gr&#xF6;sste, die unter den anderen erbl&#xFC;ht? Es scheint,<LE/>
+sie lebt ein rhythmisches Leben <SYMBOL type="3dots"/> Und das Wasser <SYMBOL type="3dots"/><LE/>
+Ist es Wasser? <SYMBOL type="3dots"/> Es scheint sch&#xF6;ner und klarer und blauer<LE/>
+als alles Wasser der Erde <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00293" startPtr="WR-01-01-05_n0180.xml#//DIV_START[@divStartID='dsID_2397_00297']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00298" endPtr="WR-01-01-05_n0180.xml#//DIV_END[@divEndID='deID_2397_00294']"/>
+<P parID="01370"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01371"><TAB/>Ich wage nicht mehr, es anzublicken <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00294" startPtr="WR-01-01-05_n0180.xml#//DIV_START[@divStartID='dsID_2397_00298']"/>
+</PAGE>

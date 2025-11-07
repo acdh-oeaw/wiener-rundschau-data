@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-09_n0331.xml</PREV>
+<NEXT>WR-02-01-09_n0333.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 332</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">332</LTEXT><CTEXT>HOFMANNSTHAL.</CTEXT></HD>
+<LG part="final" parID="02362"><L>Und dann, ein Wirkender, begreif dich selber ehrfurchtsvoll,</L>
+<L>An diesen hast du mehr, als du erfassen kannst. &#x2014;</L>
+<L>Den Wanderliebenden, ich halt ihn l&#xE4;nger nicht, allein</L>
+<L>Der letzten Gl&#xE4;ttung noch bedarf&#x2019;s, die Feile fehlt,</L>
+<L>Ich finde sie und schaffe dir das Letzte noch.</L></LG>
+<DIV_END divEndID="deID_2432_00522" startPtr="WR-02-01-09_n0331.xml#//DIV_START[@divStartID='dsID_2432_00524']"/>
+<P parID="02363"><SD>(Er geht ins Haus.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00525" endPtr="WR-02-01-09_n0332.xml#//DIV_END[@divEndID='deID_2432_00523']"/>
+<P parID="02364"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02365"><L>Dich f&#xFC;hrt wohl nimmermehr der Weg hieher zur&#xFC;ck.</L>
+<L>Hinstampfend durch die hyacinth&#x2019;ne Nacht berauscht</L>
+<L>Vergissest meiner du am Wege, f&#xFC;rcht&#x2019; ich, bald,</L>
+<L>Die deiner, furcht&#x2019; ich, nicht so bald vergessen kann.</L></LG>
+<DIV_END divEndID="deID_2432_00523" startPtr="WR-02-01-09_n0332.xml#//DIV_START[@divStartID='dsID_2432_00525']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00526" endPtr="WR-02-01-09_n0332.xml#//DIV_END[@divEndID='deID_2432_00524']"/>
+<P parID="02366"><SPK><SPC>Der Centaur</SPC></SPK>.</P>
+<LG parID="02367"><L>Du irrst, verdammt von dir zu scheiden, w&#xE4;r&#x2019;s,</L>
+<L>Als schlugen sich die Gitter dr&#xF6;hnend hinter mir</L>
+<L>Von aller Liebe dufterf&#xFC;lltem Garten zu.</L>
+<L>Doch kommst du, wie ich meine, mir Gef&#xE4;hrtin mit,</L>
+<L>So trag&#x2019; ich solchen hohen Reiz als Beute fort,</L>
+<L>Wie nie die hohe Aphrodite ausgegossen hat,</L>
+<L>Die allbelebende auf Meer und wilde Flur.</L></LG>
+<DIV_END divEndID="deID_2432_00524" startPtr="WR-02-01-09_n0332.xml#//DIV_START[@divStartID='dsID_2432_00526']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00527" endPtr="WR-02-01-09_n0332.xml#//DIV_END[@divEndID='deID_2432_00525']"/>
+<P parID="02368"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02369"><L>Wie k&#xF6;nnt&#x2019; ich Gatten, Haus und Kind verlassen hier?</L></LG>
+<DIV_END divEndID="deID_2432_00525" startPtr="WR-02-01-09_n0332.xml#//DIV_START[@divStartID='dsID_2432_00527']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00528" endPtr="WR-02-01-09_n0332.xml#//DIV_END[@divEndID='deID_2432_00526']"/>
+<P parID="02370"><SPK><SPC>Der Centaur</SPC></SPK>.</P>
+<LG parID="02371"><L>Was sorgst du lang, um was du schnell vergessen hast?</L></LG>
+<DIV_END divEndID="deID_2432_00526" startPtr="WR-02-01-09_n0332.xml#//DIV_START[@divStartID='dsID_2432_00528']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00529" endPtr="WR-02-01-09_n0332.xml#//DIV_END[@divEndID='deID_2432_00527']"/>
+<P parID="02372"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02373"><L>Er kommt zur&#xFC;ck, und schnell zerronnen ist der Traum!</L></LG>
+<DIV_END divEndID="deID_2432_00527" startPtr="WR-02-01-09_n0332.xml#//DIV_START[@divStartID='dsID_2432_00529']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00530" endPtr="WR-02-01-09_n0332.xml#//DIV_END[@divEndID='deID_2432_00528']"/>
+<P parID="02374"><SPK><SPC>Der Centaur</SPC></SPK>.</P>
+<LG parID="02375"><L>Mit nichten, da doch Lust und Weg noch offen steht.</L>
+<L>Mit festen Fingern greif mir ins Gelock und klamm&#x2019;re dich,</L>
+<L>Am R&#xFC;cken ruhend, mir an Arm und Nacken an!</L></LG>
+<DIV_END divEndID="deID_2432_00528" startPtr="WR-02-01-09_n0332.xml#//DIV_START[@divStartID='dsID_2432_00530']"/>
+<P parID="02376"><SD>(Sie schwingt sich auf seinen R&#xFC;cken, und er st&#xFC;rmt hell schreiend zum Fluss<LE/>
+hinunter, das Kind erschrickt und bricht in kl&#xE4;gliches Weinen aus. Der Schmied<LE/>
+tritt aus dem Haus. Eben st&#xFC;rzt sich der Centaur in das aufrauschende Wasser<LE/>
+des Flusses. Sein bronzener Oberk&#xF6;rper und die Gestalt der Frau zeichnen sich<LE/>
+scharf auf der abendlich vergoldeten Wasserfl&#xE4;che ab. Der Schmied wird sie<LE/>
+gewahr; in der Hand den Speer des Centauren, l&#xE4;uft er ans Ufer hinab und<LE/>
+schleudert, weit vorgebeugt, den Speer, der mit zitterndem Schaft einen <HYPH1 cont="Augenblick">Augen-</HYPH1><LE/>
+<HYPH2>blick</HYPH2> im R&#xFC;cken der Frau stecken bleibt, bis diese mit einem gellenden Schrei<LE/>
+die Locken des Centauren fahren l&#xE4;sst und mit ausgebreiteten Armen r&#xFC;cklings<LE/>
+ins Wasser st&#xFC;rzt. Der Centaur f&#xE4;ngt die Sterbende in seinen Armen auf und<LE/>
+tr&#xE4;gt sie hocherhoben stromabw&#xE4;rts, dem anderen Ufer zuschwimmend.)</SD></P>
+<P parID="02377"><DATE>1894</DATE>.</P>
+<DIV_END divEndID="deID_2432_00529" startPtr="WR-02-01-09_n0328.xml#//DIV_START[@divStartID='dsID_2432_00503']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-01_n0039.xml</PREV>
+<NEXT>WR-01-01-02_n0041.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 40</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">40</LTEXT><CTEXT>KRITIK.</CTEXT></HD>
+<TABLE parID="00216"><ROW ciID="0122"><CELL>
+<P part="medial" parID="00217"><HYPH2>holt</HYPH2> das Spiel. Auch <SPC>ihr</SPC> dr&#xE4;ngen<LE/>
+die schwarzen Gestalten sich <HYPH1 cont="&#xFC;berall">&#xFC;ber-</HYPH1><LE/>
+<HYPH2>all</HYPH2> auf, auch sie umzingeln und<LE/>
+belagern sie, bis sich dann auch<LE/>
+um <SPC>ihre</SPC> Stirn die d&#xFC;stere Nacht<LE/>
+des Irrsinns breitet. &#x2014; &#x2014; Vor<LE/>
+diesem grandiosen K&#xF6;nner treten</P>
+</CELL><CELL>
+<P part="final" parID="00218">die anderen, von Alex. Brauner sehr<LE/>
+sorgsam &#xFC;bersetzten Autoren weit<LE/>
+zur&#xFC;ck. Selbst Anton Tschechow&#x2019;s<LE/>
+grosse Kunst leuchtet daneben nur<LE/>
+in abgeblassten Farben. Diese<LE/>
+&#xBB;Schatten&#xAB; verdunkeln <SYMBOL type="3dots"/></P>
+<P parID="00219"><I><AUCTOR>Ethel</AUCTOR>.</I></P>
+<DIV_END divEndID="deID_2397_00052" startPtr="WR-01-01-01_n0039.xml#//DIV_START[@divStartID='dsID_2397_00054']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2397_00053" startPtr="WR-01-01-01_n0037.xml#//DIV_START[@divStartID='dsID_2397_00050']"/>
+<SEPARATOR type="hr"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2397_00055" endPtr="WR-01-01-01_n0040.xml#//DIV_END[@divEndID='deID_2397_00054']"/>
+<P parID="00220">Herausgeber und verantwortlicher Redacteur: <SPC>Rudolf Strauss</SPC>.</P>
+<P parID="00221">Ch. Reisser &amp; M. Werthner, Wien.</P>
+<DIV_END divEndID="deID_2397_00054" startPtr="WR-01-01-01_n0040.xml#//DIV_START[@divStartID='dsID_2397_00055']"/>
+<DIV_END divEndID="deID_2397_00055" startPtr="WR-01-01-01_n0001.xml#//DIV_START[@divStartID='dsID_2397_00003']"/>
+</PAGE>

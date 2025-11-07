@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-02_n0080.xml</PREV>
+<NEXT>WR-01-01-03_n0082.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 81</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2397_00127" endPtr="WR-01-01-03_n0120.xml#//DIV_END[@divEndID='deID_2397_00199']"/>
+<DIV_START cat="masthead" divStartID="dsID_2397_00128" endPtr="WR-01-01-03_n0081.xml#//DIV_END[@divEndID='deID_2397_00127']"/>
+<P parID="00529"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00530"><B><DATE>15. <SPC>DECEMBER</SPC>, 1896</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2397_00127" startPtr="WR-01-01-03_n0081.xml#//DIV_START[@divStartID='dsID_2397_00128']"/>
+<DIV_START divStartID="dsID_2397_00129" endPtr="WR-01-01-03_n0087.xml#//DIV_END[@divEndID='deID_2397_00128']"/>
+<TITLE titleID="tiID_2397_00048"><TITLEPART type="main">KIND GOTTES.</TITLEPART><LE/>
+<TITLEPART type="desc">Skizze von <AUCTOR><C>Maria Janitschek</C></AUCTOR> (Berlin).</TITLEPART></TITLE>
+<P parID="00531"><TAB/>Es war im L&#xFC;neburger Haideland.</P>
+<P parID="00532"><TAB/>Weit w&#xF6;lbte sich der Himmel &#xFC;ber dem braunrothen<LE/>
+Boden wie eine ungeheuere, sch&#xFC;tzend ausgebreitete Hand.<LE/>
+Dunkelgr&#xFC;ne Eschengruppen, die hie und da die einf&#xF6;rmige<LE/>
+Fl&#xE4;che unterbrachen, verbargen in ihren Schatten kleine,<LE/>
+wunderliche, strohgedeckte H&#xE4;user. Vor diesen Gelassen,<LE/>
+die man kaum Nachbarh&#xE4;user nennen konnte, weil sie so<LE/>
+weit von einander entfernt lagen, sass die Einsamkeit und<LE/>
+spielte auf unsichtbarer Laute ihr grosses geheimnissvolles<LE/>
+Lied. Die r&#xFC;stigen Arbeiter in der Mitte des Lebens, die<LE/>
+zusehen mussten, Kisten und Truhen zu f&#xFC;llen, und gruben<LE/>
+und harkten und schnitten, hatten nicht Musse, darauf zu<LE/>
+lauschen. Aber die Greise und Kinder, die unth&#xE4;tig vor den<LE/>
+H&#xFC;tten sassen, die vernahmen es und bogen die K&#xF6;pfe vor<LE/>
+wie Horchende und verloren ihre Seelen in der <HYPH1 cont="Unermesslichkeit">Unermess-</HYPH1><LE/>
+<HYPH2>lichkeit</HYPH2> dieses Himmels.</P>
+<P parID="00533"><TAB/>Eine dieser weltfernen Niederlassungen beherbergte<LE/>
+nebst einer bejahrten Familie, deren Kinder schon l&#xE4;ngst<LE/>
+ausgeflogen waren, eine Frau und einen Knaben. Er war<LE/>
+nicht ihr eigener; sie hatte ihn angenommen, damit sie einen<LE/>
+Sohn und er eine Mutter habe. Sp&#xE4;ter merkte sie, dass sie<LE/>
+ihn doch nicht so lieb haben konnte, wie sie es gew&#xFC;nscht<LE/>
+h&#xE4;tte.</P>
+<P parID="00534"><TAB/>Um sich aber immer zu erinnern, dass er, der Vater-<LE/>
+und Mutterlose, besonderer G&#xFC;te und Sorgfalt verdiene, rief<LE/>
+sie ihn statt nach seinem Namen: Kind Gottes.</P>
+</PAGE>

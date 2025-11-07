@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-06_n0140.xml</PREV>
+<NEXT>WR-05-07_n0142.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 7, S. 141</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>18</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_01263" endPtr="WR-05-07_n0158.xml#//DIV_END[@divEndID='deID_2436_01273']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_01264" endPtr="WR-05-07_n0141.xml#//DIV_END[@divEndID='deID_2436_01263']"/>
+<P parID="06400"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="06401"><B>HERAUSGEGEBEN VON FELIX RAPPAPORT</B></P>
+<TABLE parID="06402"><ROW ciID="1042"><CELL>
+<P parID="06403"><DATE><B>1. APRIL 1901</B></DATE></P>
+</CELL><CELL>
+<P parID="06404"><B>V. JAHRGANG, N<SUP>R.</SUP> 7</B></P>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_01263" startPtr="WR-05-07_n0141.xml#//DIV_START[@divStartID='dsID_2436_01264']"/>
+<DIV_START divStartID="dsID_2436_01265" endPtr="WR-05-07_n0146.xml#//DIV_END[@divEndID='deID_2436_01265']"/>
+<TITLE titleID="tiID_2436_00296"><TITLEPART type="main">DER TRACTAT VON NARCISS.</TITLEPART><LE/>
+<TITLEPART>(Theorie des Symbols.)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ANDR&#xC9; GIDE</AUCTOR> (Paris).</TITLEPART><LE/>
+<TITLEPART type="desc">Deutsch von <AUCTOR type="translator">E. R. <SPC>Wei&#xDF;</SPC></AUCTOR>.</TITLEPART></TITLE>
+<TABLE parID="06405"><ROW ciID="1043"><CELL>
+<DIV_START cat="epigraph" divStartID="dsID_2436_01266" endPtr="WR-05-07_n0141.xml#//DIV_END[@divEndID='deID_2436_01264']"/>
+<P parID="06406"><LANG iso="la">Nuper me in littore vidi.</LANG></P>
+<P parID="06407"><AUCTOR>Virgil</AUCTOR>.</P>
+<DIV_END divEndID="deID_2436_01264" startPtr="WR-05-07_n0141.xml#//DIV_START[@divStartID='dsID_2436_01266']"/>
+<P parID="06408"><TAB/>Die B&#xFC;cher sind vielleicht keine <HYPH1 cont="besonders">be-</HYPH1><LE/>
+<HYPH2>sonders</HYPH2> wichtige Sache. Anfangs <HYPH1 cont="gen&#xFC;gten">ge-</HYPH1><LE/>
+<HYPH2>n&#xFC;gten</HYPH2> einige Mythen. Eine ganze <HYPH1 cont="Religion">Reli-</HYPH1><LE/>
+<HYPH2>gion</HYPH2> hieng daran. Das Volk staunte &#xFC;ber<LE/>
+den Schein der Fabeln und betete an,<LE/>
+ohne zu begreifen. Die aufmerksamen<LE/>
+Priester, gebeugt &#xFC;ber den Tiefsinn<LE/>
+der Bilder, durchdrangen langsam den<LE/>
+geheimen Sinn der Hieroglyphen. Dann<LE/>
+wollte man auslegen. Die B&#xFC;cher haben<LE/>
+die Mythen erweitert. &#x2014; Aber einige<LE/>
+Mythen gen&#xFC;gten.</P>
+<P parID="06409"><TAB/>So auch der Mythus von Narciss:<LE/>
+<SPC>Narciss war vollkommen</SPC>, <SPC>sch&#xF6;n</SPC>.<LE/>
+<SPC>Und darum war er keusch</SPC>. <SPC>Er<LE/>
+verschm&#xE4;hte die Nymphen</SPC>, <SPC>weil<LE/>
+er verliebt war in sich selbst</SPC>.<LE/>
+<SPC>Kein Hauch st&#xF6;rte die Quelle</SPC>, <SPC>in<LE/>
+der er</SPC>, <SPC>ruhig und gebeugt</SPC>, <SPC>sein<LE/>
+Bild bewunderte</SPC> <SYMBOL type="3dots"/> &#x2014; Ihr kennt<LE/>
+die Erz&#xE4;hlung. Trotzdem werden wir<LE/>
+sie weiter sagen. Alle Dinge sind schon<LE/>
+gesagt. Aber da niemand zuh&#xF6;rt, muss<LE/>
+man immer wieder von vorn anfangen.</P>
+</CELL><CELL>
+<P parID="06410"><TAB/>Keinen Uferhang und keine Quelle<LE/>
+gibt&#x2019;s mehr. Keine Verwandlung und<LE/>
+keine bewunderte Blume. Nichts, als<LE/>
+den einzigen Narciss, den Tr&#xE4;umer und<LE/>
+sich in Grisaillen Isolierenden. In der<LE/>
+unn&#xFC;tzen Eint&#xF6;nigkeit der Stunde <HYPH1 cont="beunruhigt">be-</HYPH1><LE/>
+<HYPH2>unruhigt</HYPH2> er sich, und sein Ungewisses<LE/>
+Herz befragt sich. Er will endlich <HYPH1 cont="erfahren">er-</HYPH1><LE/>
+<HYPH2>fahren</HYPH2>, was f&#xFC;r eine Form seine Seele<LE/>
+hat. Er f&#xFC;hlt, sie muss &#xFC;ber alles<LE/>
+anbetungsw&#xFC;rdig sein, wenn er sie<LE/>
+nach ihren tiefen Schauern beurtheilt.<LE/>
+Aber sein Gesicht! Sein Bild! Ach!<LE/>
+Nicht zu wissen, ob man sich liebt! <SYMBOL type="3dots"/><LE/>
+Seine Sch&#xF6;nheit nicht zu kennen! Ich<LE/>
+verwirre mich in dieser Landschaft<LE/>
+ohne Linien, die ihren Fl&#xE4;chen nicht<LE/>
+widerspricht. Ach! Sich nicht sehen<LE/>
+k&#xF6;nnen! Ein Spiegel! Ein Spiegel! Ein<LE/>
+Spiegel!</P>
+<P part="initial" parID="06411"><TAB/>Und Narciss, der nicht daran<LE/>
+zweifelt, dass seine Form irgendwo ist,<LE/>
+erhebt sich und geht auf die Suche<LE/>
+nach den erw&#xFC;nschten Contouren, um</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="141" c_text="&#x2014; 141 &#x2014;"/>
+</PAGE>

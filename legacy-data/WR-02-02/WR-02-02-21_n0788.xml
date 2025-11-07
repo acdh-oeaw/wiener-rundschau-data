@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-21_n0787.xml</PREV>
+<NEXT>WR-02-02-21_n0789.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 788</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>9</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2433_00269" endPtr="WR-02-02-21_n0789.xml#//DIV_END[@divEndID='deID_2433_00269']"/>
+<TITLE titleID="tiID_2433_00125"><TITLEPART>GEDICHTE VON <AUCTOR>HUGO VON HOFMANNSTHAL</AUCTOR>.<LE/>
+(Wien.)</TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2433_00270" endPtr="WR-02-02-21_n0788.xml#//DIV_END[@divEndID='deID_2433_00267']"/>
+<TITLE titleID="tiID_2433_00126"><TITLEPART><SPC>VOM SCHIFF AUS</SPC>.</TITLEPART></TITLE>
+<LG parID="01677"><L>Ihr Morgen, da an meines Bettes Rand</L>
+<L>das Licht aus hellen Muschelwolken flog</L>
+<L>und leuchtend, den ich sp&#xE4;ter niemals fand,</L>
+<L>der Felsenpfad sch&#xF6;n in die Weite bog,</L></LG>
+<LG parID="01678"><L>ihr Mittagstunden! grosser dunkler Baum,</L>
+<L>wo seichtes Wachen und ein seichter Schlaf</L>
+<L>mich von mir selber stahl, dass an mein Ohr</L>
+<L>nie der versteckten G&#xF6;tter Anhauch traf!</L></LG>
+<LG parID="01679"><L>ihr Abende, wo ich geneigt vom Strand</L>
+<L>Gespr&#xE4;che suchte, und sich Schultern nicht</L>
+<L>aus Feuchten triefend hoben, und mein Hauch</L>
+<L>verklang im Streit der Schatten mit dem Licht:</L></LG>
+<LG parID="01680"><L>Der geht jetzt fort, der aus des Lebens Hand</L>
+<L>hier keinen Schmerz empfangen und kein Gl&#xFC;ck:</L>
+<L>und l&#xE4;sst auch hier, weil er nicht anders kann,</L>
+<L>von seiner Seele einen Theil zur&#xFC;ck.</L></LG>
+<DIV_END divEndID="deID_2433_00267" startPtr="WR-02-02-21_n0788.xml#//DIV_START[@divStartID='dsID_2433_00270']"/>
+</PAGE>

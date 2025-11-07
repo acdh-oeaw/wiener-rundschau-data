@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0409.xml</PREV>
+<NEXT>WR-03-02-17_n0411.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 410</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: BLAUBART UND ARIANE.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_00969" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00966']"/>
+<P parID="04795"><SPK>MELISANDE</SPK>:</P>
+<P parID="04796"><TAB/>Was thun sie?</P>
+<DIV_END divEndID="deID_2434_00966" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00969']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00970" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00967']"/>
+<P parID="04797"><SPK>DIE AMME</SPK>:</P>
+<P parID="04798"><TAB/>Man sieht nicht genau <SYMBOL type="3dots"/> Sie schlagen sich <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00967" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00970']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00971" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00968']"/>
+<P parID="04799"><SPK>MELISANDE</SPK>:</P>
+<P parID="04800"><TAB/>Sie schreien! Sie schreien! <SYMBOL type="3dots"/> Ich mag die Augen nicht mehr <HYPH1 cont="aufthun">auf-</HYPH1><LE/>
+<HYPH2>thun</HYPH2>.</P>
+<DIV_END divEndID="deID_2434_00968" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00971']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00972" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00969']"/>
+<P parID="04801"><SPK>DIE AMME</SPK>:</P>
+<P parID="04802"><TAB/>Jetzt sehe ich nur noch die Bauern, sie tanzen um etwas herum <SYMBOL type="3dots"/><LE/>
+Alle anderen liegen am Boden.</P>
+<DIV_END divEndID="deID_2434_00969" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00972']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00973" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00970']"/>
+<P parID="04803"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04804"><TAB/>Da ist er, ich habe seinen blauen Mantel gesehen <SYMBOL type="3dots"/> Er liegt auf dem<LE/>
+Rasen.</P>
+<DIV_END divEndID="deID_2434_00970" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00973']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00974" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00971']"/>
+<P parID="04805"><SPK>DIE AMME</SPK>:</P>
+<P parID="04806"><TAB/>Sie sind still geworden <SYMBOL type="3dots"/> Sie heben ihn wieder auf <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00971" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00974']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00975" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00972']"/>
+<P parID="04807"><SPK>MELISANDE</SPK>:</P>
+<P parID="04808"><TAB/>Ob er verwundet ist? <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00972" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00975']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00976" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00973']"/>
+<P parID="04809">YGRAINE<ERR sug=":">.</ERR></P>
+<P parID="04810"><TAB/>Er wankt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00973" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00976']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00977" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00974']"/>
+<P parID="04811"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04812"><TAB/>Ich habe Blut gesehen <SYMBOL type="3dots"/> Er blutet <SYMBOL type="3dots"/> Ariane! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00974" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00977']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00978" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00975']"/>
+<P parID="04813"><SPK>ARIANE</SPK>:</P>
+<P parID="04814"><TAB/>Komm, sieh nicht mehr hin <SYMBOL type="3dots"/> Verbirg Dein Haupt in meinen Armen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00975" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00978']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00979" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00976']"/>
+<P parID="04815"><SPK>DIE AMME</SPK>:</P>
+<P parID="04816"><TAB/>Sie bringen Stricke <SYMBOL type="3dots"/> Er wehrt sich <SYMBOL type="3dots"/> Sie fesseln ihn an H&#xE4;nden<LE/>
+und F&#xFC;ssen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00976" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00979']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00980" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00977']"/>
+<P parID="04817"><SPK>MELISANDE</SPK>:</P>
+<P parID="04818"><TAB/>Wohin gehen sie? Sie tragen ihn <SYMBOL type="3dots"/> Sie tanzen und singen dazu <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00977" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00980']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00981" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00978']"/>
+<P parID="04819"><SPK>DIE AMME</SPK>:</P>
+<P parID="04820"><TAB/>Sie kommen hierher <SYMBOL type="3dots"/> Da <SYMBOL type="3dots"/> schon sind sie auf der Br&#xFC;cke <SYMBOL type="3dots"/><LE/>
+Das Thor ist offen <SYMBOL type="3dots"/> Sie machen Halt <SYMBOL type="3dots"/> Oh, sie wollen ihn in den Graben<LE/>
+werfen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00978" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00981']"/>
+<P parID="04821"><SD>(Ariane und die Frauen schreien wie wahnsinnig auf und beugen sich verzweifelt<LE/>
+zum Fenster hinaus.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00982" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00979']"/>
+<P parID="04822"><SPK>ARIANE</SPK>:</P>
+<P parID="04823"><TAB/>Nein, nein <SYMBOL type="3dots"/> Zu Hilfe <SYMBOL type="3dots"/> T&#xF6;dtet ihn nicht <SYMBOL type="3dots"/> Zu Hilfe! Nein, nein!<LE/>
+Nicht doch! Nicht doch! Kommt, kommt! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00979" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00982']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00983" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00980']"/>
+<P parID="04824"><SPK>DIE AMME</SPK>:</P>
+<P parID="04825"><TAB/>Sie h&#xF6;ren nicht <SYMBOL type="3dots"/> Aber die anderen dr&#xE4;ngen nach <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00980" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00983']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00984" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00981']"/>
+<P parID="04826"><SPK>ARIANE</SPK><LE/>
+<SD>(aufathmend)</SD>:</P>
+<P parID="04827"><TAB/>Er ist gerettet! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00981" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00984']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00985" endPtr="WR-03-02-17_n0410.xml#//DIV_END[@divEndID='deID_2434_00982']"/>
+<P parID="04828"><SPK>DIE AMME</SPK>:</P>
+<P parID="04829"><TAB/>Sie kommen in den Hof <SYMBOL type="3dots"/> Jetzt sind alle im Hofe. H&#xF6;rt Ihr? <SYMBOL type="3dots"/> Sie<LE/>
+sind vor der Hausth&#xFC;r <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00982" startPtr="WR-03-02-17_n0410.xml#//DIV_START[@divStartID='dsID_2434_00985']"/>
+<P parID="04830"><SD>(Rufe in der Menge, da man die Frauen am Fenster erblickt: &#xBB;<SPC>Macht auf</SPC>! <SPC>Macht<LE/>
+auf</SPC>!&#xAB; Dann Gesang.)</SD></P>
+<FT type="pn" num="410" c_text="&#x2014; 410 &#x2014;"/>
+</PAGE>

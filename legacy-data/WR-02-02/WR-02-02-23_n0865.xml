@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-22_n0864.xml</PREV>
+<NEXT>WR-02-02-23_n0866.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 23, S. 865</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>10</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2433_00308" endPtr="WR-02-02-23_n0904.xml#//DIV_END[@divEndID='deID_2433_00323']"/>
+<DIV_START cat="masthead" divStartID="dsID_2433_00309" endPtr="WR-02-02-23_n0865.xml#//DIV_END[@divEndID='deID_2433_00307']"/>
+<P parID="02013"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02014"><B><DATE>15. <SPC>OCTOBER</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2433_00307" startPtr="WR-02-02-23_n0865.xml#//DIV_START[@divStartID='dsID_2433_00309']"/>
+<DIV_START divStartID="dsID_2433_00310" endPtr="WR-02-02-23_n0871.xml#//DIV_END[@divEndID='deID_2433_00308']"/>
+<TITLE titleID="tiID_2433_00156"><TITLEPART type="main">DIE MENSCHLICHE WAHRHEIT &#xDC;BER BISMARCK.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>KARL BLEIBTREU</AUCTOR> (Wilmersdorf bei Berlin).</TITLEPART><LE/>
+<TITLEPART>(Schluss.)</TITLEPART></TITLE>
+<P part="initial" parID="02015"><TAB/>Den Wert einer Meinung verb&#xFC;rgt ihre innere Wahrhaftigkeit.<LE/>
+Wer mit Unwahrheiten hantiert, um seine &#xDC;berzeugung durchzudr&#xFC;cken,<LE/>
+verr&#xE4;th hiermit selbst, auf wie schwachen F&#xFC;ssen sie schwankt. Ein<LE/>
+Patriotismus, der absichtlich die Wahrheit verdunkelt, mag Chauvinismus<LE/>
+sein, dem der Zweck alle Mittel heiligt, eine Tugend aber ist er sicher<LE/>
+nicht. Hier springt uns nun ein ungemein bezeichnender Fall ins<LE/>
+Auge, n&#xE4;mlich die neuesten Enth&#xFC;llungen von Busch &#xFC;ber die Emser<LE/>
+Depesche, die allerdings in der Hauptsache nichts Neues bringen, wohl<LE/>
+aber die Begleitumst&#xE4;nde versch&#xE4;rfen. <LANG iso="fr">C&#x2019;est le ton qui fait la musique.</LANG><LE/>
+Dass die urspr&#xFC;ngliche lange Originaldepesche Abekens eine <LANG iso="fr">&#xBB;Chamade&#xAB;</LANG><LE/>
+und Bismarcks kurze Redigierung eine <LANG iso="fr">&#xBB;Fanfare&#xAB;</LANG> war, wussten wir<LE/>
+schon fr&#xFC;her. Nicht aber wagte man so deutlich festzustellen, dass<LE/>
+der K&#xF6;nig zu jedem Nachgeben, zu &#xBB;einem zweiten Olm&#xFC;tz&#xAB; bereit<LE/>
+schien und dass der Eindruck der Abeken&#x2019;sehen Depesche ein geradezu<LE/>
+niederschmetternder war, den kriegslustigen Moltke nach Anh&#xF6;rung<LE/>
+dieses Schriftst&#xFC;cks gleichsam als hoffnungslosen &#xBB;alten Mann&#xAB; <HYPH1 cont="zusammenschrumpfen">zusammen-</HYPH1><LE/>
+<HYPH2>schrumpfen</HYPH2> liess. Die That Bismarcks ist also einer gewaltigen <HYPH1 cont="Selbstverantwortlichkeit">Selbst-</HYPH1><LE/>
+<HYPH2>verantwortlichkeit</HYPH2> entsprungen; nach solchen Enth&#xFC;llungen wird doppelt<LE/>
+unbegreiflich, wie ernsthafte M&#xE4;nner behaupten konnten, zwischen der<LE/>
+langen k&#xF6;niglichen und der kurzen Bismarck&#x2019;schen Depesche habe kein<LE/>
+wesentlicher Unterschied bestanden. Dass Bismarck selber es anders<LE/>
+auffasste und dass er sich dieser &#xBB;F&#xE4;lschung&#xAB; als einer nationalen<LE/>
+Grossthat ber&#xFC;hmte, zeigt ja eben sein eigenes Ausplaudern der <HYPH1 cont="Wahrheit">Wahr-</HYPH1><LE/>
+<HYPH2>heit</HYPH2>. Denn die ganze Mittheilung dieser ihm so zur Last gelegten<LE/>
+&#xBB;F&#xE4;lschung&#xAB; ist auf ihn selber zur&#xFC;ckzuf&#xFC;hren, und hat er sich &#xFC;ber<LE/>
+die sonstige Tragweite der Enth&#xFC;llung, n&#xE4;mlich Ihn <SPC>allein</SPC> als den</P>
+</PAGE>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-04_n0160.xml</PREV>
+<NEXT>WR-01-01-05_n0162.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 161</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2397_00225" endPtr="WR-01-01-05_n0200.xml#//DIV_END[@divEndID='deID_2397_00343']"/>
+<DIV_START cat="masthead" divStartID="dsID_2397_00226" endPtr="WR-01-01-05_n0161.xml#//DIV_END[@divEndID='deID_2397_00225']"/>
+<P parID="01081"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="01082"><B><DATE>15. <SPC>JANUAR</SPC>, 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2397_00225" startPtr="WR-01-01-05_n0161.xml#//DIV_START[@divStartID='dsID_2397_00226']"/>
+<DIV_START divStartID="dsID_2397_00227" endPtr="WR-01-01-05_n0164.xml#//DIV_END[@divEndID='deID_2397_00226']"/>
+<TITLE titleID="tiID_2397_00083"><TITLEPART type="main">EINE SCHAUSPIELERIN.</TITLEPART><LE/>
+<TITLEPART type="desc">Novelle von <AUCTOR><C>Gabriele Reuter</C></AUCTOR> (M&#xFC;nchen).</TITLEPART></TITLE>
+<P parID="01083"><TAB/>&#xBB;Wie &#x2014;? Was &#x2014;? Verlobt? Die Ridberg und Heller?&#xAB;</P>
+<P parID="01084"><TAB/>&#xBB;Ja &#x2014; es scheint so, Herr Director,&#xAB; antwortete der kleine, ein<LE/>
+wenig verwachsene Komiker. &#xBB;Ich sah sie wenigstens heute Nachmittags<LE/>
+wieder von einem gemeinsamen Spaziergang kommen. Sie f&#xFC;hrte sich<LE/>
+an seinem Arm. Nun &#x2014; und das kann doch bei Fr&#xE4;ulein Ridberg nur<LE/>
+eine Verlobung bedeuten.&#xAB;</P>
+<P parID="01085"><TAB/>&#xBB;Allerdings &#x2014; allerdings!&#xAB; Director Luckner&#x2019;s schwarzer <HYPH1 cont="Zwickelbart">Zwickel-</HYPH1><LE/>
+<HYPH2>bart</HYPH2> zuckte aufgeregt unter seiner stark gebogenen Nase. Er klemmte<LE/>
+nerv&#xF6;s das Monocle ins Auge und starrte nach der Seitencoulisse<LE/>
+hin&#xFC;ber, wo der gefeierte Gast des Abends neben der ersten <HYPH1 cont="Liebhaberin">Lieb-</HYPH1><LE/>
+<HYPH2>haberin</HYPH2> stand.</P>
+<P parID="01086"><TAB/>Zum letztenmal hatte sich eben der Vorhang niedergesenkt.<LE/>
+Aber noch immer klatschten einzelne Begeisterte unerm&#xFC;dlich weiter,<LE/>
+w&#xE4;hrend das Publicum sich rauschend, klappernd, stimmen surrend<LE/>
+entfernte.</P>
+<P parID="01087"><TAB/>Director Luckner suchte seinen Weg zwischen den <HYPH1 cont="Decorationsst&#xFC;cken">Decorations-</HYPH1><LE/>
+<HYPH2>st&#xFC;cken</HYPH2>, die von den Theaterarbeitern mit der ihnen eigenen Hast<LE/>
+fortgerissen wurden, zu den Beiden hin&#xFC;ber. Er pustete in kurzen<LE/>
+Athemz&#xFC;gen.</P>
+<P parID="01088"><TAB/>&#xBB;Dem wird&#x2019;s Gratuliren auch bitter,&#xAB; raunte einer der Leute hinter<LE/>
+ihm, die Anderen lachten verstohlen.</P>
+<P parID="01089"><TAB/>Aber er streckte dem Paar jovial und v&#xE4;terlich die H&#xE4;nde<LE/>
+entgegen.</P>
+<P parID="01090"><TAB/>&#xBB;Sagt mal, Kinder, darf man euch denn wirklich Gl&#xFC;ck w&#xFC;nschen?&#xAB;</P>
+<P part="initial" parID="01091"><TAB/>Sie standen noch im Cost&#xFC;m des Abends, Petruchio und das<LE/>
+widerspenstige K&#xE4;thchen, heiss und erregt von Shakespeare&#x2019;s wildem<LE/>
+Liebesspiel. Herrlich kleidete die &#xFC;ppige Renaissancetracht das M&#xE4;dchen</P>
+</PAGE>

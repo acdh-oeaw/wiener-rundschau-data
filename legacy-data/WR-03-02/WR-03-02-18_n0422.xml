@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-18_n0421.xml</PREV>
+<NEXT>WR-03-02-18_n0423.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 18, S. 422</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2434_01050" endPtr="WR-03-02-18_n0423.xml#//DIV_END[@divEndID='deID_2434_01057']"/>
+<TITLE titleID="tiID_2434_00203"><TITLEPART type="main"><SPC>GEDICHTE</SPC></TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ROBERT WALSER</AUCTOR> (Thun, Schweiz).</TITLEPART></TITLE>
+<SEPARATOR type="asterisk"/>
+<DIV_START type="verse" divStartID="dsID_2434_01051" endPtr="WR-03-02-18_n0422.xml#//DIV_END[@divEndID='deID_2434_01049']"/>
+<TITLE titleID="tiID_2434_00204"><TITLEPART>HELLE.</TITLEPART></TITLE>
+<LG parID="05010"><L>Graue Tage, wo die Sonne</L>
+<L>Sich wie eine blasse Nonne</L>
+<L>Hat geberdet, sind nun hin.</L>
+<L>Blauer Tag steht blau da oben,</L>
+<L>Eine Welt ist frei erhoben,</L>
+<L>Sonn&#x2019; und Sterne blitzen drin.</L>
+<L>Alles das vollzog sich stille,</L>
+<L>Ohne L&#xE4;rm, als grosser Wille,</L>
+<L>Der nicht Federlesens macht.</L>
+<L>L&#xE4;chelnd &#xF6;ffnet sich das Wunder,</L>
+<L>Nicht Raketen und nicht Zunder</L>
+<L>Braucht&#x2019;s dazu, nur klare Nacht.</L></LG>
+<DIV_END divEndID="deID_2434_01049" startPtr="WR-03-02-18_n0422.xml#//DIV_START[@divStartID='dsID_2434_01051']"/>
+<TABLE parID="05011"><ROW ciID="0723"><CELL>
+<DIV_START type="verse" divStartID="dsID_2434_01052" endPtr="WR-03-02-18_n0422.xml#//DIV_END[@divEndID='deID_2434_01050']"/>
+<TITLE titleID="tiID_2434_00205"><TITLEPART>ZU PHILOSOPHISCH.</TITLEPART></TITLE>
+<LG parID="05012"><L>Wie geisterhaft im Sinken</L>
+<L>Und Steigen ist mein Leben.</L>
+<L>Stets seh&#x2019; ich mich mir winken,</L>
+<L>Dem Winkenden entschweben.</L></LG>
+<LG parID="05013"><L>Ich seh&#x2019; mich als Gel&#xE4;chter,</L>
+<L>Als tiefe Trauer wieder,</L>
+<L>Als w&#xFC;sten Redeflechter,</L>
+<L>Doch alles dies sinkt nieder.</L></LG>
+<LG parID="05014"><L>Und ist zu allen Zeiten</L>
+<L>Doch niemals recht gewesen.</L>
+<L>Ich bin vergessne Weiten</L>
+<L>Zu wandern auserlesen.</L></LG>
+<DIV_END divEndID="deID_2434_01050" startPtr="WR-03-02-18_n0422.xml#//DIV_START[@divStartID='dsID_2434_01052']"/>
+</CELL><CELL>
+<DIV_START type="verse" divStartID="dsID_2434_01053" endPtr="WR-03-02-18_n0422.xml#//DIV_END[@divEndID='deID_2434_01051']"/>
+<TITLE titleID="tiID_2434_00206"><TITLEPART>ENTT&#xC4;USCHUNG.</TITLEPART></TITLE>
+<LG parID="05015"><L>Ich habe so lang</L>
+<L>Gewartet auf s&#xFC;sse</L>
+<L>T&#xF6;ne und Gr&#xFC;sse &#x2014;</L>
+<L>Nur einen Klang.</L></LG>
+<LG parID="05016"><L>Nun ist mir bang.</L>
+<L>Nicht T&#xF6;ne und Klingen,</L>
+<L>Nur Nebel dringen</L>
+<L>Im &#xDC;berschwang.</L></LG>
+<LG parID="05017"><L>Was heimlich sang</L>
+<L>In dunkler Lauer:</L>
+<L>Vers&#xFC;sse mir Trauer</L>
+<L>Jetzt schweren Gang.</L></LG>
+<DIV_END divEndID="deID_2434_01051" startPtr="WR-03-02-18_n0422.xml#//DIV_START[@divStartID='dsID_2434_01053']"/>
+</CELL></ROW></TABLE>
+<DIV_START type="verse" divStartID="dsID_2434_01054" endPtr="WR-03-02-18_n0422.xml#//DIV_END[@divEndID='deID_2434_01052']"/>
+<TITLE titleID="tiID_2434_00207"><TITLEPART>UND GIENG.</TITLEPART></TITLE>
+<LG parID="05018"><L>Er schwenkte leise seinen Hut</L>
+<L>Und gieng, heisst es vom Wandersmann.</L>
+<L>Er riss die Bl&#xE4;tter von dem Baum</L>
+<L>Und gieng, heisst es vom rauhen Herbst.</L>
+<L>Sie theilte l&#xE4;chelnd Gnaden aus</L>
+<L>Und gieng, heisst&#x2019;s von der Majest&#xE4;t.</L>
+<L>Es klopfte n&#xE4;chtlich an die Th&#xFC;r</L>
+<L>Und gieng, heisst es vom Herzeleid.</L>
+<L>Er zeigte weinend auf sein Herz</L>
+<L>Und gieng, heisst es vom armen Mann.</L></LG>
+<DIV_END divEndID="deID_2434_01052" startPtr="WR-03-02-18_n0422.xml#//DIV_START[@divStartID='dsID_2434_01054']"/>
+<FT type="pn" num="422" c_text="&#x2014; 422 &#x2014;"/>
+</PAGE>

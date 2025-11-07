@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-00_i0006.xml</PREV>
+<NEXT>WR-01-02-13_n0482.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 13, S. 481</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2398_00003" endPtr="WR-01-02-13_n0520.xml#//DIV_END[@divEndID='deID_2398_00024']"/>
+<DIV_START cat="masthead" divStartID="dsID_2398_00004" endPtr="WR-01-02-13_n0481.xml#//DIV_END[@divEndID='deID_2398_00003']"/>
+<P parID="00005"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00006"><B><DATE>15. <SPC>MAI</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2398_00003" startPtr="WR-01-02-13_n0481.xml#//DIV_START[@divStartID='dsID_2398_00004']"/>
+<DIV_START author="(other)" divStartID="dsID_2398_00005" endPtr="WR-01-02-13_n0481.xml#//DIV_END[@divEndID='deID_2398_00004']"/>
+<TITLE titleID="tiID_2398_00008"><TITLEPART><SPC>AUFRUF</SPC>!</TITLEPART></TITLE>
+<P parID="00007"><TAB/>Der Dichter <SPC>Detlev</SPC> v. <SPC>Liliencron</SPC> begeht n&#xE4;chstens seinen<LE/>
+54. Geburtstag, ohne dass es ihm bis jetzt gelungen ist, sich durch<LE/>
+seine Schriften ein ihrer Bedeutung angemessenes, sorgenfreies Dasein<LE/>
+zu verschaffen. Die unterzeichneten K&#xFC;nstler und Kunstfreunde, deren<LE/>
+Blick sich auf das Lichtvolle dieser Erscheinung richtet, halten es f&#xFC;r<LE/>
+eine <SPC>Ehrenpflicht Deutschlands</SPC>, einem Dichter, der wie kaum ein<LE/>
+anderer deutsche Lebenslust und Thatkraft in seinen Werken <HYPH1 cont="verk&#xF6;rpert">ver-</HYPH1><LE/>
+<HYPH2>k&#xF6;rpert</HYPH2> hat, ein verbittertes Alter zu ersparen. Es ergeht hiemit der<LE/>
+Aufruf, <SPC>allgemein nach bestem Verm&#xF6;gen</SPC> dazu beizusteuern, dass<LE/>
+ihm (in Form einer Leibrente oder sonstwie) seine stete <HYPH1 cont="wirthschaftliche">wirthschaft-</HYPH1><LE/>
+<HYPH2>liche</HYPH2> Sorge abgenommen und sein ferneres Schaffen erleichtert werden<LE/>
+kann. Zur Entgegennahme von Beitr&#xE4;gen ist die Gesch&#xE4;ftsstelle des<LE/>
+mitunterzeichneten Herrn <SPC>Consuls Auerbach</SPC> (<SPC>Berlin</SPC> W., <HYPH1 cont="Taubenstrasse"><SPC>Tauben</SPC>-</HYPH1><LE/>
+<HYPH2><SPC>strasse</SPC></HYPH2> 20) bereit; die Einzahlungen wolle man mit der Bemerkung<LE/>
+&#xBB;<SPC>f&#xFC;r die Liliencron-Stiftung</SPC>&#xAB; versehen. Nach Schluss der <HYPH1 cont="Sammlung">Samm-</HYPH1><LE/>
+<HYPH2>lung</HYPH2>, sp&#xE4;testens am <DATE><B>1</B>. October d. J.</DATE>, wird an alle Beitraggeber als<LE/>
+Quittung eine alphabetische Namensliste (auf Wunsch nur mit Nennung<LE/>
+der Anfangsbuchstaben) nebst beigedruckter Angabe der einzelnen<LE/>
+Betr&#xE4;ge versandt, zugleich auch &#xFC;ber die Verwendungsart der ganzen<LE/>
+Summe berichtet werden.</P>
+<P parID="00008">L. <SPC>Auerbach</SPC>, Hermann <SPC>Bahr</SPC>, Wilhelm <SPC>Bode</SPC>, E. Freih. v. <HYPH1 cont="Bodenhausen"><SPC>Boden</SPC>-</HYPH1><LE/>
+<HYPH2><SPC>hausen</SPC></HYPH2>, A. <SPC>B&#xF6;cklin</SPC>, R. <SPC>Dehmel</SPC>, Marie v. <SPC>Ebner-Eschenbach</SPC>,<LE/>
+Th. <SPC>Fontane</SPC>, E. M. <SPC>Geyger</SPC>, Klaus <SPC>Groth</SPC>, Gerhart <SPC>Hauptmann</SPC>,<LE/>
+K. v. d. <SPC>Heydt</SPC>, G. <SPC>Hirth</SPC>, H. Graf v. <SPC>Kessler</SPC>, M. <SPC>Klinger</SPC>,<LE/>
+A. <SPC>Lichtwark</SPC>, Max <SPC>Liebermann</SPC>, Rud. <SPC>Maison</SPC>, A. A. <SPC>Oberl&#xE4;nder</SPC>,<LE/>
+Wilh. <SPC>Raabe</SPC>, Emanuel <SPC>Reicher</SPC>, W. v. <SPC>Seidlitz</SPC>, Richard <SPC>Strauss</SPC>,<LE/>
+Hans <SPC>Thoma</SPC>, F. v. <SPC>Uhde</SPC>.</P>
+<DIV_END divEndID="deID_2398_00004" startPtr="WR-01-02-13_n0481.xml#//DIV_START[@divStartID='dsID_2398_00005']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

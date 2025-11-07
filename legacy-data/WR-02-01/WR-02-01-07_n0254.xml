@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-07_n0253.xml</PREV>
+<NEXT>WR-02-01-07_n0255.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 254</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2432_00461" endPtr="WR-02-01-07_n0254.xml#//DIV_END[@divEndID='deID_2432_00460']"/>
+<TITLE titleID="tiID_2432_00090"><TITLEPART>IM GARTEN.</TITLEPART></TITLE>
+<LG parID="01858"><L><IN>Sie</IN> kam heraus zu mir</L>
+<L>In ihrem hellen Morgenkleide</L>
+<L>Und reichte mir die Hand.</L></LG>
+<LG parID="01859"><L>Die war so krank wie Seide.</L></LG>
+<LG parID="01860"><L>Ich sah sie l&#xE4;chelnd an, dann ernst.</L>
+<L>Ihr Schritt war zart und schlank</L>
+<L>Und that den kleinen Blumen nichts zu Leide.</L></LG>
+<LG parID="01861"><L>Ein Morgenglockensang</L>
+<L>Erbebte fernst.</L>
+<L>Wir schwiegen beide.</L></LG>
+<LG parID="01862"><L>Mir ward dabei im tiefen Herzen bang,</L>
+<L>Ich musste um mich blicken, ob denn Fr&#xFC;hling sei?</L>
+<L>Der Herbst lag auf dem Land,</L>
+<L>Die Sonnenstrahlen sanken m&#xFC;de auf den Sand.</L></LG>
+<LG parID="01863"><L>Es war nicht Mai.</L></LG>
+<P parID="01864">M&#xFC;nchen. <AUCTOR><C>Arthur Holitscher</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2432_00460" startPtr="WR-02-01-07_n0254.xml#//DIV_START[@divStartID='dsID_2432_00461']"/>
+</PAGE>

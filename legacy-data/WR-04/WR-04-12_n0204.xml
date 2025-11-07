@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0203.xml</PREV>
+<NEXT>WR-04-12_n0205.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 204</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2436_00567" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00564']"/>
+<P parID="02834"><TAB/><SPK>HERODES</SPK>: Und dann, der Ausbau des Tempels, von dem sie soviel geredet<LE/>
+haben, wird da etwas geschehen? Sie sagen, der Vorhang zum Allerheiligsten sei<LE/>
+verschwunden, nicht wahr?</P>
+<DIV_END divEndID="deID_2436_00564" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00567']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00568" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00565']"/>
+<P parID="02835"><TAB/><SPK>HERODIAS</SPK>: Du hast ihn selber gestohlen. Du schwatzest in den Tag hinein<LE/>
+und sinnloses Zeug. Ich will nicht hierbleiben. Wir wollen hineingehen.</P>
+<DIV_END divEndID="deID_2436_00565" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00568']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00569" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00566']"/>
+<P parID="02836"><TAB/><SPK>HERODES</SPK>: Tanz&#x2019; f&#xFC;r mich, Salome.</P>
+<DIV_END divEndID="deID_2436_00566" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00569']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00570" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00567']"/>
+<P parID="02837"><TAB/><SPK>HERODIAS</SPK>: Ich will nicht haben, dass sie tanze.</P>
+<DIV_END divEndID="deID_2436_00567" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00570']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00571" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00568']"/>
+<P parID="02838"><TAB/><SPK>SALOME</SPK>: Ich habe keine Lust zu tanzen, Tetrarch.</P>
+<DIV_END divEndID="deID_2436_00568" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00571']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00572" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00569']"/>
+<P parID="02839"><TAB/><SPK>HERODES</SPK>: Salome, Tochter der Herodias, tanz&#x2019; f&#xFC;r mich.</P>
+<DIV_END divEndID="deID_2436_00569" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00572']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00573" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00570']"/>
+<P parID="02840"><TAB/><SPK>HERODIAS</SPK>: Sei still! Lass&#x2019; sie in Frieden.</P>
+<DIV_END divEndID="deID_2436_00570" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00573']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00574" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00571']"/>
+<P parID="02841"><TAB/><SPK>HERODES</SPK>: Ich befehle dir zu tanzen, Salome.</P>
+<DIV_END divEndID="deID_2436_00571" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00574']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00575" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00572']"/>
+<P parID="02842"><TAB/><SPK>SALOME</SPK>: Ich will nicht tanzen, Tetrarch.</P>
+<DIV_END divEndID="deID_2436_00572" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00575']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00576" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00573']"/>
+<P parID="02843"><TAB/><SPK>HERODIAS</SPK> <SD>(lachend)</SD>: Du siehst, wie sie dir gehorcht.</P>
+<DIV_END divEndID="deID_2436_00573" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00576']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00577" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00574']"/>
+<P parID="02844"><TAB/><SPK>HERODES</SPK>: Was k&#xFC;mmert es mich, ob sie tanzt oder nicht? Das gilt mir<LE/>
+gleich. Heut&#x2019; Nacht bin ich gl&#xFC;cklich. Ich bin ausnehmend gl&#xFC;cklich. Ich bin nie<LE/>
+so gl&#xFC;cklich gewesen. <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_00574" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00577']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00578" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00575']"/>
+<P parID="02845"><TAB/><SPK>ERSTER SOLDAT</SPK>: Der Tetrarch blickt finster drein. Sieht er nicht<LE/>
+finster drein?</P>
+<DIV_END divEndID="deID_2436_00575" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00578']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00579" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00576']"/>
+<P parID="02846"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Ja, er sieht finster drein.</P>
+<DIV_END divEndID="deID_2436_00576" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00579']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00580" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00577']"/>
+<P parID="02847"><TAB/><SPK>HERODES</SPK>: Warum sollte ich nicht gl&#xFC;cklich sein? C&#xE4;sar, der der Herr der<LE/>
+Welt ist, C&#xE4;sar, der der Herr &#xFC;ber alles ist, liebt mich gar sehr. Er hat mir<LE/>
+h&#xF6;chst kostbare Geschenke &#xFC;bersandt. Auch hat er mir versprochen, den K&#xF6;nig von<LE/>
+Cappadocien, der mein Feind ist, nach Rom vorzuladen. Kann sein, dass er ihn in<LE/>
+Rom ans Kreuz schlagen l&#xE4;sst, denn er ist imstande, alles zu thun, wonach ihm<LE/>
+der Sinn steht. C&#xE4;sar ist in Wahrheit ein Herr. Drum thue ich wohl daran,<LE/>
+gl&#xFC;cklich zu sein. Ich bin sehr gl&#xFC;cklich, nie bin ich so gl&#xFC;cklich gewesen. Nichts<LE/>
+in der Welt kann mein Gl&#xFC;ck st&#xF6;ren.</P>
+<DIV_END divEndID="deID_2436_00577" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00580']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00581" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00578']"/>
+<P parID="02848"><TAB/><SPK>DIE STIMME DES JOCHANAAN</SPK>: Er wird auf seinem Throne sitzen. Er wird<LE/>
+gekleidet sein in Scharlach und Purpur. In seiner Hand wird er einen goldenen<LE/>
+Becher halten, der voll ist seiner L&#xE4;sterungen. Und der Engel des Herrn wird ihn<LE/>
+darniederschlagen. Er wird von den W&#xFC;rmern gefressen werden.</P>
+<DIV_END divEndID="deID_2436_00578" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00581']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00582" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00579']"/>
+<P parID="02849"><TAB/><SPK>HERODIAS</SPK>: Du h&#xF6;rst, was er &#xFC;ber dich sagt. Er sagt, du wirst von den<LE/>
+W&#xFC;rmern gefressen werden.</P>
+<DIV_END divEndID="deID_2436_00579" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00582']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00583" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00580']"/>
+<P parID="02850"><TAB/><SPK>HERODES</SPK>: Er spricht nicht von mir. Er spricht nie gegen mich. Er spricht<LE/>
+von dem K&#xF6;nig von Cappadocien, der mein Feind ist. Der wird von den W&#xFC;rmern<LE/>
+gefressen werden. Ich bin es nicht. Nie hat er ein Wort gegen mich gesprochen,<LE/>
+dieser Prophet, au&#xDF;er, dass ich s&#xFC;ndigte, als ich das Weib meines Bruders zum Weibe<LE/>
+nahm. Kann sein, er hat recht. Denn in der That, du bist unfruchtbar.</P>
+<DIV_END divEndID="deID_2436_00580" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00583']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00584" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00581']"/>
+<P parID="02851"><TAB/><SPK>HERODIAS</SPK>: Ich bin unfruchtbar, ich? Das sagst du, du, der fortw&#xE4;hrend<LE/>
+meine Tochter ansieht, du, der sich an ihrem Tanze weiden m&#xF6;chte? Du sprichst<LE/>
+wie ein Narr. Ich habe ein Kind geboren. Du hast kein Kind gezeugt, nein, nicht<LE/>
+mit einer einzigen deiner Sclavinnen. An dir liegt es, nicht an mir!</P>
+<DIV_END divEndID="deID_2436_00581" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00584']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00585" endPtr="WR-04-12_n0204.xml#//DIV_END[@divEndID='deID_2436_00582']"/>
+<P parID="02852"><TAB/><SPK>HERODES</SPK>: Still, Weib! Ich sage, du bist unfruchtbar. Du hast mir kein<LE/>
+Kind geboren, und der Prophet sagt, dass unsere Ehe keine rechte Ehe ist. Er<LE/>
+sagt, dass es eine Ehe der Blutschande ist, eine Ehe, die Unheil bringen wird <SYMBOL type="3dots"/><LE/>
+Ich f&#xFC;rchte, er hat recht; es ist mir sicher, dass er recht hat. Aber es ist nicht<LE/>
+die Stunde, von diesen Dingen <SPAN pos="2" type="turnedType">zu</SPAN> sprechen. Ich m&#xF6;chte gl&#xFC;cklich sein heute. <HYPH1 cont="Wahrhaftig">Wahr-</HYPH1><LE/>
+<HYPH2>haftig</HYPH2>, ich bin gl&#xFC;cklich. Es gibt nichts, was ich misse.</P>
+<DIV_END divEndID="deID_2436_00582" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00585']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00586" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00583']"/>
+<P part="initial" parID="02853"><TAB/><SPK>HERODIAS</SPK>: Ich bin froh, dass du heut&#x2019; Nacht so gutgelaunt bist. Es kommt<LE/>
+nicht oft vor bei dir. Aber es ist sp&#xE4;t. Wir wollen hineingehen. Vergiss nicht,</P>
+<FT type="pn" num="204" c_text="&#x2014; 204 &#x2014;"/>
+</PAGE>

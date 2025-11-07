@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-11_n0420.xml</PREV>
+<NEXT>WR-01-01-11_n0422.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 421</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00538" endPtr="WR-01-01-11_n0426.xml#//DIV_END[@divEndID='deID_2397_00539']"/>
+<TITLE titleID="tiID_2397_00166"><TITLEPART type="main"><SPC>THOMAS THEODOR HEINE</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Alfred Neumann</C></AUCTOR> (Wien).</TITLEPART></TITLE>
+<DIV_START cat="epigraph" type="verse" divStartID="dsID_2397_00539" endPtr="WR-01-01-11_n0421.xml#//DIV_END[@divEndID='deID_2397_00537']"/>
+<LG parID="03010"><LANG iso="fr"><L><SYMBOL type="3dots"/> Sache qu&#x2019;il faut aimer, sans faire la grimace,</L>
+<L>Le pauvre, le m&#xE9;chant, le tortu, l&#x2019;h&#xE9;b&#xE9;t&#xE9; <SYMBOL type="3dots"/></L></LANG></LG>
+<P parID="03011"><I><SOURCE><AUCTOR>Baudelaire</AUCTOR>, <LANG iso="fr">Le Rebelle</LANG></SOURCE>.</I></P>
+<DIV_END divEndID="deID_2397_00537" startPtr="WR-01-01-11_n0421.xml#//DIV_START[@divStartID='dsID_2397_00539']"/>
+<P parID="03012"><TAB/>Noch vor drei Jahren w&#xE4;re die Frage &#xBB;Wer ist Thomas Theodor<LE/>
+Heine?&#xAB; entweder mit einem Achselzucken oder von Eingeweihteren mit<LE/>
+dem wenig sagenden Satze beantwortet worden: &#xBB;Ein Mitarbeiter der<LE/>
+&#x201A;Fliegenden Bl&#xE4;tter&#x2018;, wie Schlittgen, Albrecht, Zopf <SYMBOL type="3dots"/>&#xAB; Heute liegt die<LE/>
+Sache anders: Der M&#xFC;nchener Maler ist eine Pers&#xF6;nlichkeit geworden;<LE/>
+in seinen Arbeiten spiegelt sich nicht bloss seine inzwischen entwickelte<LE/>
+und stark ausgepr&#xE4;gte Individualit&#xE4;t wieder, sondern heute vertritt<LE/>
+Heine mit seinen Skizzen und seinen einfachen, wenig auf technische<LE/>
+Effecte abzielenden Gem&#xE4;lden auch den Typus, den unsere Zeit <HYPH1 cont="hervorgebracht">hervor-</HYPH1><LE/>
+<HYPH2>gebracht</HYPH2> hat und auf allen Gebieten der Kunst hervorbringen musste,<LE/>
+den gereizten, ideenverfolgten K&#xFC;nstler, der mit offenen Augen auf eine<LE/>
+vernagelte Bretterbude sieht und der nun mit grellem, oft diabolischem<LE/>
+Lachen ans Tageslicht zerrt, was sich in dem unbestimmten <LANG iso="fr"><HYPH1 cont="clair-obscur">clair-</HYPH1><LE/>
+<HYPH2>obscur</HYPH2></LANG> des modernen Banausenthums verstecken, die <LANG iso="fr">c&#xF4;t&#xE9;s faibles</LANG> <HYPH1 cont="verbergen">ver-</HYPH1><LE/>
+<HYPH2>bergen</HYPH2> will; in der Oeffentlichkeit secirt und legt er alles Kranke mit<LE/>
+seinem Skalpell, mit seinem scharfen, unbarmherzigen Pinsel bloss,<LE/>
+dass es offen und blutig daliegt zur Freude aller Misanthropen.<LE/>
+Wie Heine zu diesem Umschwunge kam, liesse sich nicht so leicht<LE/>
+sagen; er selbst schrieb mir einmal dar&#xFC;ber: &#xBB;Sie wundern sich &#xFC;ber<LE/>
+den Unterschied zwischen meinen jetzigen Zeichnungen und denen, die<LE/>
+ich fr&#xFC;her in anderen Bl&#xE4;ttern ver&#xF6;ffentlicht habe? Das kam daher,<LE/>
+dass die &#x2014; fr&#xFC;heren Bl&#xE4;tter mir gar keine k&#xFC;nstlerische und sonstige<LE/>
+Freiheit liessen, wie sich dieses Journal &#xFC;berhaupt ganz <HYPH1 cont="irrigerweise">irriger-</HYPH1><LE/>
+<HYPH2>weise</HYPH2> des Rufes erfreut, von k&#xFC;nstlerischen Gesichtspunkten geleitet zu<LE/>
+werden <SYMBOL type="3dots"/> Ich habe in D&#xFC;sseldorf bei Peter Jansen studirt; die meisten<LE/>
+Anregungen verdanke ich den Bildern von Lucas Cranach, Max Klinger<LE/>
+und Leibl. Gegen die &#x201A;Schotten&#x2018; sowie gegen die franz&#xF6;sischen s&#xFC;ssen<LE/>
+Actmaler habe ich eine starke Abneigung. Auch finde ich, dass man<LE/>
+nicht gar so schw&#xFC;lstig von der Kunst der Japaner zu sprechen braucht,<LE/>
+da viele der primitiven, altdeutschen Meister dieselbe einfache Technik<LE/>
+mit weniger Koketterie besitzen <SYMBOL type="3dots"/>&#xAB;</P>
+<P part="initial" parID="03013"><TAB/>Wenn man eines der vielen Bilder betrachtet, die Heine geradezu<LE/>
+im Fluge, von Woche zu Woche in die Welt sendet, theils aus eigener<LE/>
+Anschauung entstanden, theils fremder Anregung verdankt, so dr&#xE4;ngt<LE/>
+sich gar bald die Ueberzeugung auf, dass alle, wenn auch im ersten<LE/>
+Momente von ihnen manche harmlos scheinen, den einen Zug gemeinsam</P>
+</PAGE>

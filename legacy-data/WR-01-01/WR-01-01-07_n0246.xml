@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-07_n0245.xml</PREV>
+<NEXT>WR-01-01-07_n0247.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 7, S. 246</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00425" endPtr="WR-01-01-07_n0246.xml#//DIV_END[@divEndID='deID_2397_00424']"/>
+<TITLE titleID="tiID_2397_00108"><TITLEPART><SPC>HERBSTKLAGE</SPC>.</TITLEPART></TITLE>
+<LG parID="01965"><L>Bald schl&#xE4;gt das Dunkel &#xFC;ber uns zusammen,</L>
+<L>Leb&#x2019; wohl, du allzu kurzer Sommertraum!</L>
+<L>Ich h&#xF6;re trockne Bl&#xE4;tter d&#xFC;ster raschelnd</L>
+<L>Zu Boden sinken vom entlaubten Baum.</L></LG>
+<LG parID="01966"><L>Der Winter will in mir den Einzug halten:</L>
+<L>Der Hass, die Angst und aufgezwungne Pflicht &#x2014;</L>
+<L>Ja, der Polarwelt blutigrother Sonne</L>
+<L>Gleicht meines Herzens w&#xE4;rmeloses Licht.</L></LG>
+<LG parID="01967"><L>Mit Schaudern lausche ich der Bl&#xE4;tter Rauschen,</L>
+<L>Des Henkers Beil klingt nicht so f&#xFC;rchterlich <SYMBOL type="4dots"/></L>
+<L>Mein Geist gleicht, ach, dem wankenden Palaste,</L>
+<L>Der z&#xF6;gernd nur der Macht des Sturmbocks wich.</L></LG>
+<LG parID="01968"><L>Es st&#xF6;hnt in mir dies monoton Get&#xF6;ne,</L>
+<L>Wie S&#xE4;rgezimmern in des Hauses Flur &#x2014;</L>
+<L>F&#xFC;r wen? &#x2014; Dem Sommer gestern, heut&#x2019; dem Herbste!</L>
+<L>Ein Abschiednehmen geht durch die Natur <SYMBOL type="6dots"/></L></LG>
+<P parID="01969">Paris. <AUCTOR><C>Charles Baudelaire</C></AUCTOR>.</P>
+<P parID="01970">Deutsch von <AUCTOR type="translator"><C>Alfred Neumann</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00424" startPtr="WR-01-01-07_n0246.xml#//DIV_START[@divStartID='dsID_2397_00425']"/>
+</PAGE>

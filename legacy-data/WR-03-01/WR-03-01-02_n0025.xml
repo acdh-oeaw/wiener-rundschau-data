@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-01_n0024.xml</PREV>
+<NEXT>WR-03-01-02_n0026.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 2, S. 25</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2434_00091" endPtr="WR-03-01-02_n0052.xml#//DIV_END[@divEndID='deID_2434_00263']"/>
+<DIV_START type="performance" divStartID="dsID_2434_00092" endPtr="WR-03-01-02_n0029.xml#//DIV_END[@divEndID='deID_2434_00185']"/>
+<TITLE titleID="tiID_2434_00016"><TITLEPART type="main">DIE SCHL&#xDC;SSEL DES HIMMELREICHS oder: SANCT PETERS<LE/>
+WANDERUNG AUF ERDEN.</TITLEPART><LE/>
+<TITLEPART type="desc">M&#xE4;rchenspiel in f&#xFC;nf Acten von <AUCTOR><SPC>AUGUST STRINDBERG</SPC></AUCTOR>.<LE/>
+Autorisierte &#xDC;bersetzung aus dem Schwedischen von <AUCTOR type="translator">ERICH HOLM</AUCTOR>.</TITLEPART></TITLE>
+<P parID="00371">(Den B&#xFC;hnen gegen&#xFC;ber als Manuscript gedruckt.)</P>
+<P parID="00372">(Fortsetzung.)</P>
+<TABLE parID="00373"><ROW ciID="0304"><CELL>
+<DIV_START cat="act" divStartID="dsID_2434_00093" endPtr="WR-03-01-02_n0029.xml#//DIV_END[@divEndID='deID_2434_00184']"/>
+<TITLE titleID="tiID_2434_00017"><TITLEPART>Zweiter Act.</TITLEPART></TITLE>
+<P parID="00374"><SD>(Der Hof eines Gasthauses. Zur Linken und<LE/>
+Rechten von Baulichkeiten eingeschlossen, im<LE/>
+Hintergrunde von einer Mauer mit grossem<LE/>
+Einfahrtsthore begrenzt. Im Tracte rechts die<LE/>
+Schenke, links Kuh- und Pferdest&#xE4;lle, <HYPH1 cont="Wagenschuppen">Wagen-</HYPH1><LE/>
+<HYPH2>schuppen</HYPH2> und dergleichen. In der Mitte des<LE/>
+Hofes ein Brunnen. Vor der Schenke ein paar<LE/>
+l&#xE4;ngliche Holztische mit B&#xE4;nken.)</SD></P>
+<DIV_START cat="scene" divStartID="dsID_2434_00094" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00117']"/>
+<TITLE titleID="tiID_2434_00018"><TITLEPART>Erste Scene.</TITLEPART></TITLE>
+<P parID="00375"><SD><B>Der Schmied</B> (und) <B>Der Arzt</B> (sitzen am Tische,<LE/>
+vor sich ein Schreibzeug und das Fremdenbuch).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00095" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00091']"/>
+<P parID="00376"><SPK><SPC>Der Schmied</SPC></SPK> <SD>(schreibt)</SD>.</P>
+<LG parID="00377"><L>Hier denn mein Name, Stand etcetera,</L>
+<L>Nun ist&#x2019;s an Dir zu schreiben!</L></LG>
+<DIV_END divEndID="deID_2434_00091" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00095']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00096" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00092']"/>
+<P parID="00378"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00379"><L>Schreib&#x2019; Du f&#xFC;r mich, das ist ja ganz egal!</L></LG>
+<DIV_END divEndID="deID_2434_00092" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00096']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00097" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00093']"/>
+<P parID="00380"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00381"><L>Wie heissest Du?</L></LG>
+<DIV_END divEndID="deID_2434_00093" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00097']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00098" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00094']"/>
+<P parID="00382"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00383"><L>Anonymus.</L></LG>
+<DIV_END divEndID="deID_2434_00094" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00098']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00099" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00095']"/>
+<P parID="00384"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00385"><L>Ein sonderbarer Name das! Dein Stand!</L></LG>
+<DIV_END divEndID="deID_2434_00095" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00099']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00100" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00096']"/>
+<P parID="00386"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00387"><L>Mein Stand? Da k&#xF6;nnt ich&#x2019; manchen</L>
+<L>nennen! &#x2014;</L>
+<L>Sag&#x2019; Doctor!</L></LG>
+<DIV_END divEndID="deID_2434_00096" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00100']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00101" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00097']"/>
+<P parID="00388"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00389"><L>Von wannen?</L></LG>
+<DIV_END divEndID="deID_2434_00097" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00101']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00102" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00098']"/>
+<P parID="00390"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00391"><L>Vom Mutterleibe!</L></LG>
+<DIV_END divEndID="deID_2434_00098" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00102']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00103" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00099']"/>
+<P parID="00392"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00393"><L>Dein Reiseziel?</L></LG>
+<DIV_END divEndID="deID_2434_00099" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00103']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00104" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00100']"/>
+<P parID="00394"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00395"><L>Das Grab!</L></LG>
+<DIV_END divEndID="deID_2434_00100" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00104']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00105" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00101']"/>
+<P parID="00396"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG part="initial" parID="00397"><L>Stets mystisch!</L>
+<L>Was bist Du, wunderlicher Mann, der</L>
+<L>mein Geschick</L></LG>
+</CELL><CELL>
+<LG part="final" parID="00398"><L>In Deine Hand Du nahmst? &#x2014; Was willst</L>
+<L>Du mir?</L></LG>
+<DIV_END divEndID="deID_2434_00101" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00105']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00106" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00102']"/>
+<P parID="00399"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00400"><L>Das sollst Du wissen, wenn Du fertig</L>
+<L>worden!</L></LG>
+<DIV_END divEndID="deID_2434_00102" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00106']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00107" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00103']"/>
+<P parID="00401"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00402"><L>Wann werd&#x2019; ich fertig denn?</L></LG>
+<DIV_END divEndID="deID_2434_00103" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00107']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00108" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00104']"/>
+<P parID="00403"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00404"><L>Wenn Du, wie ich,</L>
+<L>Dich selbst erkennen lerntest!</L></LG>
+<DIV_END divEndID="deID_2434_00104" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00108']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00109" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00105']"/>
+<P parID="00405"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00406"><L>Dies selbst nur immer!</L>
+<L>Was ist dies selbst, das Du best&#xE4;ndig</L>
+<L>predigst?</L></LG>
+<DIV_END divEndID="deID_2434_00105" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00109']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00110" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00106']"/>
+<P parID="00407"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00408"><L>Das ist der feste Punkt, den Archimedes</L>
+<L>suchte,</L>
+<L>Von da er sich vermass, das Weltall zu</L>
+<L>bewegen.</L>
+<L>Das ist dein Selbst, das nie ein andres ist,</L>
+<L>Dein Mittelpunkt in Deinem Horizont.</L></LG>
+<DIV_END divEndID="deID_2434_00106" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00110']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00111" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00107']"/>
+<P parID="00409"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00410"><L>Wer bin ich denn?</L></LG>
+<DIV_END divEndID="deID_2434_00107" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00111']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00112" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00108']"/>
+<P parID="00411"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00412"><L>Ein Bursche vorderhand</L>
+<L>Von vierzig Jahr, versetzt mit Erz und</L>
+<L>Schlacke,</L>
+<L>Empfindlich wie ein Kind, und gleich</L>
+<L>gestimmt zu Lust und Leid!</L>
+<L>Gewiss, noch locken Dich des Lebens</L>
+<L>schlichte Freuden:</L>
+<L>Ein voller Tisch, ein sch&#xE4;umend&#x2019; Glas,</L>
+<L>Ein Tanz mit Dirnen in dem Gr&#xFC;nen <SYMBOL type="4dots"/></L></LG>
+<DIV_END divEndID="deID_2434_00108" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00112']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00113" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00109']"/>
+<P parID="00413"><SPK><SPC>Die Wirtin</SPC></SPK><LE/>
+<SD>(mit einer Flasche Wein und zwei Gl&#xE4;sern)</SD>.</P>
+<LG parID="00414"><L>Der Wein ist f&#xFC;r die Herren, nicht? <SD>(Geht ab.)</SD></L></LG>
+<DIV_END divEndID="deID_2434_00109" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00113']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00114" endPtr="WR-03-01-02_n0025.xml#//DIV_END[@divEndID='deID_2434_00110']"/>
+<P parID="00415"><SPK><SPC>Der Arzt</SPC></SPK> <SD>(schenkt dem Schmied ein)</SD>.</P>
+<LG parID="00416"><L>Das nicht, doch einerlei! &#x2014;Trink Schmied!</L></LG>
+<DIV_END divEndID="deID_2434_00110" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00114']"/>
+</CELL></ROW></TABLE>
+<FT type="pn" num="25" c_text="&#x2014; 25 &#x2014;"/>
+</PAGE>

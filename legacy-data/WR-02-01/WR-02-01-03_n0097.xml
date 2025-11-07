@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-03_n0096.xml</PREV>
+<NEXT>WR-02-01-03_n0098.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 97</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>DIE SUGGESTION BEI SHAKESPEARE.</CTEXT><RTEXT type="pn">97</RTEXT></HD>
+<P parID="00627"><TAB/>Er antwortet daher:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2432_00159" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00158']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00160" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00157']"/>
+<ADD><P parID="00628"><SPK><SPC>Edgar</SPC></SPK>.</P></ADD>
+<LG parID="00629"><L>Gib&#x2019; deinen Arm,</L>
+<L>Tom wird dich f&#xFC;hren.</L></LG>
+<DIV_END divEndID="deID_2432_00157" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00160']"/>
+<DIV_END divEndID="deID_2432_00158" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00159']"/>
+<P parID="00630"><TAB/>Die hier gemeinte Klippe ist ein nahe bei <SPC>Dover</SPC>, England<LE/>
+gegen das Meer abgrenzender Kreidefelsen, &#xBB;<SPC>Shakespeare</SPC>-<SPC>Cliff</SPC>&#xAB;<LE/>
+genannt. Nicht dorthin f&#xFC;hrt Edgar den Herzog, sondern in eine andere<LE/>
+ebene Gegend bei Dover.</P>
+<P parID="00631"><TAB/>Gleich beim Beginn der sechsten Scene, wenn die Beiden wieder<LE/>
+auf die B&#xFC;hne kommen, nimmt die Suggestion ihren Anfang. Sie<LE/>
+schreiten auf ebenem Boden dahin, da sagt</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2432_00161" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00161']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00162" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00159']"/>
+<P parID="00632"><SPK><SPC>Gloster</SPC></SPK>.</P>
+<LG parID="00633"><L>Wann kommen wir zum Gipfel jenes Felsens?</L></LG>
+<DIV_END divEndID="deID_2432_00159" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00162']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00163" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00160']"/>
+<P parID="00634"><SPK><SPC>Edgar</SPC></SPK>.</P>
+<LG parID="00635"><L>Ihr klimmt ihn jetzt empor; wie wir uns m&#xFC;h&#x2019;n!</L></LG>
+<DIV_END divEndID="deID_2432_00160" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00163']"/>
+<DIV_END divEndID="deID_2432_00161" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00161']"/>
+<P parID="00636"><SPC>Gloster</SPC> nimmt die Suggestion noch nicht an, denn er erwidert:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2432_00164" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00164']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00165" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00162']"/>
+<ADD><P parID="00637"><SPK><SPC>Gloster</SPC></SPK>.</P></ADD>
+<LG parID="00638"><L>Mich d&#xFC;nkt, der Grund ist eben.</L></LG>
+<DIV_END divEndID="deID_2432_00162" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00165']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00166" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00163']"/>
+<P parID="00639"><SPK><SPC>Edgar</SPC></SPK>.</P>
+<LG parID="00640"><L>Schrecklich steil.</L>
+<L>Horcht! H&#xF6;rt Ihr nicht die See?</L></LG>
+<DIV_END divEndID="deID_2432_00163" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00166']"/>
+<DIV_END divEndID="deID_2432_00164" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00164']"/>
+<P parID="00641"><TAB/>Noch immer wirkt die Suggestion nicht. Herzog <SPC>Gloster</SPC>, der<LE/>
+fr&#xFC;her keine Schwierigkeit im Gehen merken und damit auf keinen<LE/>
+beschwerlichen Aufstieg zu schliessen vermochte, horcht jetzt umsonst,<LE/>
+er vernimmt nichts von dem Rauschen der See. Er dr&#xFC;ckt das aus:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2432_00167" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00166']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00168" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00165']"/>
+<P parID="00642"><SPK><SPC>Gloster</SPC></SPK>.</P>
+<LG parID="00643"><L>Nein, wahrlich nicht.</L></LG>
+<DIV_END divEndID="deID_2432_00165" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00168']"/>
+<DIV_END divEndID="deID_2432_00166" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00167']"/>
+<P parID="00644"><TAB/>Jetzt aber f&#xFC;hrt Edgar den Hauptschlag aus. Er weiss, dass der<LE/>
+Greis in Folge des ausgestandenen und noch nachwirkenden Schmerzes<LE/>
+nur zu sehr geneigt ist, auch psychischen Gebrechen, wie eine St&#xF6;rung<LE/>
+des Wahrnehmungsverm&#xF6;gens an sich gelten zu lassen. Die ihm <HYPH1 cont="widerfahrene">wider-</HYPH1><LE/>
+<HYPH2>fahrene</HYPH2> Verst&#xFC;mmelung ist ins Gef&#xFC;hlsleben tief eingreifend genug, um<LE/>
+etwaige Defecte der Sinnesorgane zu rechtfertigen. Darum acceptirt<LE/>
+<SPC>Gloster</SPC> die Erkl&#xE4;rung Edgars:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2432_00169" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00168']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00170" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00167']"/>
+<ADD><P parID="00645"><SPK><SPC>Edgar</SPC></SPK>.</P></ADD>
+<LG parID="00646"><L>&#x2014; &#x2014; So litten Eure ander&#x2019;n Sinne Schaden</L>
+<L>Durch Eurer Augen Schmerz.</L></LG>
+<DIV_END divEndID="deID_2432_00167" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00170']"/>
+<DIV_END divEndID="deID_2432_00168" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00169']"/>
+<P parID="00647">mit den Worten:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2432_00171" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00170']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00172" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00169']"/>
+<ADD><P parID="00648"><SPK><SPC>Gloster</SPC></SPK>.</P></ADD>
+<LG parID="00649"><L>So mag es wirklich sein.</L></LG>
+<DIV_END divEndID="deID_2432_00169" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00172']"/>
+<DIV_END divEndID="deID_2432_00170" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00171']"/>
+<P parID="00650"><TAB/>Was ihn aber nicht hindert, die Ver&#xE4;nderung in des <HYPH1 cont="vermeintlichen">vermeint-</HYPH1><LE/>
+<HYPH2>lichen</HYPH2> Narren Wesen, der mit einem Male ganz vern&#xFC;nftig spricht,<LE/>
+&#xFC;berrascht gewahr zu werden, und zur Sprache zu bringen.</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2432_00173" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00172']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00174" endPtr="WR-02-01-03_n0097.xml#//DIV_END[@divEndID='deID_2432_00171']"/>
+<P parID="00651"><SPK><SPC>Gloster</SPC></SPK> <SD>(im Anschluss an Obiges)</SD>.</P>
+<LG parID="00652"><L>Ge&#xE4;ndert d&#xFC;nkt mich deine Stimm&#x2019;, du sprichst</L>
+<L>In Form und Inhalt besser als zuvor.</L></LG>
+<DIV_END divEndID="deID_2432_00171" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00174']"/>
+<DIV_END divEndID="deID_2432_00172" startPtr="WR-02-01-03_n0097.xml#//DIV_START[@divStartID='dsID_2432_00173']"/>
+</PAGE>

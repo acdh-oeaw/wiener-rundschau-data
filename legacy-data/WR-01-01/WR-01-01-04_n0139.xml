@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-04_n0138.xml</PREV>
+<NEXT>WR-01-01-04_n0140.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 139</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00206" endPtr="WR-01-01-04_n0140.xml#//DIV_END[@divEndID='deID_2397_00207']"/>
+<TITLE titleID="tiID_2397_00071"><TITLEPART type="main">RHYTHMEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Felix Rappaport</C></AUCTOR> (Wien).</TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2397_00207" endPtr="WR-01-01-04_n0140.xml#//DIV_END[@divEndID='deID_2397_00205']"/>
+<TITLE titleID="tiID_2397_00072"><TITLEPART>AHASVER.</TITLEPART></TITLE>
+<TITLE titleID="tiID_2397_00073"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="00975"><L><IN>In</IN> deiner Augen Gl&#xFC;hn hab&#x2019; ich&#x2019;s erkannt &#x2014;</L>
+<L>Du bist von denen,</L>
+<L>die erliegen werden <SYMBOL type="3dots"/></L></LG>
+<LG parID="00976"><L>Der Weg ist lang und heiss der Sonnenbrand &#x2014;</L>
+<L>Ahasver wandelt immer noch</L>
+<L>auf Erden.</L></LG>
+<LG parID="00977"><L>Durch seine Adern zehrend schleicht der Brand,</L>
+<L>Er schreitet schweigend</L>
+<L>durch die Menschenheerden. &#x2014;</L></LG>
+<LG parID="00978"><L>Eins bleibt dir, wenn auch alles Andre schwand &#x2014;</L>
+<L>Die m&#xFC;de Sch&#xF6;nheit</L>
+<L>rhythmischer Geberden <SYMBOL type="3dots"/></L></LG>
+<SEPARATOR type="asterismDown"/>
+<TITLE titleID="tiID_2397_00074"><TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="00979"><L><IN>Die</IN> Feuer werfen Gluthschein durch das Feld,</L>
+<L>Im Hintergrunde</L>
+<L>starren die Ardennen;</L></LG>
+<LG parID="00980"><L>Er ruht im Traum in seinem Purpurzelt,</L>
+<L>Darum im Kreis</L>
+<L>zw&#xF6;lf hohe Fackeln brennen.</L></LG>
+<LG parID="00981"><L>Ein Satyrspiel w&#xE4;lzt draussen sich die Welt,</L>
+<L>Der sammtne Vorhang</L>
+<L>muss von ihm sie trennen:</L></LG>
+</PAGE>

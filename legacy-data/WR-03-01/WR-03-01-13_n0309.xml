@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-13_n0308.xml</PREV>
+<NEXT>WR-03-01-13_n0310.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 13, S. 309</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>JACOBSEN: J&#xDC;NGLINGE.</CTEXT></HD>
+<TABLE parID="03670"><ROW ciID="0626"><CELL>
+<P part="final" parID="03671">Glockenkronen: und horch, das V&#xF6;glein<LE/>
+wird lebendig <SYMBOL type="3dots"/></P>
+<P part="initial" parID="03672"><TAB/>O, Du mein lieb V&#xF6;glein in den<LE/>
+Kronen, spiel auf, spiel auf, denn sieh&#x2019;,<LE/>
+wir wollen Hochzeit machen mit Deiner<LE/>
+kleinen Seele, die gr&#xF6;sser, k&#xF6;niglicher ist,</P>
+</CELL><CELL>
+<P part="final" parID="03673">als all die kl&#xE4;gliche Majest&#xE4;t des <HYPH1 cont="menschlichen">mensch-</HYPH1><LE/>
+<HYPH2>lichen</HYPH2> Sch&#xE4;dels.</P>
+<DIV_START type="verse" divStartID="dsID_2434_00685" endPtr="WR-03-01-13_n0309.xml#//DIV_END[@divEndID='deID_2434_00683']"/>
+<LG parID="03674"><L>Denn, was ein V&#xF6;glein spricht,</L>
+<L>Hat guten Klang!</L>
+<L>F&#xFC;hlst Du&#x2019;s nicht, &#x2014;</L>
+<L>H&#xFC;lle Dein Angesicht,</L>
+<L>Weine Dein Leben lang.</L></LG>
+<DIV_END divEndID="deID_2434_00683" startPtr="WR-03-01-13_n0309.xml#//DIV_START[@divStartID='dsID_2434_00685']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2434_00684" startPtr="WR-03-01-13_n0303.xml#//DIV_START[@divStartID='dsID_2434_00680']"/>
+<SEPARATOR type="hr"/>
+<DIV_START divStartID="dsID_2434_00686" endPtr="WR-03-01-13_n0313.xml#//DIV_END[@divEndID='deID_2434_00730']"/>
+<TITLE titleID="tiID_2434_00165"><TITLEPART type="main">J&#xDC;NGLINGE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ROSALIA JACOBSEN</AUCTOR> (Venedig).</TITLEPART></TITLE>
+<TABLE parID="03675"><ROW ciID="0627"><CELL>
+<P part="initial" parID="03676"><TAB/>Das sensationelle Erstlingswerk des<LE/>
+jungen piemontesischen Dichters Venanzio:<LE/>
+&#xBB;Giovani&#xAB;, das wir heute den Lesern<LE/>
+der &#xBB;W. R.&#xAB; vorf&#xFC;hren und das durch<LE/>
+Originalit&#xE4;t und k&#xFC;hne Phantasie eine<LE/>
+v&#xF6;llige Sonderstellung in der modernen<LE/>
+italienischen Literatur einnimmt, w&#xE4;re<LE/>
+bald ein Opfer der letzten milanesischen<LE/>
+Revolution geworden. Das Werk erschien<LE/>
+zu Milano in der <LANG iso="it">&#xBB;Societ&#xE0; Editrice<LE/>
+Lombarda&#xAB;</LANG>, dem Herde des ber&#xFC;chtigten<LE/>
+Journals <LANG iso="it">&#xBB;Italia del Popolo&#xAB;</LANG>, geleitet von<LE/>
+dem republikanischen Schriftsteller <HYPH1 cont="Ferdinando">Ferdi-</HYPH1><LE/>
+<HYPH2>nando</HYPH2> Fontana, der, als die Revolution<LE/>
+ausbrach, &#xFC;ber alle Berge nach Lugano<LE/>
+in der italienischen Schweiz fl&#xFC;chten musste,<LE/>
+um nicht wie die andern radicalen <HYPH1 cont="Wortf&#xFC;hrer">Wort-</HYPH1><LE/>
+<HYPH2>f&#xFC;hrer</HYPH2> in Milano f&#xFC;r lange Jahre <HYPH1 cont="eingekerkert">einge-</HYPH1><LE/>
+<HYPH2>kerkert</HYPH2> zu werden. Der eigentliche <HYPH1 cont="Redacteur">Redac-</HYPH1><LE/>
+<HYPH2>teur</HYPH2> des Blattes, Chiesi, wurde mit <HYPH1 cont="zahlreichen">zahl-</HYPH1><LE/>
+<HYPH2>reichen</HYPH2> Mitarbeitern verhaftet, der Verlag<LE/>
+von den Soldaten durchst&#xF6;bert und <HYPH1 cont="geschlossen">ge-</HYPH1><LE/>
+<HYPH2>schlossen</HYPH2>, ein grosser Theil der &#xFC;brigens<LE/>
+ganz unschuldigen Verlagsartikel als <HYPH1 cont="hochketzerisch">hoch-</HYPH1><LE/>
+<HYPH2>ketzerisch</HYPH2> confisciert, und das Buch <HYPH1 cont="Venanzios">Ve-</HYPH1><LE/>
+<HYPH2>nanzios</HYPH2>, das eben druckfertig dalag, konnte<LE/>
+aus dem Dunkel der Druckerei nicht ans<LE/>
+Tageslicht kommen. General Bava, der<LE/>
+Milano in Dictatur-Herrschaft hielt, schien<LE/>
+Lust zu haben, die <LANG iso="it">&#xBB;Societ&#xE0; Editrice <HYPH1 cont="Lombarda">Lom-</HYPH1><LE/>
+<HYPH2>barda</HYPH2>&#xAB;</LANG> der Erde gleich machen zu wollen<LE/>
+und ein grosses Autodaf&#xE9; von all den<LE/>
+Verlagsartikeln zu veranstalten. Inzwischen<LE/>
+sass der junge Dichter, der, aus seiner<LE/>
+Heimat in den piemontesischen Alpen<LE/>
+nach Milano gekommen, einen m&#xE4;chtigen<LE/>
+Besch&#xFC;tzer in Fontana zu finden geglaubt<LE/>
+hatte, und zitterte f&#xFC;r sein Werk. Endlich<LE/>
+gelang es ihm nach unz&#xE4;hligen <HYPH1 cont="Anstrengungen">Anstren-</HYPH1><LE/>
+<HYPH2>gungen</HYPH2>, eine Anzahl Exemplare aus der</P>
+</CELL><CELL>
+<P part="final" parID="03677">Typographie zu retten, die er privatim<LE/>
+bei Literaten und Journalen anbrachte. Ein<LE/>
+scharfer Process seinerseits mit dem <HYPH1 cont="Verleger">Ver-</HYPH1><LE/>
+<HYPH2>leger</HYPH2>, der seinen Contract mit ihm nicht<LE/>
+erf&#xFC;llen konnte, wurde eingeleitet, und so<LE/>
+geschah das Merkw&#xFC;rdige, dass ein Werk,<LE/>
+das noch gar nicht &#xF6;ffentlich in den <HYPH1 cont="Buchhandel">Buch-</HYPH1><LE/>
+<HYPH2>handel</HYPH2> gekommen war, Gegenstand des<LE/>
+allgemeinen und lebhaftesten Interesses<LE/>
+wurde.</P>
+<P parID="03678"><TAB/>Das Werk ist eine symbolisch <HYPH1 cont="angelegte">ange-</HYPH1><LE/>
+<HYPH2>legte</HYPH2> Sage der Jugend, der heissgl&#xFC;henden,<LE/>
+alles erobernden, die kalt und unerbittlich<LE/>
+von der Natur zu deren eigenen Zwecken<LE/>
+missbraucht wird: zur Fortpflanzung der<LE/>
+Generation. So wird es gleichzeitig die<LE/>
+Apotheose und die Trag&#xF6;die der Jugend.<LE/>
+Wie die mittelalterlichen Standbilder, die<LE/>
+<LANG iso="la">&#xBB;Memento mori&#xAB;</LANG>, zwei Seiten hatten:<LE/>
+eine mit einem bl&#xFC;henden M&#xE4;dchen, die<LE/>
+andere mit dem Tod, so zeigt auch dieses<LE/>
+Werk ein doppeltes Gesicht. Nur steht<LE/>
+hier statt des Todes das unerbittliche<LE/>
+Fatum, das die einzelnen Individuen <HYPH1 cont="verschlingt">ver-</HYPH1><LE/>
+<HYPH2>schlingt</HYPH2> und nur f&#xFC;r das grosse Ganze<LE/>
+Sorge tr&#xE4;gt. Man sollte meinen, der <HYPH1 cont="Verfasser">Ver-</HYPH1><LE/>
+<HYPH2>fasser</HYPH2> h&#xE4;tte Schopenhauer gr&#xFC;ndlich <HYPH1 cont="studiert">stu-</HYPH1><LE/>
+<HYPH2>diert</HYPH2> oder sei wenigstens von seinen Ideen<LE/>
+inspiriert. Dem ist aber nicht so. Erzogen<LE/>
+in der Abgesondertheit eines katholischen<LE/>
+Gymnasiums in seinen piemontesischen<LE/>
+Alpen, wusste er nichts von dem <HYPH1 cont="Verfasser">Ver-</HYPH1><LE/>
+<HYPH2>fasser</HYPH2> der &#xBB;Metaphysik der <HYPH1 cont="Geschlechtsliebe">Geschlechts-</HYPH1><LE/>
+<HYPH2>liebe</HYPH2>&#xAB; &#x2014; und die Verfasserin dieser Zeilen<LE/>
+nannte ihm Schopenhauer zum erstenmale,<LE/>
+als sie <DATERANGE>letzten Winter</DATERANGE> mit ihm in Venedig<LE/>
+zusammentraf.</P>
+<P part="initial" parID="03679"><TAB/>Sehr geistreich ist es, dass Venanzio<LE/>
+in dieser Sage der Jugend den grossen<LE/>
+Moment ergriffen hat, da eben die <HYPH1 cont="Mannbarkeit"><SPC>Mann-</SPC></HYPH1></P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="309" c_text="&#x2014; 309 &#x2014;"/>
+</PAGE>

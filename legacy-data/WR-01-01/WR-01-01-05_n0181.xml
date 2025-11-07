@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0180.xml</PREV>
+<NEXT>WR-01-01-05_n0182.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 181</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ALLADINE UND PALOMIDES.</CTEXT><RTEXT type="pn">181</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00299" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00295']"/>
+<P parID="01372"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01373"><TAB/>Betrachte Alles, was sich um uns her erhellt <SYMBOL type="3dots"/> Das<LE/>
+Licht wagt nicht mehr zu zaudern, und wir umarmen uns<LE/>
+in den Vorhallen des Himmels <SYMBOL type="3dots"/> Siehst du das Edelgestein<LE/>
+der Gew&#xF6;lbe, trunken von Leben scheint es uns zuzul&#xE4;cheln;<LE/>
+und die tausend und abertausend leuchtender, blauer Rosen,<LE/>
+die l&#xE4;ngs der Pfeiler emporranken <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00295" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00299']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00300" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00296']"/>
+<P parID="01374"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01375"><TAB/>Oh! <SYMBOL type="3dots"/> Ich habe geh&#xF6;rt! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00296" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00300']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00301" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00297']"/>
+<P parID="01376"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01377"><TAB/>Was?</P>
+<DIV_END divEndID="deID_2397_00297" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00301']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00302" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00298']"/>
+<P parID="01378"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01379"><TAB/>Man hat an die Felsen geschlagen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00298" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00302']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00303" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00299']"/>
+<P parID="01380"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01381"><TAB/>Nein, nein; es sind die goldenen Pforten eines neuen<LE/>
+Paradieses, die sich in unseren Seelen &#xF6;ffnen und in ihren<LE/>
+Angeln klingen! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00299" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00303']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00304" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00300']"/>
+<P parID="01382"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01383"><TAB/>Horch&#x2019; <SYMBOL type="3dots"/> wieder, wieder!</P>
+<DIV_END divEndID="deID_2397_00300" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00304']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00305" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00301']"/>
+<P parID="01384"><SPK><SPC>Palomides</SPC></SPK> <SD>(mit j&#xE4;hlings ver&#xE4;nderter Stimme)</SD>.</P>
+<P parID="01385"><TAB/>Ja; dort ist es <SYMBOL type="3dots"/> Im Grunde der blauesten Gew&#xF6;lbe <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00301" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00305']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00306" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00302']"/>
+<P parID="01386"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01387"><TAB/>Sie kommen, um uns <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00302" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00306']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00307" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00303']"/>
+<P parID="01388"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01389"><TAB/>Ich h&#xF6;re das Eisen gegen den Felsen klingen <SYMBOL type="3dots"/> Sie<LE/>
+haben die Th&#xFC;re vermauert oder k&#xF6;nnen sie nicht &#xF6;ffnen <SYMBOL type="3dots"/><LE/>
+Es sind Hacken, die am Gesteine scharren <SYMBOL type="3dots"/> Seine Seele<LE/>
+hat ihm gesagt, dass wir gl&#xFC;cklich waren <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00303" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00307']"/>
+<P parID="01390"><TAB/><SD>(Stille; dann l&#xF6;st sich ein Stein am &#xE4;ussersten Ende des Gew&#xF6;lbes los,<LE/>
+und ein Strahl des Tageslichtes bricht in den unterirdischen Raum ein.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00308" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00304']"/>
+<P parID="01391"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01392"><TAB/>Oh! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00304" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00308']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00309" endPtr="WR-01-01-05_n0181.xml#//DIV_END[@divEndID='deID_2397_00305']"/>
+<P parID="01393"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01394"><TAB/>Das ist ein anderes Licht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00305" startPtr="WR-01-01-05_n0181.xml#//DIV_START[@divStartID='dsID_2397_00309']"/>
+<P part="initial" parID="01395"><TAB/><SD part="initial">(Regungslos und beklommen sehen sie andere Steine sich langsam in<LE/>
+einer unertr&#xE4;glichen Deutlichkeit losl&#xF6;sen und fallen, einen um den andern,</SD></P>
+</PAGE>

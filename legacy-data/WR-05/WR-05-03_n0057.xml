@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-03_n0056.xml</PREV>
+<NEXT>WR-05-03_n0058.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 3, S. 57</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>GIDE: PHILOKTET ODER DER TRACTAT VON DEN DREI LEBENSANSCHAUUNGEN.</CTEXT></HD>
+<TABLE parID="05562"><ROW ciID="0940"><CELL>
+<DIV_START cat="speech" divStartID="dsID_2436_01067" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01062']"/>
+<P parID="05563"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Du hast mich <HYPH1 cont="verwirrt">ver-</HYPH1><LE/>
+<HYPH2>wirrt</HYPH2>! Gib mir meine Ruhe zur&#xFC;ck,<LE/>
+Philoktet! Alles, was du mir sagtest,<LE/>
+hat in meinem Herzen gekeimt! W&#xE4;hrend<LE/>
+du sprachst, wusste ich nichts zu <HYPH1 cont="antworten">ant-</HYPH1><LE/>
+<HYPH2>worten</HYPH2>. Ich h&#xF6;rte nur; mein Herz war<LE/>
+ganz offen deinen Worten, wie das<LE/>
+eines Kindes. Und jetzt, wo du schweigst,<LE/>
+h&#xF6;re icn noch immer. Alles verwirrt<LE/>
+sich in mir, und ich warte. Sprich, ich<LE/>
+habe nicht genug geh&#xF6;rt <SYMBOL type="3dots"/> Man muss<LE/>
+sich hingeben, sagtest du <SYMBOL type="3dots"/>?</P>
+<DIV_END divEndID="deID_2436_01062" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01067']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01068" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01063']"/>
+<P parID="05564"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Sich hingeben, ja!</P>
+<DIV_END divEndID="deID_2436_01063" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01068']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01069" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01064']"/>
+<P parID="05565"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Aber auch Ulysses<LE/>
+sagt es mir! Aber wem muss man sich<LE/>
+hingeben? Er sagt, dem Vaterland <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_01064" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01069']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01070" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01065']"/>
+<P parID="05566"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Ja, dem Vaterland!</P>
+<DIV_END divEndID="deID_2436_01065" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01070']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01071" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01066']"/>
+<P parID="05567"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: O sprich doch,<LE/>
+Philoktet! Du musst vollenden, jetzt<LE/>
+gleich!</P>
+<DIV_END divEndID="deID_2436_01066" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01071']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01072" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01067']"/>
+<P parID="05568"><TAB/><SPK><SPC>Philoktet</SPC></SPK> <SD>(mit Verstellung)</SD>: Kind &#x2014;<LE/>
+kannst du mit dem Bogen schie&#xDF;en?</P>
+<DIV_END divEndID="deID_2436_01067" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01072']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01073" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01068']"/>
+<P parID="05569"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Ja! Warum?</P>
+<DIV_END divEndID="deID_2436_01068" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01073']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01074" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01069']"/>
+<P parID="05570"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Kannst du diesen hier<LE/>
+spannen?</P>
+<DIV_END divEndID="deID_2436_01069" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01074']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01075" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01070']"/>
+<P parID="05571"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK> <SD>(verwirrt)</SD>: Du willst <SYMBOL type="3dots"/><LE/>
+Ich kann nicht! <SD>(Er versucht.)</SD> Ja; <HYPH1 cont="vielleicht">viel-</HYPH1><LE/>
+<HYPH2>leicht</HYPH2>! &#x2014; So!</P>
+<DIV_END divEndID="deID_2436_01070" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01075']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01076" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01071']"/>
+<P parID="05572"><TAB/><SPK><SPC>Philoktet</SPC></SPK> <SD>(beiseite)</SD>: Wie leicht! Es<LE/>
+scheint <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_01071" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01076']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01077" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01072']"/>
+<P parID="05573"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK> <SD>(unsicher)</SD>: Und<LE/>
+jetzt <SYMBOL type="3dots"/>?</P>
+<DIV_END divEndID="deID_2436_01072" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01077']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01078" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01073']"/>
+<P parID="05574"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Ich habe gesehen, was<LE/>
+ich sehen wollte! <SD>(Er nimmt wieder den<LE/>
+Bogen.)</SD></P>
+<DIV_END divEndID="deID_2436_01073" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01078']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01079" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01074']"/>
+<P parID="05575"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Ich verstehe dich<LE/>
+nicht!</P>
+<DIV_END divEndID="deID_2436_01074" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01079']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01080" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01075']"/>
+<P parID="05576"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Ist auch ganz <HYPH1 cont="gleichgiltig">gleich-</HYPH1><LE/>
+<HYPH2>giltig</HYPH2>! Ach! <SD>(Er besinnt sich.)</SD> H&#xF6;re, Kind!<LE/>
+Glaubst du nicht, dass es G&#xF6;tter gibt,<LE/>
+die &#xFC;ber Griechenland stehen, und dass<LE/>
+die G&#xF6;tter wichtiger sind, als dieses?</P>
+<DIV_END divEndID="deID_2436_01075" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01080']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01081" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01076']"/>
+<P parID="05577"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Nein, beim Zeus!<LE/>
+das glaube ich nicht!</P>
+<DIV_END divEndID="deID_2436_01076" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01081']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01082" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01077']"/>
+<P parID="05578"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Und warum nicht,<LE/>
+Neoptolemos?</P>
+<DIV_END divEndID="deID_2436_01077" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01082']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01083" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01078']"/>
+<P parID="05579"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Denn die G&#xF6;tter,<LE/>
+denen ich diene, sie dienen wiederum<LE/>
+Griechenland.</P>
+<DIV_END divEndID="deID_2436_01078" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01083']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01084" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01079']"/>
+<P parID="05580"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Wie das? Sind sie ihm<LE/>
+untergeben?</P>
+<DIV_END divEndID="deID_2436_01079" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01084']"/>
+</CELL><CELL>
+<DIV_START cat="speech" divStartID="dsID_2436_01085" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01080']"/>
+<P parID="05581"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Nein, nicht <HYPH1 cont="untergeben">unter-</HYPH1><LE/>
+<HYPH2>geben</HYPH2> <SYMBOL type="3dots"/> ich wei&#xDF; nicht, wie ich&#x2019;s<LE/>
+sagen soll; du wei&#xDF;t, dass man sie<LE/>
+au&#xDF;erhalb Griechenlands nicht kennt;<LE/>
+Griechenland ist ebenso ihre Heimat,<LE/>
+wie unsere; indem ich ihm diene, diene<LE/>
+ich ihnen; sie sind in nichts von ihm<LE/>
+unterschieden.</P>
+<DIV_END divEndID="deID_2436_01080" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01085']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01086" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01081']"/>
+<P parID="05582"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Und doch, sieh&#x2019;, ich<LE/>
+darf dir es ja sagen, ich geh&#xF6;re nicht<LE/>
+zu Griechenland und <SYMBOL type="3dots"/> doch diene<LE/>
+ich ihnen.</P>
+<DIV_END divEndID="deID_2436_01081" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01086']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01087" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01082']"/>
+<P parID="05583"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Glaubst du? &#x2014;<LE/>
+Ach, armer Philoktet, man entgeht<LE/>
+nicht so leicht Griechenland <SYMBOL type="3dots"/> und<LE/>
+selbst <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_01082" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01087']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01088" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01083']"/>
+<P parID="05584"><TAB/><SPK><SPC>Philoktet</SPC></SPK> <SD>(aufmerksam)</SD>: Und selbst?</P>
+<DIV_END divEndID="deID_2436_01083" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01088']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01089" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01084']"/>
+<P parID="05585"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Ach, wenn du<LE/>
+w&#xFC;sstest, Philoktet! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_01084" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01089']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01090" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01085']"/>
+<P parID="05586"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Wenn ich was<LE/>
+w&#xFC;sste? <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_01085" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01090']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01091" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01086']"/>
+<P parID="05587"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK> <SD>(sich wieder fassend)</SD>:<LE/>
+Nein, sprich du! Ich bin gekommen,<LE/>
+dich zu h&#xF6;ren; du fragst <SYMBOL type="3dots"/> Auch ich<LE/>
+f&#xFC;hle ja, dass Ulysses und du <SYMBOL type="3dots"/> dass<LE/>
+euere Tugend nicht dieselbe ist <SYMBOL type="3dots"/><LE/>
+Aber, wenn du sprechen sollst, zauderst<LE/>
+du <SYMBOL type="3dots"/> du, der du so gut zu reden<LE/>
+wei&#xDF;t! Wem soll man sich hingeben,<LE/>
+Philoktet?</P>
+<DIV_END divEndID="deID_2436_01086" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01091']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01092" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01087']"/>
+<P parID="05588"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Ich sagte dir es ja, den<LE/>
+G&#xF6;ttern <SYMBOL type="3dots"/> Aber &#xFC;ber den G&#xF6;ttern,<LE/>
+Neoptolemos, gibt es etwas!</P>
+<DIV_END divEndID="deID_2436_01087" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01092']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01093" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01088']"/>
+<P parID="05589"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: &#xDC;ber den G&#xF6;ttern?</P>
+<DIV_END divEndID="deID_2436_01088" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01093']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01094" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01089']"/>
+<P parID="05590"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Ja, da ich doch nicht</P>
+so handle, wie Ulysses!<LE/>
+<DIV_END divEndID="deID_2436_01089" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01094']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01095" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01090']"/>
+<P parID="05591"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Noch einmal, <HYPH1 cont="Philoktet">Phi-</HYPH1><LE/>
+<HYPH2>loktet</HYPH2>! Wem soll man sich hingeben?<LE/>
+Was ist noch &#xFC;ber den G&#xF6;ttern?</P>
+<DIV_END divEndID="deID_2436_01090" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01095']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01096" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01091']"/>
+<P parID="05592"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: &#xDC;ber den G&#xF6;ttern <SYMBOL type="3dots"/><LE/>
+<SD>(Er nimmt den Kopf in die H&#xE4;nde, wie <HYPH1 cont="&#xFC;berw&#xE4;ltigt">&#xFC;ber-</HYPH1><LE/>
+<HYPH2>w&#xE4;ltigt</HYPH2>.)</SD> Ich wei&#xDF; nicht mehr. Ich wei&#xDF;<LE/>
+nichts mehr <SYMBOL type="3dots"/> Ach, ach! Wir selbst!<LE/>
+<SYMBOL type="3dots"/> Ich wei&#xDF; nichts mehr, Neoptolemos!</P>
+<DIV_END divEndID="deID_2436_01091" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01096']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01097" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01092']"/>
+<P parID="05593"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Wem soll man<LE/>
+sich hingeben? Sag&#x2019; doch, Philoktet?</P>
+<DIV_END divEndID="deID_2436_01092" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01097']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01098" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01093']"/>
+<P parID="05594"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Sich hingeben <SYMBOL type="3dots"/> Sich<LE/>
+hingeben <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_01093" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01098']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01099" endPtr="WR-05-03_n0057.xml#//DIV_END[@divEndID='deID_2436_01094']"/>
+<P parID="05595"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Du weinst!</P>
+<DIV_END divEndID="deID_2436_01094" startPtr="WR-05-03_n0057.xml#//DIV_START[@divStartID='dsID_2436_01099']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01100" endPtr="WR-05-03_n0058.xml#//DIV_END[@divEndID='deID_2436_01095']"/>
+<P part="initial" parID="05596"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Wenn ich dir die<LE/>
+Tugend weisen k&#xF6;nnte <SYMBOL type="3dots"/> <SD part="initial">(Er erhebt</SD></P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="57" c_text="&#x2014; 57 &#x2014;"/>
+</PAGE>

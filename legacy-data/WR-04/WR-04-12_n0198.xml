@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0197.xml</PREV>
+<NEXT>WR-04-12_n0199.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 198</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2436_00430" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00427']"/>
+<P parID="02695"><TAB/><SPK>ERSTER SOLDAT</SPK>: Prinzessin, der junge Hauptmann hat sich eben entleibt.</P>
+<DIV_END divEndID="deID_2436_00427" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00430']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00431" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00428']"/>
+<P parID="02696"><TAB/><SPK>SALOME</SPK>: Lass&#x2019; mich deinen Mund k&#xFC;ssen, Jochanaan!</P>
+<DIV_END divEndID="deID_2436_00428" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00431']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00432" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00429']"/>
+<P parID="02697"><TAB/><SPK>JOCHANAAN</SPK>: Wird dir nicht bange, Tochter der Herodias? Habe ich dir nicht<LE/>
+gesagt, dass ich im Palaste den Fl&#xFC;gelschlag des Todesengels geh&#xF6;rt habe, und ist er<LE/>
+nicht gekommen, der Engel des Todes?</P>
+<DIV_END divEndID="deID_2436_00429" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00432']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00433" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00430']"/>
+<P parID="02698"><TAB/><SPK>SALOME</SPK>: Lass&#x2019; mich deinen Mund k&#xFC;ssen!</P>
+<DIV_END divEndID="deID_2436_00430" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00433']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00434" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00431']"/>
+<P parID="02699"><TAB/><SPK>JOCHANAAN</SPK>: Tochter der Unzucht, es lebt nur Einer, der dich retten kann.<LE/>
+Es ist Der, von dem ich sprach. Geh&#x2019;, such&#x2019; ihn. Er ist in einem Nachen auf dem<LE/>
+See von Galil&#xE4;a und redet zu seinen J&#xFC;ngern. Knie nieder am Ufer des Sees, rufe<LE/>
+ihn an und nenne ihn beim Namen. Wenn er zu dir kommt, und er kommt zu allen,<LE/>
+die ihn anrufen, dann b&#xFC;cke dich zu seinen F&#xFC;&#xDF;en, dass er dir deine S&#xFC;nden vergebe.</P>
+<DIV_END divEndID="deID_2436_00431" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00434']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00435" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00432']"/>
+<P parID="02700"><TAB/><SPK>SALOME</SPK>: Lass&#x2019; mich deinen Mund k&#xFC;ssen!</P>
+<DIV_END divEndID="deID_2436_00432" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00435']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00436" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00433']"/>
+<P parID="02701"><TAB/><SPK>JOCHANAAN</SPK>: Sei verflucht! Tochter einer blutsch&#xE4;nderischen Mutter, sei verflucht!</P>
+<DIV_END divEndID="deID_2436_00433" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00436']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00437" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00434']"/>
+<P parID="02702"><TAB/><SPK>SALOME</SPK>: Ich will deinen Mund k&#xFC;ssen, Jochanaan!</P>
+<DIV_END divEndID="deID_2436_00434" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00437']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00438" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00435']"/>
+<P parID="02703"><TAB/><SPK>JOCHANAAN</SPK>: Ich will dich nicht ansehen. Du bist verflucht; Salome, du bist<LE/>
+verflucht. <SD>(Er geht in die Cisterne hinab.)</SD></P>
+<DIV_END divEndID="deID_2436_00435" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00438']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00439" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00436']"/>
+<P parID="02704"><TAB/><SPK>SALOME</SPK>: Ich will deinen Mund k&#xFC;ssen, Jochanaan, ich will deinen Mund<LE/>
+k&#xFC;ssen! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_00436" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00439']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00440" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00437']"/>
+<P parID="02705"><TAB/><SPK>ERSTER SOLDAT</SPK>: Wir m&#xFC;ssen den Leichnam anderswohin tragen. Der<LE/>
+Tetrarch mag keine Todten sehen, au&#xDF;er wenn er selbst gemordet hat.</P>
+<DIV_END divEndID="deID_2436_00437" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00440']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00441" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00438']"/>
+<P parID="02706"><TAB/><SPK>DER PAGE DER HERODIAS</SPK>: Er war mein Bruder, ja er war mir n&#xE4;her als ein<LE/>
+Bruder. Ich gab ihm eine kleine Nardenb&#xFC;chse und einen Achatring, den er immer<LE/>
+an der Hand trug. Abends giengen wir oft am Fluss spazieren und unter den <HYPH1 cont="Mandelb&#xE4;umen">Mandel-</HYPH1><LE/>
+<HYPH2>b&#xE4;umen</HYPH2>, und er erz&#xE4;hlte mir gern von seiner Heimat. Er sprach immer sehr leise.<LE/>
+Der Klang seiner Stimme war wie der Klang der Fl&#xF6;te, wie wenn einer auf der<LE/>
+Fl&#xF6;te spielt. Er hatte auch gro&#xDF;e Freude daran, im Fluss sein Bild zu betrachten.<LE/>
+Ich habe ihn oft darum getadelt.</P>
+<DIV_END divEndID="deID_2436_00438" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00441']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00442" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00439']"/>
+<P parID="02707"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Du hast recht, wir m&#xFC;ssen den Leichnam verstecken.<LE/>
+Der Tetrach darf ihn nicht sehen.</P>
+<DIV_END divEndID="deID_2436_00439" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00442']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00443" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00440']"/>
+<P parID="02708"><TAB/><SPK>ERSTER SOLDAT</SPK>: Der Tetrarch wird nicht hieher kommen. Er kommt nie<LE/>
+auf die Terrasse. Er hat zu gro&#xDF;e Angst vor dem Propheten.</P>
+<DIV_END divEndID="deID_2436_00440" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00443']"/>
+<P parID="02709"><SD>(<SPK>HERODES</SPK>, <SPK>HERODIAS</SPK> und der <SPK>GANZE HOF</SPK> treten ein.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_00444" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00441']"/>
+<P parID="02710"><TAB/><SPK>HERODES</SPK>: Wo ist Salome? Wo ist die Prinzessin? Warum kam sie nicht<LE/>
+wieder zum Bankett, wie ich ihr befohlen hatte? Ah! hier ist sie!</P>
+<DIV_END divEndID="deID_2436_00441" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00444']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00445" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00442']"/>
+<P parID="02711"><TAB/><SPK>HERODIAS</SPK>: Du sollst sie nicht ansehen! Fortw&#xE4;hrend siehst du sie an!</P>
+<DIV_END divEndID="deID_2436_00442" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00445']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00446" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00443']"/>
+<P parID="02712"><TAB/><SPK>HERODES</SPK>: Wie der Mond heute Nacht aussieht! Es steckt Seltsames in ihm.<LE/>
+Ist es nicht ein seltsames Bild? Er sieht aus wie ein wahnsinniges Weib, ein <HYPH1 cont="wahnsinniges">wahn-</HYPH1><LE/>
+<HYPH2>sinniges</HYPH2> Weib, das &#xFC;berall nach Buhlen sucht. Und nackt ist, ganz nackt. Die Wolken<LE/>
+wollen seine Nacktheit bekleiden, aber das Weib l&#xE4;sst sie nicht. Er stellt sich nackt<LE/>
+am Himmel zur Schau, wie ein betrunkenes Weib, das durch die Wolken taumelt <SYMBOL type="3dots"/><LE/>
+Gewiss, er sucht nach Buhlen. Sieht er nicht aus wie ein betrunkenes Weib? Es steckt<LE/>
+heut&#x2019; etwas im Mond wie ein wahnsinniges Weib, nicht?</P>
+<DIV_END divEndID="deID_2436_00443" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00446']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00447" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00444']"/>
+<P parID="02713"><TAB/><SPK>HERODIAS</SPK>: Nein, der Mond ist wie der Mond, das ist alles. Wir wollen<LE/>
+hineingehen <SYMBOL type="3dots"/> Wir haben hier nichts zu thun.</P>
+<DIV_END divEndID="deID_2436_00444" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00447']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00448" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00445']"/>
+<P parID="02714"><TAB/><SPK>HERODES</SPK>: Ich will hier bleiben! Manasseh, leg&#x2019; Teppiche hierher! Z&#xFC;ndet<LE/>
+Fackeln an! Bringt die Elfenbeintische heraus und die Tische von Jaspis! Die Luft<LE/>
+ist s&#xFC;&#xDF; hier. Ich will noch Wein mit meinen G&#xE4;sten trinken. Wir m&#xFC;ssen den <HYPH1 cont="Gesandten">Ge-</HYPH1><LE/>
+<HYPH2>sandten</HYPH2> des C&#xE4;sar alle Ehren erweisen.</P>
+<DIV_END divEndID="deID_2436_00445" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00448']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00449" endPtr="WR-04-12_n0198.xml#//DIV_END[@divEndID='deID_2436_00446']"/>
+<P parID="02715"><TAB/><SPK>HERODIAS</SPK>: Nicht um ihretwillen willst du bleiben.</P>
+<DIV_END divEndID="deID_2436_00446" startPtr="WR-04-12_n0198.xml#//DIV_START[@divStartID='dsID_2436_00449']"/>
+<FT type="pn" num="198" c_text="&#x2014; 198 &#x2014;"/>
+</PAGE>

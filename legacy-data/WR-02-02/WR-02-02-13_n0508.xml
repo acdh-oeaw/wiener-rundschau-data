@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-13_n0507.xml</PREV>
+<NEXT>WR-02-02-13_n0509.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 13, S. 508</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2433_00007" endPtr="WR-02-02-13_n0509.xml#//DIV_END[@divEndID='deID_2433_00008']"/>
+<TITLE titleID="tiID_2433_00013"><TITLEPART>GEDICHTE VON <AUCTOR>GABRIELE D&#x2019;ANNUNZIO</AUCTOR>.</TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2433_00008" endPtr="WR-02-02-13_n0508.xml#//DIV_END[@divEndID='deID_2433_00006']"/>
+<TITLE titleID="tiID_2433_00014"><TITLEPART type="enum">I.</TITLEPART><LE/>
+<TITLEPART type="main">D&#xC4;MMERUNG.</TITLEPART></TITLE>
+<LG parID="00240"><L>O bleibet, bleibt, o bitte, bleibt noch hier,</L>
+<L>Erhebt Euch nicht! Verlangt Ihr, dass ich Licht</L>
+<L>Ins Zimmer bringe? Nein? O lasst doch nicht</L>
+<L>Den Traum so schnell erl&#xF6;schen, bleibt noch hier!</L></LG>
+<LG parID="00241"><L>Es w&#xFC;rde uns vielleicht gleich einem Pfeil</L>
+<L>Das Licht verwunden <SYMBOL type="3dots"/> Ach schon allzulange</L>
+<L>Hat dieser Tag gew&#xE4;hrt; ich denke bange</L>
+<L>Des n&#xE4;chsten <SYMBOL type="3dots"/> denn das Licht ist wie ein Pfeil <SYMBOL type="5dots"/></L></LG>
+<LG parID="00242"><L>Ihr liebt es auch nicht &#x2014; nicht wahr? &#x2014; Eure Augen</L>
+<L>Sind m&#xFC;d im Tageslicht <SYMBOL type="4dots"/> und immer wieder</L>
+<L>Ist mir, als ob Ihr kaum die schweren Lider</L>
+<L>Erheben k&#xF6;nnt, von Euren schmerzlichen Augen.</L></LG>
+<LG parID="00243"><L>Und nichts, ich schw&#xF6;r es, nichts auf Erden fand</L>
+<L>Ich trauriger, als starrer Wimpern Schatten</L>
+<L>Auf bleichen Wangen, starrer Wimpern Schatten</L>
+<L>Auf Wangen, von denen f&#xFC;r immer das L&#xE4;cheln</L>
+<L>schwand <SYMBOL type="5dots"/></L></LG>
+<DIV_END divEndID="deID_2433_00006" startPtr="WR-02-02-13_n0508.xml#//DIV_START[@divStartID='dsID_2433_00008']"/>
+</PAGE>

@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0406.xml</PREV>
+<NEXT>WR-03-02-17_n0408.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 407</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="act" divStartID="dsID_2434_00925" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01038']"/>
+<TITLE titleID="tiID_2434_00198"><TITLEPART>DRITTER ACT.</TITLEPART></TITLE>
+<P parID="04703"><SD>Die Marmors&#xE4;ulenhalle. Die Laden und K&#xE4;stchen stehen offen. &#xDC;berall auf Hausrath<LE/>
+und Teppichen liegen die kostbaren Seidenstoffe, Gold- und Silberbrocate, <HYPH1 cont="Perlen-Halsb&#xE4;nder">Perlen-</HYPH1><LE/>
+<HYPH2>Halsb&#xE4;nder</HYPH2>, G&#xFC;rtel und Armb&#xE4;nder, Ringe und Geschmeide aller Zeiten und L&#xE4;nder<LE/>
+ausgebreitet. Es ist Nacht; die Kronleuchter brennen. Die F&#xDC;NF FRAUEN stehen vor<LE/>
+den grossen Spiegeln und kn&#xFC;pfen ihr Haar auf, legen ihre schimmernden Gew&#xE4;nder<LE/>
+in Falten und schm&#xFC;cken sich mit Blumen und Edelsteinen, w&#xE4;hrend ARIANE von der<LE/>
+Einen zur Andern geht, ihnen r&#xE4;th und hilft. Die Fenster &#xF6;ffnen sich in die Nacht.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00926" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00923']"/>
+<P parID="04704"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04705"><TAB/>Ariane, glaubst Du, dass er heute abends noch zur&#xFC;ckkommt?</P>
+<DIV_END divEndID="deID_2434_00923" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00926']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00927" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00924']"/>
+<P parID="04706"><SPK>ARIANE</SPK>:</P>
+<P parID="04707"><TAB/>Ja, ich habe den ganzen Tag lang eine grosse Bewegung im Dorfe <HYPH1 cont="bemerkt">be-</HYPH1><LE/>
+<HYPH2>merkt</HYPH2>. Die Bauern m&#xFC;ssen eine schlimme Nachricht bekommen haben. Sie<LE/>
+haben sich mit Gabeln und Kn&#xFC;tteln bewaffnet. Sie haben versucht, an das<LE/>
+Schloss zu kommen, aber die Wache ist ihnen am Aussenthor <HYPH1 cont="entgegengetreten">entgegen-</HYPH1><LE/>
+<HYPH2>getreten</HYPH2> <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00924" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00927']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00928" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00925']"/>
+<P parID="04708"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04709"><TAB/>Wo ist er hingegangen?</P>
+<DIV_END divEndID="deID_2434_00925" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00928']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00929" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00926']"/>
+<P parID="04710"><SPK>ARIANE</SPK>:</P>
+<P parID="04711"><TAB/>Er hat&#x2019;s mir nicht verrathen. Er ist noch am Abend desselben Tages<LE/>
+gegangen, an dem ich gekommen bin. Ich habe ihn nicht wieder gesehen.</P>
+<DIV_END divEndID="deID_2434_00926" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00929']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00930" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00927']"/>
+<P parID="04712"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04713"><TAB/>Er hat Dich mehr als einmal gek&#xFC;sst?</P>
+<DIV_END divEndID="deID_2434_00927" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00930']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00931" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00928']"/>
+<P parID="04714"><SPK>ARIANE</SPK>:</P>
+<P parID="04715"><TAB/>Ja.</P>
+<DIV_END divEndID="deID_2434_00928" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00931']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00932" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00929']"/>
+<P parID="04716"><SPK>MELISANDE</SPK>:</P>
+<P parID="04717"><TAB/>Oh, ich f&#xFC;rchte mich <SYMBOL type="3dots"/> Du wirst nicht fortgehen?</P>
+<DIV_END divEndID="deID_2434_00929" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00932']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00933" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00930']"/>
+<P parID="04718"><SPK>ARIANE</SPK>:</P>
+<P parID="04719"><TAB/>Wie soll ich denn fortgehen, wo alle Thore geschlossen sind? Aber was<LE/>
+thust Du da, Melisande? Dein Haar ist fast wie ein Wunder. Dort unten im<LE/>
+Kerker leuchtete es und w&#xFC;rde noch in der Nacht des Grabes l&#xE4;cheln. Und Du<LE/>
+bem&#xFC;hst Dich, jede seiner Flammen zu ersticken? <SYMBOL type="3dots"/> Halt an, dass ich noch<LE/>
+einmal das Licht befreie.</P>
+<DIV_END divEndID="deID_2434_00930" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00933']"/>
+<P parID="04720"><SD>(Sie reisst ihr den Schleier fort, schneidet die B&#xE4;nder der Haarflechten mit der<LE/>
+Schere entzwei, und Melisandes ganzes volles Haar geht pl&#xF6;tzlich auf und <HYPH1 cont="&#xFC;berstr&#xF6;mt">&#xFC;ber-</HYPH1><LE/>
+<HYPH2>str&#xF6;mt</HYPH2> ihre Schultern wie Gold.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00934" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00931']"/>
+<P parID="04721"><SPK>YGRAINE</SPK><LE/>
+<SD>(sich umwendend, um Melisande zu sehen)</SD>:</P>
+<P parID="04722"><TAB/>Oh!</P>
+<DIV_END divEndID="deID_2434_00931" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00934']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00935" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00932']"/>
+<P parID="04723"><SPK>S&#xC9;LYSETTE</SPK><LE/>
+<SD>(sich gleichfalls umwendend)</SD>:</P>
+<P parID="04724"><TAB/>Und so sch&#xF6;n ist sie, dass ich fast glaube, sie ist&#x2019;s nicht mehr <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00932" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00935']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00936" endPtr="WR-03-02-17_n0407.xml#//DIV_END[@divEndID='deID_2434_00933']"/>
+<P parID="04725"><SPK>ARIANE</SPK><LE/>
+<SD>(geht zu S&#xE9;lysette)</SD>:</P>
+<P parID="04726"><TAB/>Und Du, S&#xE9;lysette, was hast Du gemacht? Wo sind Deine holdseligen Arme?</P>
+<DIV_END divEndID="deID_2434_00933" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00936']"/>
+<FT type="pn" num="407" c_text="&#x2014; 407 &#x2014;"/>
+</PAGE>

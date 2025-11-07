@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-03_n0058.xml</PREV>
+<NEXT>WR-05-03_n0060.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 3, S. 59</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>GIDE: PHILOKTET ODER DER TRACTAT VON DEN DREI LEBENSANSCHAUUNGEN.</CTEXT></HD>
+<TABLE parID="05627"><ROW ciID="0942"><CELL>
+<DIV_START cat="act" divStartID="dsID_2436_01129" endPtr="WR-05-03_n0060.xml#//DIV_END[@divEndID='deID_2436_01149']"/>
+<TITLE titleID="tiID_2436_00268"><TITLEPART>IV. Act.</TITLEPART></TITLE>
+<DIV_START cat="scene" divStartID="dsID_2436_01130" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01140']"/>
+<TITLE titleID="tiID_2436_00269"><TITLEPART>1. Scene.</TITLEPART></TITLE>
+<P parID="05628"><SD><SPK><SPC>Philoktet</SPC></SPK> und <SPK><SPC>Neoptolemos</SPC></SPK>.</SD></P>
+<P parID="05629"><SD>(Philoktet ist allein, ersitzt; erscheint vom<LE/>
+Schmerz &#xFC;bermannt &#x2014; oder denkt.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_01131" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01126']"/>
+<P parID="05630"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK> <SD>(tritt laufend ein)</SD>:<LE/>
+Dass ich ihn nur noch zur rechten<LE/>
+Zeit treffe! &#x2014; Ah, du, Philoktet! Nur<LE/>
+schnell, h&#xF6;re mich! Das, was wir eben<LE/>
+gethan haben, ist unw&#xFC;rdig; aber sei<LE/>
+gr&#xF6;&#xDF;er als wir: verzeihe mir. Wir<LE/>
+kamen <SYMBOL type="3dots"/> o, ich sch&#xE4;me mich, es dir<LE/>
+zu sagen &#x2014; wir kamen, dir den Bogen<LE/>
+zu stehlen, Philoktet!</P>
+<DIV_END divEndID="deID_2436_01126" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01131']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01132" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01127']"/>
+<P parID="05631"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Ich wusste es.</P>
+<DIV_END divEndID="deID_2436_01127" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01132']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01133" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01128']"/>
+<P parID="05632"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Du verstehst mich<LE/>
+nicht <SYMBOL type="3dots"/> Um dir den Bogen zu stehlen,<LE/>
+kamen wir, sage ich! &#x2014; Vertheidige<LE/>
+dich doch!</P>
+<DIV_END divEndID="deID_2436_01128" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01133']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01134" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01129']"/>
+<P parID="05633"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Gegen wen? Gegen<LE/>
+dich, Neoptolemos?</P>
+<DIV_END divEndID="deID_2436_01129" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01134']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01135" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01130']"/>
+<P parID="05634"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Nein, wahrlich nicht<LE/>
+gegen mich, ich liebe dich und darum<LE/>
+sagte ich es.</P>
+<DIV_END divEndID="deID_2436_01130" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01135']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01136" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01131']"/>
+<P parID="05635"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Und du verr&#xE4;thst<LE/>
+Ulysses <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_01131" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01136']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01137" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01132']"/>
+<P parID="05636"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: O, ich bin in <HYPH1 cont="Verzweiflung">Ver-</HYPH1><LE/>
+<HYPH2>zweiflung</HYPH2> <SYMBOL type="3dots"/> Dir gab ich mich hin!<LE/>
+Liebst du mich? Sprich, Philoktet? Ist<LE/>
+das die Tugend?</P>
+<DIV_END divEndID="deID_2436_01132" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01137']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01138" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01133']"/>
+<P parID="05637"><TAB/>Philoktet: Kind! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_01133" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01138']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01139" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01134']"/>
+<P parID="05638"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Sieh&#x2019; her, das<LE/>
+bringe ich dir mit! Diese Phiole soll<LE/>
+dich einschl&#xE4;fern! Aber ich, sieh&#x2019;, ich<LE/>
+gebe sie dir! Hier! Ist das die Tugend?<LE/>
+Sprich!</P>
+<DIV_END divEndID="deID_2436_01134" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01139']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01140" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01135']"/>
+<P parID="05639"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Schritt f&#xFC;r Schritt nur,<LE/>
+Kind, gelangt man zur Tugend; das,<LE/>
+was du jetzt thust, ist nur ein Sprung!</P>
+<DIV_END divEndID="deID_2436_01135" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01140']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01141" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01136']"/>
+<P parID="05640"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: So unterweise mich<LE/>
+doch, Philoktet!</P>
+<DIV_END divEndID="deID_2436_01136" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01141']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01142" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01137']"/>
+<P parID="05641"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Diese Phiole soll mich<LE/>
+einschl&#xE4;fern, sagst du? <SD>(Er nimmt sie und<LE/>
+betrachtet sie.)</SD> Kleine Phiole <SYMBOL type="3dots"/> du <HYPH1 cont="wenigstens">wenig-</HYPH1><LE/>
+<HYPH2>stens</HYPH2> wirst dein Ziel nicht verfehlen.<LE/>
+Siehst du, was ich thue, Neoptolemos?<LE/>
+<SD>(Er trinkt.)</SD></P>
+<DIV_END divEndID="deID_2436_01137" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01142']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01143" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01138']"/>
+<P parID="05642"><TAB/><SPK><SPC>Neoptolemos</SPC></SPK>: Ungl&#xFC;cklicher, das<LE/>
+ist <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_01138" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01143']"/>
+</CELL><CELL>
+<DIV_START cat="speech" divStartID="dsID_2436_01144" endPtr="WR-05-03_n0059.xml#//DIV_END[@divEndID='deID_2436_01139']"/>
+<P parID="05643"><TAB/><SPK><SPC>Philoktet</SPC></SPK>: Ich gebe mich hin!<LE/>
+Sag&#x2019; es Ulysses! Du magst ihm sagen <SYMBOL type="3dots"/><LE/>
+dass er komme. <SD>(Erschrocken eilt <SPC><HYPH1 cont="Neoptolemos">Neopto-</HYPH1><LE/>
+<HYPH2>lemos</HYPH2></SPC> davon und schreit auf.)</SD></P>
+<DIV_END divEndID="deID_2436_01139" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01144']"/>
+<DIV_END divEndID="deID_2436_01140" startPtr="WR-05-03_n0059.xml#//DIV_START[@divStartID='dsID_2436_01130']"/>
+<DIV_START cat="scene" divStartID="dsID_2436_01145" endPtr="WR-05-03_n0060.xml#//DIV_END[@divEndID='deID_2436_01148']"/>
+<TITLE titleID="tiID_2436_00270"><TITLEPART>2. Scene.</TITLEPART></TITLE>
+<P parID="05644"><SD><SPK><SPC>Philoktet</SPC></SPK>, dann <SPK><SPC>Ulysses</SPC></SPK> und <SPK><SPC><HYPH1 cont="Neoptolemos">Neopto-</HYPH1><LE/>
+<HYPH2>lemos</HYPH2></SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_01146" endPtr="WR-05-03_n0060.xml#//DIV_END[@divEndID='deID_2436_01141']"/>
+<P parID="05645"><TAB/><SPK><SPC>Philoktet</SPC></SPK> <SD>(allein)</SD>: Und du wirst<LE/>
+mich bewundern, Ulysses; ich will dich<LE/>
+zwingen, mich zu bewundern. Meine<LE/>
+Tugend wird die deine &#xFC;bertreffen, und<LE/>
+du wirst dich kleiner f&#xFC;hlen. Berausche<LE/>
+dich, Tugend des Philoktet! S&#xE4;ttige<LE/>
+dich an deiner Sch&#xF6;nheit! Neoptolemos,<LE/>
+warum nimmst du nicht gleich deinen<LE/>
+Bogen? Je mehr du mich liebtest, umso<LE/>
+schwerer war es dir; du hast dich nicht<LE/>
+genug hingegeben. Nimm hin! <SD>(Er blickt<LE/>
+um sich.)</SD> Er ist nicht mehr da <SYMBOL type="3dots"/></P>
+<P parID="05646"><TAB/>Dieser Trank hatte einen <HYPH1 cont="schrecklichen">schreck-</HYPH1><LE/>
+<HYPH2>lichen</HYPH2> Geschmack. Wenn ich nur daran<LE/>
+denke, steigt mir das Herz. Ich m&#xF6;chte<LE/>
+fr&#xFC;her einschlafen <SYMBOL type="3dots"/></P>
+<P parID="05647"><TAB/>Von den vielen Arten von Hingabe<LE/>
+die th&#xF6;richtste ist die Hingabe an andere,<LE/>
+denn dann ist man ihnen &#xFC;berlegen.<LE/>
+Ich gebe mich hin, ja, aber nicht meiner<LE/>
+Heimat. Ich bereue nur, dass meine<LE/>
+Hingabe Griechenland diene. Nein,<LE/>
+nicht einmal das bereue ich <SYMBOL type="3dots"/> Aber<LE/>
+dann wenigstens wisse mir keinen<LE/>
+Dank, denn nur f&#xFC;r mich handle ich<LE/>
+und nicht f&#xFC;r dich! &#x2014; Ulysses, du<LE/>
+wirst mich bewundern, nicht wahr?<LE/>
+&#x2014; Ulysses, Ulysses, wo bist du? <HYPH1 cont="Verstehe">Ver-</HYPH1><LE/>
+<HYPH2>stehe</HYPH2> mich: Ich gebe mich hin, aber<LE/>
+nicht dem Vaterland <SYMBOL type="3dots"/> einem anderen,<LE/>
+verstehst du! F&#xFC;r wen thue ich es nun?<LE/>
+Ich wei&#xDF; nicht! Wirst du verstehen?<LE/>
+Ulysses, vielleicht wirst du glauben,<LE/>
+dass ich mich Griechenland hingebe.<LE/>
+Ach! dieser Bogen und diese Pfeile<LE/>
+werden ihm doch dienen! Wohin soll<LE/>
+ich sie nur werfen? &#x2014; Ins Meer, ins<LE/>
+Meer! <SD>(Er will laufen, aber f&#xE4;llt zur&#xFC;ck, von<LE/>
+der Wirkung des Trankes &#xFC;berw&#xE4;ltigt.)</SD> Ich<LE/>
+bin ohne Kraft! Ach! Mein Kopf wird<LE/>
+verwirrt <SYMBOL type="3dots"/> Er wird kommen <SYMBOL type="3dots"/></P>
+<P part="initial" parID="05648"><TAB/>Tugend! Tugend! in deinem bitteren<LE/>
+Namen suche ich ein wenig vom gro&#xDF;en<LE/>
+Rausch; h&#xE4;tte ich ihn schon ersch&#xF6;pft?</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="59" c_text="&#x2014; 59 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-19_n0751.xml</PREV>
+<NEXT>WR-01-02-20_n0753.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 19, S. 752</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>8</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">752</LTEXT><CTEXT>NOTIZEN.</CTEXT></HD>
+<TABLE parID="01648"><ROW ciID="0142"><CELL>
+<P part="medial" parID="01649">seinen finsteren Schatten &#xFC;ber die<LE/>
+Lebenden, &#xFC;ber Gegenwart und <HYPH1 cont="Zukunft">Zu-</HYPH1><LE/>
+<HYPH2>kunft</HYPH2> wirft. Zuweilen vergisst man<LE/>
+bei dieser grossen Kunst ganz und<LE/>
+gar daran, den todten Buchstaben<LE/>
+eines gedruckten Buches vor Augen<LE/>
+zu haben: es weht der heisse<LE/>
+Athem der Zeit, des Werdens und<LE/>
+Vergehens, des Unbewussten, <HYPH1 cont="Transcendentalen">Trans-</HYPH1><LE/>
+<HYPH2>cendentalen</HYPH2> aus den Seiten; ein<LE/>
+unbeschreibliches, unheimliches <HYPH1 cont="Etwas">Et-</HYPH1><LE/>
+<HYPH2>was</HYPH2> l&#xE4;sst ahnen, was in den<LE/>
+Tiefen lauert, an die der Mensch</P>
+</CELL><CELL>
+<P part="final" parID="01650">mit Schaudern nur zu denken<LE/>
+wagt <SYMBOL type="3dots"/></P>
+<P parID="01651"><TAB/>Dank und Anerkennung sei dem<LE/>
+jungen Autor gezollt, der mit<LE/>
+Wunderhand so viel des <HYPH1 cont="D&#xFC;ster-Sch&#xF6;nen">D&#xFC;ster-</HYPH1><LE/>
+<HYPH2>Sch&#xF6;nen</HYPH2> auf sein Werk gestreut.<LE/>
+Die &#xBB;Juden von Zirndorf&#xAB; sind<LE/>
+nicht der <SPC>Roman</SPC> eines <HYPH1 cont="Schriftstellers"><SPC>Schrift</SPC>-</HYPH1><LE/>
+<HYPH2><SPC>stellers</SPC></HYPH2>, beides in der <HYPH1 cont="gleichgiltigen">gleich-</HYPH1><LE/>
+<HYPH2>giltigen</HYPH2> Gesch&#xE4;ftssprache: sie sind<LE/>
+das <SPC>Buch</SPC> eines <SPC>K&#xFC;nstlers</SPC> in<LE/>
+des Wortes edelster Bedeutung!</P>
+<P parID="01652"><I><AUCTOR>Alfred Neumann</AUCTOR>.</I></P>
+<DIV_END divEndID="deID_2398_00224" startPtr="WR-01-02-19_n0751.xml#//DIV_START[@divStartID='dsID_2398_00226']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2398_00225" startPtr="WR-01-02-19_n0750.xml#//DIV_START[@divStartID='dsID_2398_00224']"/>
+<SEPARATOR type="hr"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2398_00227" endPtr="WR-01-02-19_n0752.xml#//DIV_END[@divEndID='deID_2398_00226']"/>
+<P parID="01653">Herausgeber und verantwortlicher Redacteur: <SPC>Rudolf Strauss</SPC>.</P>
+<P parID="01654">Ch. Reisser &amp; M. Werthner, Wien.</P>
+<DIV_END divEndID="deID_2398_00226" startPtr="WR-01-02-19_n0752.xml#//DIV_START[@divStartID='dsID_2398_00227']"/>
+<DIV_END divEndID="deID_2398_00227" startPtr="WR-01-02-19_n0717.xml#//DIV_START[@divStartID='dsID_2398_00214']"/>
+</PAGE>

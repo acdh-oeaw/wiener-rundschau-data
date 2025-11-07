@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-10_n0400.xml</PREV>
+<NEXT>WR-01-01-11_n0402.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 401</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2397_00519" endPtr="WR-01-01-11_n0440.xml#//DIV_END[@divEndID='deID_2397_00549']"/>
+<DIV_START cat="masthead" divStartID="dsID_2397_00520" endPtr="WR-01-01-11_n0401.xml#//DIV_END[@divEndID='deID_2397_00519']"/>
+<P parID="02857"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02858"><B><DATE>15. <SPC>APRIL</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2397_00519" startPtr="WR-01-01-11_n0401.xml#//DIV_START[@divStartID='dsID_2397_00520']"/>
+<DIV_START divStartID="dsID_2397_00521" endPtr="WR-01-01-11_n0403.xml#//DIV_END[@divEndID='deID_2397_00520']"/>
+<TITLE titleID="tiID_2397_00157"><TITLEPART type="main">DIE ADLERMUTTER.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Jonas Lie</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Einzig autorisirte Uebersetzung von <AUCTOR type="translator"><C>Ernst Brausewetter</C></AUCTOR>.</TITLEPART></TITLE>
+<P parID="02859"><TAB/>Weit, weit draussen, wo die Berge gen Himmel blauten und<LE/>
+Gipfel, Zacken und Firnen in Glanz und Gluth wundersam violetter<LE/>
+Farbent&#xF6;ne emporstiegen, hatte der stolze Aar an einer wilden, steilen<LE/>
+Felswand sein Nest erbaut. Waldbedeckte Thalz&#xFC;ge, in denen B&#xE4;che<LE/>
+dahinsausten, furchten sich dort in immer schm&#xE4;leren, schliesslich <HYPH1 cont="verschwindenden">ver-</HYPH1><LE/>
+<HYPH2>schwindenden</HYPH2> Rinnen hinauf.</P>
+<P parID="02860"><TAB/>Wenn der Adler auf seinen gewaltigen Schwingen im D&#xE4;mmern<LE/>
+eines neuen Tages, nach Beute sp&#xE4;hend, h&#xF6;her, als der Menschenblick<LE/>
+reicht, dahinsegelte, vermochte er die winzigste Feldmaus, die sich<LE/>
+unten am Boden r&#xFC;hrte, zu unterscheiden. Das muntere Zicklein, das<LE/>
+unten spielte und tanzte und das Kunstst&#xFC;ck zeigte, auf dem <HYPH1 cont="Zaunpfahl">Zaun-</HYPH1><LE/>
+<HYPH2>pfahl</HYPH2> <SPAN pos="2" type="turnedType">zu</SPAN> balanciren, machte unerwartet eine viel gr&#xF6;ssere Fahrt in die<LE/>
+L&#xFC;fte. Und der Hase, der noch sass, sich die Augen rieb, sich putzte<LE/>
+und sich munter machte, durfte pl&#xF6;tzlich die Welt von so weit oben<LE/>
+betrachten, dass die Kirchth&#xFC;rme von sieben D&#xF6;rfern in schwindelnder<LE/>
+Tiefe unter ihm lagen.</P>
+<P parID="02861"><TAB/>An anderen Jagdtagen kreuzte der Aar hunderte Meilen &#xFC;ber<LE/>
+Stein&#xF6;den mit wilden Felsen, schattendunkeln Abgr&#xFC;nden und <HYPH1 cont="moosgrauen">moos-</HYPH1><LE/>
+<HYPH2>grauen</HYPH2> Fl&#xE4;chen unter sich.</P>
+<P parID="02862"><TAB/>Und weit draussen blaute Bergkette hinter Bergkette fern nach<LE/>
+Westen sowie hinaus zum wilden Eismeer.</P>
+<P parID="02863"><TAB/>Die Bergreihen waren Grenzscheiden zwischen zwei Reichen, in<LE/>
+denen der Aar jahrelang seine Abkommen zu selbstherrschenden<LE/>
+K&#xF6;nigen und K&#xF6;niginnen eingesetzt hatte. Und wehe dem Unberechtigten,<LE/>
+der es wagte, sich in ihr Jagdgebiet einzudr&#xE4;ngen.</P>
+<P parID="02864"><TAB/>Der alte Aar musste aber auch selbst manchen Strauss gegen<LE/>
+einen vertriebenen F&#xFC;rsten seines eigenen Geschlechtes bestehen.</P>
+<P parID="02865"><TAB/>Dann gab es eine Luftschlacht, so dass die Federn flogen und<LE/>
+immer blutiger herabregneten, bis schliesslich einer der K&#xE4;mpfenden<LE/>
+pl&#xF6;tzlich als lebloser Klumpen zur Erde herabst&#xFC;rzte.</P>
+</PAGE>

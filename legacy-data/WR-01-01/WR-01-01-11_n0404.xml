@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-11_n0403.xml</PREV>
+<NEXT>WR-01-01-11_n0405.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 404</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00522" endPtr="WR-01-01-11_n0404.xml#//DIV_END[@divEndID='deID_2397_00521']"/>
+<TITLE titleID="tiID_2397_00158"><TITLEPART><SPC>SPHYNX</SPC>.</TITLEPART></TITLE>
+<LG parID="02903"><L><SYMBOL type="3dots"/> So thront sie stolz im kalten Nichtsempfinden:</L>
+<L>Sie kennt der Menschheit f&#xFC;rchterlich&#x2019; Geschick,</L>
+<L>Ihr Auge weiss den Weg in&#x2019;s Herz zu finden,</L>
+<L>Das Leben l&#xE4;hmt ihr todesstarrer Blick.</L></LG>
+<LG parID="02904"><L>Den Marmorsaal durchstr&#xF6;men rothe Wellen <SYMBOL type="3dots"/></L>
+<L>Dem leisen Wogen lauscht das bleiche Weib,</L>
+<L>Die Schmerzensrufe, die den Raum durchgellen,</L>
+<L>Sie f&#xE4;rben rosig ihren todten Leib.</L></LG>
+<LG parID="02905"><L>Nie f&#xFC;hlt die Sphynx, dass sie das Mitleid qu&#xE4;le,</L>
+<L>Wenn sich ein Herz in greller Qual verblutet &#x2014;</L>
+<L>Nein &#x2014; Freude zieht ihr k&#xFC;hlend durch die Seele,</L>
+<L>Wenn dumpfes Leid die Menschen &#xFC;berfluthet <SYMBOL type="2dots"/></L></LG>
+<P parID="02906">Paris. <C>Graf <AUCTOR>Robert von Montesquiou</AUCTOR></C>.</P>
+<P parID="02907">Deutsch von <AUCTOR type="translator"><C>Alfred Neumann</C></AUCTOR> (Wien).</P>
+<DIV_END divEndID="deID_2397_00521" startPtr="WR-01-01-11_n0404.xml#//DIV_START[@divStartID='dsID_2397_00522']"/>
+</PAGE>

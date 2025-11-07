@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-01_n0005.xml</PREV>
+<NEXT>WR-03-01-01_n0007.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 6</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>STRINDBERG: DIE SCHL&#xDC;SSEL DES HIMMELREICHS.</CTEXT></HD>
+<TABLE parID="00135"><ROW ciID="0280"><CELL>
+<DIV_START cat="speech" divStartID="dsID_2434_00050" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00046']"/>
+<P parID="00136"><SPK><SPC>Die Fr&#xF6;sche</SPC></SPK>.</P>
+<LG typo="hasDiacritics" parID="00137"><L>Koah koah koah koah koah koah &#x2014; koah</L>
+<L>koah koah koah koah koah koah koah</L>
+<L>koah* &#x2014; <SD>(Bis.)</SD></L></LG>
+<DIV_END divEndID="deID_2434_00046" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00050']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00051" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00047']"/>
+<P parID="00138"><SPK><SPC>Thersites</SPC></SPK> <SD>(singt)</SD>.</P>
+<LG parID="00139"><L>Ich bin ein kleiner Vogel,</L>
+<L>Der singet Nacht und Tag,</L>
+<L>Und lernt&#x2019; ich auch nicht singen,</L>
+<L>So sing ich doch recht brav!</L></LG>
+<DIV_END divEndID="deID_2434_00047" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00051']"/>
+<P parID="00140"><SD>(R&#xE4;uspert sich.)</SD></P>
+<P parID="00141"><SD><SPK><SPC>Die Fr&#xF6;sche</SPC></SPK> (applaudieren).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00052" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00048']"/>
+<P parID="00142"><SPK><SPC>Thersites</SPC></SPK> <SD>(singt)</SD>.</P>
+<LG parID="00143"><L>Ich bin ein kleines Bl&#xFC;mlein</L>
+<L>Und dufte rein im Tann&#x2019;,</L>
+<L>Und lernt&#x2019; ich auch nicht duften,</L>
+<L>So duft ich, wie ich kann.</L></LG>
+<DIV_END divEndID="deID_2434_00048" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00052']"/>
+<P parID="00144"><SD>(R&#xE4;uspert sich.)</SD></P>
+<P parID="00145"><SD><SPK><SPC>Die Fr&#xF6;sche</SPC></SPK> (applaudieren).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00053" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00049']"/>
+<P parID="00146"><SPK><SPC>Thersites</SPC></SPK> <SD>(singt)</SD>.</P>
+<LG parID="00147"><L>Ich bin ein kleiner Falter,</L>
+<L>Zu sch&#xE4;kern flieg ich aus,</L>
+<L>Und lernt&#x2019; ich auch nicht fliegen,</L>
+<L>Ich flieg&#x2019;, trotz einem &#x2014; Strauss.</L></LG>
+<DIV_END divEndID="deID_2434_00049" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00053']"/>
+<P parID="00148"><SD>(Er tanzt.)</SD></P>
+<P parID="00149"><SD><SPK><SPC>Die Fr&#xF6;sche</SPC></SPK><LE/>
+(applaudieren und recitieren hierauf wie oben).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00054" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00050']"/>
+<P parID="00150"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00151"><L>Du singest wie Narcissus selbst!</L>
+<L>Und h&#xE4;tte Midas nicht schon ganz <HYPH1 cont="verpfuscht">ver-</HYPH1></L>
+<L><HYPH2>pfuscht</HYPH2> das Genre,</L>
+<L>So k&#xF6;nntest Du Dich messen mit Apoll!</L></LG>
+<DIV_END divEndID="deID_2434_00050" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00054']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00055" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00051']"/>
+<P parID="00152"><SPK><SPC>Thersites</SPC></SPK>.</P>
+<LG parID="00153"><L>Ihr seid zu g&#xFC;tig, Doctor,</L>
+<L>Und dass ich&#x2019;s nur gesteh&#x2019;, ich dachte</L>
+<L>selbst daran,</L>
+<L>Doch hielt die angebor&#x2019;ne Sch&#xFC;chternheit</L>
+<L>Mich stets davon zur&#xFC;ck.</L></LG>
+<DIV_END divEndID="deID_2434_00051" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00055']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00056" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00052']"/>
+<P parID="00154"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00155"><L>Hast Du Narcissus nie zum Wettkampf</L>
+<L>aufgefordert?</L>
+<L>Das w&#xE4;r&#x2019; doch immer ein Triumph, ob</L>
+<L>auch nicht gross.</L></LG>
+<DIV_END divEndID="deID_2434_00052" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00056']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00057" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00053']"/>
+<P parID="00156"><SPK><SPC>Thersites</SPC></SPK>.</P>
+<LG parID="00157"><L>Der d&#xFC;nkelhafte Narr!</L></LG>
+<DIV_END divEndID="deID_2434_00053" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00057']"/>
+<DIV_END divEndID="deID_2434_00054" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00044']"/>
+</CELL><CELL>
+<DIV_START cat="scene" divStartID="dsID_2434_00058" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00072']"/>
+<TITLE titleID="tiID_2434_00008"><TITLEPART>Vierte Scene.</TITLEPART></TITLE>
+<P parID="00158"><SD>(Eine Oreade der Felsen des Waldes tritt <HYPH1 cont="hervor">her-</HYPH1><LE/>
+<HYPH2>vor</HYPH2>. Um sie scharen sich Dryaden, welche<LE/>
+sich hinter Baumst&#xE4;mmen verborgen gehalten,<LE/>
+sowie aus dem Wasser tauchende Najaden.)</SD></P>
+<P parID="00159"><SD><B>Die Vorigen.</B></SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00059" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00055']"/>
+<P parID="00160"><SPK><SPC>Die Oreade</SPC></SPK>.</P>
+<LG parID="00161"><L>Halt ein! Thersites! H&#xF6;r&#x2019;, bevor Du redest</L>
+<L>Von Dingen, die Du nicht verstehn gekonnt.</L>
+<L>Du liest die Sachen wie ein Kind,</L>
+<L>Und findest alles einfach.</L>
+<L>Doch der Gedanke, der dahinter steckt,</L>
+<L>Bleibt Deinem tr&#xFC;ben Blick verdeckt.</L>
+<L>So klingt die wahre Sage von Narcissus:</L></LG>
+<P parID="00162"><SD>(Recitiert oder singt.)</SD></P>
+<LG parID="00163"><L>So erz&#xE4;hlt die Sage von Pan,</L>
+<L>Dem Gotte des rauschenden Wald&#x2019;s,</L>
+<L>Einer Nymphe stellt&#x2019; er einst nach,</L>
+<L>Die Echo mit Namen genannt.</L>
+<L>Nicht Gefallen fand Echo an Pan,</L>
+<L>Sie liebt&#x2019; einen andern getreu,</L>
+<L>Doch Narcissus, wie er genannt,</L>
+<L>Statt Liebe die Weisheit erkor.</L>
+<L><LANG iso="grc" script="latin">Gnothi Seauton!</LANG></L></LG>
+<DIV_END divEndID="deID_2434_00055" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00059']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00060" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00056']"/>
+<P parID="00164"><SPK><SPC>Die Nymphen</SPC></SPK>.</P>
+<LG parID="00165"><L>Das da heisst: Erkenne Dich selbst!</L></LG>
+<DIV_END divEndID="deID_2434_00056" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00060']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00061" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00057']"/>
+<P parID="00166"><SPK><SPC>Die Oreade</SPC></SPK>.</P>
+<LG parID="00167"><L>In Gedanken sieh ihn dort steh&#x2019;n,</L>
+<L>Er schaut in der Tiefe sein Bild,</L>
+<L>Seines Wesens Grund zu ersp&#xE4;h&#x2019;n,</L>
+<L>Das hinter den Z&#xFC;gen sich birgt.</L>
+<L>Doch im Wasser rudert ein Narr,</L>
+<L>Im See nur den Spiegel er sieht,</L>
+<L>Und er w&#xE4;hnt, der Denker begafft</L>
+<L>Sich dort, wo ins Tiefste er blickt.</L>
+<L><LANG iso="grc" script="latin">Gnothi Seauton!</LANG></L></LG>
+<DIV_END divEndID="deID_2434_00057" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00061']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00062" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00058']"/>
+<P parID="00168"><SPK><SPC>Die Nymphen</SPC></SPK>.</P>
+<LG parID="00169"><L>Das da heisst: Erkenne Dich selbst.</L></LG>
+<DIV_END divEndID="deID_2434_00058" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00062']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00063" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00059']"/>
+<P parID="00170"><SPK><SPC>Thersites</SPC></SPK>.</P>
+<LG parID="00171"><L><LANG iso="grc" script="latin">Gnothi Seauton!</LANG> Ach! Den Narren,</L>
+<L>Damit soll ich vielleicht gemeint sein!</L>
+<L>Doch ich will zeigen Euch, dass auch</L>
+<L>der Narr,</L>
+<L>Wenn&#x2019;s sein muss, in die Tiefe blickt,</L>
+<L>Obgleich ich, grad&#x2019; heraus, dort nichts</L>
+<L>gewahr&#x2019; als Schlamm.</L></LG>
+<DIV_END divEndID="deID_2434_00059" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00063']"/>
+<P parID="00172"><SD>(Er lehnt sich &#xFC;ber den Bootrand.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00064" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00060']"/>
+<P parID="00173"><SPK><SPC>Die Oreade</SPC></SPK>.</P>
+<LG parID="00174"><L>Das glaub&#x2019; ich gern, Thersites,</L>
+<L>Darum, weil Du allein die Oberfl&#xE4;che siehst.</L></LG>
+<DIV_END divEndID="deID_2434_00060" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00064']"/>
+</CELL></ROW></TABLE>
+<FN>
+<P parID="00175"><TAB/>* &#x2C9;&#x2D8;&#x2D8;&#x2C9;&#x2D8;&#x2C9; | &#x2D8; &#x2C9;&#x2D8;&#x2D8;&#x2C9;&#x2D8;&#x2D8;&#x2C9;&#x2D8;</P>
+</FN>
+<FT type="pn" num="6" c_text="&#x2014; 6 &#x2014;"/>
+</PAGE>

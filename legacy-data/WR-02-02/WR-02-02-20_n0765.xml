@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-20_n0764.xml</PREV>
+<NEXT>WR-02-02-20_n0766.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 20, S. 765</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>9</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ORPHISCHES LIED</CTEXT><RTEXT type="pn">765</RTEXT></HD>
+<LG parID="01561"><L>Dann</L>
+<L>schleicht die schwarze nacht heran</L>
+<L>und scheucht den leidenswind hin- weg</L>
+<L>und raubt die blauen berge des sehnens</L>
+<L>und trinkt die wogen der liebes- wonne /</L>
+<L>die singenden /</L>
+<L>die sonnegek&#xFC;ssten <SYMBOL type="3dots"/></L></LG>
+<LG parID="01562"><L><SYMBOL type="2dots"/> Leise st&#xF6;hnt</L>
+<L>die f&#xF6;hre im dunkel</L>
+<L>und klagt zu den Sternen <SYMBOL type="3dots"/></L></LG>
+<LG parID="01563"><L>&#x2014; Wie eine f&#xF6;hre st&#xF6;hnt</L>
+<L>meine seele im dunkel</L>
+<L>und klagt zu den Sternen <SYMBOL type="3dots"/></L></LG>
+<P parID="01564">(<DATE>1891</DATE>.) <AUCTOR><C>Constantin Christomanos</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2433_00248" startPtr="WR-02-02-20_n0763.xml#//DIV_START[@divStartID='dsID_2433_00250']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

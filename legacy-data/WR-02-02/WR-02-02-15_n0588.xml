@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-15_n0587.xml</PREV>
+<NEXT>WR-02-02-15_n0589.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 15, S. 588</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>6</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2433_00153" endPtr="WR-02-02-15_n0588.xml#//DIV_END[@divEndID='deID_2433_00152']"/>
+<TITLE titleID="tiID_2433_00046"><TITLEPART type="main"><SPC>DIE MUSCHELN</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PAUL VERLAINE</AUCTOR>.</TITLEPART></TITLE>
+<LG parID="00793"><L>In jener Grotte, wo wir einst uns liebten,</L>
+<L>Weist jede Muschel eine eig&#x2019;ne Form.</L>
+<L>Die eine hat die Farbe uns&#x2019;rer Seelen,</L>
+<L>Die purpurroth wie unser Herzblut floss,</L>
+<L>Als ich und Du in Liebesglut entflammten.</L>
+<L>Die and&#x2019;re ist so bleich wie einst Dein Antlitz,</L>
+<L>Nachdem Du m&#xFC;d&#x2019; und schlaff dich mir entzogest.</L>
+<L>Ein Widerspiel der Anmuth Deines Ohres</L>
+<L>Ist diese da; die and&#x2019;re, liebliche,</L>
+<L>Ist wie Dein Nacken, rosigroth und schwellend &#x2014;</L>
+<L>Doch dort, &#x2014; &#x2014; dort eine! &#x2014; &#x2014; S&#xFC;ssester Anblick,</L>
+<L>Der mir das Blut j&#xE4;h in die Schl&#xE4;fen goss! &#x2014; &#x2014;</L></LG>
+<P parID="00794">(&#xDC;bersetzt von <AUCTOR type="translator">MAX MESSER</AUCTOR>.)</P>
+<DIV_END divEndID="deID_2433_00152" startPtr="WR-02-02-15_n0588.xml#//DIV_START[@divStartID='dsID_2433_00153']"/>
+</PAGE>

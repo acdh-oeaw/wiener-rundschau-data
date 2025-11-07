@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-10_n0367.xml</PREV>
+<NEXT>WR-02-01-10_n0369.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 10, S. 368</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2432_00556" endPtr="WR-02-01-10_n0371.xml#//DIV_END[@divEndID='deID_2432_00558']"/>
+<TITLE titleID="tiID_2432_00119"><TITLEPART type="main">ST&#xDC;CKE</TITLEPART><LE/>
+<TITLEPART type="desc">AUS EINEM <C>Roman in Romanzen</C> &#xBB;<C>Zwei Menschen</C>&#xAB;.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Richard Dehmel</C></AUCTOR>.</TITLEPART></TITLE>
+<SEPARATOR type="asterisk"/>
+<DIV_START type="verse" divStartID="dsID_2432_00557" endPtr="WR-02-01-10_n0369.xml#//DIV_END[@divEndID='deID_2432_00555']"/>
+<TITLE titleID="tiID_2432_00120"><TITLEPART><SPC>Taufnamenspiel</SPC>.</TITLEPART></TITLE>
+<LG parID="02582"><L>Kaminfeuer und blauer Tag</L>
+<L>liebkosen ein hohes Damengemach,</L>
+<L>die W&#xE4;rme scheint schier fr&#xFC;hlingshell;</L>
+<L>zwei Menschen ruhn auf einem Eisb&#xE4;rfell.</L>
+<L>Ein Mann bestarrt die meergr&#xFC;n seidnen W&#xE4;nde,</L>
+<L>ein Weib fasst z&#xE4;rtlich seine H&#xE4;nde:</L></LG>
+<LG parID="02583"><L>Qu&#xE4;lst dich schon wieder mit Alltagssachen?</L>
+<L>Lukas! mein Traumprinz! sollst doch lachen!</L>
+<L>sollst uns mit M&#xE4;rchennamen taufen,</L>
+<L>nit so hinterm Leben herlaufen,</L>
+<L>nit so h&#xE4;sslich auf deiner Hut sein;</L>
+<L>weisst? wenn du lachst, Lux, muss alle Welt dir gut sein!</L></LG>
+<LG parID="02584"><L>Er lacht und k&#xFC;sst die schmeichelnden Fingerspitzen,</L>
+<L>f&#xE4;hrt durch den dunkeln Haarbusch sich,</L>
+<L>und seine grauen Augen blitzen:</L></LG>
+<LG parID="02585"><L>Ja &#x2014; wenn ich traurig bin, hass&#x2019; ich mich,</L>
+<L>dann wird wohl auch die Welt mich hassen.</L>
+<L>Jetzt aber will ich dich beim Worte fassen,</L>
+<L>Bella: sehr eigen tauf ich dich.</L>
+<L>Es thut nicht noth, dass man dem Alltag trotzt,</L>
+<L>es gibt kein Wort, das nicht von M&#xE4;rchen strotzt;</L>
+<L>drum bleibe nur das Wunder, das du bist,</L>
+<L>und ich bin Lukas dein Evangelist.</L></LG>
+</PAGE>

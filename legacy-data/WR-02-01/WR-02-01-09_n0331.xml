@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-09_n0330.xml</PREV>
+<NEXT>WR-02-01-09_n0332.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 331</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>IDYLLE.</CTEXT><RTEXT type="pn">331</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2432_00516" endPtr="WR-02-01-09_n0331.xml#//DIV_END[@divEndID='deID_2432_00514']"/>
+<P parID="02344"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02345"><L>Uns&#xE4;glich reizend d&#xFC;nkt dies Ungebund&#x2019;ne mir.</L></LG>
+<DIV_END divEndID="deID_2432_00514" startPtr="WR-02-01-09_n0331.xml#//DIV_START[@divStartID='dsID_2432_00516']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00517" endPtr="WR-02-01-09_n0331.xml#//DIV_END[@divEndID='deID_2432_00515']"/>
+<P parID="02346"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="02347"><L>Die Waldgebornen kennen Scham und Treue nicht,</L>
+<L>Die erst das Haus verlangen und bewahren lernt.</L></LG>
+<DIV_END divEndID="deID_2432_00515" startPtr="WR-02-01-09_n0331.xml#//DIV_START[@divStartID='dsID_2432_00517']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00518" endPtr="WR-02-01-09_n0331.xml#//DIV_END[@divEndID='deID_2432_00516']"/>
+<P parID="02348"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02349"><L>Ward dir, dem Fl&#xF6;tenspiel des Pan zu lauschen, sag&#x2019;?</L></LG>
+<DIV_END divEndID="deID_2432_00516" startPtr="WR-02-01-09_n0331.xml#//DIV_START[@divStartID='dsID_2432_00518']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00519" endPtr="WR-02-01-09_n0331.xml#//DIV_END[@divEndID='deID_2432_00517']"/>
+<P parID="02350"><SPK><SPC>Der Centaur</SPC></SPK>.</P>
+<LG parID="02351"><L>In einem stillen Kesselthal ward mir&#x2019;s bescheert.</L>
+<L>Da wogte mit dem schw&#xFC;len Abendwind herab</L>
+<L>Vom Rand der Felsen r&#xE4;thselhaftestes Get&#xF6;n,</L>
+<L>So tief aufw&#xFC;hlend wie vereinter Drang</L>
+<L>Von allem Tiefsten, was die Seele je durchbebt,</L>
+<L>Als flog mein Ich im Wirbel fortgerissen mir</L>
+<L>Durch tausendfach verschied&#x2019;ne Trunkenheit hindurch.</L></LG>
+<DIV_END divEndID="deID_2432_00517" startPtr="WR-02-01-09_n0331.xml#//DIV_START[@divStartID='dsID_2432_00519']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00520" endPtr="WR-02-01-09_n0331.xml#//DIV_END[@divEndID='deID_2432_00518']"/>
+<P parID="02352"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="02353"><L>Verbotenes lass&#x2019; lieber unberedet sein!</L></LG>
+<DIV_END divEndID="deID_2432_00518" startPtr="WR-02-01-09_n0331.xml#//DIV_START[@divStartID='dsID_2432_00520']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00521" endPtr="WR-02-01-09_n0331.xml#//DIV_END[@divEndID='deID_2432_00519']"/>
+<P parID="02354"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02355"><L>Lass&#x2019; immerhin, was regt die Seele sch&#xF6;ner auf?</L></LG>
+<DIV_END divEndID="deID_2432_00519" startPtr="WR-02-01-09_n0331.xml#//DIV_START[@divStartID='dsID_2432_00521']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00522" endPtr="WR-02-01-09_n0331.xml#//DIV_END[@divEndID='deID_2432_00520']"/>
+<P parID="02356"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="02357"><L>Das Leben zeitigt selbst den h&#xF6;hern Herzensschlag,</L>
+<L>Wie reife Frucht vom Zweige sich erfreulich l&#xF6;st.</L>
+<L>Und nicht zu andern Schauern sind geboren wir,</L>
+<L>Als uns das Schicksal &#xFC;ber uns&#x2019;re Lebenswelle haucht.</L></LG>
+<DIV_END divEndID="deID_2432_00520" startPtr="WR-02-01-09_n0331.xml#//DIV_START[@divStartID='dsID_2432_00522']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00523" endPtr="WR-02-01-09_n0331.xml#//DIV_END[@divEndID='deID_2432_00521']"/>
+<P parID="02358"><SPK><SPC>Der Centaur</SPC></SPK>.</P>
+<LG parID="02359"><L>So blieb die wunderbare Kunst dir unbekannt,</L>
+<L>Die G&#xF6;tter &#xFC;ben, unter Menschen Mensch,</L>
+<L>Zu andern Zeiten aufzugeh&#x2019;n im Sturmeshauch,</L>
+<L>Und ein Delphin zu pl&#xE4;tschern wiederum im Nass</L>
+<L>Und &#xE4;therkreisend einzusaugen Adlerlust?</L>
+<L>Du kennst, mich d&#xFC;nkt, nur wenig von der Welt, mein Freund.</L></LG>
+<DIV_END divEndID="deID_2432_00521" startPtr="WR-02-01-09_n0331.xml#//DIV_START[@divStartID='dsID_2432_00523']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00524" endPtr="WR-02-01-09_n0332.xml#//DIV_END[@divEndID='deID_2432_00522']"/>
+<P parID="02360"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG part="initial" parID="02361"><L>Die ganze kenn ich, kennend meinen Kreis,</L>
+<L>Massloses nicht verlangend, noch begierig ich,</L>
+<L>Die fl&#xFC;cht&#x2019;ge Fluth zu ballen in der hohlen Hand.</L>
+<L>Den Bach, der deine Wiege schaukelte, erkennen lern&#x2019;,</L>
+<L>Den Nachbarbaum, der dir die Fr&#xFC;chte an der Sonne reift,</L>
+<L>Und dufterf&#xFC;llten lauen Schatten niedergiesst,</L>
+<L>Das k&#xFC;hle, gr&#xFC;ne Gras, es trat&#x2019;s dein Fuss als Kind,</L>
+<L>Die alten Eltern traten&#x2019;s, leise frierende,</L>
+<L>Und die Geliebte trat&#x2019;s, da quollen duftend auf</L>
+<L>Die Veilchen, schmiegend an ihre Sohlen an,</L>
+<L>Das Haus begreif, in dem du lebst und sterben sollst.</L></LG>
+</PAGE>

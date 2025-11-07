@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV></PREV>
+<NEXT>WR-01-02-00_i0002.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Inhalt S. 1 (Titel recto)</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS></ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="contents" divStartID="dsID_2398_00000" endPtr="WR-01-02-00_i0006.xml#//DIV_END[@divEndID='deID_2398_00002']"/>
+<DIV_START cat="titlepage" divStartID="dsID_2398_00001" endPtr="WR-01-02-00_i0001.xml#//DIV_END[@divEndID='deID_2398_00000']"/>
+<TITLE titleID="tiID_2398_00000"><TITLEPART type="main"><C>Wiener Rundschau</C>.</TITLEPART><LE/>
+<SEPARATOR type="undefined"/>
+<TITLEPART type="vol">BAND II. &#x2014; &#x2116; 13&#x2014;24.</TITLEPART><LE/>
+<TITLEPART type="imprint">WIEN <DATE>1897</DATE>.<LE/>
+<SPC>VERLAG DER WIENER RUNDSCHAU</SPC>.</TITLEPART></TITLE>
+<DIV_END divEndID="deID_2398_00000" startPtr="WR-01-02-00_i0001.xml#//DIV_START[@divStartID='dsID_2398_00001']"/>
+</PAGE>

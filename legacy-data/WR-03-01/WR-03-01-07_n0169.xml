@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-07_n0168.xml</PREV>
+<NEXT>WR-03-01-07_n0170.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 7, S. 169</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>SCHMITZ: EIN DEUTSCHES DRAMA.</CTEXT></HD>
+<TABLE parID="02275"><ROW ciID="0469"><CELL>
+<P part="final" parID="02276">von Schlafkammern der Geistlichen und<LE/>
+Laien ersch&#xF6;pft, wie er etwa von Luther bis<LE/>
+ungef&#xE4;hr zum westf&#xE4;lischen Frieden den<LE/>
+deutschen Geschmack beherrschte, bereits<LE/>
+von der schlesischen Vorl&#xE4;uferin unserer<LE/>
+grossen Literatur verdr&#xE4;ngt worden ist.<LE/>
+Wie erstaunlich ist also das Wagnis eines<LE/>
+modernen Dichters, den man zu den <SPAN pos="4" type="turnedType"><HYPH1 cont="symbolischen">sym-</HYPH1><LE/>
+<HYPH2>bolischen</HYPH2></SPAN> z&#xE4;hlt &#x2014; womit man in <HYPH1 cont="Deutschland">Deutsch-</HYPH1><LE/>
+<HYPH2>land</HYPH2> die Geschmackvollen meint &#x2014; einen<LE/>
+so anr&#xFC;chigen Stoff aus den Culturtr&#xFC;mmern<LE/>
+des 30j&#xE4;hrigen Krieges hervorzuw&#xFC;hlen.<LE/>
+Es braucht kaum gesagt zu werden, dass<LE/>
+er zun&#xE4;chst seinem Helden den <SPAN norm="Exkrement" sug="essentiell"><HYPH1 cont="excrementiellen">excremen-</HYPH1><LE/>
+<HYPH2>tiellen</HYPH2></SPAN> Charakter und damit auch alle<LE/>
+Hoffnung auf die so beliebte &#xBB;altdeutsche&#xAB;<LE/>
+Sittenbildlichkeit benahm. Der <HYPH1 cont="ungebrochene">unge-</HYPH1><LE/>
+<HYPH2>brochene</HYPH2> Schw&#xE4;rmer f&#xFC;r Ahnenrohheit<LE/>
+wird vielleicht von einer weichlichen <HYPH1 cont="Abschw&#xE4;chung">Ab-</HYPH1><LE/>
+<HYPH2>schw&#xE4;chung</HYPH2> einer derben und teutonischen<LE/>
+Volksfigur sprechen. Der Dichter hat den<LE/>
+Stoff so durchaus umgestaltet, dass sogar<LE/>
+die Frage m&#xFC;ssig wird, ob der <HYPH1 cont="Eulenspiegeltypus">Eulen-</HYPH1><LE/>
+<HYPH2>spiegeltypus</HYPH2> im deutschen <HYPH1 cont="Nationalbewusstsein">Nationalbewusst-</HYPH1><LE/>
+<HYPH2>sein</HYPH2> noch lebendig ist. In unserer hessischen<LE/>
+Heimat ist es dem Volk noch bekannt,<LE/>
+dass dieser grausame Spassmacher seine<LE/>
+Grossmutter mit der Mistgabel kitzelte,<LE/>
+dass er lachte, wenn er bergauf gieng,<LE/>
+indem er sich auf den Abstieg freute,<LE/>
+w&#xE4;hrend er aus dem entgegengesetzten<LE/>
+Grunde weinte, wenn er niederstieg.<LE/>
+Diese beiden Z&#xFC;ge des vernichtenden<LE/>
+Spottes gegen den Schwachen oder Tr&#xE4;gen,<LE/>
+der nicht mit kann im brausenden Zuge<LE/>
+des Lebens, sowie der perversen Logik<LE/>
+des zu w&#xF6;rtlich Nehmens der Worte, auf<LE/>
+welche die Menschen eingeschworen sind<LE/>
+und dadurch der Umkehrung ihres Sinnes,<LE/>
+hat Fuchs in sein Charakterbild <HYPH1 cont="aufgenommen">aufge-</HYPH1><LE/>
+<HYPH2>nommen</HYPH2>. Aber dieser Held wird mit seinen<LE/>
+ewigen Scherzen und Neckereien zum<LE/>
+alles bewegenden Erreger des gl&#xFC;hendsten<LE/>
+Werdens:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00502" endPtr="WR-03-01-07_n0169.xml#//DIV_END[@divEndID='deID_2434_00501']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00503" endPtr="WR-03-01-07_n0169.xml#//DIV_END[@divEndID='deID_2434_00500']"/>
+<ADD><P parID="02277"><SPK>Eulenspiegel</SPK>.</P></ADD>
+<LG parID="02278"><L>&#xBB;Hier ist mein Element,</L>
+<L>Wo Blut und Geist noch unbarmherzig brennt!</L>
+<L>Pfui &#xFC;ber all das zahme Einerlei!</L>
+<L>Vergebens r&#xFC;hrt man in dem schalen Brei,</L>
+<L>Doch am Stahle wirkt der Feuerstein:</L>
+<L>Funken heraus! Sonst schl&#xE4;ft die Menschheit</L>
+<L>ein!&#xAB;</L></LG>
+<DIV_END divEndID="deID_2434_00500" startPtr="WR-03-01-07_n0169.xml#//DIV_START[@divStartID='dsID_2434_00503']"/>
+<DIV_END divEndID="deID_2434_00501" startPtr="WR-03-01-07_n0169.xml#//DIV_START[@divStartID='dsID_2434_00502']"/>
+<P part="initial" parID="02279"><TAB/>Er ist das Gegenspiel des bleichen<LE/>
+D&#xE4;nenprinzen, dem die erdr&#xFC;ckende <HYPH1 cont="Aufgabe">Auf-</HYPH1><LE/>
+<HYPH2>gabe</HYPH2> ward, mit schwachem Arm die Welt</P>
+</CELL><CELL>
+<P part="final" parID="02280">in die Fugen zu bringen. Eulenspiegel<LE/>
+findet alles nur zu wohl gef&#xFC;gt, die Liebe<LE/>
+in Unbewusstheit gefesselt, die Macht in<LE/>
+todter Form erstarrt, das Handeln von<LE/>
+scheuem Br&#xFC;ten gehemmt.</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00504" endPtr="WR-03-01-07_n0169.xml#//DIV_END[@divEndID='deID_2434_00503']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00505" endPtr="WR-03-01-07_n0169.xml#//DIV_END[@divEndID='deID_2434_00502']"/>
+<ADD><P parID="02281"><SPK>Eulenspiegel</SPK>.</P></ADD>
+<LG parID="02282"><L>&#xBB;Erst war es still,</L>
+<L>Jetzt bin ich da! Jetzt klopf ich an! Der Fels</L>
+<L>klingt hohl;</L>
+<L>Ich steche den Stein: Ein Feuer spritzt,</L>
+<L>Ein Quell erbraust, und was da tr&#xE4;ge sitzt,</L>
+<L>L&#xE4;uft und d&#xFC;rstet, sch&#xF6;pft und hat zu thun,</L>
+<L>Zankt und n&#xFC;tzt den Quell, um besser dann</L>
+<L>zu ruh&#x2019;n.</L>
+<L>Schon bin ich fort, und keiner weiss, wer ihn</L>
+<L>gesch&#xFC;ttelt,</L>
+<L>Ich bin ein Falke, der im &#xC4;ther r&#xFC;ttelt</L>
+<L>Und dann unfehlbar st&#xF6;sst.&#xAB;</L></LG>
+<DIV_END divEndID="deID_2434_00502" startPtr="WR-03-01-07_n0169.xml#//DIV_START[@divStartID='dsID_2434_00505']"/>
+<DIV_END divEndID="deID_2434_00503" startPtr="WR-03-01-07_n0169.xml#//DIV_START[@divStartID='dsID_2434_00504']"/>
+<P parID="02283"><TAB/>Er r&#xFC;ttelt an den Pfeilern der <HYPH1 cont="Sittlichkeit">Sittlich-</HYPH1><LE/>
+<HYPH2>keit</HYPH2> um zum Schaffen zu erwecken. Denn<LE/>
+er ist</P>
+<DIV_START author="(other)" divStartID="dsID_2434_00506" endPtr="WR-03-01-07_n0169.xml#//DIV_END[@divEndID='deID_2434_00504']"/>
+<P parID="02284"><TAB/>&#xBB;Der Hort des unverf&#xE4;lschten Lebens&#xAB;</P>
+<DIV_END divEndID="deID_2434_00504" startPtr="WR-03-01-07_n0169.xml#//DIV_START[@divStartID='dsID_2434_00506']"/>
+<P parID="02285">und darum ehrt er noch lieber den Zerst&#xF6;rer<LE/>
+&#x2014; wie aus der Achtung vor seinem<LE/>
+Gegenspieler Rother erhellt &#x2014; als den<LE/>
+Lauen und Tr&#xE4;gen.</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00507" endPtr="WR-03-01-07_n0169.xml#//DIV_END[@divEndID='deID_2434_00506']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00508" endPtr="WR-03-01-07_n0169.xml#//DIV_END[@divEndID='deID_2434_00505']"/>
+<ADD><P parID="02286"><SPK>Eulenspiegel</SPK>.</P></ADD>
+<LG parID="02287"><L>&#xBB;Dass ich nicht alle tr&#xE4;gen Gesellen</L>
+<L>Von den B&#xE4;nken konnte schnellen,</L>
+<L>Dass ich nicht mit Hagel und Blitz</L>
+<L>Zerstob jeden nutzlosen, feisten Besitz,</L>
+<L>Nicht alle verrieth, die sich feige vergruben,</L>
+<L>Und Fackeln warf in die dunkelsten Stuben,</L>
+<L>Nicht alle neckte,</L>
+<L>Die von Salbung triefen,</L>
+<L>Nicht alle weckte,</L>
+<L>Die das Leben, das Leben verschliefen,</L>
+<L>Und alle befreite, die nach Schaffen riefen:</L>
+<L>Das ist mir leid!&#xAB;</L></LG>
+<DIV_END divEndID="deID_2434_00505" startPtr="WR-03-01-07_n0169.xml#//DIV_START[@divStartID='dsID_2434_00508']"/>
+<DIV_END divEndID="deID_2434_00506" startPtr="WR-03-01-07_n0169.xml#//DIV_START[@divStartID='dsID_2434_00507']"/>
+<P parID="02288"><TAB/>Wo er nahet, schafft er Erwachen,<LE/>
+Kampf und Sieg; sein Lied ber&#xFC;ckt, sein<LE/>
+Auge entz&#xFC;ndet, sein Arm befreit. Damit<LE/>
+ist sein Werk gethan. M&#xF6;gen die Bl&#xFC;ten,<LE/>
+die er unter den Segen des Lebens ger&#xFC;ckt,<LE/>
+allein zur Frucht werden. Ihm ist nicht<LE/>
+gegeben, zu verweilen.</P>
+<DIV_START author="(other)" divStartID="dsID_2434_00509" endPtr="WR-03-01-07_n0169.xml#//DIV_END[@divEndID='deID_2434_00507']"/>
+<P parID="02289"><TAB/>&#xBB;Eulenspiegel wandert durch die Welt.&#xAB;</P>
+<DIV_END divEndID="deID_2434_00507" startPtr="WR-03-01-07_n0169.xml#//DIV_START[@divStartID='dsID_2434_00509']"/>
+<P parID="02290"><TAB/>So kommt er auf die Burg des <HYPH1 cont="ge&#xE4;chteten">ge-</HYPH1><LE/>
+<HYPH2>&#xE4;chteten</HYPH2> Rother, der l&#xE4;ngst f&#xFC;r todt gilt.<LE/>
+Auch dieser</P>
+<DIV_START author="(other)" divStartID="dsID_2434_00510" endPtr="WR-03-01-07_n0169.xml#//DIV_END[@divEndID='deID_2434_00508']"/>
+<P parID="02291">&#xBB;That, wie ihm gefiel, ihn schreckte nichts&#xAB;</P>
+<DIV_END divEndID="deID_2434_00508" startPtr="WR-03-01-07_n0169.xml#//DIV_START[@divStartID='dsID_2434_00510']"/>
+<P part="initial" parID="02292">wie Eulenspiegel; doch dessen Thun ist<LE/>
+Wecken, sein Zerst&#xF6;ren Schaffen. Er gibt,<LE/>
+gibt sich selbst. Er will nichts f&#xFC;r sich,<LE/>
+nicht einmal die Anerkennung, noch die</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="169" c_text="&#x2014; 169 &#x2014;"/>
+</PAGE>

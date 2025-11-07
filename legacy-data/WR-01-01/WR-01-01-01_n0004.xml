@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-01_n0003.xml</PREV>
+<NEXT>WR-01-01-01_n0005.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 4</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">4</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<P part="final" parID="00037">in den H&#xE4;nden ruhen <SYMBOL type="3dots"/> Und wenn durch Zufall alte <HYPH1 cont="Anwandlungen">An-</HYPH1><LE/>
+<HYPH2>wandlungen</HYPH2> kommen, n&#xE4;here ich mich Astolaine, und dann<LE/>
+ist mir, als ob ich ein Fenster gegen die Morgenr&#xF6;the<LE/>
+&#xF6;ffne <SYMBOL type="3dots"/> Sie hat eine Seele, die man rings um sie her sieht,<LE/>
+die einen in die Arme nimmt wie ein leidendes Kind und,<LE/>
+ohne etwas zu sagen, &#xFC;ber Alles tr&#xF6;stet <SYMBOL type="3dots"/> Ich werde es<LE/>
+nie begreifen. &#x2014; Ich weiss nicht, woran all das liegen mag;<LE/>
+doch unwillk&#xFC;rlich beugen sich meine Knie, wenn ich davon<LE/>
+spreche <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00016" startPtr="WR-01-01-01_n0003.xml#//DIV_START[@divStartID='dsID_2397_00019']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00020" endPtr="WR-01-01-01_n0004.xml#//DIV_END[@divEndID='deID_2397_00017']"/>
+<P parID="00038"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00039"><TAB/>Ich will nach Hause.</P>
+<DIV_END divEndID="deID_2397_00017" startPtr="WR-01-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2397_00020']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00021" endPtr="WR-01-01-01_n0004.xml#//DIV_END[@divEndID='deID_2397_00018']"/>
+<P parID="00040"><SPK><SPC>Ablamore</SPC></SPK> <SD>(bemerkt, dass Alladine und Palomides sich heimlich betrachten)</SD>.</P>
+<P parID="00041"><TAB/>Dies ist die kleine Alladine, die aus dem Innern Arcadiens<LE/>
+hierher gekommen ist <SYMBOL type="3dots"/> Gebt euch doch die H&#xE4;nde <SYMBOL type="3dots"/><LE/>
+Ihr wundert Euch, Palomides? <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00018" startPtr="WR-01-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2397_00021']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00022" endPtr="WR-01-01-01_n0004.xml#//DIV_END[@divEndID='deID_2397_00019']"/>
+<P parID="00042"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00043"><TAB/>Mein Vater <SYMBOL type="3dots"/> <SD>(Palomidens Pferd macht einen Seitensprung, der<LE/>
+Alladinens Lamm erschreckt.)</SD></P>
+<DIV_END divEndID="deID_2397_00019" startPtr="WR-01-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2397_00022']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00023" endPtr="WR-01-01-01_n0004.xml#//DIV_END[@divEndID='deID_2397_00020']"/>
+<P parID="00044"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00045"><TAB/>Habt Acht <SYMBOL type="3dots"/> das Pferd hat Alladinens Lamm <HYPH1 cont="erschreckt">er-</HYPH1><LE/>
+<HYPH2>schreckt</HYPH2> <SYMBOL type="3dots"/> Es wird gleich entfliehen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00020" startPtr="WR-01-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2397_00023']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00024" endPtr="WR-01-01-01_n0004.xml#//DIV_END[@divEndID='deID_2397_00021']"/>
+<P parID="00046"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00047"><TAB/>Nein, es entflieht niemals <SYMBOL type="3dots"/> Es ist &#xFC;berrascht worden,<LE/>
+aber es wird nicht entfliehen <SYMBOL type="3dots"/> Dieses Lamm hat mir<LE/>
+meine Pathin geschenkt <SYMBOL type="3dots"/> Es ist nicht wie die andern <SYMBOL type="3dots"/><LE/>
+Tag und Nacht weilt es an meiner Seite. <SD>(Sie liebkost es.)</SD></P>
+<DIV_END divEndID="deID_2397_00021" startPtr="WR-01-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2397_00024']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00025" endPtr="WR-01-01-01_n0004.xml#//DIV_END[@divEndID='deID_2397_00022']"/>
+<P parID="00048"><SPK><SPC>Palomides</SPC></SPK> <SD>(liebkost es ebenfalls)</SD>.</P>
+<P parID="00049"><TAB/>Es blickt mich mit Kinderaugen an <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00022" startPtr="WR-01-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2397_00025']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00026" endPtr="WR-01-01-01_n0004.xml#//DIV_END[@divEndID='deID_2397_00023']"/>
+<P parID="00050"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00051"><TAB/>Es versteht Alles, was vorgeht.</P>
+<DIV_END divEndID="deID_2397_00023" startPtr="WR-01-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2397_00026']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00027" endPtr="WR-01-01-01_n0004.xml#//DIV_END[@divEndID='deID_2397_00024']"/>
+<P parID="00052"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00053"><TAB/>Es ist Zeit, Palomides, Eure Schwestern aufzusuchen <SYMBOL type="3dots"/><LE/>
+Sie werden erstaunt sein, Euch zu sehen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00024" startPtr="WR-01-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2397_00027']"/>
+</PAGE>

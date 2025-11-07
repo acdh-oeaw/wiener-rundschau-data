@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0191.xml</PREV>
+<NEXT>WR-04-12_n0193.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 192</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2436_00300" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00297']"/>
+<P parID="02559"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Der zweite kommt aus einer Stadt namens Cypern und<LE/>
+ist gelb wie Gold.</P>
+<DIV_END divEndID="deID_2436_00297" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00300']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00301" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00298']"/>
+<P parID="02560"><TAB/><SPK>DER CAPPADOCIER</SPK>: Ich liebe Gold.</P>
+<DIV_END divEndID="deID_2436_00298" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00301']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00302" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00299']"/>
+<P parID="02561"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Und der dritte ist ein Wein aus Sizilien. Dieser Wein<LE/>
+ist roth wie Blut.</P>
+<DIV_END divEndID="deID_2436_00299" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00302']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00303" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00300']"/>
+<P parID="02562"><TAB/><SPK>DER NUBIER</SPK>: Die G&#xF6;tter meines Landes lieben Blut sehr. Zweimal im Jahre<LE/>
+opfern wir ihnen J&#xFC;nglinge und Jungfrauen: f&#xFC;nfzig J&#xFC;nglinge und f&#xFC;nfzig <HYPH1 cont="Jungfrauen">Jung-</HYPH1><LE/>
+<HYPH2>frauen</HYPH2>. Aber ich f&#xFC;rchte, wir geben ihnen nie genug, denn sie sind sehr hart<LE/>
+gegen uns.</P>
+<DIV_END divEndID="deID_2436_00300" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00303']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00304" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00301']"/>
+<P parID="02563"><TAB/><SPK>DER CAPPADOCIER</SPK>: In meinem Lande sind keine G&#xF6;tter mehr. Die R&#xF6;mer<LE/>
+haben sie ausgetrieben. Einige sagen, sie hielten sich in den Bergen versteckt, aber<LE/>
+ich glaube es nicht. Drei N&#xE4;chte bin ich in den Bergen gewesen und habe sie &#xFC;berall<LE/>
+gesucht. Ich fand sie nicht und zuletzt rief ich sie beim Namen, aber sie kamen nicht.<LE/>
+Sie sind wohl todt.</P>
+<DIV_END divEndID="deID_2436_00301" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00304']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00305" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00302']"/>
+<P parID="02564"><TAB/><SPK>ERSTER SOLDAT</SPK>: Die Juden beten einen Gott an, den man nicht sehen kann.</P>
+<DIV_END divEndID="deID_2436_00302" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00305']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00306" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00303']"/>
+<P parID="02565"><TAB/><SPK>DER CAPPADOCIER</SPK>: Ich kann das nicht verstehen.</P>
+<DIV_END divEndID="deID_2436_00303" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00306']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00307" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00304']"/>
+<P parID="02566"><TAB/><SPK>ERSTER SOLDAT</SPK>: Wirklich, sie glauben nur an Dinge, die man nicht<LE/>
+sehen kann.</P>
+<DIV_END divEndID="deID_2436_00304" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00307']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00308" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00305']"/>
+<P parID="02567"><TAB/><SPK>DER CAPPADOCIER</SPK>: Das finde ich ganz und gar l&#xE4;cherlich.</P>
+<DIV_END divEndID="deID_2436_00305" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00308']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00309" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00306']"/>
+<P parID="02568"><TAB/><SPK>DIE STIMME DES JOCHANAAN</SPK>: Nach mir wird Einer kommen, der ist<LE/>
+st&#xE4;rker als ich. Ich bin nicht wert, ihm die Riemen an seinen Schuhen zu l&#xF6;sen.<LE/>
+Wenn er kommt, werden die ver&#xF6;deten St&#xE4;tten frohlocken. Sie werden aufbl&#xFC;hen<LE/>
+wie die Rosen. Die Augen der Blinden werden den Tag sehen und die Ohren der<LE/>
+Tauben werden ge&#xF6;ffnet. Das Kind wird an der H&#xF6;hle des Drachen spielen, es wird<LE/>
+die L&#xF6;wen an ihren M&#xE4;hnen f&#xFC;hren.</P>
+<DIV_END divEndID="deID_2436_00306" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00309']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00310" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00307']"/>
+<P parID="02569"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Hei&#xDF;&#x2019; ihn schweigen! Er sagt immer l&#xE4;cherliche Dinge.</P>
+<DIV_END divEndID="deID_2436_00307" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00310']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00311" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00308']"/>
+<P parID="02570"><TAB/><SPK>ERSTER SOLDAT</SPK>: Nein, nein. Er ist ein heiliger Mann. Und er ist sehr<LE/>
+sanft. Jeden Tag, wenn ich ihm zu essen gebe, dankt er mir.</P>
+<DIV_END divEndID="deID_2436_00308" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00311']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00312" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00309']"/>
+<P parID="02571"><TAB/><SPK>DER CAPPADOCIER</SPK>: Wer ist er?</P>
+<DIV_END divEndID="deID_2436_00309" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00312']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00313" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00310']"/>
+<P parID="02572"><TAB/><SPK>ERSTER SOLDAT</SPK>: Ein Prophet.</P>
+<DIV_END divEndID="deID_2436_00310" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00313']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00314" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00311']"/>
+<P parID="02573"><TAB/><SPK>DER CAPPADOCIER</SPK>: Wie ist sein Name?</P>
+<DIV_END divEndID="deID_2436_00311" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00314']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00315" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00312']"/>
+<P parID="02574"><TAB/><SPK>ERSTER SOLDAT</SPK>: Jochanaan.</P>
+<DIV_END divEndID="deID_2436_00312" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00315']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00316" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00313']"/>
+<P parID="02575"><TAB/><SPK>DER CAPPADOCIER</SPK>: Woher kommt er?</P>
+<DIV_END divEndID="deID_2436_00313" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00316']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00317" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00314']"/>
+<P parID="02576"><TAB/><SPK>ERSTER SOLDAT</SPK>: Aus der W&#xFC;ste, wo er sich von Heuschrecken und wildem<LE/>
+Honig n&#xE4;hrte. Er trug ein Kleid von Kameelhaaren und um die Lenden einen ledernen<LE/>
+G&#xFC;rtel. Er war sehr schrecklich anzusehen. Eine gro&#xDF;e Schar war immer um ihn.<LE/>
+Er hatte auch J&#xFC;nger, die ihm folgten.</P>
+<DIV_END divEndID="deID_2436_00314" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00317']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00318" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00315']"/>
+<P parID="02577"><TAB/><SPK>DER CAPPADOCIER</SPK>: Wovon redet er?</P>
+<DIV_END divEndID="deID_2436_00315" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00318']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00319" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00316']"/>
+<P parID="02578"><TAB/><SPK>ERSTER SOLDAT</SPK>: Das kann man nie wissen. Manchmal sagt er Dinge, die<LE/>
+Einen erschrecken, aber es ist unm&#xF6;glich zu verstehen, was er sagt.</P>
+<DIV_END divEndID="deID_2436_00316" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00319']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00320" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00317']"/>
+<P parID="02579"><TAB/><SPK>DER CAPPADOCIER</SPK>: Kann man ihn sehen?</P>
+<DIV_END divEndID="deID_2436_00317" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00320']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00321" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00318']"/>
+<P parID="02580"><TAB/><SPK>ERSTER SOLDAT</SPK>: Nein, der Tetrarch hat es verboten.</P>
+<DIV_END divEndID="deID_2436_00318" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00321']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00322" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00319']"/>
+<P parID="02581"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Die Prinzessin verbirgt ihr Gesicht hinter dem F&#xE4;cher.<LE/>
+Ihre kleinen, wei&#xDF;en H&#xE4;nde flattern wie Tauben, wenn sie in den Schlag fliegen.<LE/>
+Sie sind wie wei&#xDF;e Schmetterlinge. Sie sind genau wie wei&#xDF;e Schmetterlinge.</P>
+<DIV_END divEndID="deID_2436_00319" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00322']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00323" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00320']"/>
+<P parID="02582"><TAB/><SPK>DER PAGE DER HERODIAS</SPK>: Was geht es dich an? Warum siehst du sie<LE/>
+an? Du sollst sie nicht ansehen <SYMBOL type="3dots"/> Schreckliches kann geschehen.</P>
+<DIV_END divEndID="deID_2436_00320" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00323']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00324" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00321']"/>
+<P parID="02583"><TAB/><SPK>DER CAPPADOCIER</SPK> <SD>(auf die Cisterne zeigend)</SD>: Ein sonderbares Gef&#xE4;ngnis.</P>
+<DIV_END divEndID="deID_2436_00321" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00324']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00325" endPtr="WR-04-12_n0192.xml#//DIV_END[@divEndID='deID_2436_00322']"/>
+<P parID="02584"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Es ist eine alte Cisterne.</P>
+<DIV_END divEndID="deID_2436_00322" startPtr="WR-04-12_n0192.xml#//DIV_START[@divStartID='dsID_2436_00325']"/>
+<FT type="pn" num="192" c_text="&#x2014; 192 &#x2014;"/>
+</PAGE>

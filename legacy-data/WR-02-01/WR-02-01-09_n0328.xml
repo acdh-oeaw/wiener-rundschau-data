@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-09_n0327.xml</PREV>
+<NEXT>WR-02-01-09_n0329.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 328</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="performance" divStartID="dsID_2432_00503" endPtr="WR-02-01-09_n0332.xml#//DIV_END[@divEndID='deID_2432_00529']"/>
+<TITLE titleID="tiID_2432_00108"><TITLEPART type="main">IDYLLE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Hugo</C> V. <C>Hofmannsthal</C></AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART><SPC>Nach einem antiken Vasenbild</SPC>: <SPC>Centaur mit verwundeter<LE/>
+Frau am Rand eines Flusses</SPC>.</TITLEPART></TITLE>
+<P parID="02315"><SD>Der Schauplatz im B&#xF6;cklin&#x2019;schen Styl. Eine offene Dorfschmiede, dahinter das<LE/>
+Haus, im Hintergrunde ein Fluss.</SD></P>
+<P parID="02316"><SD>Der Schmied an der Arbeit, sein Weib m&#xFC;ssig an die Th&#xFC;re gelehnt, die von<LE/>
+der Schmiede ins Haus f&#xFC;hrt. Auf dem Boden spielt ein blondes kleines Kind mit<LE/>
+einer zahmen Krabbe, in einer Nische ein Weinschlauch, ein paar frische Feigen<LE/>
+und Melonenschalen.</SD></P>
+<SEPARATOR type="hr"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00504" endPtr="WR-02-01-09_n0328.xml#//DIV_END[@divEndID='deID_2432_00502']"/>
+<P parID="02317"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="02318"><L>Wohin verlieren dir die sinnenden Gedanken sich,</L>
+<L>Indess du schweigend mir das Werk, feindselig fast</L>
+<L>Mit solchen Lippen, leise zuckenden, beschaust?</L></LG>
+<DIV_END divEndID="deID_2432_00502" startPtr="WR-02-01-09_n0328.xml#//DIV_START[@divStartID='dsID_2432_00504']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00505" endPtr="WR-02-01-09_n0329.xml#//DIV_END[@divEndID='deID_2432_00503']"/>
+<P parID="02319"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG part="initial" parID="02320"><L>Im bl&#xFC;thenweissen, kleinen Garten sass ich oft,</L>
+<L>Den Blick aufs v&#xE4;terliche Handwerk hingewandt,</L>
+<L>Das nette Werk des T&#xF6;pfers: Wie der Scheibe da,</L>
+<L>Der surrenden im Kreis, die edle Form entstieg,</L>
+<L>Im stillen Werden einer zarten Blume gleich,</L>
+<L>Mit k&#xFC;hlem Glanz des Elfenbeins. Darauf erschuf</L>
+<L>Der Vater Henkel, mit Akanthusblatt geziert,</L>
+<L>Und ein Akanthus-, ein Olivenkranz wohl auch</L>
+<L>Umlief als dunkelrother Schmuck des Kruges Rand.</L>
+<L>Den sch&#xF6;nen K&#xF6;rper dann belebte er mit Reigenkranz</L>
+<L>Der Horen, die vor&#xFC;berschwebend lebenspendenden.</L>
+<L>Er schuf, gestreckt auf k&#xF6;nigliche Ruhebank,</L>
+<L>Der Ph&#xE4;dra wundervollen Leib, von Sehnsucht matt,</L>
+<L>Und dr&#xFC;ber flatternd Eros, der mit s&#xFC;sser Qual die Glieder f&#xFC;llt.</L>
+<L>Gewalt&#x2019;gen Kr&#xFC;gen liebte er ein Bakchosfest</L>
+<L>Zum Schmuck zu geben, wo der Purpurtraubensaft</L>
+<L>Aufspr&#xFC;hte unter der M&#xE4;nade nacktem Fuss,</L>
+<L>Und fliegend Haar und Thyrsusschwung die Luft erf&#xFC;llt.</L>
+<L>Auf Todtenurnen war Persephoneias hohes Bild,</L>
+<L>Die mit den seelenlosen, todten Augen schaut,</L>
+<L>Und Blumen des Vergessens, Mohn, im heil&#x2019;gen Haar,</L>
+<L>Das lebensfremde, asphodelische Gefilde tritt.</L></LG>
+</PAGE>

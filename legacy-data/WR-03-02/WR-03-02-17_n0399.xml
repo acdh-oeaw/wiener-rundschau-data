@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0398.xml</PREV>
+<NEXT>WR-03-02-17_n0400.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 399</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="act" divStartID="dsID_2434_00832" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00922']"/>
+<TITLE titleID="tiID_2434_00197"><TITLEPART>ZWEITER ACT.</TITLEPART></TITLE>
+<P parID="04508"><SD>Langer unterirdischer Gang. Im Vordergrunde, fast unmittelbar am Rande der B&#xFC;hne,<LE/>
+ein m&#xE4;chtiger, finstrer Gew&#xF6;lbebogen, darin eine schwere Fl&#xFC;gelth&#xFC;r, die den ganzen<LE/>
+Hintergrund einnimmt. ARIANE und die AMME kommen von links die letzten Stufen<LE/>
+einer steinernen Treppe herunter; Ariane mit einem Schl&#xFC;ssel, die Amme mit einer<LE/>
+Lampe in der Hand.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00833" endPtr="WR-03-02-17_n0399.xml#//DIV_END[@divEndID='deID_2434_00830']"/>
+<P parID="04509"><SPK>DIE AMME</SPK><LE/>
+<SD>(verst&#xF6;rt und ausser Athem. Sie versucht, Ariane am Zipfel ihres Mantels <HYPH1 cont="zur&#xFC;ckzuhalten">zur&#xFC;ck-</HYPH1><LE/>
+<HYPH2>zuhalten</HYPH2>)</SD>:</P>
+<P parID="04510"><TAB/>Warte doch <SYMBOL type="3dots"/> Ich habe geh&#xF6;rt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00830" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00833']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00834" endPtr="WR-03-02-17_n0399.xml#//DIV_END[@divEndID='deID_2434_00831']"/>
+<P parID="04511"><SPK>ARIANE</SPK>:</P>
+<P parID="04512"><TAB/>Komm&#x2019; herunter <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00831" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00834']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00835" endPtr="WR-03-02-17_n0399.xml#//DIV_END[@divEndID='deID_2434_00832']"/>
+<P parID="04513"><SPK>DIE AMME</SPK>:</P>
+<P parID="04514"><TAB/>Geh&#x2019; heute nicht hinein, die Lampe wird ausgehen <SYMBOL type="3dots"/> Man sieht schon<LE/>
+nichts mehr <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00832" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00835']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00836" endPtr="WR-03-02-17_n0399.xml#//DIV_END[@divEndID='deID_2434_00833']"/>
+<P parID="04515"><SPK>ARIANE</SPK>:</P>
+<P parID="04516"><TAB/>Dies ist schon die letzte Th&#xFC;r <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00833" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00836']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00837" endPtr="WR-03-02-17_n0399.xml#//DIV_END[@divEndID='deID_2434_00834']"/>
+<P parID="04517"><SPK>DIE AMME</SPK>:</P>
+<P parID="04518"><TAB/>Nicht doch, man h&#xF6;rt ja nichts. Es ist hier nicht, h&#xF6;rst Du was? Ich spitze<LE/>
+die Ohren vergebens <SYMBOL type="3dots"/> H&#xF6;rst Du was? <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00834" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00837']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00838" endPtr="WR-03-02-17_n0399.xml#//DIV_END[@divEndID='deID_2434_00835']"/>
+<P parID="04519"><SPK>ARIANE</SPK>:</P>
+<P parID="04520"><TAB/>Halte doch die Lampe etwas h&#xF6;her <SYMBOL type="3dots"/> Ah! Hier ist das Schloss <SYMBOL type="3dots"/><LE/>
+Der grosse Schl&#xFC;ssel passt hinein <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00835" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00838']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00839" endPtr="WR-03-02-17_n0399.xml#//DIV_END[@divEndID='deID_2434_00836']"/>
+<P parID="04521"><SPK>DIE AMME</SPK>:</P>
+<P parID="04522"><TAB/>Komm&#x2019;, Ariane, komm&#x2019; <SYMBOL type="3dots"/> Ich mag nicht weiter <SYMBOL type="3dots"/> Es ist noch immer<LE/>
+Zeit <SYMBOL type="3dots"/> <SD>(Sie ergreift Ariane am Arme und will sie von der Th&#xFC;r fortziehen.)</SD></P>
+<DIV_END divEndID="deID_2434_00836" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00839']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00840" endPtr="WR-03-02-17_n0399.xml#//DIV_END[@divEndID='deID_2434_00837']"/>
+<P parID="04523"><SPK>ARIANE</SPK>:</P>
+<P parID="04524"><TAB/>Lass&#x2019; mich doch. Warum kommst Du denn mit, um mich zu entmuthigen?<LE/>
+So hilft man denen nicht, die man liebt <SYMBOL type="3dots"/> Geh&#x2019; fort und gib mir Deine<LE/>
+Lampe, ich werde allein hineingehen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00837" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00840']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00841" endPtr="WR-03-02-17_n0399.xml#//DIV_END[@divEndID='deID_2434_00838']"/>
+<P parID="04525"><SPK>DIE AMME</SPK>:</P>
+<P parID="04526"><TAB/>Nein, nein, ich will ja auf Dich warten <SYMBOL type="3dots"/> Ich will mit Dir hineingehen <SYMBOL type="3dots"/><LE/>
+Nur geh&#x2019; nicht zu schnell <SYMBOL type="3dots"/> &#xF6;ffne nicht gleich <SYMBOL type="3dots"/> Ich wage die Augen nicht<LE/>
+aufzumachen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00838" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00841']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00842" endPtr="WR-03-02-17_n0399.xml#//DIV_END[@divEndID='deID_2434_00839']"/>
+<P parID="04527"><SPK>ARIANE</SPK><LE/>
+<SD>(die Hand auf dem Schl&#xFC;ssel)</SD>:</P>
+<P parID="04528"><TAB/>Oh, wie leicht der Schl&#xFC;ssel sich dreht. Die grosse Th&#xFC;r geht auf <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00839" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00842']"/>
+<P parID="04529"><SD>(In der That theilt sich die grosse Th&#xFC;r bei der ersten Umdrehung in der Mitte;<LE/>
+die beiden Fl&#xFC;gel verschwinden ger&#xE4;uschlos rechts und links in die Einlassungen des<LE/>
+dicken Mauerwerkes.)</SD></P>
+<FT type="pn" num="399" c_text="&#x2014; 399 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-18_n0422.xml</PREV>
+<NEXT>WR-03-02-18_n0424.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 18, S. 423</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WALSER: GEDICHTE.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2434_01055" endPtr="WR-03-02-18_n0423.xml#//DIV_END[@divEndID='deID_2434_01053']"/>
+<TITLE titleID="tiID_2434_00208"><TITLEPART>LEICHT GESAGT.</TITLEPART></TITLE>
+<LG parID="05019"><L>M&#xF6;gen sich die Stunden dehnen</L>
+<L>Wie der Himmel und mein Sehnen.</L>
+<L>Schnell, wie eines Namens Nennen,</L>
+<L>Ist mein fliegendes Erkennen.</L>
+<L>Schneller als der Stunden Bl&#xE4;hen,</L>
+<L>Schneller als der Sehnsucht Flehen</L>
+<L>Ist des Dr&#xE4;ngens &#xDC;berstehen.</L></LG>
+<DIV_END divEndID="deID_2434_01053" startPtr="WR-03-02-18_n0423.xml#//DIV_START[@divStartID='dsID_2434_01055']"/>
+<TABLE parID="05020"><ROW ciID="0724"><CELL>
+<DIV_START type="verse" divStartID="dsID_2434_01056" endPtr="WR-03-02-18_n0423.xml#//DIV_END[@divEndID='deID_2434_01054']"/>
+<TITLE titleID="tiID_2434_00209"><TITLEPART>TRUG.</TITLEPART></TITLE>
+<LG parID="05021"><L>Nun wieder m&#xFC;de H&#xE4;nde,</L>
+<L>Nun wieder m&#xFC;de Beine;</L>
+<L>Ein Dunkel ohne Ende.</L>
+<L>Ich lache, dass die W&#xE4;nde</L>
+<L>Sich drehen, doch dies Eine</L>
+<L>Ist L&#xFC;ge, denn ich weine.</L></LG>
+<DIV_END divEndID="deID_2434_01054" startPtr="WR-03-02-18_n0423.xml#//DIV_START[@divStartID='dsID_2434_01056']"/>
+</CELL><CELL>
+<DIV_START type="verse" divStartID="dsID_2434_01057" endPtr="WR-03-02-18_n0423.xml#//DIV_END[@divEndID='deID_2434_01055']"/>
+<TITLE titleID="tiID_2434_00210"><TITLEPART>M&#xDC;DIGKEIT.</TITLEPART></TITLE>
+<LG parID="05022"><L>Entf&#xFC;hr&#x2019; mich wie ich bin.</L>
+<L>Sieh, mein verirrter Sinn</L>
+<L>Weist von sich diese Welt,</L>
+<L>Die ihn nicht mehr erhellt.</L>
+<L>Komm, o ich werde brav</L>
+<L>Und selig stille sein</L>
+<L>In deinem dichten Schein,</L>
+<L>Heiliger, s&#xFC;sser Schlaf.</L></LG>
+<DIV_END divEndID="deID_2434_01055" startPtr="WR-03-02-18_n0423.xml#//DIV_START[@divStartID='dsID_2434_01057']"/>
+</CELL></ROW></TABLE>
+<DIV_START type="verse" divStartID="dsID_2434_01058" endPtr="WR-03-02-18_n0423.xml#//DIV_END[@divEndID='deID_2434_01056']"/>
+<TITLE titleID="tiID_2434_00211"><TITLEPART>SPRUCH.</TITLEPART></TITLE>
+<LG parID="05023"><L>Ich mache meinen Gang;</L>
+<L>Der f&#xFC;hrt ein St&#xFC;ckchen weit</L>
+<L>Und heim. Dann ohne Klang</L>
+<L>Und Wort bin ich beiseit.</L></LG>
+<DIV_END divEndID="deID_2434_01056" startPtr="WR-03-02-18_n0423.xml#//DIV_START[@divStartID='dsID_2434_01058']"/>
+<DIV_END divEndID="deID_2434_01057" startPtr="WR-03-02-18_n0422.xml#//DIV_START[@divStartID='dsID_2434_01050']"/>
+<SEPARATOR type="asterisk"/>
+<DIV_START cat="editorialStatement" divStartID="dsID_2434_01059" endPtr="WR-03-02-18_n0423.xml#//DIV_END[@divEndID='deID_2434_01058']"/>
+<P parID="05024"><TAB/>Herr Robert <SPC>Walser</SPC>, der in einem Modewaren-Gesch&#xE4;fte zu Thun (Schweiz) th&#xE4;tig ist,<LE/>
+sendet uns ein P&#xE4;ckchen Gedicht-Manuscripte und f&#xFC;gt folgendes Schreiben bei: &#xBB;Indem ich<LE/>
+hoffe, dass ich Ihnen mit meiner Zusendung nicht &#xFC;berraschend komme, darf ich auch zugleich<LE/>
+hoffen, dass keine St&#xF6;rung hierin liegt. Wenn es doch der Fall w&#xE4;re, so m&#xF6;chte ich um <HYPH1 cont="Entschuldigung">Ent-</HYPH1><LE/>
+<HYPH2>schuldigung</HYPH2> bitten. Ich &#xFC;berlasse alle Anordnung der Angelegenheit Ihrem Wohlwollen, dem<LE/>
+ich mich dankbarst und ruhig unterwerfe.&#xAB;</P>
+<P parID="05025"><TAB/>Es freut uns, einem von jeglicher Pose freien Dichter begegnet zu sein, dessen <HYPH1 cont="Versuche">Ver-</HYPH1><LE/>
+<HYPH2>suche</HYPH2> bei mancher Unbeholfenheit ein durchaus selbst&#xE4;ndiges Naturgef&#xFC;hl und wohl vor<LE/>
+allem jenes &#xBB;nachtwandlerische&#xAB; Schaffen und Schauen verrathen, das nicht nur zu Goethes<LE/>
+Zeiten als das unfehlbarste Zeichen ehrlicher Begabung gegolten. D. RED.</P>
+<DIV_END divEndID="deID_2434_01058" startPtr="WR-03-02-18_n0423.xml#//DIV_START[@divStartID='dsID_2434_01059']"/>
+<FT type="pn" num="423" c_text="&#x2014; 423 &#x2014;"/>
+</PAGE>

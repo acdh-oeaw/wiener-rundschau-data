@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-01_n0001.xml</PREV>
+<NEXT>WR-02-01-01_n0003.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 2</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">2</LTEXT><CTEXT>FUCHS.</CTEXT></HD>
+<LG parID="00014"><L>Des letzten Lichtes Auge bricht,</L>
+<L>Die rothe Kuppel sinkt im West,</L>
+<L>Die weissen Schleier schliessen dicht;</L>
+<L>Einmal noch ein Dohlenflug &#x2014;</L>
+<L>Schrill ein Schrei aus hohem Nest;</L>
+<L>Gestirne wandeln im steigenden Zug.</L></LG>
+<DIV_END divEndID="deID_2432_00004" startPtr="WR-02-01-01_n0001.xml#//DIV_START[@divStartID='dsID_2432_00006']"/>
+<DIV_START type="performance" divStartID="dsID_2432_00007" endPtr="WR-02-01-01_n0004.xml#//DIV_END[@divEndID='deID_2432_00013']"/>
+<TITLE titleID="tiID_2432_00011"><TITLEPART type="enum">II.</TITLEPART><LE/>
+<TITLEPART type="main"><SPC>Das Pans</SPC>-<SPC>Opfer</SPC>.</TITLEPART></TITLE>
+<DIV_START cat="speech" divStartID="dsID_2432_00008" endPtr="WR-02-01-01_n0002.xml#//DIV_END[@divEndID='deID_2432_00005']"/>
+<P parID="00015"><SPK><C>Der S&#xE4;nger</C></SPK>.</P>
+<LG parID="00016"><L>Hier sind die Sitze; Vater, rastet</L>
+<L>Bei des Gottes erznen Sohlen,</L>
+<L>Lehnt Euch an geschweifte Bohlen,</L>
+<L>Dass mit goldner Hand Euch der Ahorn tastet.</L></LG>
+<DIV_END divEndID="deID_2432_00005" startPtr="WR-02-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2432_00008']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00009" endPtr="WR-02-01-01_n0002.xml#//DIV_END[@divEndID='deID_2432_00006']"/>
+<P parID="00017"><SPK><C>Der Vater</C></SPK>.</P>
+<LG parID="00018"><L>Wie blickt der Gott?</L></LG>
+<DIV_END divEndID="deID_2432_00006" startPtr="WR-02-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2432_00009']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00010" endPtr="WR-02-01-01_n0002.xml#//DIV_END[@divEndID='deID_2432_00007']"/>
+<P parID="00019"><SPK><C>Der S&#xE4;nger</C></SPK>.</P>
+<LG parID="00020"><L>Froh und gnadenreich und m&#xE4;chtig,</L>
+<L>Satt von ungemessnen Spenden</L>
+<L>Quillt die Hand von Trauben tr&#xE4;chtig,</L>
+<L>Prachtvoll schwillt die Kraft der Lenden.</L></LG>
+<DIV_END divEndID="deID_2432_00007" startPtr="WR-02-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2432_00010']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00011" endPtr="WR-02-01-01_n0002.xml#//DIV_END[@divEndID='deID_2432_00008']"/>
+<P parID="00021"><SPK><C>Der Vater</C></SPK>.</P>
+<LG parID="00022"><L>Wie die Opfer?</L></LG>
+<DIV_END divEndID="deID_2432_00008" startPtr="WR-02-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2432_00011']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00012" endPtr="WR-02-01-01_n0002.xml#//DIV_END[@divEndID='deID_2432_00009']"/>
+<P parID="00023"><SPK><C>Der S&#xE4;nger</C></SPK>.</P>
+<LG parID="00024"><L>Hoch geschichtet!</L>
+<L>Reinlich, ehrfurchtsvoll gesichtet,</L>
+<L>Ueberbietend das Gebot,</L>
+<L>Prangend unter Seinen Eichen,</L>
+<L>Die rings aus den Felsen reichen,</L>
+<L>Sie bedachend scharlachroth.</L></LG>
+<DIV_END divEndID="deID_2432_00009" startPtr="WR-02-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2432_00012']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00013" endPtr="WR-02-01-01_n0003.xml#//DIV_END[@divEndID='deID_2432_00010']"/>
+<P parID="00025"><SPK><C>Der Vater</C></SPK>.</P>
+<LG part="initial" parID="00026"><L>So schau hinab auf Dorf und Thal,</L>
+<L>Melde mir nun von den Dingen</L>
+<L>In der Erde breitem Saal:</L>
+<L>Lass die Leier mir erklingen!</L></LG>
+</PAGE>

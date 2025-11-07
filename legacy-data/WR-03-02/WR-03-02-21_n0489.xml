@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-20_n0488.xml</PREV>
+<NEXT>WR-03-02-21_n0490.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 21, S. 489</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2434_01117" endPtr="WR-03-02-21_n0512.xml#//DIV_END[@divEndID='deID_2434_01140']"/>
+<DIV_START divStartID="dsID_2434_01118" endPtr="WR-03-02-21_n0492.xml#//DIV_END[@divEndID='deID_2434_01118']"/>
+<TITLE titleID="tiID_2434_00246"><TITLEPART type="main"><LANG iso="la">LAUS VENERIS</LANG> <HR emDashNum="13" type="doubleInline"/></TITLEPART><LE/>
+<TITLEPART type="bystmt">VON <AUCTOR>ALGERNON CH. SWINBURNE</AUCTOR></TITLEPART><LE/>
+<TITLEPART type="desc">UMDICHTUNG <HR emDashNum="19" type="doubleInline"/><LE/>
+VON <AUCTOR>HEDWIG LACHMANN</AUCTOR> <HR emDashNum="13" type="doubleInline"/></TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2434_01119" endPtr="WR-03-02-21_n0492.xml#//DIV_END[@divEndID='deID_2434_01117']"/>
+<TITLE titleID="tiID_2434_00247"><TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="05534"><L>Zerdr&#xFC;ckter Traubensaft vom Bacchanal</L>
+<L>F&#xE4;rbt ihre Brust mit Schatten, bl&#xE4;ulich, fahl,</L>
+<L>Wo ich noch eben, bis zum Tod geschw&#xE4;cht,</L>
+<L>Mit meinen Lippen aufgedr&#xFC;ckt ein Mal.</L></LG>
+<LG parID="05535"><L>Aus kurzer Lust gejagt in neue Sucht,</L>
+<L>Will ich sie fliehen &#x2014; doch auf halber Flucht</L>
+<L>Kehr&#x2019; ich zu ihr zur&#xFC;ck, ihr &#xE4;rmster Knecht,</L>
+<L>Zu Allem, denn zu ihrem Dienst &#x2014; verrucht.</L></LG>
+<LG parID="05536"><L>Durchs Thor des Todes, das ihr Reich verschliesst,</L>
+<L>Blick&#x2019; ich, dieweil des Schlummers sie geniesst,</L>
+<L>In das verworrne Grenzland, wo der Schwall</L>
+<L>Der unerl&#xF6;sten Seelen sich ergiesst.</L></LG>
+<LG parID="05537"><L>Blind, nackend, ungestalt, seh&#x2019; ich den Tross</L>
+<L>Der Misseth&#xE4;ter in dem Riesenschoss,</L>
+<L>Der wirbelnd dampft von Moder und Zerfall</L>
+<L>Und seine Beute anh&#xE4;uft Stoss auf Stoss.</L></LG>
+<FT type="pn" num="489" c_text="&#x2014; 489 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0089.xml</PREV>
+<NEXT>WR-01-01-03_n0091.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 90</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">90</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<P part="final" parID="00600">die dem deinen gleichen <SYMBOL type="4dots"/> Astolaine hat schon unsere<LE/>
+Flucht und die meiner Schwestern vorbereitet <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00134" startPtr="WR-01-01-03_n0089.xml#//DIV_START[@divStartID='dsID_2397_00138']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00139" endPtr="WR-01-01-03_n0090.xml#//DIV_END[@divEndID='deID_2397_00135']"/>
+<P parID="00601"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00602"><TAB/>Was hat sie dazu gesagt?</P>
+<DIV_END divEndID="deID_2397_00135" startPtr="WR-01-01-03_n0090.xml#//DIV_START[@divStartID='dsID_2397_00139']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00140" endPtr="WR-01-01-03_n0090.xml#//DIV_END[@divEndID='deID_2397_00136']"/>
+<P parID="00603"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00604"><TAB/>Nichts, nichts <SYMBOL type="3dots"/> Du wirst Alles rings um das Schloss<LE/>
+meines Vaters sehen, &#x2014; nachdem du tagelang auf dem Meere<LE/>
+und tagelang im Walde gereist bist &#x2014; du wirst Seen und<LE/>
+Berge erblicken <SYMBOL type="3dots"/> Nicht wie diese hier, unter einem Himmel,<LE/>
+der dem Gew&#xF6;lbe einer H&#xF6;hle gleicht mit dunkeln B&#xE4;umen,<LE/>
+welche die St&#xFC;rme t&#xF6;dten <SYMBOL type="3dots"/> aber einen Himmel, unter dem<LE/>
+man nichts mehr f&#xFC;rchtet, W&#xE4;lder in ewigem Fr&#xFC;hling,<LE/>
+Blumen, die nimmer verbl&#xFC;hen.</P>
+<DIV_END divEndID="deID_2397_00136" startPtr="WR-01-01-03_n0090.xml#//DIV_START[@divStartID='dsID_2397_00140']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00141" endPtr="WR-01-01-03_n0090.xml#//DIV_END[@divEndID='deID_2397_00137']"/>
+<P parID="00605"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00606"><TAB/>Sie hat geweint?</P>
+<DIV_END divEndID="deID_2397_00137" startPtr="WR-01-01-03_n0090.xml#//DIV_START[@divStartID='dsID_2397_00141']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00142" endPtr="WR-01-01-03_n0090.xml#//DIV_END[@divEndID='deID_2397_00138']"/>
+<P parID="00607"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00608"><TAB/>Wonach fragst du da? Das ist eine Sache, von der zu<LE/>
+reden wir nicht das Recht haben, h&#xF6;rst du? <SYMBOL type="3dots"/> Es ist dies<LE/>
+ein Leben, das nicht zu unserem armen Leben geh&#xF6;rt und<LE/>
+dem die Liebe nur schweigend nahen darf <SYMBOL type="3dots"/> Wir stehen<LE/>
+hier wie zwei zerlumpte Bettler, wenn ich daran denke <SYMBOL type="3dots"/><LE/>
+Geh&#x2019;! geh&#x2019;! <SYMBOL type="3dots"/> Ich w&#xFC;rde dir Dinge sagen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00138" startPtr="WR-01-01-03_n0090.xml#//DIV_START[@divStartID='dsID_2397_00142']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00143" endPtr="WR-01-01-03_n0090.xml#//DIV_END[@divEndID='deID_2397_00139']"/>
+<P parID="00609"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00610"><TAB/>Palomides <SYMBOL type="3dots"/> Was hast du?</P>
+<DIV_END divEndID="deID_2397_00139" startPtr="WR-01-01-03_n0090.xml#//DIV_START[@divStartID='dsID_2397_00143']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00144" endPtr="WR-01-01-03_n0090.xml#//DIV_END[@divEndID='deID_2397_00140']"/>
+<P parID="00611"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00612"><TAB/>Geh&#x2019;! Geh&#x2019;! <SYMBOL type="3dots"/> Ich habe Thr&#xE4;nen gesehen, die von<LE/>
+weiter her kamen als aus den Augen <SYMBOL type="3dots"/> Es ist etwas <HYPH1 cont="Anderes">An-</HYPH1><LE/>
+<HYPH2>deres</HYPH2> <SYMBOL type="3dots"/> Es kann indessen sein, dass wir Recht haben <SYMBOL type="3dots"/><LE/>
+Aber wie sehr bedauere ich, also Recht zu haben, mein<LE/>
+Gott! <SYMBOL type="3dots"/> Geh&#x2019; <SYMBOL type="3dots"/> ich werde dir morgen sagen <SYMBOL type="3dots"/> auf<LE/>
+morgen <SYMBOL type="3dots"/> auf morgen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00140" startPtr="WR-01-01-03_n0090.xml#//DIV_START[@divStartID='dsID_2397_00144']"/>
+<P parID="00613"><SD>(Sie gehen getrennt hinaus.)</SD></P>
+<DIV_END divEndID="deID_2397_00141" startPtr="WR-01-01-03_n0089.xml#//DIV_START[@divStartID='dsID_2397_00137']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

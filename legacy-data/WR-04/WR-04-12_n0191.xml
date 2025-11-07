@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0190.xml</PREV>
+<NEXT>WR-04-12_n0192.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 191</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="act" divStartID="dsID_2436_00274" endPtr="WR-04-12_n0212.xml#//DIV_END[@divEndID='deID_2436_00653']"/>
+<P parID="02532"><SD>Eine gro&#xDF;e Terrasse im Palast des Herodes, die an den Bankettsaal st&#xF6;&#xDF;t. Einige Soldaten lehnen<LE/>
+sich &#xFC;ber die Br&#xFC;stung. Rechts eine m&#xE4;chtige Treppe, links im Hintergrund eine alte Cisterne<LE/>
+mit einer Einfassung aus gr&#xFC;ner Bronze. Der Mond scheint sehr hell.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_00275" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00272']"/>
+<P parID="02533"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Wie sch&#xF6;n die Prinzessin Salome heute Abend ist!</P>
+<DIV_END divEndID="deID_2436_00272" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00275']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00276" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00273']"/>
+<P parID="02534"><TAB/><SPK>DER PAGE DER HERODIAS</SPK>: Sieh&#x2019; die Mondscheibe! Wie seltsam sie aussieht.<LE/>
+Wie eine Frau, die aus dem Grabe aufsteigt. Wie eine todte Frau. Man k&#xF6;nnte<LE/>
+meinen, sie blicke nach todten Dingen aus.</P>
+<DIV_END divEndID="deID_2436_00273" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00276']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00277" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00274']"/>
+<P parID="02535"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Sie ist sehr seltsam. Wie eine kleine Prinzessin, die<LE/>
+einen gelben Schleier tr&#xE4;gt und deren F&#xFC;&#xDF;e von Silber sind. Wie eine kleine Prinzessin,<LE/>
+deren F&#xFC;&#xDF;e wei&#xDF;e Tauben sind. Man k&#xF6;nnte meinen, sie tanze.</P>
+<DIV_END divEndID="deID_2436_00274" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00277']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00278" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00275']"/>
+<P parID="02536"><TAB/><SPK>DER PAGE DER HERODIAS</SPK>: Wie eine Frau, die todt ist. Sie gleitet <HYPH1 cont="langsam">lang-</HYPH1><LE/>
+<HYPH2>sam</HYPH2> dahin.</P>
+<DIV_END divEndID="deID_2436_00275" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00278']"/>
+<P parID="02537"><SD>(L&#xE4;rm im Bankettsaal.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_00279" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00276']"/>
+<P parID="02538"><TAB/><SPK>ERSTER SOLDAT</SPK>: Was f&#xFC;r ein Aufruhr! Was sind das f&#xFC;r wilde Thiere,<LE/>
+die da heulen?</P>
+<DIV_END divEndID="deID_2436_00276" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00279']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00280" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00277']"/>
+<P parID="02539"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Die Juden. Sie sind immer so. Sie streiten &#xFC;ber ihre<LE/>
+Religion.</P>
+<DIV_END divEndID="deID_2436_00277" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00280']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00281" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00278']"/>
+<P parID="02540"><TAB/><SPK>ERSTER SOLDAT</SPK>: Warum streiten sie &#xFC;ber ihre Religion?</P>
+<DIV_END divEndID="deID_2436_00278" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00281']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00282" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00279']"/>
+<P parID="02541"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Ich wei&#xDF; es nicht. Sie thun das immer. Die Pharis&#xE4;er<LE/>
+zum Beispiel sagen, dass es Engel gibt, und die Sadduc&#xE4;er behaupten, dass es<LE/>
+keine gibt.</P>
+<DIV_END divEndID="deID_2436_00279" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00282']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00283" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00280']"/>
+<P parID="02542"><TAB/><SPK>ERSTER SOLDAT</SPK>: Ich finde es l&#xE4;cherlich, &#xFC;ber solche Dinge zu streiten.</P>
+<DIV_END divEndID="deID_2436_00280" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00283']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00284" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00281']"/>
+<P parID="02543"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Wie sch&#xF6;n die Prinzessin Salome heute Abend ist!</P>
+<DIV_END divEndID="deID_2436_00281" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00284']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00285" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00282']"/>
+<P parID="02544"><TAB/><SPK>DER PAGE DER HERODIAS</SPK>: Du siehst sie immer an. Du siehst sie zuviel<LE/>
+an. Es ist gef&#xE4;hrlich, Menschen auf diese Art anzusehen. Schreckliches kann geschehen.</P>
+<DIV_END divEndID="deID_2436_00282" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00285']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00286" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00283']"/>
+<P parID="02545"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Sie ist sehr sch&#xF6;n heute Abend.</P>
+<DIV_END divEndID="deID_2436_00283" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00286']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00287" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00284']"/>
+<P parID="02546"><TAB/><SPK>ERSTER SOLDAT</SPK>: Der Tetrarch sieht finster drein.</P>
+<DIV_END divEndID="deID_2436_00284" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00287']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00288" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00285']"/>
+<P parID="02547"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Ja, er sieht finster drein.</P>
+<DIV_END divEndID="deID_2436_00285" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00288']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00289" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00286']"/>
+<P parID="02548"><TAB/><SPK>ERSTER SOLDAT</SPK>: Er blickt auf etwas.</P>
+<DIV_END divEndID="deID_2436_00286" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00289']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00290" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00287']"/>
+<P parID="02549"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Er blickt auf jemanden.</P>
+<DIV_END divEndID="deID_2436_00287" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00290']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00291" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00288']"/>
+<P parID="02550"><TAB/><SPK>ERSTER SOLDAT</SPK>: Auf wen blickt er?</P>
+<DIV_END divEndID="deID_2436_00288" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00291']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00292" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00289']"/>
+<P parID="02551"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Ich wei&#xDF; es nicht.</P>
+<DIV_END divEndID="deID_2436_00289" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00292']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00293" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00290']"/>
+<P parID="02552"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Wie blass die Prinzessin ist. Niemals habe ich sie so<LE/>
+blass gesehen. Sie ist wie der Schatten einer wei&#xDF;en Rose in einem silbernen Spiegel.</P>
+<DIV_END divEndID="deID_2436_00290" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00293']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00294" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00291']"/>
+<P parID="02553"><TAB/><SPK>DER PAGE DER HERODIAS</SPK>: Du musst sie nicht ansehen. Du siehst sie<LE/>
+zuviel an.</P>
+<DIV_END divEndID="deID_2436_00291" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00294']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00295" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00292']"/>
+<P parID="02554"><TAB/><SPK>ERSTER SOLDAT</SPK>: Herodias hat den Becher des Tetrarchen gef&#xFC;llt.</P>
+<DIV_END divEndID="deID_2436_00292" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00295']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00296" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00293']"/>
+<P parID="02555"><TAB/><SPK>DER CAPPADOCIER</SPK>: Ist das die K&#xF6;nigin Herodias, dort mit dem <HYPH1 cont="perlenbesetzten">perlen-</HYPH1><LE/>
+<HYPH2>besetzten</HYPH2> schwarzen Kopfputz und dem blauen Puder im Haar?</P>
+<DIV_END divEndID="deID_2436_00293" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00296']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00297" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00294']"/>
+<P parID="02556"><TAB/><SPK>ERSTER SOLDAT</SPK>: Ja, das ist Herodias, die Frau des Tetrarchen.</P>
+<DIV_END divEndID="deID_2436_00294" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00297']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00298" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00295']"/>
+<P parID="02557"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Der Tetrarch liebt den Wein sehr. Er hat drei Sorten<LE/>
+Wein. Den einen bringt man von der Insel Samothrake, er ist purpurn wie der<LE/>
+Mantel des C&#xE4;sar.</P>
+<DIV_END divEndID="deID_2436_00295" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00298']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00299" endPtr="WR-04-12_n0191.xml#//DIV_END[@divEndID='deID_2436_00296']"/>
+<P parID="02558"><TAB/><SPK>DER CAPPADOCIER</SPK>: Ich habe C&#xE4;sar nie gesehen.</P>
+<DIV_END divEndID="deID_2436_00296" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00299']"/>
+<FT type="pn" num="191" c_text="&#x2014; 191 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV></PREV>
+<NEXT>WR-03-01-00_i0002.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Inhalt S. 1 (Titel recto)</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS></ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="contents" divStartID="dsID_2434_00000" endPtr="WR-03-01-00_i0006.xml#//DIV_END[@divEndID='deID_2434_00003']"/>
+<DIV_START cat="titlepage" divStartID="dsID_2434_00001" endPtr="WR-03-01-00_i0001.xml#//DIV_END[@divEndID='deID_2434_00000']"/>
+<TITLE titleID="tiID_2434_00000"><TITLEPART type="main"><B>WIENER<SYMBOL type="colons"/><LE/>
+RUNDSCHAU<SYMBOL type="colons"/></B></TITLEPART><LE/>
+<TITLEPART type="vol"><B>III. JAHRGANG. &#x2014; N<SUP>R.</SUP> 1&#x2014;27.<LE/>
+<DATERANGE>15. NOVEMBER 1898 &#x2014; 31. DECEMBER 1899</DATERANGE>.</B></TITLEPART><LE/>
+<TITLEPART type="desc"><B>Zeitschrift f&#xFC;r Cultur und Kunst herausgegeben von<LE/>
+<AUCTOR type="editor">CONSTANTIN CHRISTOMANOS</AUCTOR> UND <AUCTOR type="editor">FELIX RAPPAPORT</AUCTOR></B></TITLEPART><LE/>
+<TITLEPART type="imprint"><B>Wien <DATE>1899</DATE><LE/>
+I/1 Spiegelgasse 11</B></TITLEPART></TITLE>
+<DIV_END divEndID="deID_2434_00000" startPtr="WR-03-01-00_i0001.xml#//DIV_START[@divStartID='dsID_2434_00001']"/>
+</PAGE>

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0175.xml</PREV>
+<NEXT>WR-01-01-05_n0177.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 176</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">176</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00252" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00248']"/>
+<P parID="01275"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01276"><TAB/>Entfernt erst die Binde, die mich blind macht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00248" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00252']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00253" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00249']"/>
+<P parID="01277"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01278"><TAB/>Ich kann nicht <SYMBOL type="3dots"/> Ich sehe nicht <SYMBOL type="3dots"/> Sie scheint mir<LE/>
+von einem Netze goldener F&#xE4;den umgeben <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00249" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00253']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00254" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00250']"/>
+<P parID="01279"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01280"><TAB/>Dann meine H&#xE4;nde, meine H&#xE4;nde!</P>
+<DIV_END divEndID="deID_2397_00250" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00254']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00255" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00251']"/>
+<P parID="01281"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01282"><TAB/>Sie haben seidene Schn&#xFC;re genommen <SYMBOL type="3dots"/> Wartet, der<LE/>
+Knoten l&#xF6;st sich. Die Schnur ist dreissigmal herumgewunden<LE/>
+<SYMBOL type="3dots"/> Jetzt! jetzt! &#x2014; Oh! Eure H&#xE4;nde sind blut&#xFC;berstr&#xF6;mt <SYMBOL type="3dots"/><LE/>
+Man k&#xF6;nnte meinen, sie seien todt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00251" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00255']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00256" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00252']"/>
+<P parID="01283"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01284"><TAB/>Nein, nein! <SYMBOL type="3dots"/> Sie leben, sie leben! Seht! <SYMBOL type="3dots"/> <SD>(Mit<LE/>
+ihren kaum befreiten H&#xE4;nden umschlingt sie Palomidens Hals und k&#xFC;sst ihn<LE/>
+leidenschaftlich.)</SD></P>
+<DIV_END divEndID="deID_2397_00252" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00256']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00257" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00253']"/>
+<P parID="01285"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01286"><TAB/>Alladine!</P>
+<DIV_END divEndID="deID_2397_00253" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00257']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00258" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00254']"/>
+<P parID="01287"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01288"><TAB/>Palomides!</P>
+<DIV_END divEndID="deID_2397_00254" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00258']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00259" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00255']"/>
+<P parID="01289"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01290"><TAB/>Alladine, Alladine! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00255" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00259']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00260" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00256']"/>
+<P parID="01291"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01292"><TAB/>Ich bin gl&#xFC;cklich! <SYMBOL type="3dots"/> Ich habe lange gewartet! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00256" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00260']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00261" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00257']"/>
+<P parID="01293"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01294"><TAB/>Ich habe mich gef&#xFC;rchtet, zu kommen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00257" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00261']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00262" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00258']"/>
+<P parID="01295"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01296"><TAB/>Ich bin gl&#xFC;cklich <SYMBOL type="3dots"/> und ich m&#xF6;chte dich sehen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00258" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00262']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00263" endPtr="WR-01-01-05_n0176.xml#//DIV_END[@divEndID='deID_2397_00259']"/>
+<P parID="01297"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01298"><TAB/>Sie haben die Binde wie einen Helm befestigt <SYMBOL type="3dots"/> &#x2014;<LE/>
+Kehr&#x2019; dich nicht um; ich habe die goldenen F&#xE4;den <HYPH1 cont="gefunden">ge-</HYPH1><LE/>
+<HYPH2>funden</HYPH2> <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00259" startPtr="WR-01-01-05_n0176.xml#//DIV_START[@divStartID='dsID_2397_00263']"/>
+</PAGE>

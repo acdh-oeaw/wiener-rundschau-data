@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-14_n0251.xml</PREV>
+<NEXT>WR-04-14_n0253.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 14, S. 252</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>18</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>BAILLY: DIE HARMONIE DER SPH&#xC4;REN.</CTEXT></HD>
+<TABLE parID="03250"><ROW ciID="0623"><CELL>
+<P part="initial" parID="03251"><TAB/>Das unten folgende Notenbeispiel will<LE/>
+einen angeschlagenen Ton <I>(ut)</I> mit seinen<LE/>
+harmonischen Nebent&#xF6;nen verdeutlichen &#x2014;<LE/>
+das Ganze in Ziffern (von 1&#x2014;16) <HYPH1 cont="&#xFC;bertragen">&#xFC;ber-</HYPH1><LE/>
+<HYPH2>tragen</HYPH2>; die Sonne und ihre Planeten sind<LE/>
+an den Punkten kenntlich gemacht, die<LE/>
+ihrer Distanz entsprechen. Der <HYPH1 cont="Register-Umfang">Register-</HYPH1><LE/>
+<HYPH2>Umfang</HYPH2> ist &#x2014; wohlgemerkt &#x2014; Fiction,<LE/>
+da ja Ton 1 in Wirklichkeit unh&#xF6;rbar<LE/>
+ist; das Ohr beginnt erst bei ungef&#xE4;hr<LE/>
+sechzehn Vibrationen in der Secunde<LE/>
+Klangwirkungen wahrzunehmen; aber es<LE/>
+handelt sich hier um die gegenseitigen<LE/>
+Beziehungen der Reihe und nicht um die</P>
+</CELL><CELL>
+<P part="final" parID="03252">Resonanz im eigentlichen Sinne. Bei 16<LE/>
+brechen wir ab in unserer Reihe, weil<LE/>
+von den Astero&#xEF;den angefangen zuviel<LE/>
+Hilfslinien erforderlich w&#xE4;ren, und weil die<LE/>
+Musik jenseits von Jupiter keine Zeichen<LE/>
+mehr besitzt zur Verdeutlichung der <HYPH1 cont="&#xFC;berhohen">&#xFC;ber-</HYPH1><LE/>
+<HYPH2>hohen</HYPH2> T&#xF6;ne, die wir den Planeten nach<LE/>
+Ma&#xDF;gabe ihrer Distanzen zugetheilt haben.<LE/>
+Um unser Beispiel zu vervollst&#xE4;ndigen,<LE/>
+bleibt uns schlie&#xDF;lich f&#xFC;r diese T&#xF6;ne nichts<LE/>
+anderes &#xFC;brig als eine Angabe ihrer<LE/>
+Schwingungs-Anzahl (pro Secunde), indem<LE/>
+wir als Grundton ein <I>ut</I> von 128 <HYPH1 cont="Schwingungen">Schwin-</HYPH1><LE/>
+<HYPH2>gungen</HYPH2> annehmen.</P>
+</CELL></ROW></TABLE>
+<IMG type="musicalScore">
+<P parID="03253">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16</P>
+<P rend="aqvl" parID="03254">SONNE</P>
+<P rend="aqvl" parID="03255">VENUS</P>
+<P rend="aqvl" parID="03256">ERDE</P>
+<P rend="aqvl" parID="03257">MARS</P>
+</IMG>
+<TABLE parID="03258">
+<ROW ciID="0624"><CELL>Index 32
+</CELL><CELL>der
+</CELL><CELL>ASTERO&#xCF;DEN
+</CELL><CELL>entspricht
+</CELL><CELL>einem <I>ut</I>
+</CELL><CELL>von
+</CELL><CELL>4.096
+</CELL><CELL>Schwingungen.
+</CELL></ROW>
+<ROW ciID="0625"><CELL><DITTO cont="Index" rend="&#xBB;"/>52
+</CELL><CELL>des
+</CELL><CELL>JUPITER
+</CELL><CELL><DITTO cont="entspricht" rend="&#xBB;"/>
+</CELL><CELL><DITTO cont="einem" rend="&#xBB;"/> <I>la</I> &#x266D;
+</CELL><CELL><DITTO cont="von" rend="&#xBB;"/>
+</CELL><CELL>6.656
+</CELL><CELL><DITTO cont="Schwingungen." rend="&#xBB;"/>
+</CELL></ROW>
+<ROW ciID="0626"><CELL><DITTO cont="Index" rend="&#xBB;"/> 96
+</CELL><CELL><DITTO cont="des" rend="&#xBB;"/>
+</CELL><CELL>SATURN
+</CELL><CELL><DITTO cont="entspricht" rend="&#xBB;"/>
+</CELL><CELL><DITTO cont="einem" rend="&#xBB;"/> <I>sol</I>
+</CELL><CELL><DITTO cont="von" rend="&#xBB;"/>
+</CELL><CELL>12.288
+</CELL><CELL><DITTO cont="Schwingungen." rend="&#xBB;"/>
+</CELL></ROW>
+<ROW ciID="0627"><CELL><DITTO cont="Index" rend="&#xBB;"/> 192
+</CELL><CELL><DITTO cont="des" rend="&#xBB;"/>
+</CELL><CELL>URANUS
+</CELL><CELL><DITTO cont="entspricht" rend="&#xBB;"/>
+</CELL><CELL><DITTO cont="einem" rend="&#xBB;"/> <I>sol</I>
+</CELL><CELL><DITTO cont="von" rend="&#xBB;"/>
+</CELL><CELL>24.576
+</CELL><CELL><DITTO cont="Schwingungen." rend="&#xBB;"/>
+</CELL></ROW>
+<ROW ciID="0628"><CELL><DITTO cont="Index" rend="&#xBB;"/> 300
+</CELL><CELL><DITTO cont="des" rend="&#xBB;"/>
+</CELL><CELL>NEPTUN
+</CELL><CELL><DITTO cont="entspricht" rend="&#xBB;"/>
+</CELL><CELL><DITTO cont="einem" rend="&#xBB;"/> <I>mi</I> &#x266D;
+</CELL><CELL><DITTO cont="von" rend="&#xBB;"/>
+</CELL><CELL>38.400
+</CELL><CELL><DITTO cont="Schwingungen." rend="&#xBB;"/>
+</CELL></ROW>
+</TABLE>
+<TABLE parID="03259"><ROW ciID="0629"><CELL>
+<P part="initial" parID="03260"><TAB/>So setzt sich das Sonnensystem in<LE/>
+den gigantischen<LE/>
+<TABLE parID="03261"><ROW ciID="0630"><CELL>
+<P parID="03262">ACCORD um:</P>
+</CELL><CELL>
+<BRAC pos="left" type="curly">
+<P parID="03263">ut
+ut<LE/>
+si &#x266D;<LE/>
+mi<LE/>
+si &#x266E;<LE/>
+ut<LE/>
+la &#x266D;<LE/>
+sol<LE/>
+sol<LE/>
+mi &#x266D;</P>
+</BRAC>
+</CELL></ROW></TABLE>
+der ein Diagramm von 38.272 <HYPH1 cont="Schwingungen">Schwin-</HYPH1><LE/>
+<HYPH2>gungen</HYPH2> umspannt oder, mit anderen<LE/>
+Worten, den Umfang von acht Octaven<LE/>
+und einer kleinen Terz, was nahezu um<LE/>
+zwei Octaven die &#xE4;u&#xDF;ersten Grenzen des<LE/>
+Orchesters (zwischen dem tiefen <HYPH1 cont="Contrabass-">Contra-</HYPH1><LE/>
+<HYPH2>bass-</HYPH2><I>mi</I> und dem hohen <I>si</I> &#x266D; der kleinen<LE/>
+Fl&#xF6;te) &#xFC;berschreitet. Solch ein Accord ist<LE/>
+also &#x2014; vom musikalischen Standpunkte<LE/>
+aus gesprochen &#x2014; unausf&#xFC;hrbar. Seiner</P>
+</CELL><CELL>
+<P part="final" parID="03264">Beschaffenheit nach vereinigt er <HYPH1 cont="gleichzeitig">gleich-</HYPH1><LE/>
+<HYPH2>zeitig</HYPH2> zwei Tonalit&#xE4;ten und zwei <HYPH1 cont="verschiedene">ver-</HYPH1><LE/>
+<HYPH2>schiedene</HYPH2> Tonarten; aber die Resonanz<LE/>
+der vier &#xE4;u&#xDF;ersten Noten an der Spitze<LE/>
+der Tonleiter nimmt immer mehr und<LE/>
+mehr an Takt und St&#xE4;rke ab, je n&#xE4;her<LE/>
+man dem Neptun kommt, dessen <I>mi</I> &#x266D;<LE/>
+(38.400 Schwingungen) nicht n&#xE4;her <HYPH1 cont="bestimmt">be-</HYPH1><LE/>
+<HYPH2>stimmt</HYPH2> werden kann. Diese <HYPH1 cont="Intensit&#xE4;ts-Abnahme">Intensit&#xE4;ts-</HYPH1><LE/>
+<HYPH2>Abnahme</HYPH2> muss noch f&#xFC;hlbarer werden,<LE/>
+wenn man die geringe Dichte dieser so<LE/>
+sehr entlegenen Planeten in Anschlag bringt<LE/>
+und wenn man die Klang-Intensit&#xE4;t und<LE/>
+die Planeten-Dichte in das Gesetz der<LE/>
+Analogie einbezieht. So offenbart sich uns<LE/>
+eine &#xFC;berraschende &#xC4;hnlichkeit zwischen<LE/>
+der harmonischen Reihe in der <SPC>Musik</SPC> und<LE/>
+der harmonischen Reihe der <HYPH1 cont="Sternenwelt"><SPC>Sternen</SPC>-</HYPH1><LE/>
+<HYPH2><SPC>welt</SPC></HYPH2>, in deren innerstem Bereich sich<LE/>
+unsere Pl&#xE4;ne und Tr&#xE4;ume wiegen<SYMBOL type="3dots"/></P>
+<P part="initial" parID="03265"><TAB/>Zergliedert man dieses m&#xE4;chtig <HYPH1 cont="aufgeth&#xFC;rmte">auf-</HYPH1><LE/>
+<HYPH2>geth&#xFC;rmte</HYPH2> Harmonien-Gebilde und kn&#xFC;pft<LE/>
+man die allzu auseinanderliegenden Theile</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="252" c_text="&#x2014; 252 &#x2014;"/>
+</PAGE>

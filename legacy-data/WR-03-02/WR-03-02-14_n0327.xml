@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-14_n0326.xml</PREV>
+<NEXT>WR-03-02-14_n0328.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 14, S. 327</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ROSSETTI: DIE WAHL.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2434_00744" endPtr="WR-03-02-14_n0327.xml#//DIV_END[@divEndID='deID_2434_00742']"/>
+<TITLE titleID="tiID_2434_00173"><TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="03863"><L>Denk du und thu: du stirbst bevor es Tag.</L>
+<L>Am Ufer ausgestreckt im warmen Sand</L>
+<L>Sprichst du: der Mensch durchmass bis an den Rand</L>
+<L>Die Erde. M&#xFC;hsam oft, doch nimmer zag,</L></LG>
+<LG parID="03864"><L>Klomm er zum Gipfel, wo die Wahrheit lag,</L>
+<L>Und mir, mir liess er sie zum Unterpfand.</L>
+<L>Wie denn? So streckst du sorglos deine Hand</L>
+<L>Nach Fr&#xFC;chten aus aus einem fremden Hag?</L></LG>
+<LG parID="03865"><L>Nicht doch. Steh auf vom Ufer und komm her.</L>
+<L>Von diesem Riff, wo sich die Welle bricht,</L>
+<L>Blick aus mit mir bis an den fernsten Saum.</L></LG>
+<LG parID="03866"><L>Siehst du den letzten grauen Strich von Schaum?</L>
+<L>Wohl! Tausend Meilen hinter jener Sicht</L>
+<L>Und jenseits aller Wogen noch &#x2014; ist Meer.</L></LG>
+<DIV_END divEndID="deID_2434_00742" startPtr="WR-03-02-14_n0327.xml#//DIV_START[@divStartID='dsID_2434_00744']"/>
+<DIV_END divEndID="deID_2434_00743" startPtr="WR-03-02-14_n0325.xml#//DIV_START[@divStartID='dsID_2434_00741']"/>
+<SEPARATOR type="hr"/>
+<FT type="pn" num="327" c_text="&#x2014; 327 &#x2014;"/>
+</PAGE>

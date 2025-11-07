@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-02_n0029.xml</PREV>
+<NEXT>WR-03-01-02_n0031.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 2, S. 30</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>GEORGE: GEDICHTE.</CTEXT></HD>
+<DIV_START divStartID="dsID_2434_00187" endPtr="WR-03-01-02_n0030.xml#//DIV_END[@divEndID='deID_2434_00188']"/>
+<TITLE titleID="tiID_2434_00024"><TITLEPART><AUCTOR>STEFAN GEORGE</AUCTOR>.*</TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2434_00188" endPtr="WR-03-01-02_n0030.xml#//DIV_END[@divEndID='deID_2434_00186']"/>
+<TITLE titleID="tiID_2434_00025"><TITLEPART>(EIN TAG AUS DEM &#xBB;ALGABAL&#xAB;.)</TITLEPART></TITLE>
+<TABLE parID="00549"><ROW ciID="0309"><CELL>
+<LG parID="00550"><L><IN>Gegen</IN> osten ragt der bau</L>
+<L>Wo dem grossen Zeus zu fr&#xF6;hnen</L>
+<L>Toller wunder fremde schau</L>
+<L>Und die w&#xFC;rde sich vers&#xF6;hnen.</L></LG>
+<LG parID="00551"><L>T&#xE4;nzer &#xF6;ffnen das geleit</L>
+<L>In verf&#xFC;hrenden gew&#xE4;ndern</L>
+<L>Knaben die ein opfer feit</L>
+<L>In den sonnenschlaffen l&#xE4;ndern,</L>
+<L>Macht aus &#xF6;l- und palmenlaub</L>
+<L>Vor des priesters fuss ein kissen,</L>
+<L>Streuet sand und silberstaub</L>
+<L>Tote liljen und narzissen!</L></LG>
+</CELL><CELL>
+<LG parID="00552"><L>An der schwelle haltet rast</L>
+<L>Wo das heilge bild entschleiert</L>
+<L>Nur sich gibt dem einen gast</L>
+<L>Der es oft und innig feiert,</L>
+<L>Nur sein mund gebete lallt,</L>
+<L>Auch kein bruder sei zugegen:</L>
+<L>Spricht des gottes zwiegestalt</L>
+<L>Seinen immer gleichen segen.</L></LG>
+<LG parID="00553"><L>Junge stimmen &#x387; ferner hall.</L>
+<L>Narden die verfl&#xFC;chtet irren</L>
+<L>Durch der rauche strengen quall</L>
+<L>Zu dem kuss der s&#xFC;ssen mirren.</L></LG>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2434_00186" startPtr="WR-03-01-02_n0030.xml#//DIV_START[@divStartID='dsID_2434_00188']"/>
+<SEPARATOR type="asterismUp"/>
+<DIV_START type="verse" divStartID="dsID_2434_00189" endPtr="WR-03-01-02_n0030.xml#//DIV_END[@divEndID='deID_2434_00187']"/>
+<TITLE titleID="tiID_2434_00026"><TITLEPART>(AUS DEN TRAURIGEN T&#xC4;NZEN DES &#xBB;JAHRES DER SEELE&#xAB;.)</TITLEPART></TITLE>
+<LG parID="00554"><L><IN>Drei</IN> weisen kennt vom dorf der bl&#xF6;de knabe</L>
+<L>Die wenn er kommt sich st&#xE4;ndig wiederholen:</L>
+<L>Die eine wie der v&#xE4;ter hauch vom grabe</L>
+<L>Die eh sie starben sich dem herrn befohlen.</L></LG>
+<LG parID="00555"><L>Die andre hat die tugendhafte weihe</L>
+<L>Als ob sie Schwestern die beim spinnrad sassen</L>
+<L>Und m&#xE4;gde s&#xE4;ngen die in langer reihe</L>
+<L>Vor Zeiten zogen auf den abendstrassen.</L></LG>
+<LG parID="00556"><L>Die dritte droht &#x2014; Vers&#xFC;ndigung und rache &#x2014;</L>
+<L>Mit altem dolch in himmel-blauer scheide,</L>
+<L>Mit mancher sippe angestammten leide,</L>
+<L>Mit b&#xF6;sen Sternen &#xFC;ber manchem dache.</L></LG>
+<DIV_END divEndID="deID_2434_00187" startPtr="WR-03-01-02_n0030.xml#//DIV_START[@divStartID='dsID_2434_00189']"/>
+<FN>
+<P parID="00557"><TAB/>* Aus den bei Georg Bondi in Berlin erscheinenden gesammelten Dichtungen.</P>
+</FN>
+<DIV_END divEndID="deID_2434_00188" startPtr="WR-03-01-02_n0030.xml#//DIV_START[@divStartID='dsID_2434_00187']"/>
+<SEPARATOR type="hr"/>
+<FT type="pn" num="30" c_text="&#x2014; 30 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-24_n0561.xml</PREV>
+<NEXT>WR-03-02-24_n0563.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 24, S. 562</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>VERLAINE: ZWEI GEDICHTE.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2434_01183" endPtr="WR-03-02-24_n0562.xml#//DIV_END[@divEndID='deID_2434_01181']"/>
+<TITLE titleID="tiID_2434_00278"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="06110"><L>Ich weiss nicht, warum mit so wilder Hast</L>
+<L>Mein bittrer Geist entflieht zum Meer</L>
+<L>Und meine Liebe hinterher</L>
+<L>Die Fl&#xFC;gel bebend, wie von Angst erfasst,</L>
+<L>Um all ihr Eigenthum</L>
+<L>Dicht &#xFC;berm Wasser schl&#xE4;gt. Warum, warum?</L></LG>
+<LG parID="06111"><L>Seem&#xF6;ve mit dem langsam schweren Flug</L>
+<L>Verfolgt sie l&#xE4;ngs der Woge ihren Weg</L>
+<L>Wie diese auf und nieder, steil und schr&#xE4;g,</L>
+<L>In L&#xFC;ften strauchelnd hinterm Wolkenzug,</L>
+<L>Seem&#xF6;ve mit dem langsam schweren Flug.</L></LG>
+<LG parID="06112"><L>Von Sonne trunken und von Freiheit wirr</L>
+<L>Tr&#xE4;gt sie ein Trieb durch jenen Raum.</L>
+<L>Und in der Fr&#xFC;he, wenn der Schaum</L>
+<L>Sich f&#xE4;rbt mit diamantenem Geflirr,</L>
+<L>Wiegt sie ein lauer Wind</L>
+<L>In sanften Halbschlaf ein, dass sie wie blind.</L></LG>
+<LG parID="06113"><L>Zuweilen schreit sie voller Weh und schrill,</L>
+<L>Dass fern im Meer der Lotse drob erbebt,</L>
+<L>Gibt sich den Winden preis, steigt h&#xF6;her, schwebt,</L>
+<L>Bricht sich die Schwingen, sinkt ins Meer und will</L>
+<L>Nochmals empor und schreit dann weh und schrill.</L></LG>
+<LG parID="06114"><L>Ich weiss nicht, warum mit so wilder Hast</L>
+<L>Mein bittrer Geist entflieht zum Meer</L>
+<L>Und meine Liebe hinterher</L>
+<L>Die Fl&#xFC;gel bebend, wie von Angst erfasst,</L>
+<L>Um all ihr Eigenthum</L>
+<L>Dicht &#xFC;berm Wasser schl&#xE4;gt. Warum, warum <SYMBOL type="3dots"/></L></LG>
+<DIV_END divEndID="deID_2434_01181" startPtr="WR-03-02-24_n0562.xml#//DIV_START[@divStartID='dsID_2434_01183']"/>
+<SEPARATOR num="3" type="undefined"/>
+<FT type="pn" num="562" c_text="&#x2014; 562 &#x2014;"/>
+</PAGE>

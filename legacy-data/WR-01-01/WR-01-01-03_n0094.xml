@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0093.xml</PREV>
+<NEXT>WR-01-01-03_n0095.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 94</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">94</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00170" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00166']"/>
+<P parID="00667"><SPK><SPC>Eine der Schwestern</SPC></SPK>.</P>
+<P parID="00668"><TAB/>Oh! Ich f&#xFC;rchte mich <SYMBOL type="3dots"/> Oeffne nicht gleich <SYMBOL type="3dots"/> <HYPH1 cont="Palomides">Palo<ADD>-</ADD></HYPH1><LE/>
+<HYPH2>mides</HYPH2> <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00166" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00170']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00171" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00167']"/>
+<P parID="00669"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00670"><TAB/>Bleibt hier <SYMBOL type="3dots"/> Ich weiss nicht, was ich finden werde <SYMBOL type="2dots"/><LE/>
+<SD>(Er geht zur Th&#xFC;re, &#xF6;ffnet sie und tritt in das Gemach.)</SD></P>
+<DIV_END divEndID="deID_2397_00167" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00171']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00172" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00168']"/>
+<P parID="00671"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00672"><TAB/>Ist sie da?</P>
+<DIV_END divEndID="deID_2397_00168" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00172']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00173" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00169']"/>
+<P parID="00673"><SPK><SPC>Palomides</SPC></SPK> <SD>(im Innern)</SD>.</P>
+<P parID="00674"><TAB/>Ich sehe nichts <SYMBOL type="3dots"/> Die Fensterladen sind geschlossen <SYMBOL type="2dots"/></P>
+<DIV_END divEndID="deID_2397_00169" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00173']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00174" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00170']"/>
+<P parID="00675"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00676"><TAB/>Gib acht, Palomides <SYMBOL type="3dots"/> Willst du, dass ich zuerst<LE/>
+hineingehe? <SYMBOL type="3dots"/> Deine Stimme zittert <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00170" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00174']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00175" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00171']"/>
+<P parID="00677"><SPK><SPC>Palomides</SPC></SPK> <SD>(im Innern)</SD>.</P>
+<P parID="00678"><TAB/>Nein, nein <SYMBOL type="3dots"/> Ich sehe einen Sonnenstrahl, der durch<LE/>
+die Ritzen des Fensterladens dringt.</P>
+<DIV_END divEndID="deID_2397_00171" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00175']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00176" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00172']"/>
+<P parID="00679"><SPK><SPC>Eine der Schwestern</SPC></SPK>.</P>
+<P parID="00680"><TAB/>Ja; draussen ist heller Sonnenschein.</P>
+<DIV_END divEndID="deID_2397_00172" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00176']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00177" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00173']"/>
+<P parID="00681"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00682"><TAB/><SD>(Kommt eilig aus dem Zimmer.)</SD> Kommt! Kommt! Ich glaube,<LE/>
+dass sie <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00173" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00177']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00178" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00174']"/>
+<P parID="00683"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00684"><TAB/>Du hast sie gesehen?</P>
+<DIV_END divEndID="deID_2397_00174" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00178']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00179" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00175']"/>
+<P parID="00685"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00686"><TAB/>Sie liegt auf dem Bette ausgestreckt <SYMBOL type="3dots"/> Sie regt sich<LE/>
+nicht <SYMBOL type="3dots"/> Ich glaube nicht, dass <SYMBOL type="3dots"/> Kommt! Kommt! <SD>(Alle<LE/>
+gehen in das Zimmer.)</SD></P>
+<DIV_END divEndID="deID_2397_00175" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00179']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00180" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00176']"/>
+<P parID="00687"><SPK><SPC>Astolaine</SPC> und <SPC>Palomidens Schwestern</SPC></SPK>.</P>
+<P parID="00688"><TAB/><SD>(Im Innern.)</SD> Sie ist da <SYMBOL type="3dots"/> Nein, nein, sie ist nicht todt <SYMBOL type="2dots"/><LE/>
+Alladine! Alladine! <SYMBOL type="3dots"/> Oh! Oh! Das arme Kind! <SYMBOL type="2dots"/> Schreit<LE/>
+nicht so <SYMBOL type="3dots"/> Sie ist ohnm&#xE4;chtig geworden <SYMBOL type="3dots"/> Ihr Haar ist<LE/>
+&#xFC;ber ihrem Munde zusammengekn&#xFC;pft <SYMBOL type="2dots"/> Und ihre H&#xE4;nde<LE/>
+sind auf den R&#xFC;cken gebunden <SYMBOL type="3dots"/> Mit ihren Haaren sind sie<LE/>
+gebunden. Alladine! Alladine <SYMBOL type="3dots"/> Holt Wasser <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00176" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00180']"/>
+<P parID="00689"><SD>(Ablamore, der erwacht ist, erscheint auf der Schwelle.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00181" endPtr="WR-01-01-03_n0094.xml#//DIV_END[@divEndID='deID_2397_00177']"/>
+<P parID="00690"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00691"><TAB/>Mein Vater!</P>
+<DIV_END divEndID="deID_2397_00177" startPtr="WR-01-01-03_n0094.xml#//DIV_START[@divStartID='dsID_2397_00181']"/>
+</PAGE>

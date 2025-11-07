@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-24_n0920.xml</PREV>
+<NEXT>WR-01-02-24_n0922.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 24, S. 921</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2398_00312" endPtr="WR-01-02-24_n0928.xml#//DIV_END[@divEndID='deID_2398_00312']"/>
+<TITLE titleID="tiID_2398_00145"><TITLEPART type="main">DIE JUNGE GENERATION.</TITLEPART><LE/>
+<TITLEPART type="bystmt"><SPC>Von</SPC> <AUCTOR><C><SPC>Oscar</SPC> A. H. <SPC>Schmitz</SPC></C></AUCTOR> (<SPC>Paris</SPC>).</TITLEPART></TITLE>
+<DIV_START cat="epigraph" divStartID="dsID_2398_00313" endPtr="WR-01-02-24_n0921.xml#//DIV_END[@divEndID='deID_2398_00311']"/>
+<P parID="02554"><SPC>Motto</SPC>: <LANG iso="fr">Nous avons dissoci&#xE9; l&#x2019;&#xE9;ducation du corps, de<LE/>
+l&#x2019;&#xE2;me et de l&#x2019;esprit. Nos sciences physiques et<LE/>
+naturelles, tr&#xE8;s avanc&#xE9;es en elle-m&#xEA;mes font <HYPH1 cont="abstraction">ab-</HYPH1><LE/>
+<HYPH2>straction</HYPH2> du principe de l&#x2019;&#xE2;me et de sa diffusion<LE/>
+dans l&#x2019;univers; notre religion ne satisfait pas aux<LE/>
+besoins de l&#x2019;intelligence; notre m&#xE9;decine ne veut<LE/>
+rien savoir ni de l&#x2019;&#xE2;me ni de l&#x2019;esprit. <I>L&#x2019;homme<LE/>
+contemporain cherche le plaisir sans le bonheur,<LE/>
+le bonheur sans la science, et la science sans la<LE/>
+sagesse.</I> L&#x2019;antiquit&#xE9; n&#x2019;admettait pas, qu&#x2019;on put<LE/>
+s&#xE9;parer ces choses. Dans tous les domaines elle<LE/>
+tenait compte de la triple nature de l&#x2019;homme.</LANG></P>
+<P parID="02555">(<AUCTOR><I>Ed. Schur&#xE9;</I></AUCTOR>, <LANG iso="fr">Les grands Initi&#xE9;s</LANG>.)</P>
+<DIV_END divEndID="deID_2398_00311" startPtr="WR-01-02-24_n0921.xml#//DIV_START[@divStartID='dsID_2398_00313']"/>
+<P parID="02556"><TAB/>Wenn in diesem blassen Zeitalter ein Schauspiel der Betrachtung<LE/>
+w&#xFC;rdig erscheint, so sind es die verschwiegenen Leiden derer, welche<LE/>
+in dem gepriesenen Fortschritt <DATERANGE>dieses letzten Jahrhunderts</DATERANGE> nichts als die<LE/>
+zunehmende Verfinsterung eines Gestirns erblicken k&#xF6;nnen, dessen milder<LE/>
+Schimmer &#xFC;ber allen Heiligth&#xFC;mern ausgegossen lag, ob sie auf den<LE/>
+H&#xF6;hen &#xFC;ber den verbrannten Ebenen der Sonnenl&#xE4;nder oder an den<LE/>
+tr&#xE4;umerischen Fl&#xFC;ssen und in den gefl&#xFC;stervollen Hainen des Nordens<LE/>
+geh&#xFC;tet wurden.</P>
+<P parID="02557"><TAB/>Das Gef&#xFC;hl des Unendlichen ist verloren worden unter den<LE/>
+Menschen, aber ich habe in den St&#xE4;dten des kranken Europa blasse<LE/>
+J&#xFC;nglinge gesehen, in deren Blicken die Trauer der Sp&#xE4;tgeborenen liegt;<LE/>
+welche, hingesunken vor der Sch&#xF6;nheit des Vergangenen, sich in ihrer<LE/>
+Minderzahl ohnm&#xE4;chtig d&#xFC;nken, etwas Anderes als Wissende zu sein.<LE/>
+In fast priesterlichen Kreisen abgeschlossen, von den Dr&#xE4;ngen lebend,<LE/>
+welche heute als bewundernsw&#xFC;rdig gelten, erkennen sie sich an<LE/>
+einzelnen Worten, obgleich nie eine Uebereinkunft zwischen ihnen <HYPH1 cont="getroffen">ge-</HYPH1><LE/>
+<HYPH2>troffen</HYPH2> wurde, und es ist nur um ein Geringes &#xFC;bertrieben, wenn ich<LE/>
+behaupte, dass sie sich von Anderen schon durch die Art unterscheiden,<LE/>
+wie sie Speisen und Getr&#xE4;nke fordern. Die Wundenmale ihrer ewigen<LE/>
+Kreuzigung ersetzen ihnen ein Schiboleth, dessen Aussprache vielleicht<LE/>
+eine gewandte Zunge erlernen k&#xF6;nnte.</P>
+<P part="initial" parID="02558"><TAB/>In allen Zeiten &#x2014; mit Ausnahme dieser &#x2014; verehrte man <HYPH1 cont="unbewusst">un-</HYPH1><LE/>
+<HYPH2>bewusst</HYPH2> das Ausserordentliche. Ein bevorzugtes Geschlecht, welches<LE/>
+vielleicht nichts als sein Stolz und eine masslose Verachtung der<LE/>
+B&#xFC;rgerlichkeit unterschied, leitete die menschlichen Geschicke, berathen<LE/>
+von denen, welche kraft ihrer beschaulichen Weisheit &#xFC;ber dem <HYPH1 cont="endlichen">end-</HYPH1><LE/>
+<HYPH2>lichen</HYPH2> Leben standen. In der dunkeln Masse derer, die nichts sind als<LE/>
+eine Zahl, konnte nur der Ausserordentliche wahrgenommen werden.</P>
+</PAGE>

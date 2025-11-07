@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-14_n0294.xml</PREV>
+<NEXT>WR-05-15_n0296.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 15, S. 295</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>18</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>8</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_01344" endPtr="WR-05-15_n0312.xml#//DIV_END[@divEndID='deID_2436_01355']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_01345" endPtr="WR-05-15_n0295.xml#//DIV_END[@divEndID='deID_2436_01344']"/>
+<P parID="07547"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="07548"><B>HERAUSGEGEBEN VON FELIX RAPPAPORT</B></P>
+<TABLE parID="07549"><ROW ciID="1208"><CELL>
+<P parID="07550"><DATE><B>1. AUGUST 1901</B></DATE></P>
+</CELL><CELL>
+<P parID="07551"><B>V. JAHRGANG, N<SUP>R.</SUP> 15</B></P>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_01344" startPtr="WR-05-15_n0295.xml#//DIV_START[@divStartID='dsID_2436_01345']"/>
+<DIV_START divStartID="dsID_2436_01346" endPtr="WR-05-15_n0299.xml#//DIV_END[@divEndID='deID_2436_01345']"/>
+<TITLE titleID="tiID_2436_00358"><TITLEPART type="main">DAS WESEN DES OPFERS</TITLEPART><LE/>
+<TITLEPART>IM ANSCHLUSSE<LE/>
+AN TH. SCHULTZES &#xBB;RELIGION DER ZUKUNFT&#xAB;.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>BARON. E. GUMPPENBERG</AUCTOR>.</TITLEPART></TITLE>
+<TABLE parID="07552"><ROW ciID="1209"><CELL>
+<P part="initial" parID="07553"><TAB/>Wenn wir dem Verst&#xE4;ndnis der <HYPH1 cont="Entwicklung">Ent-</HYPH1><LE/>
+<HYPH2>wicklung</HYPH2> einer Welt n&#xE4;herkommen wollen,<LE/>
+handelt es sich wohl weniger darum,<LE/>
+bestehende und bestanden habende <HYPH1 cont="Religionen">Reli-</HYPH1><LE/>
+<HYPH2>gionen</HYPH2> <LANG iso="la">ad absurdum</LANG> zu f&#xFC;hren, als <HYPH1 cont="Antwort">Ant-</HYPH1><LE/>
+<HYPH2>wort</HYPH2> zu finden auf die Frage: &#xBB;Wie kam<LE/>
+es, dass zu jeder Zeit, in allen <HYPH1 cont="Entwicklungsmomenten">Ent-</HYPH1><LE/>
+<HYPH2>wicklungsmomenten</HYPH2> der Menschheit dieser<LE/>
+ein gewisses metaphysisches Bed&#xFC;rfnis<LE/>
+innewohnte, das sich in Form einer Religion<LE/>
+krystallisierte? Wenn ein Suchen, im<LE/>
+Ewigen die L&#xF6;sung der Fragen zu finden,<LE/>
+die sich im Endlichen nicht finden lassen,<LE/>
+schon in grauen Vorzeiten gewesen, und<LE/>
+jetzt noch unsere tiefsten Denker <HYPH1 cont="besch&#xE4;ftigt">be-</HYPH1><LE/>
+<HYPH2>sch&#xE4;ftigt</HYPH2>, sind wir berechtigt, die <HYPH1 cont="Religionen">Reli-</HYPH1><LE/>
+<HYPH2>gionen</HYPH2>, die das Theilergebnis solchen<LE/>
+Suchens sind, als etwas anderes zu <HYPH1 cont="bezeichnen">be-</HYPH1><LE/>
+<HYPH2>zeichnen</HYPH2>, als die jeweilige <HYPH1 cont="Erscheinungsform">Erscheinungs-</HYPH1><LE/>
+<HYPH2>form</HYPH2> einer Wahrheit, die sich offenbaren<LE/>
+<SPC>muss</SPC>, da sich das Urleben offenbarte<LE/>
+und so diese Welt der Form entstanden<LE/>
+ist? Wenn ein Mensch bekennt, ein <HYPH1 cont="Wahrheitsforscher">Wahr-</HYPH1><LE/>
+<HYPH2>heitsforscher</HYPH2> zu sein, muss er die <HYPH1 cont="weitgehendste">weit-</HYPH1><LE/>
+<HYPH2>gehendste</HYPH2> Toleranz auf sein Panier schreiben<LE/>
+und durchdrungen sein von der Empfindung,<LE/>
+dass <SPC>absolute</SPC> Wahrheit sich schleierlos</P>
+</CELL><CELL>
+<P part="final" parID="07554">uns nicht offenbaren <SPC>kann</SPC>, die relativen<LE/>
+Wahrheiten einander nicht befehden lassen,<LE/>
+sondern sie m&#xF6;glichst von den Schleiern des<LE/>
+Exoterischen zu befreien suchen. In der<LE/>
+&#xDC;berzeugung, dass unsere Erde kaum das<LE/>
+Alpha der Wahrheit vernommen, wird<LE/>
+er, statt lautes Kriegsgeschrei gegen eine<LE/>
+Religion zu erheben, schweigend horchen,<LE/>
+ob er in seinem Innersten vielleicht das<LE/>
+Beta zu vernehmen vermag.</P>
+<P parID="07555"><TAB/>Ob es uns jemals m&#xF6;glich sein wird,<LE/>
+Begriffe zu fassen, f&#xFC;r die uns alle<LE/>
+Analogie fehlt, muss eine offene Frage<LE/>
+bleiben. Und welche Beweise k&#xF6;nnen wir<LE/>
+schlie&#xDF;lich bringen, dass das Beste und<LE/>
+Sch&#xF6;nste in uns nicht doch ein schwacher<LE/>
+Abglanz g&#xF6;ttlicher Herrlichkeit sei? Wo<LE/>
+aber das Wissen ein Ende haben muss,<LE/>
+da ihm die Grenzen unseres <HYPH1 cont="Begriffsverm&#xF6;gens">Begriffs-</HYPH1><LE/>
+<HYPH2>verm&#xF6;gens</HYPH2> gezogen sind, ist es nicht<LE/>
+th&#xF6;richt, au&#xDF;erhalb dieser Grenzen gar<LE/>
+noch K&#xE4;mpfe f&#xFC;hren zu wollen? Sollen wir<LE/>
+unseren endlichen Intellect, der doch nur<LE/>
+Entwicklungsm&#xF6;glichkeit f&#xFC;r uns ist, nicht<LE/>
+lieber zu seinem wahren Zweck verwenden?</P>
+<P part="initial" parID="07556"><TAB/>Es befremdet mich, zu h&#xF6;ren, dass<LE/>
+der Verfasser der &#xBB;Religion der Zukunft&#xAB;</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="295" c_text="&#x2014; 295 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0094.xml</PREV>
+<NEXT>WR-01-01-03_n0096.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 95</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ALLADINE UND PALOMIDES.</CTEXT><RTEXT type="pn">95</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00182" endPtr="WR-01-01-03_n0095.xml#//DIV_END[@divEndID='deID_2397_00178']"/>
+<P parID="00692"><SPK><SPC>Ablamore</SPC></SPK> <SD>(auf Palomides zugehend)</SD>.</P>
+<P parID="00693"><TAB/>Habt Ihr die Th&#xFC;re des Zimmer ge&#xF6;ffnet?</P>
+<DIV_END divEndID="deID_2397_00178" startPtr="WR-01-01-03_n0095.xml#//DIV_START[@divStartID='dsID_2397_00182']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00183" endPtr="WR-01-01-03_n0095.xml#//DIV_END[@divEndID='deID_2397_00179']"/>
+<P parID="00694"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00695"><TAB/>Ja, ich <SYMBOL type="3dots"/> ich hab&#x2019; es gethan &#x2014; und was weiter? &#x2014;<LE/>
+und was weiter? <SYMBOL type="3dots"/> Ich kann sie nicht sterben lassen unter<LE/>
+meinen Augen <SYMBOL type="3dots"/> Seht, was Ihr gethan habt <SYMBOL type="3dots"/> Alladine <SYMBOL type="3dots"/><LE/>
+F&#xFC;rchte nichts <SYMBOL type="3dots"/> Sie &#xF6;ffnet ein wenig die Augen <SYMBOL type="3dots"/> Ich<LE/>
+will nicht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00179" startPtr="WR-01-01-03_n0095.xml#//DIV_START[@divStartID='dsID_2397_00183']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00184" endPtr="WR-01-01-03_n0095.xml#//DIV_END[@divEndID='deID_2397_00180']"/>
+<P parID="00696"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00697"><TAB/>Schreit nicht <SYMBOL type="3dots"/> Schreit nicht so <SYMBOL type="3dots"/> Kommt, wir<LE/>
+wollen die Fensterladen &#xF6;ffnen <SYMBOL type="3dots"/> Man sieht nichts, Alladine<LE/>
+<SYMBOL type="3dots"/> Sie ist schon auf. Alladine, komm auch du <SYMBOL type="3dots"/> Seht ihr,<LE/>
+meine Kinder, es ist finster im Zimmer. Es ist hier so finster,<LE/>
+als w&#xE4;re man tausend Fuss unter der Erde. Doch ich &#xF6;ffne<LE/>
+einen der Fensterladen, und sehet! Alles Licht des Himmels und<LE/>
+der Sonne! <SYMBOL type="3dots"/> Wir k&#xF6;nnen es so leicht haben; das Licht<LE/>
+ist bereitwillig <SYMBOL type="3dots"/> Es gen&#xFC;gt, dass man es ruft; es folgt<LE/>
+immer <SYMBOL type="3dots"/> Habt ihr den Strom mit seinen kleinen Inseln<LE/>
+zwischen den bl&#xFC;henden Wiesen gesehen? <SYMBOL type="3dots"/> Der Himmel<LE/>
+ist heute ein krystallener Reif <SYMBOL type="3dots"/> Alladine, Palomides,<LE/>
+kommt und schaut <SYMBOL type="3dots"/> N&#xE4;hert euch Beide dem Paradiese <SYMBOL type="3dots"/><LE/>
+Ihr sollt euch umarmen in der neuen Klarheit <SYMBOL type="3dots"/> Ich z&#xFC;rne<LE/>
+euch nicht. Ihr habt gehandelt nach dem Gebote und ich <HYPH1 cont="desgleichen">des-</HYPH1><LE/>
+<HYPH2>gleichen</HYPH2> <SYMBOL type="3dots"/> Neigt euch einen Augenblick aus dem offenen<LE/>
+Fenster und betrachtet noch das liebliche Gr&#xFC;n <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00180" startPtr="WR-01-01-03_n0095.xml#//DIV_START[@divStartID='dsID_2397_00184']"/>
+<P parID="00698"><SD>(Stille. Er schliesst den Fensterladen wieder, ohne etwas zu sagen.)</SD></P>
+<DIV_END divEndID="deID_2397_00181" startPtr="WR-01-01-03_n0091.xml#//DIV_START[@divStartID='dsID_2397_00145']"/>
+<DIV_END divEndID="deID_2397_00182" startPtr="WR-01-01-03_n0088.xml#//DIV_START[@divStartID='dsID_2397_00131']"/>
+<P parID="00699">(Fortsetzung folgt.)</P>
+<DIV_END divEndID="deID_2397_00183" startPtr="WR-01-01-03_n0088.xml#//DIV_START[@divStartID='dsID_2397_00130']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

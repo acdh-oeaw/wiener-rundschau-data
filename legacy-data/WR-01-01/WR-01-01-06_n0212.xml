@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-06_n0211.xml</PREV>
+<NEXT>WR-01-01-06_n0213.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 212</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00351" endPtr="WR-01-01-06_n0212.xml#//DIV_END[@divEndID='deID_2397_00350']"/>
+<TITLE titleID="tiID_2397_00099"><TITLEPART>DAS WEISSE SCHLOSS.</TITLEPART></TITLE>
+<LG parID="01665"><L><IN>Ein</IN> weisses Schloss in weisser Einsamkeit.</L>
+<L>In blanken S&#xE4;len schleichen leise Schauer.</L>
+<L>Todtkrank krallt das Gerank sich an die Mauer,</L>
+<L>Und alle Wege weltw&#xE4;rts sind verschneit.</L></LG>
+<LG parID="01666"><L>Dar&#xFC;ber h&#xE4;ngt der Himmel brach und breit.</L>
+<L>Es blinkt das Schloss. Und l&#xE4;ngs den weissen W&#xE4;nden</L>
+<L>Hilft sich die Sehnsucht fort mit irren H&#xE4;nden <SYMBOL type="3dots"/></L>
+<L>Die Uhren stehn im Schloss: Es starb die Zeit.</L></LG>
+<P parID="01667">M&#xFC;nchen. <AUCTOR><C>Ren&#xE9; Maria Rilke</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00350" startPtr="WR-01-01-06_n0212.xml#//DIV_START[@divStartID='dsID_2397_00351']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00352" endPtr="WR-01-01-06_n0212.xml#//DIV_END[@divEndID='deID_2397_00351']"/>
+<TITLE titleID="tiID_2397_00100"><TITLEPART><SPC>OCTOBER</SPC>.*)</TITLEPART></TITLE>
+<LG parID="01668"><L>Fort; Liebe, vom eint&#xF6;n&#x2019;gen Meer &#x2014; hier, starre</L>
+<L>Die graue Schlucht herab aufs alte Jahr.</L></LG>
+<LG parID="01669"><L>Herab, o Liebe! Keinen Handdruck mehr?</L>
+<L>Da wir; des Lenzes ungedenk, noch leben,</L>
+<L>Und Sommers, nach dem Herbst nur voll Begehr?</L>
+<L>O horch nur, horch! Vom grauen Thurme beben</L>
+<L>Die T&#xF6;ne klangvoll durch das D&#xE4;mmer weben.</L>
+<L>S&#xFC;ss, traurig, gleich dem letzten Hauch des Jahres,</L>
+<L>Zu lebenssatt, dem Tod zu trotzen, war es &#x2014;</L>
+<L>Gleich uns, gleich uns! o sprich, ob&#x2019;s uns nicht frommt,</L>
+<L>Uns auszuruh&#x2019;n von Leben, Leid und Lasten,</L>
+<L>Vom Gl&#xFC;ck zu ruh&#x2019;n, das unvermuthet kommt,</L>
+<L>Zu ruh&#x2019;n von Liebe, die nichts weiss vom Rasten? &#x2014;</L>
+<L>Die T&#xF6;ne &#x2014; horch &#x2014; aufs Neue, die verblassten!</L></LG>
+<SEPARATOR type="asterismDown"/>
+<LG parID="01670"><L>Blick, Lieb&#x2019;, empor! Halt fest dich ohne Beben!</L>
+<L>Wie f&#xE4;nd ich Liebe wohl genug und Leben! <SYMBOL type="3dots"/></L></LG>
+<P parID="01671">London. <AUCTOR><C>Wllliam Morris</C></AUCTOR>.</P>
+<P parID="01672">Deutsch von <AUCTOR type="translator"><C>Friedrich v. Oppeln-Bronikowski</C></AUCTOR>.</P>
+<HR/>
+<FN>
+<P parID="01673"><TAB/>*) Dieses Gedicht ist ein Zwischenspiel aus dem &#xBB;Irdischen Paradies&#xAB; des<LE/>
+j&#xFC;ngst verstorbenen, ber&#xFC;hmten englischen Dichters William Morris, der im Verein<LE/>
+mit Burne Jones, dem grossen Pr&#xE4;raphaeliten, den gewaltigen Aufschwung der<LE/>
+decorativen K&#xFC;nste hervorgerufen hat.</P>
+</FN>
+<DIV_END divEndID="deID_2397_00351" startPtr="WR-01-01-06_n0212.xml#//DIV_START[@divStartID='dsID_2397_00352']"/>
+</PAGE>

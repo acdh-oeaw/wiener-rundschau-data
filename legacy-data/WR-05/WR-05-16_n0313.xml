@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-15_n0312.xml</PREV>
+<NEXT>WR-05-16_n0314.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 16, S. 313</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>14</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>8</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_01356" endPtr="WR-05-16_n0326.xml#//DIV_END[@divEndID='deID_2436_01373']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_01357" endPtr="WR-05-16_n0313.xml#//DIV_END[@divEndID='deID_2436_01356']"/>
+<P parID="07657"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="07658"><B>HERAUSGEGEBEN VON FELIX RAPPAPORT</B></P>
+<TABLE parID="07659"><ROW ciID="1225"><CELL>
+<P parID="07660"><DATE><B>15. AUGUST 1901</B></DATE></P>
+</CELL><CELL>
+<P parID="07661"><B>V. JAHRGANG, N<SUP>R.</SUP> 16</B></P>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_01356" startPtr="WR-05-16_n0313.xml#//DIV_START[@divStartID='dsID_2436_01357']"/>
+<DIV_START divStartID="dsID_2436_01358" endPtr="WR-05-16_n0316.xml#//DIV_END[@divEndID='deID_2436_01359']"/>
+<TITLE titleID="tiID_2436_00362"><TITLEPART type="main">ZUR SYMBOLIK IN WAGNERS &#x201E;PARSIFAL&#x201C;.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>EMIL LUCKA</AUCTOR> (Wien).</TITLEPART></TITLE>
+<TABLE parID="07662"><ROW ciID="1226"><CELL>
+<P parID="07663"><TAB/>Wie der alte Goethe im zweiten Theile<LE/>
+des &#xBB;Faust&#xAB; den Extract seiner Erkenntnis<LE/>
+&#xBB;Der Weisheit letzten Schluss&#xAB; <HYPH1 cont="niedergelegt">nieder-</HYPH1><LE/>
+<HYPH2>gelegt</HYPH2> hat, so Wagner im &#xBB;Parsifal&#xAB;.</P>
+<P parID="07664"><TAB/>Es mag vielleicht angehen, die fr&#xFC;heren<LE/>
+Werke Wagners ganz naiv, nicht <HYPH1 cont="reflectierend">reflec-</HYPH1><LE/>
+<HYPH2>tierend</HYPH2>, nur in Freude an ihrem <HYPH1 cont="poetischlegendarischen">poetisch-</HYPH1><LE/>
+<HYPH2>legendarischen</HYPH2> Gehalt aufzunehmen; bei<LE/>
+&#xBB;Tristan und Isolde&#xAB; und der Tetralogie<LE/>
+erzeugt diese Betrachtungsweise schon<LE/>
+derartige Unklarheiten und Illogismen, dass<LE/>
+ein einheitliches Bild der Dichtung nicht<LE/>
+gewonnen werden kann; eine naive, die<LE/>
+Symbole durchaus nur von ihrer <HYPH1 cont="Erscheinungsseite">Er-</HYPH1><LE/>
+<HYPH2>scheinungsseite</HYPH2> aus ins Auge fassende<LE/>
+Deutung des &#xBB;Parsifal&#xAB; ist ganz unm&#xF6;glich.<LE/>
+Der tiefe Sinn dieser Dichtung liegt zum<LE/>
+geringen Theil offen zutage, das Meiste<LE/>
+erschlie&#xDF;t sich erst nach l&#xE4;ngerer <HYPH1 cont="&#xDC;berlegung">&#xDC;ber-</HYPH1><LE/>
+<HYPH2>legung</HYPH2> und andauernder Vergleichung dem<LE/>
+Verst&#xE4;ndnis.</P>
+<P part="initial" parID="07665"><TAB/>Wie alle Dichtungen Wagners, <HYPH1 cont="behandelt">be-</HYPH1><LE/>
+<HYPH2>handelt</HYPH2> auch der &#xBB;Parsifal&#xAB; das ethische<LE/>
+Problem, dessen L&#xF6;sung in diesem letzten<LE/>
+Werke angedeutet wird. Gleich in der kurzen<LE/>
+Exposition wird der Mensch, der stets<LE/>
+nach Hohem strebte, doch zu schwach<LE/>
+war, es zu erreichen, als schwer leidender<LE/>
+Gralk&#xF6;nig (Amfortas) vorgef&#xFC;hrt. Er ist<LE/>
+zwar &#xBB;des siegreichen Geschlechtes Herr&#xAB;,</P>
+</CELL><CELL>
+<P part="final" parID="07666">das hei&#xDF;t: der Mensch hat wohl durch<LE/>
+Geisteskraft die todte Natur und die Thiere<LE/>
+unterworfen, aber er leidet an der <HYPH1 cont="schrecklichen">schreck-</HYPH1><LE/>
+<HYPH2>lichen</HYPH2> Wunde, der S&#xFC;nde, die sich nicht<LE/>
+schlie&#xDF;t. In knapper Aufeinanderfolge<LE/>
+werden die Mittel angedeutet, die zur<LE/>
+Heilung f&#xFC;hren sollen, aber nur kurze<LE/>
+Linderung bieten. Die Hilfe der Gralritter<LE/>
+(der zwar ernsthaft bem&#xFC;hten, aber <HYPH1 cont="unm&#xE4;chtigen">un-</HYPH1><LE/>
+<HYPH2>m&#xE4;chtigen</HYPH2>, weil ungenialen Menschen)<LE/>
+bleibt fruchtlos, und auch der Balsam, den<LE/>
+Kundry herbeischafft (auf den edlen<LE/>
+weiblichen Beruf der Krankenpflege <HYPH1 cont="hinweisend">hin-</HYPH1><LE/>
+<HYPH2>weisend</HYPH2>) n&#xFC;tzt wenig. Mehr heilende Kraft<LE/>
+bietet der Anblick der reinen Natur, die<LE/>
+den Kranken mit ihrer unersch&#xF6;pflichen<LE/>
+Lebenskraft durchflutet: &#xBB;Es staunt das<LE/>
+Weh&#x2019;, die Schmerzensnacht wird helle&#xAB;.<LE/>
+Aber auch dies, das &#xE4;sthetische Versenken,<LE/>
+das einen Moment vom Leiden befreite,<LE/>
+l&#xF6;scht das &#xDC;bel nicht aus. &#xBB;Hier hilft nur<LE/>
+Eines.&#xAB; Der mystische Verhei&#xDF;ungsspruch<LE/>
+lautet:</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2436_01359" endPtr="WR-05-16_n0313.xml#//DIV_END[@divEndID='deID_2436_01357']"/>
+<LG parID="07667"><L>&#xBB;Durch Mitleid wissend,</L>
+<L>Der reine Thor,</L>
+<L>Harre sein,</L>
+<L>Den ich erkor.&#xAB;</L></LG>
+<DIV_END divEndID="deID_2436_01357" startPtr="WR-05-16_n0313.xml#//DIV_START[@divStartID='dsID_2436_01359']"/>
+<P parID="07668"><TAB/>Der Sieche versteht die Weissagung<LE/>
+nicht, er denkt nicht der S&#xFC;hnung, er <HYPH1 cont="ersehnt">er-</HYPH1><LE/>
+<HYPH2>sehnt</HYPH2> das <SPC>unfruchtbare</SPC> Ende, den Tod.</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="313" c_text="&#x2014; 313 &#x2014;"/>
+</PAGE>

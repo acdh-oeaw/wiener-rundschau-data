@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-06_n0218.xml</PREV>
+<NEXT>WR-01-01-06_n0220.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 219</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ALLADINE UND PALOMIDES.</CTEXT><RTEXT type="pn">219</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00408" endPtr="WR-01-01-06_n0219.xml#//DIV_END[@divEndID='deID_2397_00405']"/>
+<P parID="01783"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01784"><TAB/>Ich habe den Wunsch zu leben verloren <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00405" startPtr="WR-01-01-06_n0219.xml#//DIV_START[@divStartID='dsID_2397_00408']"/>
+<P parID="01785"><SD>(Stille; dann immer schw&#xE4;cher und schw&#xE4;cher):</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00409" endPtr="WR-01-01-06_n0219.xml#//DIV_END[@divEndID='deID_2397_00406']"/>
+<P parID="01786"><SPK><SPC>Palomidens Stimme</SPC></SPK>.</P>
+<P parID="01787"><TAB/>Alladine! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00406" startPtr="WR-01-01-06_n0219.xml#//DIV_START[@divStartID='dsID_2397_00409']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00410" endPtr="WR-01-01-06_n0219.xml#//DIV_END[@divEndID='deID_2397_00407']"/>
+<P parID="01788"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01789"><TAB/>Palomides!</P>
+<DIV_END divEndID="deID_2397_00407" startPtr="WR-01-01-06_n0219.xml#//DIV_START[@divStartID='dsID_2397_00410']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00411" endPtr="WR-01-01-06_n0219.xml#//DIV_END[@divEndID='deID_2397_00408']"/>
+<P parID="01790"><SPK><SPC>Palomidens Stimme</SPC></SPK>.</P>
+<P parID="01791"><TAB/><SPAN cont="Alladine">Alla...dine</SPAN> <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00408" startPtr="WR-01-01-06_n0219.xml#//DIV_START[@divStartID='dsID_2397_00411']"/>
+<P parID="01792"><SD>(Stille &#x2014; Astolaine und Palomidens Schwestern horchen in Todesangst. Dann<LE/>
+&#xF6;ffnet die Krankenw&#xE4;rterin von innen die Th&#xFC;re von Palomidens Zimmer, erscheint<LE/>
+auf der Schwelle, macht ein Zeichen, und alle treten in das Zimmer ein, das sich<LE/>
+wieder schliesst. Von Neuem Stille. Bald danach &#xF6;ffnet sich auch die Th&#xFC;re von<LE/>
+Alladinens Zimmer; die andere Krankenw&#xE4;rterin tritt ebenfalls heraus, blickt in<LE/>
+den Gang und kehrt, da sie Niemanden sieht, in das Zimmer zur&#xFC;ck, dessen Th&#xFC;re<LE/>
+sie weit offen l&#xE4;sst.)</SD></P>
+<DIV_END divEndID="deID_2397_00409" startPtr="WR-01-01-06_n0213.xml#//DIV_START[@divStartID='dsID_2397_00354']"/>
+<P parID="01793"><SD>Ende.</SD></P>
+<DIV_END divEndID="deID_2397_00410" startPtr="WR-01-01-06_n0213.xml#//DIV_START[@divStartID='dsID_2397_00353']"/>
+</PAGE>

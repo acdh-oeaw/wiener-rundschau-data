@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-01_n0029.xml</PREV>
+<NEXT>WR-02-01-01_n0031.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 30</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">30</LTEXT><CTEXT>BROSCH.</CTEXT></HD>
+<P part="final" parID="00154">ihr &#xF6;fter an Form und Symmetrie; unter den vielen sind wohl einige<LE/>
+gute St&#xFC;cke, so M&#xE4;use und V&#xF6;gel. Und der ganz kleine Tand ist <HYPH1 cont="ungemein">un-</HYPH1><LE/>
+<HYPH2>gemein</HYPH2> humoristisch aufgefasst. Doch wo es sich um Darstellung von<LE/>
+Menschen handelt, fehlt es an der richtigen Proportion des menschlichen<LE/>
+K&#xF6;rpers. Von den sch&#xF6;nen japanischen Vasen, die einen Weltruhm besitzen,<LE/>
+w&#xE4;re es &#xFC;berfl&#xFC;ssig, zu berichten.</P>
+<P parID="00155"><TAB/>Allein was den japanischen K&#xFC;nstlern in ihrer Gesammtheit<LE/>
+mangelt, ist pers&#xF6;nliche Originalit&#xE4;t &#x2014; Einer guckt dem Anderen die<LE/>
+Kunstgriffe ab; es herrscht kein individueller Unterschied zwischen der<LE/>
+Mache zweier Meister, Beide streben in gleicher Richtung, und Alle<LE/>
+sind gleichgerathene Kinder derselben Urahnen, die zum erstenmal den<LE/>
+Pinsel gef&#xFC;hrt. Keiner ist dem Anderen soweit &#xFC;berlegen, dass man<LE/>
+ihn als den Ersten oder als das Haupt der Schule bezeichnen k&#xF6;nnte.<LE/>
+Trotzdem muss man ihnen lassen, dass sie jede Regung im Thier- wie<LE/>
+im Pflanzenleben mit &#xE4;usserster Genauigkeit zu beobachten und <HYPH1 cont="wiederzugeben">wieder-</HYPH1><LE/>
+<HYPH2>zugeben</HYPH2> wissen. Und weil sie das k&#xF6;nnen, haben sie gut gethan, zum<LE/>
+erstenmal direct eine europ&#xE4;ische Ausstellung zu beschicken; denn ihre<LE/>
+Werke liebvoll betrachtend, wird Einem zu Muthe, als ob zarte <HYPH1 cont="Maigl&#xF6;ckchen">Mai-</HYPH1><LE/>
+<HYPH2>gl&#xF6;ckchen</HYPH2> oder violette Veilchen den Sinn bet&#xE4;ubten, w&#xE4;hrend hoch<LE/>
+dar&#xFC;ber Lerchent&#xF6;ne erschallen und als ob wir selbst an die Sch&#xF6;nheiten<LE/>
+der Natur so unzertrennlich gebunden w&#xE4;ren wie das blasse Mondlicht an<LE/>
+die thronende Sonne &#x2014; gebunden durch Macht jener Liebe, von der<LE/>
+Petrarca singt:</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2432_00028" endPtr="WR-02-01-01_n0030.xml#//DIV_END[@divEndID='deID_2432_00026']"/>
+<LG parID="00156"><LANG iso="it"><L>Amor fra l&#x2019;erbe una leggiadra rete</L>
+<L>D&#x2019;oro e di perle tese sott&#x2019; un ramo.</L></LANG></LG>
+<DIV_END divEndID="deID_2432_00026" startPtr="WR-02-01-01_n0030.xml#//DIV_START[@divStartID='dsID_2432_00028']"/>
+<DIV_END divEndID="deID_2432_00027" startPtr="WR-02-01-01_n0028.xml#//DIV_START[@divStartID='dsID_2432_00027']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

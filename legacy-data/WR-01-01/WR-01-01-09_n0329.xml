@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-09_n0328.xml</PREV>
+<NEXT>WR-01-01-09_n0330.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 9, S. 329</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>SCHLACHTENBILD.</CTEXT><RTEXT type="pn">329</RTEXT></HD>
+<LG parID="02456"><L>Du gleichst dem Strom in seinen Winterfluthen,</L>
+<L>Der tosend sich b&#xE4;umt:</L>
+<L>Wenn dein geschloss&#x2019;ner Mund in wilden Gluthen</L>
+<L>Grellw&#xFC;thend ersch&#xE4;umt.</L></LG>
+<LG parID="02457"><L>Ich glaube Spaniens alten Wein zu trinken,</L>
+<L>Erschlaffend und schwer,</L>
+<L>Als wollt&#x2019; vom Himmel in mein Herz versinken</L>
+<L>Von Sternen ein Heer<SYMBOL type="4dots"/></L></LG>
+<P parID="02458">Paris. <AUCTOR><C>Charles Baudelaire</C></AUCTOR>.</P>
+<P parID="02459">Deutsch von <AUCTOR type="translator"><C>Alfred Neumann</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00464" startPtr="WR-01-01-09_n0328.xml#//DIV_START[@divStartID='dsID_2397_00465']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00466" endPtr="WR-01-01-09_n0329.xml#//DIV_END[@divEndID='deID_2397_00465']"/>
+<TITLE titleID="tiID_2397_00133"><TITLEPART>SCHLACHTENBILD.</TITLEPART></TITLE>
+<LG parID="02460"><L><IN>Attaque</IN>! Die S&#xE4;bel rasseln aus der Scheide.</L>
+<L>Gradaus dem Feind ins Aug&#x2019; geschaut! Habt Acht!</L>
+<L>Marsch &#x2014; Marsch! Die Rosse stampfen wild die Haide,</L>
+<L>Und lautlos reitet Tod uns nach und lacht.</L></LG>
+<LG parID="02461"><L>Vorbei! Die S&#xE4;bel rasseln in die Scheide.</L>
+<L>Wo ist mein Freund? Und Jeder sucht und blickt,</L>
+<L>Und lautlos reitet Tod auf blut&#x2019;ger Haide</L>
+<L>Und z&#xE4;hlt, was wir ihm gaben, grinst und nickt.</L></LG>
+<P parID="02462">M&#xFC;nchen. <AUCTOR><C>Fr. v. Oest&#xE9;ren</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00465" startPtr="WR-01-01-09_n0329.xml#//DIV_START[@divStartID='dsID_2397_00466']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

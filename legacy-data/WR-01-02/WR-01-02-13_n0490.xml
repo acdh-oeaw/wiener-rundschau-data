@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-13_n0489.xml</PREV>
+<NEXT>WR-01-02-13_n0491.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 13, S. 490</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2398_00008" endPtr="WR-01-02-13_n0494.xml#//DIV_END[@divEndID='deID_2398_00008']"/>
+<TITLE titleID="tiID_2398_00011"><TITLEPART type="main"><SPC>GESTAS</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">von <AUCTOR><C>Anatole France</C></AUCTOR><SUP>1</SUP>) (Paris).</TITLEPART></TITLE>
+<P parID="00107"><LANG type="mixed">Gestas, dixt <DOUBT sug="il">li</DOUBT> Signor, entrez en paradis.</LANG></P>
+<DIV_START cat="epigraph" type="verse" divStartID="dsID_2398_00009" endPtr="WR-01-02-13_n0490.xml#//DIV_END[@divEndID='deID_2398_00007']"/>
+<LG parID="00108"><LANG iso="fr"><L>&#xBB;Gestas, dans nos anciens myst&#xE8;res</L>
+<L>c&#x2019;est le nom du larron crucifi&#xE9;</L>
+<L>&#xE0; la droite de J&#xE9;sus-Christ.&#xAB;</L></LANG></LG>
+<P parID="00109"><I>(<AUCTOR>Augustin Thierry</AUCTOR>, <LANG iso="fr">la R&#xE9;demption de Larmor</LANG>.)</I></P>
+<DIV_END divEndID="deID_2398_00007" startPtr="WR-01-02-13_n0490.xml#//DIV_START[@divStartID='dsID_2398_00009']"/>
+<P parID="00110"><TAB/>Es geht die M&#xE4;r, es lebe in unseren Tagen ein schlechter Kerl,<LE/>
+Gestas genannt, der macht die s&#xFC;ssesten Lieder der Welt. In seinem<LE/>
+plattnasigen Gesicht war geschrieben, dass er ein S&#xFC;nder des Fleisches<LE/>
+sein werde. Kommt der Abend, so leuchten in seinen gr&#xFC;nlichen Augen<LE/>
+die schlechten L&#xFC;ste. Er ist kein Knabe mehr. Die Knollen an seinem<LE/>
+Sch&#xE4;del haben Kupferglanz angenommen, graugr&#xFC;ne Str&#xE4;hne h&#xE4;ngen ihm<LE/>
+in den Nacken. Und doch ist er harmlos und hat sich den <HYPH1 cont="Kinderglauben">Kinder-</HYPH1><LE/>
+<HYPH2>glauben</HYPH2> bewahrt. Ist er nicht im Spital, so haust er in irgend einer<LE/>
+Gasthofkammer zwischen Pantheon und botanischem Garten.</P>
+<P parID="00111"><TAB/>Hier, im alten armen Viertel, gr&#xFC;sst ihn jeder Stein, die finsteren<LE/>
+G&#xE4;sschen nehmen ihn liebreich auf; eines dieser G&#xE4;sschen ist so recht<LE/>
+nach seinem Herzen; denn ges&#xE4;umt von Schenken und Spelunken, hat<LE/>
+es im Winkel eines Hauses hinter Gitterst&#xE4;ben eine Mutter Gottes in<LE/>
+blauer Nische. Abends pilgert er von Wirthschaft zu Wirthschaft und<LE/>
+h&#xE4;lt seine Bier- und Branntweinstationen in einer ganz bestimmten<LE/>
+Ordnung: die grosse Arbeit der Ausschweifung verlangt Methode und<LE/>
+Regelm&#xE4;ssigkeit.</P>
+<P parID="00112"><TAB/>In vorger&#xFC;ckter Nachtstunde kehrt er in sein Loch zur&#xFC;ck, ohne<LE/>
+recht zu wissen wie, und durch ein t&#xE4;glich sich wiederholendes Wunder<LE/>
+findet er sein Gurtbett wieder, auf das er angekleidet hinf&#xE4;llt. Dort<LE/>
+schl&#xE4;ft er mit geballten F&#xE4;usten den Schlaf der Landstreicher und der<LE/>
+Kinder.</P>
+<P parID="00113"><TAB/>Aber dieser Schlaf ist kurz.</P>
+<P parID="00114"><TAB/>Kaum erhellt der Morgen die Fenster und schleudert seine<LE/>
+leuchtenden Pfeile durch die Vorh&#xE4;nge der Kammer, so &#xF6;ffnet Gestas<LE/>
+die Augen, erhebt sich, sch&#xFC;ttelt sich wie ein herrenloser Hund, den<LE/>
+ein Fusstritt erweckt, steigt die langgewundene Stiege eiligst hinab<LE/>
+und begr&#xFC;sst mit Wonne die Strasse, die gute Strasse, die gegen die<LE/>
+Laster der Armen und Niedrigen so milde ist.</P>
+<P parID="00115"><TAB/>Mit halbgeschlossenen Lidern blinzelt er den feinen Strahlen des<LE/>
+Tages entgegen, seine Silens-N&#xFC;stern bl&#xE4;hen sich in der Morgenluft.</P>
+<P part="initial" parID="00116"><TAB/>St&#xE4;mmig und aufrecht, das Bein von seiner alten Gicht steif noch,<LE/>
+schreitet er aus und st&#xFC;tzt sich auf seinen Hartriegelstock, dessen</P>
+<HR/>
+<FN>
+<P parID="00117"><TAB/><SUP>1</SUP>) Unsere Leser werden wohl sofort erkennen, dass Anatole France in<LE/>
+Gestas &#x2014; Paul Verlaine zu zeichnen suchte.</P>
+</FN>
+</PAGE>

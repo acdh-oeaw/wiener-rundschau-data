@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-07_n0280.xml</PREV>
+<NEXT>WR-01-01-08_n0282.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 8, S. 281</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2397_00440" endPtr="WR-01-01-08_n0320.xml#//DIV_END[@divEndID='deID_2397_00461']"/>
+<DIV_START cat="masthead" divStartID="dsID_2397_00441" endPtr="WR-01-01-08_n0281.xml#//DIV_END[@divEndID='deID_2397_00440']"/>
+<P parID="02128"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02129"><B><DATE>1. <SPC>M&#xC4;RZ</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2397_00440" startPtr="WR-01-01-08_n0281.xml#//DIV_START[@divStartID='dsID_2397_00441']"/>
+<DIV_START divStartID="dsID_2397_00442" endPtr="WR-01-01-08_n0286.xml#//DIV_END[@divEndID='deID_2397_00441']"/>
+<TITLE titleID="tiID_2397_00117"><TITLEPART type="main">STUMMER KAMPF.</TITLEPART><LE/>
+<TITLEPART type="desc">Skizze von <AUCTOR><C>Maria Janitschek</C></AUCTOR> (Berlin).</TITLEPART></TITLE>
+<TITLE titleID="tiID_2397_00118"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<P parID="02130"><TAB/>Die Andern waren schon versammelt, als Thorwalt&#x2019;s m&#xE4;chtige<LE/>
+Gestalt unter der Th&#xFC;re erschien. Er bot ihnen seinen Gruss und nahm<LE/>
+am Kopfende des Tisches Platz. Die Andern liessen sich ebenfalls<LE/>
+nieder. Dann begann man zu essen. Der Stuhl zur Rechten des Greises<LE/>
+war unbesetzt. Links von ihm sass eine wie aus grobem Eisen geh&#xE4;rtete<LE/>
+Gestalt, sein Sohn Ulf, diesem gegen&#xFC;ber dessen Gattin, ein <HYPH1 cont="starkknochiges">stark-</HYPH1><LE/>
+<HYPH2>knochiges</HYPH2> Bauernweib mit herbem, verschwiegenem Gesichte. Neben<LE/>
+sich hatte sie ihre beiden T&#xF6;chter. Die Reihe der M&#xE4;gde er&#xF6;ffnete ein<LE/>
+ganz junges Dirnlein. Gegen&#xFC;ber sassen Ulf&#x2019;s Knaben und die Knechte.</P>
+<P parID="02131"><TAB/>Es wurde wenig beim Mahle gesprochen und das Wenige mit<LE/>
+leiser, fl&#xFC;sternder Stimme. Die weite, gew&#xF6;lbte, fast hallenartige Stube,<LE/>
+in deren Hintergrund das Feuer auf einem riesigen Herde flackerte,<LE/>
+besass nicht das geringste Schmuck- oder Zierst&#xFC;ck. Die <HYPH1 cont="braunger&#xE4;ucherten">braun-</HYPH1><LE/>
+<HYPH2>ger&#xE4;ucherten</HYPH2> W&#xE4;nde waren kahl, das kleine Fenster, das auf das<LE/>
+gr&#xFC;nliche Wogenspiel der See hinaussah, ohne Vorhang. Nur Tisch<LE/>
+und St&#xFC;hle und ein m&#xE4;chtiger Schrank befanden sich in dem R&#xE4;ume,<LE/>
+der sein Licht haupts&#xE4;chlich von dem grossen Feuer auf dem Herde<LE/>
+erhielt. Von draussen liess sich das Pfeifen des Windes vernehmen.</P>
+<P parID="02132"><TAB/>&#xBB;Hast du die Boote festlegen lassen?&#xAB; fragte der Alte. &#xBB;Es wird<LE/>
+eine unruhige Nacht geben.&#xAB;</P>
+<P parID="02133"><TAB/>&#xBB;Ja, Vater, die Boote sind festgelegt.&#xAB; Der Sohn schob den<LE/>
+L&#xF6;ffel zur&#xFC;ck.</P>
+<P parID="02134"><TAB/>&#xBB;Die Gerste ist in der Scheune untergebracht?&#xAB;</P>
+<P parID="02135"><TAB/>&#xBB;Ja, sie ist in der Scheune untergebracht.&#xAB;</P>
+<P parID="02136"><TAB/>&#xBB;Hat Lomblad die Bretter geschickt?&#xAB;</P>
+<P parID="02137"><TAB/>&#xBB;Nein.&#xAB;</P>
+<P parID="02138"><TAB/>&#xBB;Weshalb nicht, da ich sie doch bestellt habe?&#xAB;</P>
+<P parID="02139"><TAB/>&#xBB;Der Junge war nicht anwesend und der Alte &#x2014;&#xAB;</P>
+<P parID="02140"><TAB/>&#xBB;Was?&#xAB;</P>
+</PAGE>

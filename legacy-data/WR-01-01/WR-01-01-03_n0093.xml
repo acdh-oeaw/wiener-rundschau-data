@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0092.xml</PREV>
+<NEXT>WR-01-01-03_n0094.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 93</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ALLADINE UND PALOMIDES.</CTEXT><RTEXT type="pn">93</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00158" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00154']"/>
+<P parID="00642"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00643"><TAB/>Ich decke seine armen Augen zu <SYMBOL type="3dots"/> <SD>(Sie bedeckt <HYPH1 cont="Ablamorens">Abla-</HYPH1><LE/>
+<HYPH2>morens</HYPH2> Angesicht.)</SD> Ich will nicht, dass Palomides ihn so erblickt<LE/>
+<SYMBOL type="3dots"/> Er ist zu ungl&#xFC;cklich.</P>
+<DIV_END divEndID="deID_2397_00154" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00158']"/>
+<P parID="00644"><SD>(Palomides tritt ein.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00159" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00155']"/>
+<P parID="00645"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00646"><TAB/>Was geht hier vor?</P>
+<DIV_END divEndID="deID_2397_00155" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00159']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00160" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00156']"/>
+<P parID="00647"><SPK><SPC>Eine der Schwestern</SPC></SPK>.</P>
+<P parID="00648"><TAB/>Er ist auf der Bank eingeschlafen.</P>
+<DIV_END divEndID="deID_2397_00156" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00160']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00161" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00157']"/>
+<P parID="00649"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00650"><TAB/>Ich bin ihm gefolgt, ohne dass er mich bemerken konnte<LE/>
+<SYMBOL type="3dots"/> Hat er nichts gesagt? <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00157" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00161']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00162" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00158']"/>
+<P parID="00651"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00652"><TAB/>Nein; doch seht, was er Alles erlitten hat <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00158" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00162']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00163" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00159']"/>
+<P parID="00653"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00654"><TAB/>Hat er die Schl&#xFC;ssel?</P>
+<DIV_END divEndID="deID_2397_00159" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00163']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00164" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00160']"/>
+<P parID="00655"><SPK><SPC>Eine andere Schwester</SPC></SPK>.</P>
+<P parID="00656"><TAB/>Er h&#xE4;lt sie in der Hand <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00160" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00164']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00165" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00161']"/>
+<P parID="00657"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00658"><TAB/>Ich will sie ihm nehmen.</P>
+<DIV_END divEndID="deID_2397_00161" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00165']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00166" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00162']"/>
+<P parID="00659"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00660"><TAB/>Was wollt Ihr thun? Oh! weckt ihn nicht auf <SYMBOL type="3dots"/> Drei<LE/>
+N&#xE4;chte sind es nun schon, dass er durch den Palast <HYPH1 cont="umherirrt">umher-</HYPH1><LE/>
+<HYPH2>irrt</HYPH2> <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00162" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00166']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00167" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00163']"/>
+<P parID="00661"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00662"><TAB/>Ich werde seine Hand &#xF6;ffnen, ohne dass er es gewahr<LE/>
+wird <SYMBOL type="3dots"/> Wir haben nicht mehr das Recht zu warten <SYMBOL type="3dots"/><LE/>
+Gott weiss, was er gethan hat <SYMBOL type="3dots"/> Er wird uns vergeben,<LE/>
+wenn er die Vernunft wieder erlangt hat <SYMBOL type="3dots"/> Oh! Oh! Seine<LE/>
+Hand hat keine Kraft mehr <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00163" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00167']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00168" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00164']"/>
+<P parID="00663"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00664"><TAB/>Gebt acht! Gebt acht!</P>
+<DIV_END divEndID="deID_2397_00164" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00168']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00169" endPtr="WR-01-01-03_n0093.xml#//DIV_END[@divEndID='deID_2397_00165']"/>
+<P parID="00665"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00666"><TAB/>Ich habe die Schl&#xFC;ssel schon. &#x2014; Welcher ist es? Ich<LE/>
+will sofort das Zimmer &#xF6;ffnen.</P>
+<DIV_END divEndID="deID_2397_00165" startPtr="WR-01-01-03_n0093.xml#//DIV_START[@divStartID='dsID_2397_00169']"/>
+</PAGE>

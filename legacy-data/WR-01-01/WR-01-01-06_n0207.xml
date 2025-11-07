@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-06_n0206.xml</PREV>
+<NEXT>WR-01-01-06_n0208.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 207</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>LEBEN.</CTEXT><RTEXT type="pn">207</RTEXT></HD>
+<LG parID="01608"><L>Ob gefoltert sie im Siechbett</L>
+<L>Oder in des Wahnsinns Krallen, &#x2014;</L>
+<L>Ob sie unterm Henkerbeile,</L>
+<L>Ob durch eigne Hand sie enden:</L></LG>
+<LG parID="01609"><L>Ruhlos wandeln sie auf Erden,</L>
+<L>Schon als Embryos belastet,</L>
+<L>Und in Purpur und in Lumpen</L>
+<L>Tragen ihres Daseins Fluch sie.</L></LG>
+<P parID="01610">Raitz in M&#xE4;hren. <AUCTOR><C>Ferdinand von Saar</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00347" startPtr="WR-01-01-06_n0206.xml#//DIV_START[@divStartID='dsID_2397_00348']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00349" endPtr="WR-01-01-06_n0207.xml#//DIV_END[@divEndID='deID_2397_00348']"/>
+<TITLE titleID="tiID_2397_00097"><TITLEPART type="main">LEBEN.</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="01611"><L>&#xBB;Verblasstes Gestern, unerw&#xFC;nschtes Morgen,</L>
+<L>die mir den Geist in dumpfes Heute zwingen!</L>
+<L>Naht sich kein Traum, die Stunden zu beschwingen,</L>
+<L>verschollner Zeiten Farbenspiel zu borgen?&#xAB;</L></LG>
+<LG parID="01612"><L>Er wollte sich das Haupt mit Rosen kr&#xE4;nzen,</L>
+<L>das Mahl erstrahlte in geerbter Pracht,</L>
+<L>und Frauen kamen, die in losen T&#xE4;nzen</L>
+<L>sein Bett umkreist in schlummerloser Nacht.</L></LG>
+<LG parID="01613"><L>Er suchte in den Schriften weiser Ahnen</L>
+<L>und fand nur, was sein Sinnen selbst erlauscht,</L>
+<L>dass irgendfern auf unerforschten Bahnen</L>
+<L>ein grosses Leben durch die Zeiten rauscht.</L></LG>
+<LG parID="01614"><L>&#xBB;Wo schl&#xE4;ft der Gott, mit dem das Leben schied,</L>
+<L>ragt der Altar, umgl&#xFC;ht von Opferherden?</L>
+<L>Ihm strebt die Seele Weihrauchduft zu werden,</L>
+<L>ein Rausch von Duft und Ton: ein bacchisch Lied.</L></LG>
+<P parID="01615">M&#xFC;nchen. <AUCTOR><C>Oscar A. H. Schmitz</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00348" startPtr="WR-01-01-06_n0207.xml#//DIV_START[@divStartID='dsID_2397_00349']"/>
+</PAGE>

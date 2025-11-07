@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-03_n0059.xml</PREV>
+<NEXT>WR-03-01-03_n0061.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 60</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>HOFMANNSTHAL: DIE ALKESTIS DES EURIPIDES.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_00295" endPtr="WR-03-01-03_n0060.xml#//DIV_END[@divEndID='deID_2434_00292']"/>
+<P parID="00876"><SPK><SPC>Herakles</SPC></SPK> <SD>(in den Thorweg tretend)</SD>.</P>
+<LG parID="00877"><L>Geh&#x2019; ich hier recht zur Schwelle des Admet?</L>
+<L>Treff ich den K&#xF6;nig, Eueren Herrn, daheim?</L></LG>
+<DIV_END divEndID="deID_2434_00292" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00295']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00296" endPtr="WR-03-01-03_n0060.xml#//DIV_END[@divEndID='deID_2434_00293']"/>
+<P parID="00878"><SPK><SPC>Ein J&#xFC;ngling</SPC></SPK>.</P>
+<LG parID="00879"><L>O lass&#x2019; mich sie anr&#xFC;hren, Herr, die Keule!</L></LG>
+<DIV_END divEndID="deID_2434_00293" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00296']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00297" endPtr="WR-03-01-03_n0060.xml#//DIV_END[@divEndID='deID_2434_00294']"/>
+<P parID="00880"><SPK><SPC>Ein &#xC4;lterer</SPC></SPK>.</P>
+<LG parID="00881"><L>Meinst Du, es w&#xFC;rde was hin&#xFC;berzucken</L>
+<L>Vom wilden Feuer der lern&#xE4;ischen,</L>
+<L>Vom L&#xF6;wenkampf und von Centaurenschlachten?</L></LG>
+<DIV_END divEndID="deID_2434_00294" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00297']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00298" endPtr="WR-03-01-03_n0060.xml#//DIV_END[@divEndID='deID_2434_00295']"/>
+<P parID="00882"><SPK><SPC>Ein sehr alter Mann</SPC></SPK>.</P>
+<LG parID="00883"><L>So hab&#x2019; ich den Herakles noch geseh&#x2019;n,</L>
+<L>Bevor ich starb und kann im Schattenland</L>
+<L>Davon erz&#xE4;hlen, wenn mich einer fragt!</L></LG>
+<DIV_END divEndID="deID_2434_00295" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00298']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00299" endPtr="WR-03-01-03_n0060.xml#//DIV_END[@divEndID='deID_2434_00296']"/>
+<P parID="00884"><SPK><SPC>Herakles</SPC></SPK> <SD>(l&#xE4;chelnd)</SD>.</P>
+<LG parID="00885"><L>Da hast Du gar was Grosses, alter Mann!</L>
+<L>Staunst Du auch jedesmal, wenn Du den Blitz</L>
+<L>In alle B&#xE4;ume fahren siehst? Und doch</L>
+<L>Der schl&#xE4;gt viel st&#xE4;rker zu als ich und kommt</L>
+<L>Viel weiter her &#x2014;</L></LG>
+<DIV_END divEndID="deID_2434_00296" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00299']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00300" endPtr="WR-03-01-03_n0060.xml#//DIV_END[@divEndID='deID_2434_00297']"/>
+<P parID="00886"><SPK><SPC>Ein junger Mann</SPC></SPK>.</P>
+<LG parID="00887"><L>Der Blitz hat nur noch nie mit uns geredet!</L>
+<L>Du aber, wenn Du nur den Mund aufthust,</L>
+<L>Ist einem doch, als wachsen alle Sterne,</L>
+<L>Als w&#xFC;rden alle Wasser feuerfarb&#x2019;,</L>
+<L>So l&#xE4;uft ein Wind von Wundern vor Dir her!</L></LG>
+<DIV_END divEndID="deID_2434_00297" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00300']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00301" endPtr="WR-03-01-03_n0060.xml#//DIV_END[@divEndID='deID_2434_00298']"/>
+<P parID="00888"><SPK><SPC>Der J&#xFC;ngling</SPC></SPK>.</P>
+<LG parID="00889"><L>Und sag&#x2019;, Herakles, wohin gehst Du jetzt?</L>
+<L>Dass Du an uns&#x2019;rer Stadt vor&#xFC;bermusst?</L>
+<L>Damit ich, wenn ich k&#xFC;nftig dieses Thal</L>
+<L>Und die vertrauten Wege seh&#x2019;, mir sag:</L>
+<L>Auch hier bist Du so gut im M&#xE4;rchenland</L>
+<L>Als irgendwo, nur wie der Floh im Pelz:</L>
+<L>Was k&#xFC;mmert&#x2019;s ihn, ob L&#xF6;we oder Hund?</L></LG>
+<DIV_END divEndID="deID_2434_00298" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00301']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00302" endPtr="WR-03-01-03_n0060.xml#//DIV_END[@divEndID='deID_2434_00299']"/>
+<P parID="00890"><SPK><SPC>Herakles</SPC></SPK>.</P>
+<LG parID="00891"><L>Dem Trauernden will ich nicht l&#xE4;stig sein,</L>
+<L>Dass Du um einen Nahverwandten weinst,</L>
+<L>Ich wusst&#x2019; es fr&#xFC;her nicht, jetzt freilich geh&#x2019; ich</L>
+<L>Und suche mir ein andres Haus zur Rast.</L></LG>
+<DIV_END divEndID="deID_2434_00299" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00302']"/>
+<P parID="00892"><SD>(Er wendet sich zum Gehen, der K&#xF6;nig sieht ihm theilnahmslos nach; pl&#xF6;tzlich besinnt er sich,<LE/>
+richtet sich auf und sagt stark.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00303" endPtr="WR-03-01-03_n0060.xml#//DIV_END[@divEndID='deID_2434_00300']"/>
+<P parID="00893"><SPK><SPC>Admet</SPC></SPK>.</P>
+<LG parID="00894"><L>Herakles, nur dies eine thu&#x2019; mir nicht,</L>
+<L>Dass Du, ein Gast, umkehrst auf meiner Schwelle!</L></LG>
+<DIV_END divEndID="deID_2434_00300" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00303']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00304" endPtr="WR-03-01-03_n0060.xml#//DIV_END[@divEndID='deID_2434_00301']"/>
+<P parID="00895"><SPK><SPC>Herakles</SPC></SPK>.</P>
+<LG parID="00896"><L>Entlass&#x2019; mich und ich dank&#x2019; Dir tausendmal.</L></LG>
+<DIV_END divEndID="deID_2434_00301" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00304']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00305" endPtr="WR-03-01-03_n0061.xml#//DIV_END[@divEndID='deID_2434_00302']"/>
+<P parID="00897"><SPK><SPC>Admet</SPC></SPK><ERR sug=".">:</ERR></P>
+<LG part="initial" parID="00898"><L>Ich lasse Dich zu keines andern Herd,</L>
+<L>Eh liess&#x2019; ich meine Todten unbegraben!</L>
+<L>Werd&#x2019; meine Art so ganz unk&#xF6;niglich,</L>
+<L>Dass ich den fortscheuch&#x2019;, den ich ehren soll?!</L></LG>
+<FT type="pn" num="60" c_text="&#x2014; 60 &#x2014;"/>
+</PAGE>

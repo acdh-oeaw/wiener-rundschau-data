@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-19_n0442.xml</PREV>
+<NEXT>WR-03-02-19_n0444.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 19, S. 443</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>CHARLES BAUDELAIRE: DIE BLUMEN DES B&#xD6;SEN.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2434_01079" endPtr="WR-03-02-19_n0443.xml#//DIV_END[@divEndID='deID_2434_01077']"/>
+<TITLE titleID="tiID_2434_00220"><TITLEPART>DER BALKON.</TITLEPART></TITLE>
+<LG parID="05148"><L>O Mutter der Erinnrung, Frau der Frauen,</L>
+<L>Mein ganzes Gl&#xFC;ck und meine ganze Acht!</L>
+<L>Kannst Du im Geist die sch&#xF6;nen Freuden schauen,</L>
+<L>Des Reimes Frieden und den Reiz der Nacht?</L>
+<L>O Mutter der Erinnrung, Frau der Frauen.</L></LG>
+<LG parID="05149"><L>In N&#xE4;chten, leuchtend von der Kohle Glut,</L>
+<L>In N&#xE4;chten am Balkon, die rosig wallten,</L>
+<L>Wie war Dein Busen s&#xFC;ss, Dein Herz mir gut!</L>
+<L>Und unverg&#xE4;ngliche Gespr&#xE4;che schallten</L>
+<L>In N&#xE4;chten, leuchtend von der Kohle Glut.</L></LG>
+<LG parID="05150"><L>An heissen Abenden, wie sch&#xF6;n die Sonnen!</L>
+<L>Wie stark das Herz! Wie weit die Himmelsluft!</L>
+<L>Ich ruhte bei Dir, K&#xF6;nigin der Wonnen,</L>
+<L>Zu athmen glaubt ich Deines Blutes Duft,</L>
+<L>An heissen Abenden, wie sch&#xF6;n die Sonnen!</L></LG>
+<LG parID="05151"><L>Dann ward es dunkler, wie in dichtem Rauch,</L>
+<L>Mein Auge forschte, ob es Deines f&#xE4;nde,</L>
+<L>Ich trank &#x2014; o Gift, o S&#xFC;sse &#x2014; Deinen Hauch,</L>
+<L>Dein Fuss entschlief in meine Bruderh&#xE4;nde.</L>
+<L>Dann ward es dunkler, wie in dichtem Rauch.</L></LG>
+<LG parID="05152"><L>Ich weiss in Gl&#xFC;ckes Zeit mich zu versenken,</L>
+<L>Wo mein Geschick in Deinen Knieen lag.</L>
+<L>Wer soll mir zarter Reize Freuden schenken,</L>
+<L>Wenn es Dein Leib, Dein lindes Herz nicht mag?</L>
+<L>Ich weiss in Gl&#xFC;ckes Zeit mich zu versenken.</L></LG>
+<LG parID="05153"><L>Ihr Schw&#xFC;re, D&#xFC;fte, K&#xFC;sse ohne Zahl!</L>
+<L>Ersteht Ihr auf aus unersp&#xE4;hten Schl&#xFC;nden,</L>
+<L>Wie junge Sonnen, die zum Wolkensaal</L>
+<L>Sich heben nach dem Bad in Meeresgr&#xFC;nden?</L>
+<L>O Schw&#xFC;re, D&#xFC;fte, K&#xFC;sse ohne Zahl!</L></LG>
+<DIV_END divEndID="deID_2434_01077" startPtr="WR-03-02-19_n0443.xml#//DIV_START[@divStartID='dsID_2434_01079']"/>
+<SEPARATOR type="undefined"/>
+<FT type="pn" num="443" c_text="&#x2014; 443 &#x2014;"/>
+</PAGE>

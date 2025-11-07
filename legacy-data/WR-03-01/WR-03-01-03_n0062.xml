@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-03_n0061.xml</PREV>
+<NEXT>WR-03-01-03_n0063.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 62</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>HOFMANNSTHAL: DIE ALKESTIS DES EURIPIDES.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_00314" endPtr="WR-03-01-03_n0062.xml#//DIV_END[@divEndID='deID_2434_00311']"/>
+<P parID="00919"><SPK><SPC>Herakles</SPC></SPK>.</P>
+<LG parID="00920"><L>Heil sei Dir, K&#xF6;nig &#x2014;</L></LG>
+<DIV_END divEndID="deID_2434_00311" startPtr="WR-03-01-03_n0062.xml#//DIV_START[@divStartID='dsID_2434_00314']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00315" endPtr="WR-03-01-03_n0062.xml#//DIV_END[@divEndID='deID_2434_00312']"/>
+<P parID="00921"><SPK><SPC>Admet</SPC></SPK> <SD>(bitter)</SD>.</P>
+<LG parID="00922"><L>Wohl, das w&#xFC;nscht&#x2019; ich sehr.</L></LG>
+<DIV_END divEndID="deID_2434_00312" startPtr="WR-03-01-03_n0062.xml#//DIV_START[@divStartID='dsID_2434_00315']"/>
+<P parID="00923"><SD>(Er versinkt in Gedanken, es entsteht eine peinliche Pause.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00316" endPtr="WR-03-01-03_n0062.xml#//DIV_END[@divEndID='deID_2434_00313']"/>
+<P parID="00924"><SPK><SPC>Admet</SPC></SPK> <SD>(matt)</SD>.</P>
+<LG parID="00925"><L>Vergib. Mein ganzes Haus ist Dir zu Dienst</L>
+<L>Mit Trunk und Schatten, Lager, Herd und Knecht:</L>
+<L>Mich selber nur entlass&#x2019;, mir ist die Seele</L>
+<L>Wie mohnbet&#xE4;ubt von traurigen Gedanken:</L>
+<L>In meinem Haus steht eine Todtenbahre.</L></LG>
+<DIV_END divEndID="deID_2434_00313" startPtr="WR-03-01-03_n0062.xml#//DIV_START[@divStartID='dsID_2434_00316']"/>
+<P parID="00926"><SD>(Diener &#xF6;ffnen die Th&#xFC;r der Halle rechts vorne und f&#xFC;hren den Herakles hinein. Der K&#xF6;nig,<LE/>
+im Begriffe ins Haus zu gehen, wendet sich nach den untereinander murmelnden Edlen<LE/>
+zur&#xFC;ck und sagt stark.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00317" endPtr="WR-03-01-03_n0062.xml#//DIV_END[@divEndID='deID_2434_00314']"/>
+<P parID="00927"><SPK><SPC>Admet</SPC></SPK>.</P>
+<LG parID="00928"><L>Wer mich hier nicht versteht, wer fragen will,</L>
+<L>Wie dieses Thun zu solcher Trauer stimmt,</L>
+<L>Wenn alles dies unziemlich scheint und hart,</L>
+<L>Der schweige und bedenk&#x2019;: Der K&#xF6;nig that&#x2019;s.</L></LG>
+<P parID="00929"><SD>(Eine Stufe heruntersteigend.)</SD></P>
+<LG parID="00930"><L>Ihr schautet doch zu meinen V&#xE4;tern auf</L>
+<L>Und dachtet: &#xBB;Wenn uns der durch&#x2019;s Feuer f&#xFC;hrt</L>
+<L>Ist&#x2019;s gut, tr&#xE4;gt er doch Helm und Schild von G&#xF6;ttern</L>
+<L>Und t&#xF6;dtet er, so kommt&#x2019;s, als wie ein Blitz</L>
+<L>Nur mittelbar, aus eines Gottes Faust.&#xAB;</L>
+<L>Ich aber hab&#x2019; viel gr&#xF6;sseres Geschenk</L>
+<L>Und Gabe, die mich &#xFC;ber Menschen hebt</L>
+<L>Als Schwerter, die vom Himmel fielen, Rosse<ADD>,</ADD></L>
+<L>Die reden, Flammen um die Stirn und Stimmen</L>
+<L>Aus B&#xE4;umen t&#xF6;nend: Mir ist auferlegt</L>
+<L><SPC>So k&#xF6;niglich zu sein</SPC>, dass ich dar&#xFC;ber</L>
+<L>Vergessen k&#xF6;nne all mein eig&#x2019;nes Leid!</L>
+<L>Der sch&#xF6;ne Leib der jungen K&#xF6;nigin</L>
+<L>Ward in die Erde eingesenkt als Same</L>
+<L>F&#xFC;r Wunderb&#xE4;ume, die auf Lebensfluren</L>
+<L>Die Schatten breiten sollen, wie die Schw&#xE4;rme</L>
+<L>Der wilden Tauben rauschend; alle Fl&#xFC;sse</L>
+<L>In meinem Lande sollen k&#xFC;hner rollen</L>
+<L>In lauterem Triumph und rollend spiegeln</L>
+<L>Den Schatten wundervoll erh&#xF6;hten Lebens;</L>
+<L>Und Zaum und Z&#xFC;gel aller dieser Wunder</L>
+<L>Will ich, wie diesen Stab in meiner Hand,</L>
+<L>Beherrschend halten und mein Leid vergessen!</L>
+<L>Meint Ihr, der Mann w&#xE4;re &#xFC;ber meine Schwelle</L>
+<L>Getreten, wenn er w&#xFC;sste, dass das <SPC>ist</SPC>,</L>
+<L>Was ich ableugnete? &#x2014; Und dieses Haus</L>
+<L>Soll nicht zum erstenmal ungastlich heissen!</L></LG>
+<DIV_END divEndID="deID_2434_00314" startPtr="WR-03-01-03_n0062.xml#//DIV_START[@divStartID='dsID_2434_00317']"/>
+<DIV_END divEndID="deID_2434_00315" startPtr="WR-03-01-03_n0059.xml#//DIV_START[@divStartID='dsID_2434_00293']"/>
+<DIV_END divEndID="deID_2434_00316" startPtr="WR-03-01-03_n0055.xml#//DIV_START[@divStartID='dsID_2434_00266']"/>
+<SEPARATOR type="hr"/>
+<FT type="pn" num="62" c_text="&#x2014; 62 &#x2014;"/>
+</PAGE>

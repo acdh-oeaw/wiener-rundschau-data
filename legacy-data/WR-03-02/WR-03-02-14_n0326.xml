@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-14_n0325.xml</PREV>
+<NEXT>WR-03-02-14_n0327.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 14, S. 326</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ROSSETTI: DIE WAHL.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2434_00743" endPtr="WR-03-02-14_n0326.xml#//DIV_END[@divEndID='deID_2434_00741']"/>
+<TITLE titleID="tiID_2434_00172"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="03859"><L>Iss du und trink: du stirbst bevor es Tag.</L>
+<L>F&#xFC;rwahr, die weise Erde braucht uns nicht.</L>
+<L>Lass mich aus deinen Armen nun und flicht</L>
+<L>Dein schw&#xFC;les Haar, das mir so nahe lag &#x2014;</L></LG>
+<LG parID="03860"><L>Dass ich dir diesen Wein credenzen mag,</L>
+<L>Bis dir sein Goldglanz flimmert ums Gesicht,</L>
+<L>Dein Lied &#x2014; wie Springflut Schleier wirft ums Licht</L>
+<L>Ert&#xF6;ne perlender beim Stundenschlag.</L></LG>
+<LG parID="03861"><L>K&#xFC;ss mich, hochbusge Sch&#xF6;ne, nun und glaub:</L>
+<L>Gar manche gibt&#x2019;s &#x2014; sie tragen Stein an Stein</L>
+<L>Zu eitlen G&#xFC;tern und zu eitler Pflicht &#x2014;</L></LG>
+<LG parID="03862"><L>Kommt einmal dann ein Tag, sie sterben nicht &#x2014;</L>
+<L>Sie lebten nie &#x2014; doch h&#xF6;ren auf zu sein;</L>
+<L>Und dicht um ihren starren Mund f&#xE4;llt Staub.</L></LG>
+<DIV_END divEndID="deID_2434_00741" startPtr="WR-03-02-14_n0326.xml#//DIV_START[@divStartID='dsID_2434_00743']"/>
+<FT type="pn" num="326" c_text="&#x2014; 326 &#x2014;"/>
+</PAGE>

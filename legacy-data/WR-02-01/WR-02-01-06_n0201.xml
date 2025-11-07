@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-05_n0200.xml</PREV>
+<NEXT>WR-02-01-06_n0202.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 6, S. 201</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00264" endPtr="WR-02-01-06_n0240.xml#//DIV_END[@divEndID='deID_2432_00287']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00265" endPtr="WR-02-01-06_n0201.xml#//DIV_END[@divEndID='deID_2432_00264']"/>
+<P parID="01368"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="01369"><B><DATE>1. <SPC>FEBRUAR</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00264" startPtr="WR-02-01-06_n0201.xml#//DIV_START[@divStartID='dsID_2432_00265']"/>
+<DIV_START divStartID="dsID_2432_00266" endPtr="WR-02-01-06_n0210.xml#//DIV_END[@divEndID='deID_2432_00265']"/>
+<TITLE titleID="tiID_2432_00069"><TITLEPART type="main">GOLD.</TITLEPART><LE/>
+<TITLEPART type="desc">Novelle von <AUCTOR><C>Adine Gemberg</C></AUCTOR> (Wittenberg).</TITLEPART></TITLE>
+<P parID="01370"><TAB/>Im M&#xFC;nzamt waren die Beamten damit besch&#xE4;ftigt, neugepr&#xE4;gte<LE/>
+Goldst&#xFC;cke in Rollen zu packen. Lange, der M&#xFC;nzinspector, wog jede<LE/>
+Rolle nach und schrieb dann darauf: &#xBB;F&#xFC;nfhundert Mark in Gold&#xAB;,<LE/>
+&#xBB;Eintausend Mark in Gold&#xAB; u. s. w.</P>
+<P parID="01371"><TAB/>Man h&#xF6;rte nur das leise, ganz eigenth&#xFC;mliche Klirren des Goldes,<LE/>
+das Klappen der Wage, das Athmen der vier M&#xE4;nner, die hier bei<LE/>
+einer ganz mechanischen, t&#xF6;dtlich einf&#xF6;rmigen Arbeit, von der ganzen<LE/>
+Aussenwelt isolirt, sassen.</P>
+<P parID="01372"><TAB/>Sie hielten den Nerv des Lebens in ihren H&#xE4;nden, und doch<LE/>
+umgab sie selbst die Stille des Todes.</P>
+<P parID="01373"><TAB/>Nur ihre Vorgesetzten, nur die Beamten der M&#xFC;nze, die ihre<LE/>
+Th&#xE4;tigkeit revidirten, hatten Zutritt zu dem mit allen m&#xF6;glichen <HYPH1 cont="Sicherheitsvorrichtungen">Sicher-</HYPH1><LE/>
+<HYPH2>heitsvorrichtungen</HYPH2> versehenen Raum. Das ungez&#xE4;hlte, ungewogene Gold<LE/>
+wurde einer Maschine entnommen, in die es an der Pr&#xE4;gest&#xE4;tte <HYPH1 cont="eingef&#xFC;llt">ein-</HYPH1><LE/>
+<HYPH2>gef&#xFC;llt</HYPH2> ward.</P>
+<P parID="01374"><TAB/>Der Inspector Lange hatte heute bereits eine Million notirt, die<LE/>
+von den Leuten verpackt, von ihm gewogen, gesiegelt und mit <HYPH1 cont="Aufschriften">Auf-</HYPH1><LE/>
+<HYPH2>schriften</HYPH2> versehen war. Und immer noch klirrten die Doppelkronen<LE/>
+aus dem Schlitze des Automaten hervor. Es hatte den Anschein, als<LE/>
+rieselte hier ein Brunnen, ein Goldquell, der nimmer versiegen k&#xF6;nne.</P>
+<P parID="01375"><TAB/>Und thats&#xE4;chlich versiegte er ja auch nicht. Das Gold, das von<LE/>
+dieser St&#xE4;tte einmal ausgegangen war, kehrte zur&#xFC;ck, und immer<LE/>
+wieder formten die Z&#xE4;hler daraus die Rollen, die der Inspector mit<LE/>
+der Aufschrift ihres Werthes versah.</P>
+<P parID="01376"><TAB/>Eine Million! Wer w&#xFC;rde sie besitzen und was w&#xFC;rde sie ihrem<LE/>
+Besitzer gew&#xE4;hren?</P>
+<P parID="01377"><TAB/>Ja, wenn diese Summe ihm geh&#xF6;rt h&#xE4;tte! <SYMBOL type="3dots"/>Lange sann nach<LE/>
+&#x2014; wenn sie ihm geh&#xF6;rt h&#xE4;tte, dann h&#xE4;tte er wohl gewusst &#x2014; &#x2014;</P>
+<P parID="01378"><TAB/>Ja, man soll so etwas nicht denken<ERR sug="!"> l</ERR></P>
+</PAGE>

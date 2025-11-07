@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-12_n0446.xml</PREV>
+<NEXT>WR-01-01-12_n0448.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 447</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00553" endPtr="WR-01-01-12_n0447.xml#//DIV_END[@divEndID='deID_2397_00552']"/>
+<TITLE titleID="tiID_2397_00171"><TITLEPART type="main"><SPC>VENEDIG</SPC>.</TITLEPART></TITLE>
+<TITLE titleID="tiID_2397_00172"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="03139"><L><IN>Immer</IN> ist mir, dass die leisen</L>
+<L>Gondeln durch Can&#xE4;le reisen</L>
+<L>Irgend jemand zum Empfang;</L>
+<L>Denn das Warten dauert lang,</L>
+<L>Und das Volk ist blass und krank,</L>
+<L>Und die Kinder sind wie Waisen.</L></LG>
+<LG parID="03140"><L>Lange harren die Pal&#xE4;ste</L>
+<L>Auf die Herren, auf die G&#xE4;ste,</L>
+<L>Und das Volk will Kronen sehn.</L>
+<L>Auf dem Markusplatze stehn</L>
+<L>M&#xF6;cht&#x2019; ich oft und irgendwen</L>
+<L>Fragen nach dem fernen Feste <SYMBOL type="3dots"/></L></LG>
+<TITLE titleID="tiID_2397_00173"><TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="03141"><L>Ave weht von den Th&#xFC;rmen her,</L>
+<L>Immer noch h&#xF6;rst du die Kirchen erz&#xE4;hlen;</L>
+<L>Doch die Pal&#xE4;ste an stillen Can&#xE4;len</L>
+<L>Verrathen nichts mehr.</L></LG>
+<LG parID="03142"><L>Und vorbei an der Traumesruh&#x2019;</L>
+<L>Ihrer schlafenden Stirnen schwanken</L>
+<L>Leise Gondeln wie schwarze Gedanken</L>
+<L>Dem Abend zu.</L></LG>
+<P parID="03143">M&#xFC;nchen. <AUCTOR><C>Ren&#xE9; Maria Rilke</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00552" startPtr="WR-01-01-12_n0447.xml#//DIV_START[@divStartID='dsID_2397_00553']"/>
+</PAGE>

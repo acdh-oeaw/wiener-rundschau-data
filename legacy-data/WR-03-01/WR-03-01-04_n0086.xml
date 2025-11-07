@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-04_n0085.xml</PREV>
+<NEXT>WR-03-01-04_n0087.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 86</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>STRINDBERG: DIE SCHL&#xDC;SSEL DES HIMMELREICHS.</CTEXT></HD>
+<TABLE parID="01209"><ROW ciID="0371"><CELL>
+<DIV_START cat="speech" divStartID="dsID_2434_00407" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00403']"/>
+<P parID="01210"><SPK><SPC>Don Quixote</SPC></SPK>.</P>
+<LG parID="01211"><L>Nicht m&#xFC;de bin ich bloss, zusammen</L>
+<L>brech&#x2019; ich!</L>
+<L>Mein Leben, war es auch nur eine Sage,</L>
+<L>Neu leben wird es jegliches Geschlecht,</L>
+<L>So lang&#x2019; die Erde kreist, der Himmel</L>
+<L>steht,</L>
+<L>Die Menschen hinter Truggebilden jagen,</L>
+<L>So lange man nichts lernt und nichts</L>
+<L>vergisst,</L>
+<L>Wird Don Quixote weiter leben</L>
+<L>In J&#xFC;nglings Thorheit, Mannes Klugheit!</L>
+<L>Fahr&#x2019; wohl. Du Welt, voll grimmen,</L>
+<L>holden Trug&#x2019;s:</L></LG>
+<DIV_END divEndID="deID_2434_00403" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00407']"/>
+<P parID="01212"><SD>(Sinkt nieder.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00408" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00404']"/>
+<P parID="01213"><SPK><SPC>St. Peter</SPC></SPK>.</P>
+<LG parID="01214"><L>Der edle Ritter, er ist todt!</L></LG>
+<DIV_END divEndID="deID_2434_00404" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00408']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00409" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00405']"/>
+<P parID="01215"><SPK><SPC>Jude</SPC></SPK>.</P>
+<LG parID="01216"><L>Und lebt doch!</L>
+<L>Er hielt sich selbst die beste Leichenrede,</L>
+<L>Wie keiner sie ihm besser halten konnte. &#x2014;</L>
+<L>Doch sieh&#x2019;, mich d&#xFC;nkt, dass auch St. Peter</L>
+<L>Sein m&#xFC;des Haupt zur Ruhe neigt.</L></LG>
+<DIV_END divEndID="deID_2434_00405" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00409']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00410" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00406']"/>
+<P parID="01217"><SPK><SPC>St. Peter</SPC></SPK><LE/>
+<SD>(hat sich niedergesetzt und scheint schl&#xE4;frig)</SD>.</P>
+<LG parID="01218"><L>Der Plag&#x2019; und M&#xFC;hen bin ich satt</L>
+<L>Und ohne Klage geh&#x2019; ich aus der Welt,</L>
+<L>Denn nicht auf Erden findest Du den</L>
+<L>Himmel,</L>
+<L>Nur dessen Pforte &#x2014; die da heisst der</L>
+<L>Tod!</L></LG>
+<DIV_END divEndID="deID_2434_00406" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00410']"/>
+<P parID="01219"><SD>(Stirbt.)</SD></P>
+<DIV_END divEndID="deID_2434_00407" startPtr="WR-03-01-04_n0085.xml#//DIV_START[@divStartID='dsID_2434_00403']"/>
+<DIV_START cat="scene" divStartID="dsID_2434_00411" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00432']"/>
+<P parID="01220"><TAB/><SD><SPC>Sechste Scene</SPC>. Der Jude ([der Arzt]<LE/>
+l&#xE4;sst die Verkleidung fallen). Der Schmied.</SD></P>
+<P parID="01221"><SD><SPK><SPC>Der Schmied</SPC></SPK><LE/>
+(will sich setzen, wird jedoch vom Arzte<LE/>
+zur&#xFC;ckgehalten).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00412" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00408']"/>
+<P parID="01222"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01223"><L>Nein, nein! Du darfst Dich noch nicht</L>
+<L>setzen,</L>
+<L>Zur H&#xE4;lfte kaum verstrichen ist Dein</L>
+<L>Leben.</L></LG>
+<DIV_END divEndID="deID_2434_00408" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00412']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00413" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00409']"/>
+<P parID="01224"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01225"><L>So warst das Du? &#x2014; Dann lass uns</L>
+<L>scheiden,</L>
+<L>Denn ich will ruh&#x2019;n hier in des Baumes</L>
+<L>Schatten,</L>
+<L>Und Deine Weise, nie verstand ich sie. &#x2014;</L></LG>
+<DIV_END divEndID="deID_2434_00409" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00413']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00414" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00410']"/>
+<P parID="01226"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG part="initial" parID="01227"><L>Es ist gut ruhen nicht im Schatten</L>
+<L>solcher B&#xE4;ume,</L>
+<L>Auch leg&#x2019; auf and&#x2019;rer Schultern nicht</L>
+<L>Dein Kreuz,</L></LG>
+</CELL><CELL>
+<LG part="final" parID="01228"><L>Das ist bequem, doch leider gibt&#x2019;s kein</L>
+<L>Resultat,</L>
+<L>Steh auf, und trage selbst es bis ans</L>
+<L>Ende.</L></LG>
+<DIV_END divEndID="deID_2434_00410" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00414']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00415" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00411']"/>
+<P parID="01229"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01230"><L>Das that ich auch, und hier ist nun das</L>
+<L>Ende.</L></LG>
+<DIV_END divEndID="deID_2434_00411" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00415']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00416" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00412']"/>
+<P parID="01231"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01232"><L>Nein, hier!</L></LG>
+<DIV_END divEndID="deID_2434_00412" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00416']"/>
+<P parID="01233"><TAB/><SD>Verwandlung. (Das Innere der Ruinen<LE/>
+des Thurmes zu Babel. Galerien und<LE/>
+G&#xE4;nge. Im Hintergrunde eine grosse<LE/>
+Nische. Rechts eine Leiter, die auf halber<LE/>
+Wand aufh&#xF6;rt. Mitten im Raume ein<LE/>
+Tisch, &#xFC;ber den eine zierliche Decke <HYPH1 cont="gebreitet">ge-</HYPH1><LE/>
+<HYPH2>breitet</HYPH2> ist. Unter derselben ein Korb.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00417" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00413']"/>
+<P parID="01234"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01235"><L>Wo bin ich hier? &#x2014; Ist das die</L>
+<L>Unterwelt?</L></LG>
+<DIV_END divEndID="deID_2434_00413" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00417']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00418" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00414']"/>
+<P parID="01236"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01237"><L>Nein, Du bist unten in dem Thurm zu</L>
+<L>Babel!</L>
+<L>Der Sage doch gedenkst Du aus der</L>
+<L>Jugend,</L>
+<L>Wie einst die Menschen str&#xE4;flich sich</L>
+<L>vermassen</L>
+<L>Und in den Himmel klettern wollten,</L>
+<L>In Thurmesform sich eine Treppe bauend.</L>
+<L>Die G&#xF6;tter &#x2014; nein, hm, Gott vertrug</L>
+<L>das nicht</L>
+<L>Und er zertr&#xFC;mmerte den stolzen Bau. &#x2014;</L></LG>
+<DIV_END divEndID="deID_2434_00414" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00418']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00419" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00415']"/>
+<P parID="01238"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="01239"><L>Weshalb ihn heut&#x2019; nicht wieder auferbau&#x2019;n,</L>
+<L>In diesen Tagen, da wir nachgeahmt</L>
+<L>Den Blitz, hinan zum Himmel segeln,</L>
+<L>Herniedersteigen auf des Meeres Grund</L>
+<L>Und durch den Draht mit fremden</L>
+<L>L&#xE4;ndern sprechen.</L></LG>
+<DIV_END divEndID="deID_2434_00415" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00419']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00420" endPtr="WR-03-01-04_n0086.xml#//DIV_END[@divEndID='deID_2434_00416']"/>
+<P parID="01240"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01241"><L>Du Himmelsst&#xFC;rmer, lebst Du immer</L>
+<L>noch?</L>
+<L>Sieh hier im Bilde Deine &#xE4;lt&#x2019;sten Ahnen!</L></LG>
+<DIV_END divEndID="deID_2434_00416" startPtr="WR-03-01-04_n0086.xml#//DIV_START[@divStartID='dsID_2434_00420']"/>
+<P parID="01242"><SD><SPK><SPC>Phantasmagorien</SPC></SPK><LE/>
+(auf weissem Grunde in der Nische des Fonds).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00421" endPtr="WR-03-01-04_n0087.xml#//DIV_END[@divEndID='deID_2434_00417']"/>
+<P parID="01243"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="01244"><L>1. Ikarus.</L></LG>
+<LG parID="01245"><L>Hier sieh, wie Ikarus sich Fl&#xFC;gel bildet,</L>
+<L>Um aufzuschwingen sich zur Sonne selbst,</L>
+<L>Die Sonne aber schmolz das Wachs im</L>
+<L>Mechanismus</L>
+<L>Und den Entfl&#xFC;gelten verschlang das Meer.</L></LG>
+</CELL></ROW></TABLE>
+<FT type="pn" num="86" c_text="&#x2014; 86 &#x2014;"/>
+</PAGE>

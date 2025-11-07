@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-04_n0145.xml</PREV>
+<NEXT>WR-02-01-04_n0147.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 4, S. 146</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2432_00236" endPtr="WR-02-01-04_n0146.xml#//DIV_END[@divEndID='deID_2432_00235']"/>
+<TITLE titleID="tiID_2432_00055"><TITLEPART>DIE NEBEL WALLEN.</TITLEPART></TITLE>
+<LG parID="00916"><L><IN>Ich</IN> denk&#x2019; an die blassen Frauen,</L>
+<L>Die nur in den Tr&#xE4;umen erstehen,</L>
+<L>Weil das Leben zu gierige Winde hat.</L></LG>
+<LG parID="00917"><L>Und weil sein Wehen</L>
+<L>Die schmalen Leiber wie sp&#xE4;te Bl&#xE4;tter</L>
+<L>In die kalten Beete triebe,</L>
+<L>Wo schon der Winter kauert.</L></LG>
+<LG parID="00918"><L>Mein Herz erschauert und meine Lippen beben.</L>
+<L>Der Sommer war purpurn, doch mir dauerte</L>
+<L>Er nur wie eine Liebe</L>
+<L>So lang, und der Winter vermauerte</L>
+<L>Mit hohem Schnee mein Haus.</L>
+<L>In den dunklen R&#xE4;umen</L>
+<L>Harren meine Tr&#xE4;ume aus.</L></LG>
+<LG parID="00919"><L>Und die blassen Frauen</L>
+<L>Gewinnen Leben</L>
+<L>Und Blut in die Wangen &#x2014;</L>
+<L>Meine Gedanken</L>
+<L>F&#xFC;llen die langen</L>
+<L>Wintern&#xE4;chte mir minniglich aus.</L></LG>
+<P parID="00920">M&#xFC;nchen. <AUCTOR><C>Arthur Holitscher</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2432_00235" startPtr="WR-02-01-04_n0146.xml#//DIV_START[@divStartID='dsID_2432_00236']"/>
+</PAGE>

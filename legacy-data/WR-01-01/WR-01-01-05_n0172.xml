@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0171.xml</PREV>
+<NEXT>WR-01-01-05_n0173.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 172</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00230" endPtr="WR-01-01-05_n0172.xml#//DIV_END[@divEndID='deID_2397_00229']"/>
+<TITLE titleID="tiID_2397_00086"><TITLEPART>&#xBB;MIT GED&#xC4;MPFTER STIMME <SYMBOL type="3dots"/>&#xAB;</TITLEPART></TITLE>
+<LG parID="01226"><L><IN>In</IN> dem d&#xE4;mmernden Dunkel des Abends,</L>
+<L>Tief verborgen von laubigen Zweigen,</L>
+<L>Str&#xF6;me tr&#xF6;stend in unsere Seelen</L>
+<L>Friedlich trauliches, heiliges Schweigen.</L></LG>
+<LG parID="01227"><L>Und die m&#xFC;den, verlangenden Herzen</L>
+<L>Soll kein wildes Begehren mehr st&#xF6;ren,</L>
+<L>In dem wiegenden, wogenden Raunen</L>
+<L>Rauschender Pinien, tr&#xE4;umender F&#xF6;hren.</L></LG>
+<LG parID="01228"><L>Schliesse die schlummertrunkenen Augen,</L>
+<L>Und im Schoosse verbirg deine H&#xE4;nde &#x2014;</L>
+<L>Deine Alles vergessende Seele,</L>
+<L>Denke nimmer an Anfang und Ende.</L></LG>
+<LG parID="01229"><L>Will die brennende Stirne uns netzen</L>
+<L>K&#xFC;hlender, heiterer Hauch der Oase?</L>
+<L>Sieh&#x2019;, es wogen zu unseren F&#xFC;ssen</L>
+<L>Gleitende Wellen im r&#xF6;thlichen Grase.</L></LG>
+<LG parID="01230"><L>Und wenn feierlich, tr&#xF6;stend der Abend</L>
+<L>Nieder sich senkt aus den schw&#xE4;rzlichen B&#xE4;umen,</L>
+<L>Wollen auch wir bei der Nachtigall Klagen</L>
+<L>All&#x2019; unsern Jammer und Kummer vertr&#xE4;umen.</L></LG>
+<P parID="01231">Paris. <AUCTOR><C>Paul Verlaine</C></AUCTOR>.</P>
+<P parID="01232">Deutsch von <AUCTOR type="translator"><C>Alfred Neumann</C></AUCTOR> (Wien).</P>
+<DIV_END divEndID="deID_2397_00229" startPtr="WR-01-01-05_n0172.xml#//DIV_START[@divStartID='dsID_2397_00230']"/>
+</PAGE>

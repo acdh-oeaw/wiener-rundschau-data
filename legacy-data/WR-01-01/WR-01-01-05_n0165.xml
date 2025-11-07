@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0164.xml</PREV>
+<NEXT>WR-01-01-05_n0166.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 165</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00228" endPtr="WR-01-01-05_n0165.xml#//DIV_END[@divEndID='deID_2397_00227']"/>
+<TITLE titleID="tiID_2397_00084"><TITLEPART>LEBEN.</TITLEPART></TITLE>
+<LG parID="01137"><L><IN>Sie</IN> wandelt durch den Gartengang,</L>
+<L>bebend im Dufte der Syringen,</L>
+<L>in Wegen, die am Bl&#xFC;thenhang</L>
+<L>sich durch begr&#xFC;nte Gitter schlingen.</L></LG>
+<LG parID="01138"><L>Sie geht zur weissumfassten Quelle</L>
+<L>und lauscht des Brunnens leisem Sang.</L>
+<L>Wie Kinderlachen t&#xF6;nt die Welle,</L>
+<L>gemengt mit St&#xF6;hnen, fern und bang.</L></LG>
+<LG parID="01139"><L>In ihrem Busen schl&#xE4;ft ein W&#xE4;hnen</L>
+<L>von einem Gl&#xFC;ck, das bl&#xFC;thenschwer</L>
+<L>in goldnen fruchtgeschm&#xFC;ckten K&#xE4;hnen</L>
+<L>gen Abend schwimmt zum hellen Meer.</L></LG>
+<LG parID="01140"><L>Ein Vers hat Kunde ihr gegeben,</L>
+<L>ein Duft, vielleicht ein altes Lied,</L>
+<L>dass irgendfern ein grosses Leben</L>
+<L>voll R&#xE4;thsel durch die L&#xE4;nder zieht.</L></LG>
+<LG parID="01141"><L>Das Auge tr&#xE4;umt versagte Bahnen,</L>
+<L>Entz&#xFC;ckung l&#xE4;chelte der Mund.</L>
+<L>Durch ihre Seele klingt ein Ahnen</L>
+<L>von Paphos oder Amathunt.</L></LG>
+<P parID="01142">M&#xFC;nchen. <AUCTOR><C>Oscar Schmitz</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00227" startPtr="WR-01-01-05_n0165.xml#//DIV_START[@divStartID='dsID_2397_00228']"/>
+</PAGE>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-05_n0199.xml</PREV>
+<NEXT>WR-02-01-06_n0201.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 5, S. 200</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">200</LTEXT><CTEXT>LEMA&#xCE;TRE.</CTEXT></HD>
+<P part="final" parID="01363"><HYPH2>werth</HYPH2> verloren hat, mit einer vornehmen Delicatesse die Feder <HYPH1 cont="gef&#xFC;hrt">ge-</HYPH1><LE/>
+<HYPH2>f&#xFC;hrt</HYPH2>. Der Autor der &#xBB;Sappho&#xAB; ist der keuscheste unserer grossen<LE/>
+Romanciers.</P>
+<SEPARATOR type="asterismDown"/>
+<P parID="01364"><TAB/>Eines Tages sagte er zu mir: &#xBB;Wenn ich denke, bis zu welchem<LE/>
+Grade ich fr&#xFC;her in das Leben verliebt, lebensn&#xE4;rrisch und lebensstolz<LE/>
+war, dann sage ich mir, dass es gerecht ist, wenn ich leide.&#xAB; An<LE/>
+diesen Ausspruch von heroischer Resignation habe ich mich erinnert,<LE/>
+als ich die asketisch gewordenen Z&#xFC;ge seines Antlitzes zwischen den<LE/>
+Rosen seines Todtenbettes und das Crucifix auf seiner entseelten<LE/>
+Brust erblickte.</P>
+<DIV_END divEndID="deID_2432_00261" startPtr="WR-02-01-05_n0197.xml#//DIV_START[@divStartID='dsID_2432_00262']"/>
+<SEPARATOR type="hr"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2432_00263" endPtr="WR-02-01-05_n0200.xml#//DIV_END[@divEndID='deID_2432_00262']"/>
+<P parID="01365">Herausgeber: <SPC>Gustav Schoenaich</SPC>, <SPC>Felix Rappaport</SPC>.</P>
+<P parID="01366">Verantwortlicher Redacteur: <SPC>Gustav Schoenaich</SPC>.</P>
+<P parID="01367">Ch. Reisser &amp; M. Werthner, Wien.</P>
+<DIV_END divEndID="deID_2432_00262" startPtr="WR-02-01-05_n0200.xml#//DIV_START[@divStartID='dsID_2432_00263']"/>
+<DIV_END divEndID="deID_2432_00263" startPtr="WR-02-01-05_n0161.xml#//DIV_START[@divStartID='dsID_2432_00248']"/>
+</PAGE>

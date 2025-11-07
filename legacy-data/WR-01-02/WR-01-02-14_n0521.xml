@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-13_n0520.xml</PREV>
+<NEXT>WR-01-02-14_n0522.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 14, S. 521</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>6</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2398_00025" endPtr="WR-01-02-14_n0560.xml#//DIV_END[@divEndID='deID_2398_00044']"/>
+<DIV_START cat="masthead" divStartID="dsID_2398_00026" endPtr="WR-01-02-14_n0521.xml#//DIV_END[@divEndID='deID_2398_00025']"/>
+<P parID="00258"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00259"><B><DATE>1. <SPC>JUNI</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2398_00025" startPtr="WR-01-02-14_n0521.xml#//DIV_START[@divStartID='dsID_2398_00026']"/>
+<DIV_START divStartID="dsID_2398_00027" endPtr="WR-01-02-14_n0525.xml#//DIV_END[@divEndID='deID_2398_00026']"/>
+<TITLE titleID="tiID_2398_00019"><TITLEPART type="main">BEKENNTNISSE.</TITLEPART><LE/>
+<TITLEPART type="desc">Scherz in franz&#xF6;sischem Styl von <AUCTOR><C>Peter Nansen</C></AUCTOR> (Kopenhagen).<LE/>
+(Aus dem <SPC>Manuscript</SPC> &#xFC;bersetzt.)</TITLEPART></TITLE>
+<P parID="00260"><SPC>Liebe Freundin</SPC>!</P>
+<P parID="00261"><TAB/>Sie fragten mich eines der letztenmale, als wir uns<LE/>
+sahen, mit jener sanften Nachsicht, die einen besonderen<LE/>
+Charakterzug Ihrer liebreizenden Pers&#xF6;nlichkeit bildet, ob mir<LE/>
+irgend etwas fehle. Sie meinten, ich sei nicht so heiter und<LE/>
+fr&#xF6;hlich wie sonst, wenn ich mit Ihnen zusammen bin.</P>
+<P part="initial" parID="00262"><TAB/>Ich antwortete mit einer der gesellschaftlichen L&#xFC;gen,<LE/>
+die wir civilisirten Menschen stets bei der Hand haben. Ich<LE/>
+sch&#xFC;tzte &#x2014; glaube ich &#x2014; Verstimmtheit vor &#xFC;ber einen <HYPH1 cont="Zusammenstoss">Zu-</HYPH1><LE/>
+<HYPH2>sammenstoss</HYPH2>, den ich mit einem Droschkenkutscher gehabt<LE/>
+hatte, der mich &#xFC;bervortheilen wollte, und mit einem <HYPH1 cont="Schutzmann">Schutz-</HYPH1><LE/>
+<HYPH2>mann</HYPH2>, der die Partei des Droschkenkutschers nahm. Im<LE/>
+Uebrigen erfand ich diese Geschichte, die ich in allen ihren<LE/>
+unangenehmen Einzelheiten ausmalte, keineswegs. Die <HYPH1 cont="Geschichte">Ge-</HYPH1><LE/>
+<HYPH2>schichte</HYPH2> war mir wirklich im vorigen oder im vorvorigen<LE/>
+Jahre einmal passirt, und w&#xE4;hrend ich sie erz&#xE4;hlte, erstand<LE/>
+die ganze Begebenheit wieder so lebhaft in meiner <HYPH1 cont="Erinnerung">Erinne-</HYPH1><LE/>
+<HYPH2>rung</HYPH2>, dass ich meine l&#xE4;ngst verj&#xE4;hrte Wuth von Neuem <HYPH1 cont="aufflammen">auf-</HYPH1><LE/>
+<HYPH2>flammen</HYPH2> f&#xFC;hlte. Es gibt n&#xE4;mlich nichts, was meine W&#xFC;rde<LE/>
+als Culturmensch tiefer kr&#xE4;nkt, als wenn ein <HYPH1 cont="Droschkenkutscher">Droschken-</HYPH1><LE/>
+<HYPH2>kutscher</HYPH2> oder ein Dienstmann sich eine unerlaubte Einnahme<LE/>
+auf meine Kosten machen will, und es gibt nichts, was meine</P>
+</PAGE>

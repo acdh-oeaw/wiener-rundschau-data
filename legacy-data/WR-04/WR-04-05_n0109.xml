@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-05_n0108.xml</PREV>
+<NEXT>WR-04-05_n0110.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 5, S. 109</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>RAPPAPORT: DIE BEZIEHUNGEN ZWISCHEN THEMA UND MATERIAL.</CTEXT></HD>
+<TABLE parID="01003"><ROW ciID="0341"><CELL>
+<LG parID="01004"><L>Mit Sinn, Vernunft und Geist erschau ich deine</L>
+<L>Unendlichkeit, die keine Zahl ermisst,</L>
+<L>Wo &#xFC;berall Mitte, nirgends Umfang ist,</L>
+<L>In deinem Wesen wohnet auch das meine.</L></LG>
+<DIV_END divEndID="deID_2436_00093" startPtr="WR-04-05_n0108.xml#//DIV_START[@divStartID='dsID_2436_00095']"/>
+<P parID="01005"><TAB/>Wen erinnerte dies nicht an Fichtes<LE/>
+Verse, in denen er die Quintessenz seiner<LE/>
+eigenen Philosophie zusammenfasst:</P>
+</CELL><CELL>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2436_00096" endPtr="WR-04-05_n0109.xml#//DIV_END[@divEndID='deID_2436_00094']"/>
+<LG parID="01006"><L>Das Ewig-Eine</L>
+<L>Lebt mir im Leben, sieht in meinem</L>
+<L>Sehen &#x2014;</L>
+<L>Nichts ist denn Gott, und Gott ist nichts denn</L>
+<L>Leben,</L>
+<L>Gar klar die H&#xFC;lle sich vor dir erhebet;</L>
+<L>Dein Ich ist sie, es sterbe, was vernichtbar,</L>
+<L>Und fortan lebt nur Gott in deinem Streben!</L></LG>
+<DIV_END divEndID="deID_2436_00094" startPtr="WR-04-05_n0109.xml#//DIV_START[@divStartID='dsID_2436_00096']"/>
+</CELL></ROW></TABLE>
+<SEPARATOR num="3" type="undefined"/>
+<P parID="01007"><TAB/>Vom Verfasser vorstehender Abhandlung sind folgende &#xDC;bersetzungen aus den Schriften<LE/>
+<SPC>Giordano Brunos</SPC> erschienen:</P>
+<P parID="01008">1. <LANG iso="it"><SPC>Eroici Furori</SPC></LANG> oder Zwiegespr&#xE4;che vom Helden und Schw&#xE4;rmer. Leipzig,<LE/>
+W. Friedrichs Verlag.</P>
+<P parID="01009">2. <SPC>Giordano Bruno vom Unendlichen</SPC>, <SPC>dem All und den Welten</SPC>.<LE/>
+Berlin <DATE>1893</DATE>, L&#xFC;sten&#xF6;der (jetzt bei Albert Warnecke, Leipzig).</P>
+<P parID="01010">3. <SPC>Giordano Brunos Reformation des Himmels oder die Vertreibung<LE/>
+der triumphierenden Bestie</SPC>. Leipzig, H. W. Theodor Dieters Verlag, <DATE>1899</DATE>.</P>
+<P parID="01011">4. <SPC>Lichtstrahlen aus Giordano Brunos Werken</SPC>. Leipzig, H. W. Theodor<LE/>
+Dieters Verlag, <DATE>1899</DATE>.</P>
+<P parID="01012"><TAB/>Vgl. au&#xDF;erdem: <SPC>Bruno</SPC>, <SPC>der M&#xE4;rtyrer der neuen Weltanschauung</SPC>, 2. vermehrte<LE/>
+Aufl. Von L. Kuhlenbeck. Leipzig, H. W. Theodor Dieter, <DATE>1899</DATE>. &#x2014; <SPC>Lorbeer und Rose</SPC>,<LE/>
+Sonette und andere Gedichte von Giordano Bruno, &#xFC;bersetzt von L. Kuhlenbeck, nebst einer<LE/>
+Auswahl eigener Dichtungen. Frankfurt a. O., bei H. Andres &amp; Co. (jetzt bei Gaadenfelt &amp; Co.<LE/>
+in Berlin).</P>
+<DIV_END divEndID="deID_2436_00095" startPtr="WR-04-05_n0105.xml#//DIV_START[@divStartID='dsID_2436_00090']"/>
+<SEPARATOR num="8" type="undefined"/>
+<DIV_START divStartID="dsID_2436_00097" endPtr="WR-04-05_n0111.xml#//DIV_END[@divEndID='deID_2436_00096']" titleID="tiID_2436_00052"/>
+<TITLE titleID="tiID_2436_00052" parDivStartID="dsID_2436_00097"><TITLEPART type="main">DIE BEZIEHUNGEN ZWISCHEN THEMA UND MATERIAL.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>FELIX RAPPAPORT</AUCTOR> (Wien).</TITLEPART></TITLE>
+<TABLE parID="01013"><ROW ciID="0342"><CELL>
+<P part="initial" parID="01014"><TAB/>Vom Wesentlichen der Kunst zu<LE/>
+reden ist heute beinahe unm&#xF6;glich <HYPH1 cont="geworden">ge-</HYPH1><LE/>
+<HYPH2>worden</HYPH2>. Die das ablaufende <HYPH1 cont="Jahrhundert">Jahr-</HYPH1><LE/>
+<HYPH2>hundert</HYPH2> kennzeichnende Sucht, <HYPH1 cont="Wesentliches">Wesent-</HYPH1><LE/>
+<HYPH2>liches</HYPH2> zu vermeiden und &#xDC;berfl&#xFC;ssiges,<LE/>
+&#xC4;u&#xDF;erliches, Nebens&#xE4;chliches <HYPH1 cont="hervorzuheben">hervorzu-</HYPH1><LE/>
+<HYPH2>heben</HYPH2>, hat, vereint mit jener eingeborenen<LE/>
+Begriffsschwere, welche alles w&#xF6;rtlich<LE/>
+nimmt, auf diesem Boden ihre <HYPH1 cont="ausschweifendsten">aus-</HYPH1><LE/>
+<HYPH2>schweifendsten</HYPH2> Orgien gefeiert. <HYPH1 cont="Nachdem">Nach-</HYPH1><LE/>
+<HYPH2>dem</HYPH2> eine sogenannte &#xC4;sthetik in der<LE/>
+Undefinierbarkeit der von ihr <HYPH1 cont="aufgestellten">aufge-</HYPH1><LE/>
+<HYPH2>stellten</HYPH2> Begriffe ertrunken war, ist eine<LE/>
+psychologische Kritik aufgetaucht, die<LE/>
+aber zur Kunst ebenfalls nur ein <HYPH1 cont="&#xE4;u&#xDF;erliches">&#xE4;u&#xDF;er-</HYPH1><LE/>
+<HYPH2>liches</HYPH2> und literarisches Verh&#xE4;ltnis hat.<LE/>
+Kunstgeschichte ist nicht <HYPH1 cont="K&#xFC;nstlergeschichte">K&#xFC;nstler-</HYPH1><LE/>
+<HYPH2>geschichte</HYPH2>; Zeitstr&#xF6;mungen, <HYPH1 cont="Lebensverh&#xE4;ltnisse">Lebens-</HYPH1><LE/>
+<HYPH2>verh&#xE4;ltnisse</HYPH2>, pers&#xF6;nliche Eigenschaften<LE/>
+und Absichten eines K&#xFC;nstlers erkl&#xE4;ren<LE/>
+uns nicht einen einzigen Pinselstrich.<LE/>
+Die Kunst f&#xE4;ngt eben da an, wo die</P>
+</CELL><CELL>
+<P part="final" parID="01015">Absichten aufh&#xF6;ren: eine Dunkelkammer<LE/>
+hat keine Absichten.</P>
+<P part="initial" parID="01016"><TAB/>Vielen, die sich f&#xFC;r berufen halten,<LE/>
+scheint es &#xFC;berhaupt noch nicht<LE/>
+klar zu sein, dass es sich hier um<LE/>
+Forschung, Naturforschung, exacte<LE/>
+Naturwissenschaft&#x2014;das Wort im <HYPH1 cont="weitesten">weite-</HYPH1><LE/>
+<HYPH2>sten</HYPH2> Sinne genommen &#x2014; handelt. Der<LE/>
+f&#xFC;r alle K&#xFC;nste geltende Ausspruch des<LE/>
+Aristoteles, welcher der Musik einen<LE/>
+physikalisch und einen mathematisch<LE/>
+fassbaren Theil zuschreibt, ist nicht<LE/>
+oder h&#xF6;chstens in seiner ersten H&#xE4;lfte<LE/>
+beachtet worden. Die meisten scheinen<LE/>
+noch nicht einmal zu ahnen, dass <HYPH1 cont="Kunstwerke">Kunst-</HYPH1><LE/>
+<HYPH2>werke</HYPH2> jenseits des Willens und seiner<LE/>
+Werkzeuge stehen und dass <HYPH1 cont="vollkommenste">voll-</HYPH1><LE/>
+<HYPH2>kommenste</HYPH2> <SPC>Passivit&#xE4;t</SPC> der Anfang der<LE/>
+Kunst ist; dass das Werk infolge eines<LE/>
+mit <SPC>geometrisch</SPC> darstellbarer <HYPH1 cont="Folgerichtigkeit">Folge-</HYPH1><LE/>
+<HYPH2>richtigkeit</HYPH2> sich abspielenden <HYPH1 cont="Entwicklungsprocesses">Entwick-</HYPH1><LE/>
+<HYPH2>lungsprocesses</HYPH2> entsteht, der mehr oder</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="109" c_text="&#x2014; 109 &#x2014;"/>
+</PAGE>

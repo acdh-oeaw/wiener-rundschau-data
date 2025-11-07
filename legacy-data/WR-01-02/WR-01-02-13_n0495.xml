@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-13_n0494.xml</PREV>
+<NEXT>WR-01-02-13_n0496.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 13, S. 495</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2398_00010" endPtr="WR-01-02-13_n0495.xml#//DIV_END[@divEndID='deID_2398_00009']"/>
+<TITLE titleID="tiID_2398_00012"><TITLEPART>EINKLANG.</TITLEPART></TITLE>
+<LG parID="00167"><L>Es war ein Sehnen in mir aufgegangen</L>
+<L>Und ist noch lange, lange gl&#xFC;hn geblieben.</L>
+<L>In Fernen wollten meine H&#xE4;nde langen,</L>
+<L>Ich sah im Geiste alle meine Lieben.</L></LG>
+<LG parID="00168"><L>Und hohe Felsen warfen letzte Schatten,</L>
+<L>Ein Wasser quoll aus einem erdnen Munde,</L>
+<L>Und weisse Bl&#xFC;then gl&#xE4;nzten auf den Matten,</L>
+<L>Wir sassen da in einer engen Runde.</L></LG>
+<LG parID="00169"><L>Sie waren alle zu mir hergekommen:</L>
+<L>Die fr&#xFC;hen Freunde, meine beiden Schwestern,</L>
+<L>Mein Vater, den der Tod mir fortgenommen,</L>
+<L>Und du, mein Weib; es gab kein Heut, kein Gestern.</L></LG>
+<LG parID="00170"><L>Wir h&#xF6;rten unsre Seelen <SPC>gleich</SPC> erklingen.</L>
+<L>Sie klangen wie Krystall in blauen N&#xE4;chten.</L>
+<L>Wie licht die T&#xF6;ne ineinandergingen!</L>
+<L>Dir aber k&#xFC;sste ich die braunen Flechten.</L></LG>
+<LG parID="00171"><L>Es dunkelte. So haben wir umschlungen</L>
+<L>Den Kelch der ewigen Liebe ausgetrunken</L>
+<L>Und sind, von ihrer S&#xFC;ssigkeit durchdrungen,</L>
+<L>Alle in Eins, in Luft, ins All gesunken.</L></LG>
+<P parID="00172">M&#xFC;nchen. <AUCTOR><C>Emanuel v. Bodman</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2398_00009" startPtr="WR-01-02-13_n0495.xml#//DIV_START[@divStartID='dsID_2398_00010']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2398_00011" endPtr="WR-01-02-13_n0495.xml#//DIV_END[@divEndID='deID_2398_00010']"/>
+<TITLE titleID="tiID_2398_00013"><TITLEPART>SPRUCH.</TITLEPART></TITLE>
+<LG parID="00173"><L>In sch&#xF6;nen Formen lernst du Vieles wissen,</L>
+<L>Versteh nur recht, wie sich die Form gebiert.</L>
+<L>Wo Kraft und Heiterkeit die Flagge hissen,</L>
+<L>F&#xFC;hlst du berauscht, wie sich der Gram verliert.</L></LG>
+<LG parID="00174"><L>Verst&#xF6;rt und zweifelnd sein in Finsternissen,</L>
+<L>Ist nur ein Traum, der aus dem Tr&#xFC;ben giert &#x2014;</L>
+<L>Du aber sollst mit lachendem Gewissen</L>
+<L>Die Sch&#xF6;nheit trinken, die dein Leben ziert!</L></LG>
+<P parID="00175">Berlin. <AUCTOR><C>Franz Evers</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2398_00010" startPtr="WR-01-02-13_n0495.xml#//DIV_START[@divStartID='dsID_2398_00011']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

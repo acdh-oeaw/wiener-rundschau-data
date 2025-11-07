@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-09_n0360.xml</PREV>
+<NEXT>WR-01-01-10_n0362.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 10, S. 361</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2397_00498" endPtr="WR-01-01-10_n0400.xml#//DIV_END[@divEndID='deID_2397_00518']"/>
+<DIV_START cat="masthead" divStartID="dsID_2397_00499" endPtr="WR-01-01-10_n0361.xml#//DIV_END[@divEndID='deID_2397_00498']"/>
+<P parID="02606"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02607"><B><DATE>1. <SPC>APRIL</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2397_00498" startPtr="WR-01-01-10_n0361.xml#//DIV_START[@divStartID='dsID_2397_00499']"/>
+<DIV_START divStartID="dsID_2397_00500" endPtr="WR-01-01-10_n0364.xml#//DIV_END[@divEndID='deID_2397_00499']"/>
+<TITLE titleID="tiID_2397_00142"><TITLEPART type="main">CHARFREITAGS-ZAUBER.</TITLEPART><LE/>
+<TITLEPART>Eine Passionsgeschichte aus dem M&#xFC;nchener K&#xFC;nstlerleben.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Georg Fuchs</C></AUCTOR> (M&#xFC;nchen).</TITLEPART></TITLE>
+<P parID="02608"><TAB/><LANG iso="la">Miserere, miserere nobis!</LANG> Also ert&#xF6;nte es aus dem <HYPH1 cont="Unsichtbaren">Un-</HYPH1><LE/>
+<HYPH2>sichtbaren</HYPH2>, von der W&#xF6;lbung hernieder, klagend wie der<LE/>
+sterbende Tag. Es war dunkel in der Kirche und voll<LE/>
+Menschen. Ich stand in den Mantel geh&#xFC;llt, nahe dem <HYPH1 cont="Eingange">Ein-</HYPH1><LE/>
+<HYPH2>gange</HYPH2> gegen eine S&#xE4;ule gelehnt. Weit hinten im Chore<LE/>
+leuchtete ein ungeheures Kreuz aus tausend Kerzen, die<LE/>
+dicht ineinander wirbelten, wie ausgeschw&#xE4;rmte Bienen.<LE/>
+<LANG iso="la">Miserere nobis!</LANG></P>
+<P parID="02609"><TAB/>Da legte sich eine Hand um meinen Arm, Stirnl&#xF6;ckchen<LE/>
+r&#xFC;hrten meine Wangen und ein warmer Mund fl&#xFC;sterte.<LE/>
+Gleich darauf sind wir auf der Strasse im fr&#xF6;stelnden Regen<LE/>
+und flatternden Gaslichte. Wir dr&#xFC;cken uns aneinander.</P>
+<P parID="02610"><TAB/>&#xBB;Wohin?&#xAB;</P>
+<P parID="02611"><TAB/>&#xBB;Ich m&#xF6;chte in den Dom.&#xAB;</P>
+<P parID="02612"><TAB/>&#xBB;Zu unserer lieben Frauen! Warum sehe ich dich denn<LE/>
+gar nicht mehr, Alix? Du weisst doch.&#xAB; &#x2014; Sie zittert. &#xBB;Warum,<LE/>
+Alix, warum?&#xAB;</P>
+<P parID="02613"><TAB/>&#xBB;Ich f&#xFC;rchte mich, ich f&#xFC;rchte mich vor dir und vor<LE/>
+allen Menschen.&#xAB;</P>
+<P part="initial" parID="02614"><TAB/>In tiefster Finsterniss schreiten wir hinauf in das M&#xFC;nster.<LE/>
+Die drei Hallen dehnen sich dunkel dahin, in der Vorhalle<LE/>
+steht eine dichte Menschenmenge, einige Weiber knien mit<LE/>
+Kerzlein in den H&#xE4;nden, und ihre gl&#xE4;nzenden Lippen <HYPH1 cont="bewegen">be-</HYPH1><LE/>
+<HYPH2>wegen</HYPH2> sich hastig. Wir treten sachte hinzu; erh&#xF6;hte Leuchten</P>
+</PAGE>

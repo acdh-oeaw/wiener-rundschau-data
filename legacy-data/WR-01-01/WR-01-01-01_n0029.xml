@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-01_n0028.xml</PREV>
+<NEXT>WR-01-01-01_n0030.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 29</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD>DAS WEIB IN GIORGIONE&#x2019;S MALEREI. 29.</HD>
+<P part="final" parID="00174">aller Gewalten m&#xE4;chtigste empfinde, die nackte, m&#xE4;nnermordende Sch&#xF6;ne<LE/>
+des blonden, bl&#xFC;thenzarten Frauenleibes! Dir dank ich&#x2019;s, empfinde ich<LE/>
+seine Musik, die strengen, keuschen Melodien seiner Linien und die<LE/>
+schw&#xFC;len Sommernachtsaccorde seiner Farben.&#xAB;</P>
+<P parID="00175"><TAB/>Und siehe, da der J&#xFC;ngling also gebetet auf seinen Knien, da<LE/>
+schimmerte es wie Sonnenl&#xE4;cheln um die g&#xF6;ttlichen Z&#xFC;ge, ein <HYPH1 cont="tiefstrahlendes">tief-</HYPH1><LE/>
+<HYPH2>strahlendes</HYPH2> Leuchten brach aus den weiten Augen <SYMBOL type="3dots"/> Leben gewann<LE/>
+das todte Bild <SYMBOL type="3dots"/> die hellen Glieder regten sich <SYMBOL type="3dots"/> in fr&#xFC;hlinghafter<LE/>
+Majest&#xE4;t stand Kypris, die Heilige, vor dem J&#xFC;ngling, und hinter den<LE/>
+Beiden versank die Welt in purpurrauschender Rosenfluth <SYMBOL type="3dots"/> Ein<LE/>
+rasend tolles, wahnwitziges K&#xFC;ssen begann, in bacchantisch jauchzender<LE/>
+Seligkeit hakten sich die Z&#xE4;hne ins bebende Fleisch, bis das rothe<LE/>
+Blut &#xFC;ber die weisse Pracht der K&#xF6;rper rieselt <SYMBOL type="3dots"/> immer bleicher wird<LE/>
+der J&#xFC;ngling, immer bleicher <SYMBOL type="3dots"/> und da der Morgen ins Gemach blickte,<LE/>
+lag vor dem Bilde Aphroditens ein Todter.</P>
+<P parID="00176"><TAB/>Und die Menschen kamen zu dem Todten, die Kleinen, die<LE/>
+N&#xFC;chterlinge, deren Seele in schwarzen N&#xE4;chten fiebernden Sehnens<LE/>
+nimmer nach der Sch&#xF6;nheit gebetet, sie kamen, sahen den J&#xFC;ngling und<LE/>
+schrieben kalt und trocken in ihre B&#xFC;cher:</P>
+<P parID="00177"><TAB/>Giorgio Barbarelli, genannt Giorgione, geboren zu Castelfranco<LE/>
+im Jahre <DATE>1477</DATE>, begab sich zuerst in die Schule des Giovanni Bellini,<LE/>
+machte sich aber bald von der Art seines Lehrers los, betonte als<LE/>
+Erster das landschaftliche und coloristische Moment in seinen Gem&#xE4;lden,<LE/>
+nahm der Malerei den kirchlichen Charakter und gab ihr in seinen<LE/>
+sogenannten Novellenbildern einen erz&#xE4;hlenden, genreartig-profanen.<LE/>
+Wenn wir auch den Inhalt seiner Werke nicht immer verstehen, so<LE/>
+wirkt doch der Stimmungsgehalt m&#xE4;chtig auf uns ein. Leider starb<LE/>
+er in Folge seines ausschweifenden Lebens schon im Jahre <DATE>1511</DATE> zu<LE/>
+Venedig <SYMBOL type="3dots"/></P>
+<SEPARATOR type="asterismDown"/>
+<P parID="00178"><TAB/>Auf der R&#xFC;ckseite des einzigen bezeichneten Gem&#xE4;ldes, das wir<LE/>
+Giorgione&#x2019;s Hand verdanken, auf dem Madonnenbilde in der Kirche<LE/>
+zu Castelfranco steht geschrieben:*)</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2397_00049" endPtr="WR-01-01-01_n0029.xml#//DIV_END[@divEndID='deID_2397_00047']"/>
+<LG parID="00179"><L>Liebchen! Cecilia!</L>
+<L>Z&#xF6;gerst du? Komm doch!</L>
+<L>Sieh&#x2019;, es erharrt dich</L>
+<L>Sehnend dein Giorgio.</L></LG>
+<DIV_END divEndID="deID_2397_00047" startPtr="WR-01-01-01_n0029.xml#//DIV_START[@divStartID='dsID_2397_00049']"/>
+<P part="initial" parID="00180"><TAB/>Das erinnert an die <LANG iso="grc">&#x3C0;&#x3C1;&#x3BF;&#x3C3;&#x3C7;&#x3BB;&#x3B1;&#x3C5;&#x3C3;&#x3CD;&#x3B8;&#x3C5;&#x3C1;&#x3B1;</LANG> der Alten, und jene wenigen<LE/>
+Worte sind, was die Stimmung angeht, gar merkw&#xFC;rdig verwandt mit</P>
+<HR/>
+<FN>
+<LG parID="00181"><L>*) <LANG iso="it">Cara Cecilia,</LANG></L>
+<L><LANG iso="it">Vieni, t&#x2019;affretta,</LANG></L>
+<L><LANG iso="it">Il tuo t&#x2019;aspetta</LANG></L>
+<L>Giorgio.</L></LG>
+</FN>
+</PAGE>

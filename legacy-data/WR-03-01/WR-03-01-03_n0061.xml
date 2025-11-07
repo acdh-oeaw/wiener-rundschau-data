@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-03_n0060.xml</PREV>
+<NEXT>WR-03-01-03_n0062.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 61</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>HOFMANNSTHAL: DIE ALKESTIS DES EURIPIDES.</CTEXT></HD>
+<LG part="final" parID="00899"><L>Und daf&#xFC;r solch ein Opfer! Pfui! Die sch&#xF6;nsten</L>
+<L>Fr&#xFC;chte bringt man wohl den Garteng&#xF6;ttern,</L>
+<L>Damit der wilde Wind in Sommern&#xE4;chten</L>
+<L>Die schlechte Vogelscheuche uns verschone?!</L>
+<L>Nein! Dass er nicht die edlen &#xC4;ste breche,</L>
+<L>Die Tr&#xE4;ger goldner Frucht! &#x2014; Um einen K&#xF6;nig,</L>
+<L>Um einen starken K&#xF6;nig &#xFC;ber M&#xE4;nner</L>
+<L>Und Land und Fl&#xFC;sse, einen reichen K&#xF6;nig</L>
+<L>Hat <SPC>diese</SPC> sterben d&#xFC;rfen, nicht um einen,</L>
+<L>Der eines K&#xF6;nigs Puppe. H&#xF6;r&#x2019; Herakles:</L>
+<L>Mir starb kein Nahverwandter, nein, ein Weib,</L>
+<L>Zwar n&#xF6;thig hier im Haus, doch eine Fremde.</L>
+<L>Sie blieb nach ihres Vaters Tod als Waise</L>
+<L>Bei uns. Gleichviel. Todt sind die Todten. Geht,</L>
+<L>Schliesst auf die Fremdenhallen. Du lauf hin</L>
+<L>Und heiss&#x2019; sie Speisen bringen f&#xFC;r den Gast,</L>
+<L>Nur hinter ihm verschliesst die Th&#xFC;r, ihn soll</L>
+<L>Es nicht im Schmausen st&#xF6;ren, wenn sie hier</L>
+<L>Die Todtenlieder singen, wie sich&#x2019;s ziemt.</L></LG>
+<P parID="00900"><SD>(Er schliesst mit schwankender Stimme.)</SD></P>
+<LG parID="00901"><L>Geh&#x2019; <SYMBOL type="2dots"/> jetzt <SYMBOL type="2dots"/> hinein <SYMBOL type="2dots"/> verzeih&#x2019; <SYMBOL type="2dots"/> Du siehst mich <SYMBOL type="2dots"/> sp&#xE4;ter!</L></LG>
+<DIV_END divEndID="deID_2434_00302" startPtr="WR-03-01-03_n0060.xml#//DIV_START[@divStartID='dsID_2434_00305']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00306" endPtr="WR-03-01-03_n0061.xml#//DIV_END[@divEndID='deID_2434_00303']"/>
+<P parID="00902"><SPK><SPC>Herakles</SPC></SPK>.</P>
+<LG parID="00903"><L>Zum K&#xF6;nig Diomedes geht mein Weg.</L></LG>
+<DIV_END divEndID="deID_2434_00303" startPtr="WR-03-01-03_n0061.xml#//DIV_START[@divStartID='dsID_2434_00306']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00307" endPtr="WR-03-01-03_n0061.xml#//DIV_END[@divEndID='deID_2434_00304']"/>
+<P parID="00904"><SPK><SPC>Der alte Mann</SPC></SPK>.</P>
+<LG parID="00905"><L>Da musst Du &#xFC;ber &#xF6;de d&#xFC;stre Berge</L>
+<L>Wo alles Leben starrt und alles Licht</L>
+<L>Von grundlos tiefen Weihern stumm verschluckt wird.</L></LG>
+<DIV_END divEndID="deID_2434_00304" startPtr="WR-03-01-03_n0061.xml#//DIV_START[@divStartID='dsID_2434_00307']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00308" endPtr="WR-03-01-03_n0061.xml#//DIV_END[@divEndID='deID_2434_00305']"/>
+<P parID="00906"><SPK><SPC>Der J&#xFC;ngling</SPC></SPK>.</P>
+<LG parID="00907"><L>Doch <SPC>was</SPC> entreissen willst Du diesem K&#xF6;nig?</L></LG>
+<DIV_END divEndID="deID_2434_00305" startPtr="WR-03-01-03_n0061.xml#//DIV_START[@divStartID='dsID_2434_00308']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00309" endPtr="WR-03-01-03_n0061.xml#//DIV_END[@divEndID='deID_2434_00306']"/>
+<P parID="00908"><SPK><SPC>Herakles</SPC></SPK>.</P>
+<LG parID="00909"><L>Kein sch&#xF6;nes Weib, Dein Auge blitzt umsonst:</L>
+<L>Nur seine Rosse brauch ich &#x2014;</L></LG>
+<DIV_END divEndID="deID_2434_00306" startPtr="WR-03-01-03_n0061.xml#//DIV_START[@divStartID='dsID_2434_00309']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00310" endPtr="WR-03-01-03_n0061.xml#//DIV_END[@divEndID='deID_2434_00307']"/>
+<P parID="00910"><SPK><SPC>Irgend einer</SPC></SPK>.</P>
+<LG parID="00911"><L>Weh&#x2019;, die wilden!</L>
+<L>Die aus den N&#xFC;stern Feuer spr&#xFC;h&#x2019;n und denen</L>
+<L>Statt Heu lebend&#x2019;ge Menschen in die Krippe</L>
+<L>Zu grauenvollem Frass geworfen werden! <SYMBOL type="3dots"/></L></LG>
+<DIV_END divEndID="deID_2434_00307" startPtr="WR-03-01-03_n0061.xml#//DIV_START[@divStartID='dsID_2434_00310']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00311" endPtr="WR-03-01-03_n0061.xml#//DIV_END[@divEndID='deID_2434_00308']"/>
+<P parID="00912"><SPK><SPC>Herakles</SPC></SPK>.</P>
+<LG parID="00913"><L>Die eben locken meinen Herrn, Eurystheus,</L>
+<L>Den K&#xF6;nig, dem ich diene. Ich begreif&#x2019;s,</L>
+<L>Dass wer die Hesperiden&#xE4;pfel hat</L>
+<L>Und wer der Amazonenk&#xF6;nigin</L>
+<L>Knirschenden G&#xFC;rtel seiner jungen Tochter</L>
+<L>Zum Zierat um die Mitte legen kann,</L>
+<L>Dass der im Stall gerade nur die Rosse</L>
+<L>Des Diomedes will.</L></LG>
+<DIV_END divEndID="deID_2434_00308" startPtr="WR-03-01-03_n0061.xml#//DIV_START[@divStartID='dsID_2434_00311']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00312" endPtr="WR-03-01-03_n0061.xml#//DIV_END[@divEndID='deID_2434_00309']"/>
+<P parID="00914"><SPK><SPC>Stimmen</SPC></SPK>.</P>
+<LG parID="00915"><L>Der K&#xF6;nig kommt!</L></LG>
+<DIV_END divEndID="deID_2434_00309" startPtr="WR-03-01-03_n0061.xml#//DIV_START[@divStartID='dsID_2434_00312']"/>
+<P parID="00916"><SD>(Admet, in Trauerkleidung tritt aus dem Hause)</SD>.</P>
+<DIV_START cat="speech" divStartID="dsID_2434_00313" endPtr="WR-03-01-03_n0061.xml#//DIV_END[@divEndID='deID_2434_00310']"/>
+<P parID="00917"><SPK><SPC>Admet</SPC></SPK>.</P>
+<LG parID="00918"><L>Ich gr&#xFC;sse Dich, Herakles, Sohn des Zeus.</L></LG>
+<DIV_END divEndID="deID_2434_00310" startPtr="WR-03-01-03_n0061.xml#//DIV_START[@divStartID='dsID_2434_00313']"/>
+<FT type="pn" num="61" c_text="&#x2014; 61 &#x2014;"/>
+</PAGE>

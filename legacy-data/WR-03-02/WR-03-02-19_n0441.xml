@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-18_n0440.xml</PREV>
+<NEXT>WR-03-02-19_n0442.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 19, S. 441</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2434_01076" endPtr="WR-03-02-19_n0464.xml#//DIV_END[@divEndID='deID_2434_01099']"/>
+<DIV_START divStartID="dsID_2434_01077" endPtr="WR-03-02-19_n0445.xml#//DIV_END[@divEndID='deID_2434_01082']"/>
+<TITLE titleID="tiID_2434_00218"><TITLEPART type="main">DIE BLUMEN DES B&#xD6;SEN <HR emDashNum="8" type="doubleInline"/></TITLEPART><LE/>
+<TITLEPART type="bystmt">VON <AUCTOR><B>CHARLES BAUDELAIRE</B></AUCTOR></TITLEPART><LE/>
+<TITLEPART type="desc">UMDICHTUNGEN <HR emDashNum="14" type="doubleInline"/><LE/>
+VON <AUCTOR><B>STEFAN GEORGE</B></AUCTOR> <HR emDashNum="6" type="doubleInline"/></TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2434_01078" endPtr="WR-03-02-19_n0441.xml#//DIV_END[@divEndID='deID_2434_01076']"/>
+<TITLE titleID="tiID_2434_00219"><TITLEPART>DER ALBATROS.</TITLEPART></TITLE>
+<LG parID="05143"><L>Oft kommt es, dass das Schiffsvolk zum Vergn&#xFC;gen</L>
+<L>Die Albatros, die grossen V&#xF6;gel, f&#xE4;ngt,</L>
+<L>Die sorglos folgen, wenn auf seinen Z&#xFC;gen</L>
+<L>Das Schiff sich durch die schlimmen Klippen zw&#xE4;ngt.</L></LG>
+<LG parID="05144"><L>Kaum sind sie unten auf des Deckes G&#xE4;ngen,</L>
+<L>Als sie, die Herrn im Azur, ungeschickt</L>
+<L>Die grossen weissen Fl&#xFC;gel traurig h&#xE4;ngen</L>
+<L>Und an der Seite schleifen wie geknickt.</L></LG>
+<LG parID="05145"><L>Er, sonst so flink, ist nun der Matte, Steife,</L>
+<L>Der L&#xFC;fte K&#xF6;nig duldet Spott und Schmach;</L>
+<L>Der eine neckt ihn mit der Tabakspfeife,</L>
+<L>Ein anderer ahmt den Flug des &#xC4;rmsten nach.</L></LG>
+<LG parID="05146"><L>Der Dichter ist wie jener F&#xFC;rst der Wolke,</L>
+<L>Er haust im Sturm, er lacht dem Bogenstrang,</L>
+<L>Doch hindern drunten zwischen frechem Volke</L>
+<L>Die riesenhaften Fl&#xFC;gel ihn am Gang.</L></LG>
+<DIV_END divEndID="deID_2434_01076" startPtr="WR-03-02-19_n0441.xml#//DIV_START[@divStartID='dsID_2434_01078']"/>
+<SEPARATOR type="undefined"/>
+<FT type="pn" num="441" c_text="&#x2014; 441 &#x2014;"/>
+</PAGE>

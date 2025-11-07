@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-13_n0488.xml</PREV>
+<NEXT>WR-01-02-13_n0490.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 13, S. 489</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2398_00007" endPtr="WR-01-02-13_n0489.xml#//DIV_END[@divEndID='deID_2398_00006']"/>
+<TITLE titleID="tiID_2398_00010"><TITLEPART><SPC>WASSERFAHRT</SPC>.</TITLEPART></TITLE>
+<LG parID="00096"><L><IN>In</IN> Birken und Linden ein silbern Schimmern <SYMBOL type="3dots"/></L>
+<L>Die Wellen, die weissen, im Mondlicht flimmern <SYMBOL type="2dots"/></L></LG>
+<LG parID="00097"><L>Wie langes Haar, umkost vom Abendwind,</L>
+<L>So liegt der See, in lichte Nebel lind</L>
+<L>Geh&#xFC;llt, und Spiegeln gleich die tiefen Wasser sind.</L></LG>
+<LG parID="00098"><L>Mit sanftem Ruderschlag mein Kahn</L>
+<L>Gleitet auf dunkler Traumesbahn.</L></LG>
+<LG parID="00099"><L>Er gleitet in unendliche Ferne,</L>
+<L>Ueber die Himmel, &#xFC;ber die Sterne.</L></LG>
+<LG parID="00100"><L>Die Ruder tauchen auf und nieder</L>
+<L>Und singen Friedensehnsuchtslieder.</L></LG>
+<LG parID="00101"><L>Das Aug&#x2019; geschlossen, all&#x2019; mein Sehnen,</L>
+<L>In dieser M&#xFC;de h&#xF6;r&#x2019; ich&#x2019;s verklingen,</L>
+<L>In langgezognen, weichen T&#xF6;nen.</L></LG>
+<LG parID="00102"><L>Am H&#xFC;gel lehnt der Mond und sieht in Schweigen</L>
+<L>Mein schwebend Boot sich wiegen und sich neigen <SYMBOL type="3dots"/></L>
+<L>Drei Lilien mir ihr sterbend Antlitz zeigen.</L></LG>
+<LG parID="00103"><L>Ist&#x2019;s ihre Seel<ERR sug="&#x2019;,">,&#x2019;</ERR> du bleich&#x2019; woll&#xFC;stige Stund?</L>
+<L>Ist&#x2019;s meine, die verhaucht an deinem Mund?</L></LG>
+<LG parID="00104"><L>Silbern&#xE4;chtges Haar, umspielt von wiegendem Schilf <SYMBOL type="3dots"/></L></LG>
+<LG parID="00105"><L>Wie das Mondlicht im See,</L>
+<L>Wie der Lilien Schnee,</L>
+<L>Durch meine Seele zieht das alte Weh <SYMBOL type="3dots"/></L></LG>
+<P parID="00106">Paris. <AUCTOR>A. <C>Samain</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2398_00006" startPtr="WR-01-02-13_n0489.xml#//DIV_START[@divStartID='dsID_2398_00007']"/>
+</PAGE>

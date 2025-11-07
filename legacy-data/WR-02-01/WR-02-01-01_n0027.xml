@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-01_n0026.xml</PREV>
+<NEXT>WR-02-01-01_n0028.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 27</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2432_00026" endPtr="WR-02-01-01_n0027.xml#//DIV_END[@divEndID='deID_2432_00025']"/>
+<TITLE titleID="tiID_2432_00019"><TITLEPART>MITTAGSTRAUM DER WANDERNDEN.</TITLEPART></TITLE>
+<LG parID="00140"><L><IN>Sie</IN> tr&#xE4;gt die gelben Rosen in dem Kleide,</L>
+<L>die hauchend ihren Morgenschlaf gew&#xFC;rzt,</L>
+<L>es kost den Arm der Wurf aus blauer Seide,</L>
+<L>den l&#xE4;ssig ihre blasse Hand gesch&#xFC;rzt.</L></LG>
+<LG parID="00141"><L>aus einem dunkeln Hain ist sie getreten,</L>
+<L>sie f&#xFC;rchtet nicht den sonnengelben Pfad:</L>
+<L>wo m&#xFC;de Wanderer im Staube beten,</L>
+<L>dass k&#xFC;hlend eine Mittagswolke naht.</L></LG>
+<LG parID="00142"><L>ihr Schlummerkuss ber&#xFC;hrt die schweren Lider,</L>
+<L>sie h&#xFC;llt den <SPC>Traum</SPC> mit Morgenrosen ein:</L>
+<L>&#xBB;das ferne Haus und der Fontaine Lieder,</L>
+<L>in einem S&#xE4;ulenhof aus weissem Stein.&#xAB;</L></LG>
+<LG parID="00143"><L>doch Winde spielen neckend um die Wange</L>
+<L>und rufen wieder zu des Weges M&#xFC;h&#x2019;n,</L>
+<L>ob in des Abends rothem Niedergange</L>
+<L>die Zinnen einer weissen Stadt ergl&#xFC;h&#x2019;n.</L></LG>
+<P parID="00144">Paris.</P>
+<P parID="00145"><AUCTOR><C><SPC>Oscar</SPC> A. H. <SPC>Schmitz</SPC></C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2432_00025" startPtr="WR-02-01-01_n0027.xml#//DIV_START[@divStartID='dsID_2432_00026']"/>
+</PAGE>

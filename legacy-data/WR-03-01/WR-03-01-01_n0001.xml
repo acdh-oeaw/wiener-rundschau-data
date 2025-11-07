@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-00_i0006.xml</PREV>
+<NEXT>WR-03-01-01_n0002.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 1</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2434_00004" endPtr="WR-03-01-01_n0024.xml#//DIV_END[@divEndID='deID_2434_00090']"/>
+<DIV_START cat="preface" divStartID="dsID_2434_00005" endPtr="WR-03-01-01_n0001.xml#//DIV_END[@divEndID='deID_2434_00004']"/>
+<P parID="00018"><TAB/>Wir k&#xF6;nnten es uns f&#xFC;glich schenken, dem dritten Jahrgange<LE/>
+dieses Blattes ein geleitendes Wort <DOUBT sug="vorauszuschicken">voraufzuschicken</DOUBT>, welches<LE/>
+wahrlich nicht deutlicher reden wird denn die bis jetzt erschienenen<LE/>
+zweimal vierundzwanzig Hefte.</P>
+<P parID="00019"><TAB/>Zwei Ziele hat, seit sie besteht, diese Zeitschrift sich gesetzt.</P>
+<P parID="00020"><TAB/>Losgel&#xF6;st von allen R&#xFC;cksichten und Vorurtheilen, versuchte<LE/>
+sie den Menschen eine andere Art der Wertung aller Erscheinungen<LE/>
+nahe zu bringen. Nicht auf dem Standpunkte der naheliegendsten<LE/>
+N&#xFC;tzlichkeit stehend, welcher in Vertretungsk&#xF6;rpern und <HYPH1 cont="Tageszeitungen">Tages-</HYPH1><LE/>
+<HYPH2>zeitungen</HYPH2> die &#xF6;ffentliche Kritik leitet, sondern vom erh&#xF6;hten <HYPH1 cont="Gesichtsfelde">Gesichts-</HYPH1><LE/>
+<HYPH2>felde</HYPH2> eines geistigeren Daseins aus h&#xE4;lt sie in ihren Spalten die<LE/>
+Entwicklungsstufen der europ&#xE4;ischen Seele fest. Sie wendet sich<LE/>
+nicht an Leute, die sich nur in genau begrenzten Gedankenkreisen<LE/>
+bewegen k&#xF6;nnen; f&#xFC;r diejenigen wird sie geschrieben, welche &#xFC;ber<LE/>
+der Mannigfaltigkeit des Stoffes die Einheit des Geistes f&#xFC;hlen:<LE/>
+sie will <SPC>gelebt</SPC>, nicht nur gelesen sein.</P>
+<P parID="00021"><TAB/>Sie will &#xFC;berdies zu einer Zeit, da das Verst&#xE4;ndnis des<LE/>
+Wesens der Kunst fast g&#xE4;nzlich abhanden gekommen ist, der<LE/>
+<SPC>Kunst an sich</SPC> eine Zufluchtst&#xE4;tte bieten, g&#xE4;nzlich entr&#xFC;ckt den<LE/>
+Masst&#xE4;ben, welche die herrschende Halbbildung, auf ihre <HYPH1 cont="materielle">mate-</HYPH1><LE/>
+<HYPH2>rielle</HYPH2> Macht gest&#xFC;tzt, auch an die Werke der Kunst zu legen <HYPH1 cont="geneigt">ge-</HYPH1><LE/>
+<HYPH2>neigt</HYPH2> ist.</P>
+<P parID="00022"><TAB/>Das Gef&#xFC;hl f&#xFC;r Distanzen, f&#xFC;r Zwischenr&#xE4;ume und <HYPH1 cont="Rangunterschiede">Rang-</HYPH1><LE/>
+<HYPH2>unterschiede</HYPH2>, diese Grundlage jeder Cultur, ist uns verloren <HYPH1 cont="gegangen">ge-</HYPH1><LE/>
+<HYPH2>gangen</HYPH2>; die Pfaidler schwatzen &#xFC;ber die Wissenschaft, und die<LE/>
+Handwerksleute der &#xF6;ffentlichen Meinung &#xFC;ber die Kunst; ohne die<LE/>
+St&#xFC;tze einer sicheren Weltanschauung verliert die Gegenwart die<LE/>
+F&#xE4;higkeit Werte zu beurtheilen; im Schlamm der alles <HYPH1 cont="&#xFC;berflutenden">&#xFC;ber-</HYPH1><LE/>
+<HYPH2>flutenden</HYPH2> Mittelm&#xE4;ssigkeit versinkt die Ehrfurcht vor dem Recht<LE/>
+der Pers&#xF6;nlichkeit.</P>
+<P parID="00023"><TAB/>Der dereinstigen Herrschaft der Geistigen die Wege zu<LE/>
+bahnen:</P>
+<P parID="00024"><TAB/>das war und ist unser Programm.</P>
+<P parID="00025"><B><AUCTOR>Die Wiener Rundschau</AUCTOR>.</B></P>
+<DIV_END divEndID="deID_2434_00004" startPtr="WR-03-01-01_n0001.xml#//DIV_START[@divStartID='dsID_2434_00005']"/>
+<FT type="pn" num="1" c_text="&#x2014;1 &#x2014;"/>
+</PAGE>

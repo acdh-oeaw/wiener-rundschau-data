@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-19_n0752.xml</PREV>
+<NEXT>WR-01-02-20_n0754.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 20, S. 753</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>9</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2398_00228" endPtr="WR-01-02-20_n0792.xml#//DIV_END[@divEndID='deID_2398_00250']"/>
+<DIV_START cat="masthead" divStartID="dsID_2398_00229" endPtr="WR-01-02-20_n0753.xml#//DIV_END[@divEndID='deID_2398_00228']"/>
+<P parID="01655"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="01656"><B><DATE>1. SEPTEMBER 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2398_00228" startPtr="WR-01-02-20_n0753.xml#//DIV_START[@divStartID='dsID_2398_00229']"/>
+<DIV_START divStartID="dsID_2398_00230" endPtr="WR-01-02-20_n0759.xml#//DIV_END[@divEndID='deID_2398_00229']"/>
+<TITLE titleID="tiID_2398_00096"><TITLEPART type="main">DAS HERMETISCHE BERGSCHLOSS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Rachilde</C></AUCTOR> (Paris).</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Nina Hoffmann</C></AUCTOR>.</TITLEPART></TITLE>
+<P parID="01657"><TAB/>Ich habe zwei alte Frauen gekannt, welche mit den Worten <HYPH1 cont="gestorben">ge-</HYPH1><LE/>
+<HYPH2>storben</HYPH2> sind: &#xBB;Hier bin ich <SPC>nicht zu Hause</SPC>! Nicht hier ist&#x2019;s, wo<LE/>
+ich sterben sollte!&#xAB; Die eine von ihnen war eine B&#xE4;uerin aus dem <HYPH1 cont="Bezirke">Be-</HYPH1><LE/>
+<HYPH2>zirke</HYPH2> von Limoges. Sie war sehr arm, ein wenig verr&#xFC;ckt, und ihre<LE/>
+fixe Idee bestand vornehmlich in einem unaufh&#xF6;rlichen Bed&#xFC;rfniss nach<LE/>
+Ortsver&#xE4;nderung. Sie tr&#xE4;umte von einem Orte, wo es ihr <SPC>wohler</SPC><LE/>
+gewesen w&#xE4;re, wo sie <SPC>immer</SPC> h&#xE4;tte leben sollen, und da sie diesen<LE/>
+Ort nicht kannte, sie &#xFC;brigens auch nicht wusste, ob er anderswo als<LE/>
+unter ihrem Hirnsch&#xE4;del existire, so wiederholte sie immer wieder<LE/>
+stossweise: &#xBB;Ach, wie sind sie ungl&#xFC;cklich, die keine Heimat haben!&#xAB;<LE/>
+Sie verschied mit einer eigensinnigen Geberde, die sagen wollte: &#xBB;<SPC>Dort</SPC>!&#xAB;</P>
+<P parID="01658"><TAB/>Die andere, eine Gr&#xE4;fin von Beaumont-Landry, war bei vollem<LE/>
+Verstande, allein sie phantasirte ganze Tage lang von dem &#xBB;Haus ihrer<LE/>
+Tr&#xE4;ume&#xAB;, und dieses stellte nicht eine sentimentale Phrase ihrer <HYPH1 cont="Jugendzeit">Jugend-</HYPH1><LE/>
+<HYPH2>zeit</HYPH2> dar, es war wirklich und wahrhaftig ein irgendwo erbautes <HYPH1 cont="Wohnhaus">Wohn-</HYPH1><LE/>
+<HYPH2>haus</HYPH2>, etwa in Schweden oder Irland, in einer Gegend &#xBB;<SPC>von der Farbe<LE/>
+grauer Spitzen</SPC>&#xAB;, sagte sie, und &#xBB;<SPC>wo die Tauben Trauer<LE/>
+tragen m&#xFC;ssen</SPC>&#xAB;. Sie definirte nichts, w&#xFC;nschte nichts. Weder <HYPH1 cont="Gem&#xE4;lde">Ge-</HYPH1><LE/>
+<HYPH2>m&#xE4;lde</HYPH2>, noch Stiche gaben ihr bestimmte Anhaltspunkte, aber sie wusste,<LE/>
+dass jenes Haus &#xBB;dort&#xAB; sei und dass ihr, der verw&#xF6;hnten Weltdame,<LE/>
+jener Platz dort an dieser bescheidenen Ruhestelle vorherbestimmt war.<LE/>
+Als sie im Todeskampfe lag, nahm sie die H&#xE4;nde ihrer Tochter in<LE/>
+die ihren und murmelte mit unruhvoller Stimme: &#xBB;Ich bin nicht <SPC>hier</SPC><LE/>
+zu Hause, nein, <SPC>hier</SPC> ist es nicht, wo ich mich befinden sollte!&#xAB;</P>
+<P parID="01659"><TAB/>Wenn es <SPC>die Schwesterseele</SPC> gibt, nach der man durch alle<LE/>
+Verirrungen und alle Verbrechen der Liebe hindurch sucht, sollte es<LE/>
+nicht auch das <SPC>Bruderland</SPC> geben, ohne das man nicht gl&#xFC;cklich<LE/>
+leben, kein friedliches Lebensende finden kann?</P>
+<P part="initial" parID="01660"><TAB/>Wie viele schwerm&#xFC;thige Touristen haben nicht mit trauererf&#xFC;llten,<LE/>
+bedauernden Blicken gesagt: &#xBB;Ich habe auf meinen Wanderungen den<LE/>
+Ort gesehen, den ich bewohnen m&#xF6;chte, und ich erinnere mich nun</P>
+</PAGE>

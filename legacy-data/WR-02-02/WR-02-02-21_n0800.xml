@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-21_n0799.xml</PREV>
+<NEXT>WR-02-02-21_n0801.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 800</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>9</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">800</LTEXT><CTEXT>GRAF.</CTEXT></HD>
+<P part="final" parID="01714">formlos ist, kann in sich den Keim der Zukunft tragen. Wenn<LE/>
+aus diesen Kreisen &#x2014; freilich primitive &#x2014; k&#xFC;nstlerische <HYPH1 cont="Verbindungen">Ver-</HYPH1><LE/>
+<HYPH2>bindungen</HYPH2> zu den Ideenkreisen jener ersten Epoche alter Wiener<LE/>
+Kunst gesucht werden, deren Entwicklung in den <DATERANGE>Sechziger-Jahren</DATERANGE><LE/>
+abgeschnitten worden ist, so k&#xF6;nnten diese Bestrebungen zu den<LE/>
+Uranfangen der Wiener Musik und des Wiener Liedes, an welchem<LE/>
+in den letzten Jahrzehnten so furchtbar ges&#xFC;ndigt worden ist,<LE/>
+zur&#xFC;ck und weiter f&#xFC;hren.</P>
+<SEPARATOR type="asterismUp"/>
+<P parID="01715"><TAB/>Zur gleichen Zeit, da in Wien alles in Krakauer&#x2019;schen<LE/>
+Melodien schwelgte, begann in einem kleinen Beisel am Boulevard<LE/>
+Rochechouart Aristide Bruant seine grossen Hymnen des Elends<LE/>
+und jeder Noth der Menschheit zu singen, Marcel Legay <HYPH1 cont="componierte">com-</HYPH1><LE/>
+<HYPH2>ponierte</HYPH2> seinen <LANG iso="fr">&#xBB;Chanson du semeur&#xAB;</LANG> und das Moulinrouge-Lied,<LE/>
+Poncin seine &#xBB;Soularde&#xAB; <SYMBOL type="5dots"/> W&#xE4;hrend in Paris aus dem alten<LE/>
+Chanson das neue Volkslied entstand und die Kl&#xE4;nge der <HYPH1 cont="Marseillaise">Mar-</HYPH1><LE/>
+<HYPH2>seillaise</HYPH2> einer neuen Zeit zum erstenmale ert&#xF6;nten, sassen in Wien<LE/>
+beim Heurigen Prinz und Fiaker br&#xFC;derlich trunken beisammen<LE/>
+und sangen zum d&#xFC;nnen Klang zweier Violinen und einer<LE/>
+Harmonika:</P>
+<DIV_START author="(other)" cat="song" type="verse" divStartID="dsID_2433_00275" endPtr="WR-02-02-21_n0800.xml#//DIV_END[@divEndID='deID_2433_00272']"/>
+<LG parID="01716"><LANG iso="de-loc"><L>&#xBB;Menschen, Menschen san mir alle,</L>
+<L>Fehler hat ein jeder gnua,</L>
+<L>&#x2019;s k&#xF6;nnen ja nicht alle gleich sein,</L>
+<L>Liegt schon so in der Natua!&#xAB;</L></LANG></LG>
+<DIV_END divEndID="deID_2433_00272" startPtr="WR-02-02-21_n0800.xml#//DIV_START[@divStartID='dsID_2433_00275']"/>
+<DIV_END divEndID="deID_2433_00273" startPtr="WR-02-02-21_n0797.xml#//DIV_START[@divStartID='dsID_2433_00273']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

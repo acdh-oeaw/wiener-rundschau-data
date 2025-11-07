@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-19_n0443.xml</PREV>
+<NEXT>WR-03-02-19_n0445.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 19, S. 444</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>CHARLES BAUDELAIRE: DIE BLUMEN DES B&#xD6;SEN.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2434_01080" endPtr="WR-03-02-19_n0444.xml#//DIV_END[@divEndID='deID_2434_01078']"/>
+<TITLE titleID="tiID_2434_00221"><TITLEPART>FREMDL&#xC4;NDISCHER DUFT.</TITLEPART></TITLE>
+<LG parID="05154"><L>Wenn sich mein Auge schliesst am Sommerabend,</L>
+<L>Und Deines heissen Busens Duft mich lezt,</L>
+<L>Dann bin ich in ein selig Reich versetzt.</L>
+<L>An immer gleicher Sonnenglut sich labend</L></LG>
+<LG parID="05155"><L>Ein tr&#xE4;ges Eiland, das Natur begl&#xFC;ckt</L>
+<L>Mit seltnen B&#xE4;umen, Fr&#xFC;chten s&#xFC;sser S&#xE4;fte,</L>
+<L>Mit M&#xE4;nnern schlanken Leibes voller Kr&#xE4;fte,</L>
+<L>Und Frauen, deren Auge Freimuth schm&#xFC;ckt.</L></LG>
+<LG parID="05156"><L>An wunderbarem Strand bin ich zu Gast,</L>
+<L>Im weiten Hafen dr&#xE4;ngt sich Mast an Mast,</L>
+<L>Noch von der Reise M&#xFC;h ein wenig d&#xFC;ster;</L></LG>
+<LG parID="05157"><L>Indes vom gr&#xFC;nen Tamarindengang</L>
+<L>Entschwebt ein Duft und dringt mir in die N&#xFC;ster,</L>
+<L>Vermischt im Geiste mit der Schiffer Sang.</L></LG>
+<DIV_END divEndID="deID_2434_01078" startPtr="WR-03-02-19_n0444.xml#//DIV_START[@divStartID='dsID_2434_01080']"/>
+<SEPARATOR type="undefined"/>
+<DIV_START type="verse" divStartID="dsID_2434_01081" endPtr="WR-03-02-19_n0444.xml#//DIV_END[@divEndID='deID_2434_01079']"/>
+<TITLE titleID="tiID_2434_00222"><TITLEPART>ZIGEUNER AUF DER REISE.</TITLEPART></TITLE>
+<LG parID="05158"><L>Das Volk der Zaubrer, deren Augen blitzen,</L>
+<L>Zieht weiter: Auf der M&#xFC;tter R&#xFC;cken sitzen</L>
+<L>Die Kleinen oder stillen ihr Gel&#xFC;ste</L>
+<L>Am immer offnen Schatz der langen Br&#xFC;ste.</L></LG>
+<LG parID="05159"><L>Zu Fuss die M&#xE4;nner, die in Waffen starren,</L>
+<L>Die Ihren kauern neben in den Karren,</L>
+<L>Am Himmel suchen sie mit tr&#xFC;bem Blicke</L>
+<L>Die fernen Bilder gl&#xFC;cklicher Geschicke.</L></LG>
+<LG parID="05160"><L>Aus sandigem Versteck die Grille schaut</L>
+<L>Und singt vor ihnen noch einmal so laut,</L>
+<L>Die Mutter Erde liebt sie &#x2014; Blumen dehnen</L></LG>
+<LG parID="05161"><L>Sich in den W&#xFC;sten, Laub und Gr&#xE4;ser sprossen,</L>
+<L>Und Felsen fliessen vor den Wandrern, denen</L>
+<L>Der Zukunft Finsternisse sich erschlossen.</L></LG>
+<DIV_END divEndID="deID_2434_01079" startPtr="WR-03-02-19_n0444.xml#//DIV_START[@divStartID='dsID_2434_01081']"/>
+<SEPARATOR type="undefined"/>
+<FT type="pn" num="444" c_text="&#x2014; 444 &#x2014;"/>
+</PAGE>

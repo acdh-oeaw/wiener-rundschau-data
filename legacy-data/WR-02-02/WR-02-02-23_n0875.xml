@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-23_n0874.xml</PREV>
+<NEXT>WR-02-02-23_n0876.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 23, S. 875</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>10</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2433_00312" endPtr="WR-02-02-23_n0883.xml#//DIV_END[@divEndID='deID_2433_00311']"/>
+<TITLE titleID="tiID_2433_00158"><TITLEPART type="main"><SPC>EMILY BRONT&#xC9;</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAURICE MAETERLINCK</AUCTOR>.</TITLEPART></TITLE>
+<DIV_START cat="editorialStatement" divStartID="dsID_2433_00313" endPtr="WR-02-02-23_n0875.xml#//DIV_END[@divEndID='deID_2433_00310']"/>
+<P parID="02054"><TAB/><SPC>Vorbemerkung der Redaction</SPC>: Dieser Essay erscheint hier in<LE/>
+deutscher Sprache, autorisiert, zum erstenmale. Auch in franz&#xF6;sischer und<LE/>
+englischer Sprache erscheint er erst heute, am <DATE>15. October</DATE>, an welchem Tage<LE/>
+das neue Buch Maeterlincks: <LANG iso="fr">&#xBB;La sagesse et la destin&#xE9;e&#xAB;</LANG> in Paris, London<LE/>
+und New-York zur Ausgabe gelangt. Er wurde aus Maeterlincks Manuscript<LE/>
+&#xFC;bersetzt.</P>
+<DIV_END divEndID="deID_2433_00310" startPtr="WR-02-02-23_n0875.xml#//DIV_START[@divStartID='dsID_2433_00313']"/>
+<P part="initial" parID="02055"><TAB/>Sobald das Bewusstsein erwacht und in einem Wesen zu leben<LE/>
+beginnt, f&#xE4;ngt sein Schicksal an. Es handelt sich hier nicht um das<LE/>
+verarmte und passive Bewusstsein der meisten Seelen, sondern um das<LE/>
+th&#xE4;tige Bewusstsein, das die Ereignisse annimmt, welcher Art sie auch<LE/>
+sein m&#xF6;gen, wie eine K&#xF6;nigin, selbst wenn man sie ins Gef&#xE4;ngnis<LE/>
+geworfen hat, eine Gabe anzunehmen weiss. Wenn einem nichts<LE/>
+zust&#xF6;sst, kann das Bewusstsein, indem es auf gewisse Weise die <HYPH1 cont="Abwesenheit">Ab-</HYPH1><LE/>
+<HYPH2>wesenheit</HYPH2> jedes Ereignisses feststellt, schon ein grosses Ereignis schaffen.<LE/>
+Aber vielleicht gibt es keinen Menschen, dem nicht mehr Dinge <HYPH1 cont="begegnen">be-</HYPH1><LE/>
+<HYPH2>gegnen</HYPH2>, als er zur Ern&#xE4;hrung des begierigsten, unerm&#xFC;dlichsten <HYPH1 cont="Bewusstseins">Be-</HYPH1><LE/>
+<HYPH2>wusstseins</HYPH2> bedarf. Ich habe in diesem Augenblicke die Lebensbeschreibung<LE/>
+einer jener m&#xE4;chtigen und leidenschaftlichen Seelen vor mir, an der<LE/>
+alle Zuf&#xE4;lle, die das Gl&#xFC;ck oder Ungl&#xFC;ck der Menschen ausmachen,<LE/>
+vor&#xFC;bergegangen zu sein scheinen, ohne das Haupt umzuwenden. Es<LE/>
+handelt sich um das seltsamste, unbestreitbar genialste Weib der <DATERANGE>ersten<LE/>
+H&#xE4;lfte dieses Jahrhunderts</DATERANGE>, <SPC>Emily Bront&#xE9;</SPC>*) Sie hat uns nur ein<LE/>
+Buch gelassen, einen Roman, betitelt: <LANG iso="en">&#xBB;<SPC>Wuthering Heights</SPC>&#xAB;</LANG>. Ein<LE/>
+bizarrer Titel, den man vielleicht mit &#xBB;Die Sturmh&#xF6;he&#xAB; wiedergeben<LE/>
+k&#xF6;nnte. Emily war die Tochter eines englischen <LANG iso="en">Clergyman</LANG>, des Reverend<LE/>
+Patrick Bront&#xE9;, des nichtigsten, leblosesten, anspruchvollsten und <HYPH1 cont="selbsts&#xFC;chtigsten">selbst-</HYPH1><LE/>
+<HYPH2>s&#xFC;chtigsten</HYPH2> Wesens, das man sich denken kann. Zwei Dinge schienen<LE/>
+ihm wichtig im Leben, die Reinheit seines griechischen Profils und</P>
+<HR/>
+<FN>
+<P parID="02056"><TAB/>*) <SPC>Emily Bront&#xE9;</SPC> (pseud. Ellis Bell) wurde <DATE>1819</DATE> als zweite Tochter<LE/>
+des Predigers Bront&#xE9; geboren. Ihre &#xE4;ltere Schwester war die bekannte <HYPH1 cont="Romanschriftstellerin">Roman-</HYPH1><LE/>
+<HYPH2>schriftstellerin</HYPH2> und Sch&#xFC;lerin Thackerays Charlotte Bront&#xE9;, die zuerst unter dem<LE/>
+Pseudonym Currer Bell schrieb und <DATE>1846</DATE> mit Emily und ihrer j&#xFC;ngsten Schwester<LE/>
+Anna (Acton Bell) gemeinschaftlich &#xBB;Gedichte&#xAB; herausgab. Der erste, <DATE>1847</DATE><LE/>
+gedruckte Roman Charlottes &#xBB;Jane Eyre&#xAB;, der ihre Jugendjahre wiederspiegelte,<LE/>
+ist in der deutschen B&#xFC;hnenbearbeitung von Charlotte Birch-Pfeiffer als &#xBB;Waise<LE/>
+von Lowood&#xAB; auch heute noch auf dem Continent wohl bekannt. Nachdem Emily<LE/>
+<DATE>1848</DATE> und Anna <DATE>1849</DATE> gestorben waren, gab sie deren literarischen Nachlass,<LE/>
+dessen Hauptbestandtheil die Romane <LANG iso="en">&#xBB;Wuthering Heights&#xAB;</LANG> und &#xBB;Agnes Gray&#xAB;<LE/>
+bildeten, <DATE>1850</DATE> heraus. Ein englischer Neudruck von <DATE>1896</DATE> liegt vor.</P>
+<P parID="02057">Der &#xDC;bersetzer.</P>
+</FN>
+</PAGE>

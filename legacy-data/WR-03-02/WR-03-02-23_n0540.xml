@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-23_n0539.xml</PREV>
+<NEXT>WR-03-02-23_n0541.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 23, S. 540</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: GEDICHTE IN PROSA.</CTEXT></HD>
+<LG parID="05950"><L>Man vergiftet Jemanden im Garten.</L>
+<L>Man feiert ein Fest bei den Feinden.</L>
+<L>Ein Hirsch durchrennt die belagerte Stadt.</L>
+<L>Wilde Thiere mitten in Lilien.</L>
+<L>Eine tropische Flora im Grund eines Kohlenschachtes.</L>
+<L>Eine Herde von Schafen l&#xE4;uft &#xFC;ber eine eiserne Br&#xFC;cke <SYMBOL type="3dots"/></L></LG>
+<LG parID="05951"><L>Da z&#xFC;ndet die Schwester die Lampen an,</L>
+<L>sie bringt den Kranken das Essen,</L>
+<L>sie schliesst die Fenster</L>
+<L>und alle Th&#xFC;ren vor dem Mondenschein.*</L></LG>
+<DIV_END divEndID="deID_2434_01159" startPtr="WR-03-02-23_n0539.xml#//DIV_START[@divStartID='dsID_2434_01161']"/>
+<SEPARATOR num="8" type="undefined"/>
+<FN>
+<P parID="05952"><TAB/>* Verdeutscht von KARL LOTHAR AMMER.</P>
+</FN>
+<DIV_END divEndID="deID_2434_01160" startPtr="WR-03-02-23_n0537.xml#//DIV_START[@divStartID='dsID_2434_01158']"/>
+<FT type="pn" num="540" c_text="&#x2014; 540 &#x2014;"/>
+</PAGE>

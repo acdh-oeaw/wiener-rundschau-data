@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-07_n0151.xml</PREV>
+<NEXT>WR-04-07_n0153.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 7, S. 152</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>26</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>YSAEY: DER GARTEN.</CTEXT></HD>
+<TABLE parID="01427"><ROW ciID="0394"><CELL>
+<DIV_START cat="speech" divStartID="dsID_2436_00153" endPtr="WR-04-07_n0152.xml#//DIV_END[@divEndID='deID_2436_00151']"/>
+<P parID="01428"><SPK>MAREEN</SPK>:</P>
+<LG parID="01429"><L><SYMBOL type="2dots"/> Dann kamen Stunden voller Kummer</L>
+<L>Und Thr&#xE4;nen, bis ich endlich stille ward</L>
+<L>Und leben lernte, wie ich heute lebe.</L></LG>
+<DIV_END divEndID="deID_2436_00151" startPtr="WR-04-07_n0152.xml#//DIV_START[@divStartID='dsID_2436_00153']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00154" endPtr="WR-04-07_n0152.xml#//DIV_END[@divEndID='deID_2436_00152']"/>
+<P parID="01430"><SPK>FERRAND</SPK>:</P>
+<LG parID="01431"><L>Und dann?</L></LG>
+<DIV_END divEndID="deID_2436_00152" startPtr="WR-04-07_n0152.xml#//DIV_START[@divStartID='dsID_2436_00154']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00155" endPtr="WR-04-07_n0152.xml#//DIV_END[@divEndID='deID_2436_00153']"/>
+<P parID="01432"><SPK>MAREEN</SPK>:</P>
+<LG parID="01433"><L>Dann kamst ja Du.</L></LG>
+<DIV_END divEndID="deID_2436_00153" startPtr="WR-04-07_n0152.xml#//DIV_START[@divStartID='dsID_2436_00155']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00156" endPtr="WR-04-07_n0152.xml#//DIV_END[@divEndID='deID_2436_00154']"/>
+<P parID="01434"><SPK>FERRAND</SPK>:</P>
+<LG parID="01435"><L>Ja, dann kam ich,</L>
+<L>Und nahm Dich bei der Hand, und f&#xFC;hrte</L>
+<L>Dich</L>
+<L>In dieses Haus und glaubte eine G&#xF6;ttin</L>
+<L>Aus wei&#xDF;em, keuschen Marmor zu behausen,</L>
+<L>Und freute mich zuweilen ihrer K&#xFC;hle.</L>
+<L>Nun seh ich &#x2014;</L></LG>
+<DIV_END divEndID="deID_2436_00154" startPtr="WR-04-07_n0152.xml#//DIV_START[@divStartID='dsID_2436_00156']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00157" endPtr="WR-04-07_n0152.xml#//DIV_END[@divEndID='deID_2436_00155']"/>
+<P parID="01436"><SPK>MAREEN</SPK>:</P>
+<LG parID="01437"><L>Was? Dass ich aus Marmor nicht?</L>
+<L>Nicht kalter Stein?</L></LG>
+<DIV_END divEndID="deID_2436_00155" startPtr="WR-04-07_n0152.xml#//DIV_START[@divStartID='dsID_2436_00157']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00158" endPtr="WR-04-07_n0152.xml#//DIV_END[@divEndID='deID_2436_00156']"/>
+<P parID="01438"><SPK>FERRAND</SPK>:</P>
+<LG parID="01439"><L>Mareen, ich fass es nicht!</L>
+<L>Mir ist, als wendest Du zum erstenmale</L>
+<L>Dein Antlitz meinem zu und anders sind</L>
+<L>Die Z&#xFC;ge, als ich nach der Form des Kopfes,</L>
+<L>Der Haltung, der Geberden und der Sprache</L>
+<L>Es mir gedacht. Fremd bist Du pl&#xF6;tzlich mir,</L>
+<L>Und in das Neue kann ich mich nicht finden.</L>
+<L>Noch nicht, vielleicht lern ich es einstens</L>
+<L>lieben,</L>
+<L>Wie ich mein Traumbild liebte, aber jetzt</L>
+<L>Bin ich erschreckt, verwirrt.</L></LG>
+<DIV_END divEndID="deID_2436_00156" startPtr="WR-04-07_n0152.xml#//DIV_START[@divStartID='dsID_2436_00158']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00159" endPtr="WR-04-07_n0152.xml#//DIV_END[@divEndID='deID_2436_00157']"/>
+<P parID="01440"><SPK>MAREEN</SPK>:</P>
+<LG part="initial" parID="01441"><L>Und warum das?</L>
+<L>Was ist geschehn? Wir sprachen ja von</L>
+<L>Zeiten,</L></LG>
+</CELL><CELL>
+<LG part="final" parID="01442"><L>Die l&#xE4;ngst vergangen sind und wesenlos.</L>
+<L>Der Schatten eines Schattens zog vorbei</L>
+<L>Und haucht auf unsres Gl&#xFC;ckes klaren</L>
+<L>Spiegel,</L>
+<L>Das will uns k&#xFC;mmern? &#x2014; F&#xFC;hlst Du denn</L>
+<L>nicht auch,</L>
+<L>Dass, was so lange ich vor Dir verborgen,</L>
+<L>Ein Nichts ist, l&#xE4;ngst in todten Staub</L>
+<L>zerfallen?</L>
+<L>Das Einz&#x2019;ge, was ihm Leben gab, das war,</L>
+<L>Dass Du nichts davon wusstest; h&#xE4;tt ich Dir</L>
+<L>Davon gesprochen, l&#xE4;ngst war es vergessen.</L>
+<L>Und dann &#x2014; nun, da ich alles Dir gesagt,</L>
+<L>Versuchst Du es wohl, eher als bisher,</L>
+<L>Den Eingang zu dem Gartenthor zu</L>
+<L>finden &#x2014; &#x2014;</L>
+<L>Vielleicht wirst Du den Abend einstens</L>
+<L>segnen,</L>
+<L>Der Dir Erkenntnis brachte, wirst vielleicht</L>
+<L>Die Jahre nur beklagen, wo dem Steinbild</L>
+<L>Du huldigtest, da doch das Leben nah.</L>
+<L>Vielleicht &#x2014; wer wei&#xDF;, was noch aus dieser</L>
+<L>Stunde</L>
+<L>An s&#xFC;&#xDF;em Gl&#xFC;ck erbl&#xFC;ht. &#x2014; Geliebter</L>
+<L>Freund,</L>
+<L>Es gibt so wundervolle M&#xF6;glichkeiten,</L>
+<L>Die k&#xF6;stlicher als jegliche Gewissheit!</L></LG>
+<DIV_END divEndID="deID_2436_00157" startPtr="WR-04-07_n0152.xml#//DIV_START[@divStartID='dsID_2436_00159']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00160" endPtr="WR-04-07_n0152.xml#//DIV_END[@divEndID='deID_2436_00158']"/>
+<P parID="01443"><SPK>FERRAND</SPK>:</P>
+<LG parID="01444"><L>Mareen, Geliebte, S&#xFC;&#xDF;e, hast Du wirklich</L>
+<L>Auch alles mir gesagt? Steht wirklich nichts,</L>
+<L>Auch nicht ein Schatten, zwischen unsern</L>
+<L>Seelen?</L>
+<L>Du raubst mir viel und schenkst mir fast</L>
+<L>noch mehr!</L>
+<L>Ich liebe Dich so sehr, Grausame Du,</L>
+<L>Gro&#xDF;m&#xFC;thige &#x2014; wie soll ich Dich nur</L>
+<L>nennen?</L>
+<L>Du bist wohl beides, beides, wie das Leben,</L>
+<L>Es gibt im Nehmen und es nimmt im</L>
+<L>Geben &#x2014; &#x2014; &#x2014;</L></LG>
+<DIV_END divEndID="deID_2436_00158" startPtr="WR-04-07_n0152.xml#//DIV_START[@divStartID='dsID_2436_00160']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2436_00159" startPtr="WR-04-07_n0149.xml#//DIV_START[@divStartID='dsID_2436_00133']"/>
+<SEPARATOR num="8" type="undefined"/>
+<FT type="pn" num="152" c_text="&#x2014; 152 &#x2014;"/>
+</PAGE>

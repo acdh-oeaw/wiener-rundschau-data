@@ -1,0 +1,74 @@
+<teiHeader>
+  <fileDesc>
+    <filename>magazines\Wiener_Rundschau\WR-01-01</filename>
+    <titleStmt>
+      <mainTitle>Wiener Rundschau</mainTitle>
+      <subTitle></subTitle>
+      <author><persName></persName></author>
+      <sponsor></sponsor>
+      <funder></funder>
+    </titleStmt>
+    <textClass>Übersetzungen aus dem Norwegischen und Russischen</textClass>
+    <keyWords></keyWords>
+    <titleStmtLevel>periodical - Viennensia  - Fackel_relation - C4_</titleStmtLevel>
+    <editionStmt>
+      <edition>1. Jg, 1. Bd (Heft 1-12: 15. November 1896-1. Mai 1897)</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher></publisher>
+      <address></address>
+      <idno>2397</idno>
+      <availability></availability>
+      <date></date>
+    </publicationStmt>
+    <notesStmt>
+      <note>
+        <p></p>
+      </note>
+    </notesStmt>
+
+    <sourceDesc>
+      <biblStruct>
+        <monogr>
+          <author><persName></persName></author>
+          <mainTitle>Wiener Rundschau</mainTitle>
+          <subTitle></subTitle>
+          <edition></edition>
+          <editor>Herausgeber und verantwortlicher Redacteur: Rudolf Strauss</editor>
+          <imprint>
+            <pubPlace>Wien</pubPlace>
+            <publisher>Verlag der Wiener Rundschau</publisher>
+            <printer>Ch. Reissner &amp; M. Werthner</printer>
+            <date>1896 / 1897</date>
+          </imprint>
+          <extent><measure type="pagination"></measure></extent>
+          <extent><measure type="format">gr.8°</measure></extent>
+          <extent><measure type="areaType">17,2x10,5</measure></extent>
+        </monogr>
+        <idno></idno>
+      </biblStruct>
+    </sourceDesc>  
+  </fileDesc>
+
+  <encodingDesc>
+    <projectDesc></projectDesc>
+    <samplingDecl></samplingDecl>
+    <editorialDecl></editorialDecl>
+    <tagsDecl></tagsDecl>
+  </encodingDesc>
+
+  <profileDesc>
+      <langUsage></langUsage>
+      <textClass><keywords><term></term></keywords></textClass>
+  </profileDesc>
+
+  <revisionDesc ref="_progress_wiener_rundschau_01_01.xml">
+    <change>
+      <date></date>
+      <respStmt>
+        <name></name><resp></resp>
+      </respStmt>
+      <item></item>
+    </change>
+  </revisionDesc>
+</teiHeader>

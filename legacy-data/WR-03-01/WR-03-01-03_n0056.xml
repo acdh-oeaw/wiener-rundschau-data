@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-03_n0055.xml</PREV>
+<NEXT>WR-03-01-03_n0057.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 56</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="act" divStartID="dsID_2434_00267" endPtr="WR-03-01-03_n0057.xml#//DIV_END[@divEndID='deID_2434_00267']"/>
+<TITLE titleID="tiID_2434_00041"><TITLEPART type="enum">I.</TITLEPART> <TITLEPART type="main">DER PROLOG.</TITLEPART></TITLE>
+<DIV_START cat="speech" divStartID="dsID_2434_00268" endPtr="WR-03-01-03_n0056.xml#//DIV_END[@divEndID='deID_2434_00265']"/>
+<P parID="00815"><SPK><SPC>Stimme</SPC></SPK> <SD>(auf der Gartenmauer, von einer leisen Musik begleitet, halb Gebet, halb Lied)</SD>.</P>
+<LG parID="00816"><L>So liebst Du nicht mehr dieses gastliche Haus,</L>
+<L>Ph&#xF6;bos Apollon?</L>
+<L>Und liebtest es doch und hast einst nicht verschm&#xE4;ht,</L>
+<L>Ph&#xF6;bos Apollon,</L>
+<L>Hier dienend im Hause, ein weidender Hirt,</L>
+<L>Zu f&#xFC;hren die Herde auf Heide und Hald&#x2019;</L>
+<L>Und mit t&#xF6;nendem Rohr zu berauschen den Wald</L>
+<L>Herr, Ph&#xF6;bos Apollon!</L>
+<L>Da kamen die Luchse und weideten mit,</L>
+<L>Da folgten die L&#xF6;wen dem Klang und dem Schritt</L>
+<L>In feuerfarbenem Rudel,</L>
+<L>Gebunden von s&#xFC;sser Gewalt,</L>
+<L>Um Deine Zither die bunten Reh&#x2019;</L>
+<L>Hintanzten und liessen f&#xFC;r Deine N&#xE4;h&#x2019;</L>
+<L>Den dunklen schweigenden Wald!</L>
+<L>Vergisst Du, Apollon, so bald,</L>
+<L>Die sterblichen Menschen so bald?</L></LG>
+<DIV_END divEndID="deID_2434_00265" startPtr="WR-03-01-03_n0056.xml#//DIV_START[@divStartID='dsID_2434_00268']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00269" endPtr="WR-03-01-03_n0057.xml#//DIV_END[@divEndID='deID_2434_00266']"/>
+<P parID="00817"><SPK><SPC>Apollon</SPC></SPK> <SD>(w&#xE4;hrend des Liedes von links aufgetreten, geht langsam gegen das Haus zu,<LE/>
+blickt durch das Thor ins Innere)</SD><ERR sug=".">:</ERR></P>
+<LG part="initial" parID="00818"><L>Sie rufen mich und singen, dass ich einst</L>
+<L>In diesem K&#xF6;nigshaus, obwohl ein Gott,</L>
+<L>Als Hirte an dem Tisch des Sclaven sass.</L>
+<L>Nicht ungern, fast mit Wehmuth denk&#x2019; ich dran,</L>
+<L>Weil immer doch Vergang&#x2019;nes lieblich ist <SYMBOL type="5dots"/></L>
+<L>So kam es: meinen Sohn erschlug mir Zeus</L>
+<L>Mit b&#xF6;sem Blitz; da gieng ich hin und schlug</L>
+<L>Ihm die Kyklopen, seine Knechte, todt,</L>
+<L>Des Blitzes Schmiede; daf&#xFC;r zwang mich er</L>
+<L>Zu dienen einem Sterblichen, Admet,</L>
+<L>Dem K&#xF6;nig, der in diesen Gauen herrscht.</L>
+<L>Das ist vorbei; doch ich gewann ihn lieb</L>
+<L>Den Menschen, meinen Herrn, und weil sie so</L>
+<L>Am Leben h&#xE4;ngen, diese Sterblichen,</L>
+<L>So gieng ich zu den Schicksalsg&#xF6;ttinen</L>
+<L>Und bat f&#xFC;r ihn und die gelobten mir,</L>
+<L>Er mag dem Tode, der ihm droht, entflieh&#x2019;n,</L>
+<L>Wenn einen andern er hinunterschickt</L>
+<L>Statt seiner, aber einen, der so will.</L>
+<L>Da lebt er zwischen Scham und Todesangst</L>
+<L>Und fragte; und die Frage, kaum gethan,</L>
+<L>Gereut ihn, und er w&#xE4;re lieber todt <SYMBOL type="5dots"/></L>
+<L>Die alten Eltern hatten ihn geh&#xF6;rt,</L>
+<L>Allein sie schauerten und schwiegen still. &#x2014;</L>
+<L>Da trat sein junges Weib lautlos vor ihn</L>
+<L>Und sagte: &#xBB;Herr, ich sterbe gern f&#xFC;r Dich</L>
+<L>Ich flehe, anstatt Deiner gib mich hin!&#xAB;</L>
+<L>Da war&#x2019;s erf&#xFC;llt und Todesg&#xF6;tter, die</L></LG>
+<FT type="pn" num="56" c_text="&#x2014; 56 &#x2014;"/>
+</PAGE>

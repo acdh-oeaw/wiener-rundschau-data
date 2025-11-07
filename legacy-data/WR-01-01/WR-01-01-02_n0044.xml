@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-02_n0043.xml</PREV>
+<NEXT>WR-01-01-02_n0045.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 44</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">44</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00082" endPtr="WR-01-01-02_n0044.xml#//DIV_END[@divEndID='deID_2397_00078']"/>
+<P parID="00269"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00270"><TAB/>Ich bin nie &#xFC;ber diese Br&#xFC;cke gekommen.</P>
+<DIV_END divEndID="deID_2397_00078" startPtr="WR-01-01-02_n0044.xml#//DIV_START[@divStartID='dsID_2397_00082']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00083" endPtr="WR-01-01-02_n0044.xml#//DIV_END[@divEndID='deID_2397_00079']"/>
+<P parID="00271"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00272"><TAB/>Sie f&#xFC;hrt in den Wald. Man geht da selten hin&#xFC;ber.<LE/>
+Lieber macht man einen grossen Umweg. Ich glaube, man<LE/>
+f&#xFC;rchtet sich davor, weil die Gr&#xE4;ben an dieser Stelle tiefer<LE/>
+sind als anderswo und weil das schwarze Wasser, das von<LE/>
+den Bergen herabst&#xFC;rzt, schauerlich zwischen den Mauern<LE/>
+sprudelt, ehe es sich ins Meer ergiesst. Es grollt dort immer;<LE/>
+aber die W&#xE4;lle sind so hoch, dass man es kaum wahrnimmt.<LE/>
+Es ist das der ver&#xF6;detste Fl&#xFC;gel des Schlosses. Aber von dieser<LE/>
+Seite hier ist der Wald sch&#xF6;ner, &#xE4;lter und gr&#xF6;sser als alle<LE/>
+W&#xE4;lder, die Ihr gesehen habt. Er ist voll seltener B&#xE4;ume<LE/>
+und voll wildwachsender Blumen. &#x2014; Kommt Ihr?</P>
+<DIV_END divEndID="deID_2397_00079" startPtr="WR-01-01-02_n0044.xml#//DIV_START[@divStartID='dsID_2397_00083']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00084" endPtr="WR-01-01-02_n0044.xml#//DIV_END[@divEndID='deID_2397_00080']"/>
+<P parID="00273"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00274"><TAB/>Ich weiss nicht <SYMBOL type="3dots"/> Ich f&#xFC;rchte mich vor dem grollenden<LE/>
+Wasser.</P>
+<DIV_END divEndID="deID_2397_00080" startPtr="WR-01-01-02_n0044.xml#//DIV_START[@divStartID='dsID_2397_00084']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00085" endPtr="WR-01-01-02_n0044.xml#//DIV_END[@divEndID='deID_2397_00081']"/>
+<P parID="00275"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00276"><TAB/>Kommt, kommt; es grollt ohne Grund. Seht doch Euer<LE/>
+Lamm; es blickt mich an, als wollt&#x2019; es kommen <SYMBOL type="3dots"/> Komm&#x2019;,<LE/>
+komm&#x2019; <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00081" startPtr="WR-01-01-02_n0044.xml#//DIV_START[@divStartID='dsID_2397_00085']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00086" endPtr="WR-01-01-02_n0044.xml#//DIV_END[@divEndID='deID_2397_00082']"/>
+<P parID="00277"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00278"><TAB/>Ruft es nicht <SYMBOL type="3dots"/> Es wird entrinnen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00082" startPtr="WR-01-01-02_n0044.xml#//DIV_START[@divStartID='dsID_2397_00086']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00087" endPtr="WR-01-01-02_n0044.xml#//DIV_END[@divEndID='deID_2397_00083']"/>
+<P parID="00279"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00280"><TAB/>Komm&#x2019;, komm&#x2019;.</P>
+<DIV_END divEndID="deID_2397_00083" startPtr="WR-01-01-02_n0044.xml#//DIV_START[@divStartID='dsID_2397_00087']"/>
+<P parID="00281"><SD>(Das Lamm entrinnt Alladinens H&#xE4;nden und kommt h&#xFC;pfend zu Palomides, gleitet<LE/>
+aber auf der geneigten Fl&#xE4;che der Zugbr&#xFC;cke aus und rollt in den Graben.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00088" endPtr="WR-01-01-02_n0044.xml#//DIV_END[@divEndID='deID_2397_00084']"/>
+<P parID="00282"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00283"><TAB/>Was hat es gethan? &#x2014; Wo ist es?</P>
+<DIV_END divEndID="deID_2397_00084" startPtr="WR-01-01-02_n0044.xml#//DIV_START[@divStartID='dsID_2397_00088']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00089" endPtr="WR-01-01-02_n0044.xml#//DIV_END[@divEndID='deID_2397_00085']"/>
+<P parID="00284"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00285"><TAB/>Es ist ausgeglitten! Es zappelt mitten im Wirbel. Blickt<LE/>
+es nicht an. Da ist keine Hilfe.</P>
+<DIV_END divEndID="deID_2397_00085" startPtr="WR-01-01-02_n0044.xml#//DIV_START[@divStartID='dsID_2397_00089']"/>
+</PAGE>

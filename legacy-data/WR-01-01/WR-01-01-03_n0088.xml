@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0087.xml</PREV>
+<NEXT>WR-01-01-03_n0089.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 88</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="performance" divStartID="dsID_2397_00130" endPtr="WR-01-01-03_n0095.xml#//DIV_END[@divEndID='deID_2397_00183']"/>
+<TITLE titleID="tiID_2397_00049"><TITLEPART type="main">ALLADINE UND PALOMIDES.</TITLEPART><LE/>
+<TITLEPART type="desc">Ein kleines Drama f&#xFC;r Marionetten von <AUCTOR><C>Maurice Maeterlinck</C></AUCTOR>.<LE/>
+Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Marie Lang</C></AUCTOR>.</TITLEPART></TITLE>
+<DIV_START cat="act" divStartID="dsID_2397_00131" endPtr="WR-01-01-03_n0095.xml#//DIV_END[@divEndID='deID_2397_00182']"/>
+<TITLE titleID="tiID_2397_00050"><TITLEPART>III. ACT.</TITLEPART></TITLE>
+<DIV_START cat="scene" divStartID="dsID_2397_00132" endPtr="WR-01-01-03_n0089.xml#//DIV_END[@divEndID='deID_2397_00133']"/>
+<TITLE titleID="tiID_2397_00051"><TITLEPART>I. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="00585"><SD>Ein Gemach im Palaste.</SD></P>
+<P parID="00586"><SD><SPK><SPC>Ablamore</SPC></SPK>. <SPK><SPC>Astolaine</SPC></SPK> verweilt auf der Schwelle einer halbge&#xF6;ffneten Th&#xFC;re des<LE/>
+Saales.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00133" endPtr="WR-01-01-03_n0088.xml#//DIV_END[@divEndID='deID_2397_00129']"/>
+<P parID="00587"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00588"><TAB/>Mein Vater, ich bin gekommen, weil eine Stimme, der<LE/>
+ich nicht mehr widerstehen kann, es mir gebietet. Ich habe<LE/>
+Euch gesagt, was in meiner Seele vorgegangen ist, als ich<LE/>
+Palomides begegnet bin. Er glich nicht den anderen <HYPH1 cont="Menschen">Men-</HYPH1><LE/>
+<HYPH2>schen</HYPH2> <SYMBOL type="3dots"/> Heute komme ich, Euch um Euere Hilfe zu bitten <SYMBOL type="3dots"/><LE/>
+Denn ich weiss nicht, was ich ihm sagen soll <SYMBOL type="3dots"/> Ich habe<LE/>
+erkannt, dass ich nicht lieben konnte <SYMBOL type="3dots"/> Er ist derselbe<LE/>
+geblieben, und ich allein habe mich ge&#xE4;ndert, oder ich habe<LE/>
+nicht verstanden <SYMBOL type="3dots"/> Und da es mir unm&#xF6;glich ist, ihn, den<LE/>
+ich unter Allen erw&#xE4;hlt hatte, zu lieben, wie ich es getr&#xE4;umt,<LE/>
+so muss mein Herz wohl all dem verschlossen sein <SYMBOL type="3dots"/> Ich<LE/>
+weiss es heute <SYMBOL type="3dots"/> Ich will mich nicht mehr nach der Liebe<LE/>
+hinwenden und Ihr sollt mich an Euerer Seite leben sehen<LE/>
+ohne Trauer und ohne Unruhe <SYMBOL type="3dots"/> Ich f&#xFC;hle, dass ich <HYPH1 cont="gl&#xFC;cklich">gl&#xFC;ck-</HYPH1><LE/>
+<HYPH2>lich</HYPH2> sein werde <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00129" startPtr="WR-01-01-03_n0088.xml#//DIV_START[@divStartID='dsID_2397_00133']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00134" endPtr="WR-01-01-03_n0089.xml#//DIV_END[@divEndID='deID_2397_00130']"/>
+<P parID="00589"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P part="initial" parID="00590"><TAB/>Komm&#x2019; zu mir, Astolaine. So pflegtest du fr&#xFC;her nicht<LE/>
+mit deinem Vater zu sprechen. Du wartest dort auf der</P>
+</PAGE>

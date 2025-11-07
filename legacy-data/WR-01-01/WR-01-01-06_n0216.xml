@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-06_n0215.xml</PREV>
+<NEXT>WR-01-01-06_n0217.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 216</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">216</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00371" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00368']"/>
+<P parID="01709"><SPK><SPC>Palomidens Stimme</SPC></SPK> <SD>(sehr schwach aus dem andern Zimmer)</SD>.</P>
+<P parID="01710"><TAB/>Alladine! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00368" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00371']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00372" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00369']"/>
+<P parID="01711"><SPK><SPC>Eine der Schwestern</SPC></SPK>.</P>
+<P parID="01712"><TAB/>Er antwortet! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00369" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00372']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00373" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00370']"/>
+<P parID="01713"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="01714"><TAB/>Drei von euch m&#xF6;gen hier bleiben <SYMBOL type="3dots"/> und wir gehen<LE/>
+zur anderen Th&#xFC;re. Kommt, kommt schnell. Wir werden sie<LE/>
+umringen. Wir werden sie zu vertheidigen trachten <SYMBOL type="3dots"/><LE/>
+Schmiegt euch an die Th&#xFC;rfl&#xFC;gel <SYMBOL type="3dots"/> vielleicht h&#xF6;ren sie dann<LE/>
+nichts mehr <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00370" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00373']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00374" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00371']"/>
+<P parID="01715"><SPK><SPC>Eine der Schwestern</SPC></SPK>.</P>
+<P parID="01716"><TAB/>Ich gehe zu Alladine hinein <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00371" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00374']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00375" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00372']"/>
+<P parID="01717"><SPK><SPC>Zweite Schwester</SPC></SPK>.</P>
+<P parID="01718"><TAB/>Ja, ja; verhindert sie, weiter zu rufen.</P>
+<DIV_END divEndID="deID_2397_00372" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00375']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00376" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00373']"/>
+<P parID="01719"><SPK><SPC>Dritte Schwester</SPC></SPK>.</P>
+<P parID="01720"><TAB/>Sie ist doch schuld an all dem Uebel <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00373" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00376']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00377" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00374']"/>
+<P parID="01721"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="01722"><TAB/>Geht nicht hinein, oder ich trete bei Palomides ein <SYMBOL type="3dots"/><LE/>
+Auch sie hatte ein Recht an das Leben; und sie hat nichts<LE/>
+gethan als gelebt <SYMBOL type="3dots"/> Aber dass wir verg&#xE4;ngliche Worte,<LE/>
+wenn sie vor&#xFC;berschweben, nicht ersticken k&#xF6;nnen! <SYMBOL type="3dots"/> Wir<LE/>
+sind wehrlos, meine armen Schwestern, und unsere H&#xE4;nde<LE/>
+k&#xF6;nnen die Seelen nicht aufhalten! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00374" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00377']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00378" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00375']"/>
+<P parID="01723"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01724"><TAB/>Palomides, bist du es?</P>
+<DIV_END divEndID="deID_2397_00375" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00378']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00379" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00376']"/>
+<P parID="01725"><SPK><SPC>Palomidens Stimme</SPC></SPK>.</P>
+<P parID="01726"><TAB/>Alladine, wo bist du?</P>
+<DIV_END divEndID="deID_2397_00376" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00379']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00380" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00377']"/>
+<P parID="01727"><SPK><SPC>Alladinens Stimme</SPC></SPK>.</P>
+<P parID="01728"><TAB/>Bist du es, den ich weit von mir klagen h&#xF6;re?</P>
+<DIV_END divEndID="deID_2397_00377" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00380']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00381" endPtr="WR-01-01-06_n0216.xml#//DIV_END[@divEndID='deID_2397_00378']"/>
+<P parID="01729"><SPK><SPC>Palomidens Stimme</SPC></SPK>.</P>
+<P parID="01730"><TAB/>Bist du es, die ich nach mir rufen h&#xF6;re, ohne dich zu<LE/>
+sehen?</P>
+<DIV_END divEndID="deID_2397_00378" startPtr="WR-01-01-06_n0216.xml#//DIV_START[@divStartID='dsID_2397_00381']"/>
+</PAGE>

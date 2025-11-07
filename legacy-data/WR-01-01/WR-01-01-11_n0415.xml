@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-11_n0414.xml</PREV>
+<NEXT>WR-01-01-11_n0416.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 415</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>J. P. JACOBSEN&#x2019;S LYRIK.</CTEXT><RTEXT type="pn">415</RTEXT></HD>
+<P part="final" parID="02977">gab und die sein Leben gewesen: den besonderen Styl. Bloss dass<LE/>
+seine Weltanschauung um eine Note tiefer klingt:</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2397_00530" endPtr="WR-01-01-11_n0415.xml#//DIV_END[@divEndID='deID_2397_00528']"/>
+<LG parID="02978"><L>&#xBB;In langen Jahren b&#xFC;ssen wir</L>
+<L>F&#xFC;r der Freude seligen Schimmer,</L>
+<L>Man l&#xE4;chelt&#x2019;s in fl&#xFC;chtiger Stunde hin</L>
+<L>Und ach! verweint es nimmer.</L>
+<L>Die Sorge rinnt, der Kummer rinnt aus rothen Rosen.<ADD>&#xAB;</ADD></L></LG>
+<DIV_END divEndID="deID_2397_00528" startPtr="WR-01-01-11_n0415.xml#//DIV_START[@divStartID='dsID_2397_00530']"/>
+<P parID="02979"><TAB/>Oder die Trauer um die zerst&#xF6;rte Sch&#xF6;nheit des Griechenthums,<LE/>
+wo der Marmor nicht mehr leuchtet, wo der Capit&#xE4;le &#xFC;ppige Pracht<LE/>
+verschwunden ist und die goldenen Schalen leer sind. Nur Thr&#xE4;nen<LE/>
+hat Hebe, Bacchus nur Weinlaub, vor Alter zittert das lockenschwere<LE/>
+Haupt des Zeus, und auf der saitenlosen Leier stampfen der <HYPH1 cont="losgeschirrten">losge-</HYPH1><LE/>
+<HYPH2>schirrten</HYPH2> Pferde Hufe. Die Musen schlummern, die Grazien sind <HYPH1 cont="geschieden">ge-</HYPH1><LE/>
+<HYPH2>schieden</HYPH2> &#x2014; &#x2014;</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2397_00531" endPtr="WR-01-01-11_n0415.xml#//DIV_END[@divEndID='deID_2397_00529']"/>
+<LG parID="02980"><L>&#xBB;Ueber die S&#xE4;ulen hinab, an ihnen festgewurzelt,</L>
+<L>Laufen die Dornenranken,</L>
+<L>Spielt das flimmernde Laub</L>
+<L>Jener Pflanze, deren purpurgold&#x2019;ne Rosen</L>
+<L>Alle Frauen des S&#xFC;dens lieben<SYMBOL type="4dots"/></L>
+<L>Viele Bl&#xFC;then tr&#xE4;gt sie</L>
+<L>Und tr&#xE4;gt sie stolz.</L>
+<L>Doch eh&#x2019; der Tag noch recht herauf,</L>
+<L>Ist ihr Bl&#xFC;thenreichtbum ausgetheilt<SYMBOL type="4dots"/></L>
+<L>Aber der Lorbeer hat alle seine Bl&#xE4;tter.&#xAB;</L></LG>
+<DIV_END divEndID="deID_2397_00529" startPtr="WR-01-01-11_n0415.xml#//DIV_START[@divStartID='dsID_2397_00531']"/>
+<P parID="02981"><TAB/>Wildgewordene Prosa hat man den freien Rhythmus mit Unrecht<LE/>
+genannt, aber in den Ges&#xE4;ngen Jacobsen&#x2019;s ist viel von der herben,<LE/>
+plastischen Sch&#xF6;nheit Thorwaldsen&#x2019;s; er weiss reimlosen Worten eine<LE/>
+Melodie zu geben, die nur der Meister hat, dem sich die letzten <HYPH1 cont="Geheimnisse">Ge-</HYPH1><LE/>
+<HYPH2>heimnisse</HYPH2> der Sprache geoffenbart. Es sind Worte, die man einzeln<LE/>
+geniessen muss; sie haben die Sch&#xF6;nheit junger M&#xE4;dchen, die sich<LE/>
+ihres Zaubers noch nicht bewusst geworden. Und sie haben deren<LE/>
+Grazie; es ist kein Raffinement in ihnen. Man lese zum Beispiel das<LE/>
+Gedicht &#xBB;Im Garten des Serails&#xAB; oder die Plastik der folgenden<LE/>
+Strophe:</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2397_00532" endPtr="WR-01-01-11_n0415.xml#//DIV_END[@divEndID='deID_2397_00530']"/>
+<LG parID="02982"><L>&#xBB;Sie war wie Jasmins s&#xFC;ss duftender Schnee,</L>
+<L>Mohnblut floss in ihren Adern,</L>
+<L>Die kalten, marmorweissen H&#xE4;nde</L>
+<L>Ruhten ihr im Schoss</L>
+<L>Wie Wasserlilien im tiefen See,</L>
+<L>Ihre Worte fielen weich</L>
+<L>Wie Apfelbl&#xFC;thenbl&#xE4;tter</L>
+<L>Auf das thaufeuchte Gras;</L>
+<L>Aber Stunden gab&#x2019;s,</L>
+<L>Da wanden sie sich kalt und klar empor</L>
+<L>Wie des Wassers steigende Strahlen.&#xAB;</L></LG>
+<DIV_END divEndID="deID_2397_00530" startPtr="WR-01-01-11_n0415.xml#//DIV_START[@divStartID='dsID_2397_00532']"/>
+<P parID="02983"><TAB/>Man geniesse die beiden Landschaftsbilder, in denen die <HYPH1 cont="Feinheit">Fein-</HYPH1><LE/>
+<HYPH2>heit</HYPH2> unseres Storm liegt. Man vergisst sie nie &#x2014; und nie ihre <HYPH1 cont="schmerzs&#xFC;sse">schmerz-</HYPH1><LE/>
+<HYPH2>s&#xFC;sse</HYPH2> Melodie.</P>
+</PAGE>

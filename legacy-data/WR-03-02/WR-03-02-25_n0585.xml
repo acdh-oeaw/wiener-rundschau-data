@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-24_n0584.xml</PREV>
+<NEXT>WR-03-02-25_n0586.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 25, S. 585</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2434_01204" endPtr="WR-03-02-25_n0608.xml#//DIV_END[@divEndID='deID_2434_01218']"/>
+<DIV_START type="verse" divStartID="dsID_2434_01205" endPtr="WR-03-02-25_n0585.xml#//DIV_END[@divEndID='deID_2434_01204']"/>
+<TITLE titleID="tiID_2434_00292"><TITLEPART type="main"><B>UMSONST</B> <HR emDashNum="14" type="doubleInline"/></TITLEPART><LE/>
+<TITLEPART type="bystmt">VON <AUCTOR><B>GABRIELE D&#x2019;ANNUNZIO</B></AUCTOR><LE/>
+FRANCAVILLA <HR emDashNum="15" type="doubleInline"/></TITLEPART></TITLE>
+<LG parID="06275"><L>O, meine Sehnsucht wird sich nie erf&#xFC;llen,</L>
+<L>Du hohe Kunst wirst dich mir nie enth&#xFC;llen:</L>
+<L>Ich betete zu dir umsonst, umsonst.</L></LG>
+<LG parID="06276"><L>Du gold&#x2019;ner Ruhm, du wirst mir nie begegnen,</L>
+<L>Nie meine Stirn mit deinem Kusse segnen:</L>
+<L>Ich folgte dir umsonst, umsonst.</L></LG>
+<LG parID="06277"><L>Du unbekanntes Lieb, bist fr&#xFC;h gestorben,</L>
+<L>Mein sch&#xF6;nes Leben ist mir drob verdorben:</L>
+<L>Ich harrte dein umsonst, umsonst.</L></LG>
+<LG parID="06278"><L>Und keinen Schmerz vermocht ich je zu lindern,</L>
+<L>Kein Unrecht, keinen Frevel je zu hindern:</L>
+<L>Mein Mitleid und mein Zorn &#x2014; umsonst, umsonst.</L></LG>
+<LG parID="06279"><L>Leer bleibt die Furche hinter meinen Tritten,</L>
+<L>Unfruchtbar bleibt die Flur, von mir beschritten:</L>
+<L>So lebte ich umsonst, umsonst.</L></LG>
+<LG parID="06280"><L>Vor mir in Nebeln und in Dunkelheiten</L>
+<L>Seh&#x2019; ich den Tod, still, ohne Fackel schreiten:</L>
+<L>Ich sterbe auch umsonst, umsonst.*</L></LG>
+<SEPARATOR num="8" type="undefined"/>
+<FN>
+<P parID="06281"><TAB/>* Deutsch von EUGEN GUGLIA.</P>
+</FN>
+<DIV_END divEndID="deID_2434_01204" startPtr="WR-03-02-25_n0585.xml#//DIV_START[@divStartID='dsID_2434_01205']"/>
+<FT type="pn" num="585" c_text="&#x2014; 585 &#x2014;"/>
+</PAGE>

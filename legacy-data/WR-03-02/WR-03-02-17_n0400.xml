@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0399.xml</PREV>
+<NEXT>WR-03-02-17_n0401.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 400</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: BLAUBART UND ARIANE.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_00843" endPtr="WR-03-02-17_n0400.xml#//DIV_END[@divEndID='deID_2434_00840']"/>
+<P parID="04530"><SPK>ARIANE</SPK>:</P>
+<P parID="04531"><TAB/>Ich sehe nichts.</P>
+<DIV_END divEndID="deID_2434_00840" startPtr="WR-03-02-17_n0400.xml#//DIV_START[@divStartID='dsID_2434_00843']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00844" endPtr="WR-03-02-17_n0400.xml#//DIV_END[@divEndID='deID_2434_00841']"/>
+<P parID="04532"><SPK>DIE AMME</SPK>:</P>
+<P parID="04533"><TAB/>Es ist nichts, ich hab&#x2019; es gleich gesagt. Komm schnell wieder fort, nur<LE/>
+schnell <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00841" startPtr="WR-03-02-17_n0400.xml#//DIV_START[@divStartID='dsID_2434_00844']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00845" endPtr="WR-03-02-17_n0400.xml#//DIV_END[@divEndID='deID_2434_00842']"/>
+<P parID="04534"><SPK>ARIANE</SPK>:</P>
+<P parID="04535"><TAB/>Wo sind wir? <SYMBOL type="3dots"/> Halte doch die Lampe etwas h&#xF6;her <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00842" startPtr="WR-03-02-17_n0400.xml#//DIV_START[@divStartID='dsID_2434_00845']"/>
+<P parID="04536"><SD>(Allm&#xE4;hlich gewahrt man beim Lampenscheine hinter der aufgegangenen Th&#xFC;r eine<LE/>
+zweite Th&#xFC;r, die jener &#xE4;hnlich sieht; zugleich vernimmt man einen ged&#xE4;mpften <HYPH1 cont="Gesang">Ge-</HYPH1><LE/>
+<HYPH2>sang</HYPH2> wie von fernen und bebenden Stimmen.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00846" endPtr="WR-03-02-17_n0400.xml#//DIV_END[@divEndID='deID_2434_00843']"/>
+<P parID="04537"><SPK>ARIANE</SPK>:</P>
+<P parID="04538"><TAB/>Noch eine Th&#xFC;r <SYMBOL type="3dots"/> Es wird gesungen <SYMBOL type="3dots"/> H&#xF6;rst Du nicht <SYMBOL type="3dots"/> Es<LE/>
+wird gesungen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00843" startPtr="WR-03-02-17_n0400.xml#//DIV_START[@divStartID='dsID_2434_00846']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00847" endPtr="WR-03-02-17_n0400.xml#//DIV_END[@divEndID='deID_2434_00845']"/>
+<P parID="04539"><SD>GESANG VON</SD> <SPK>ERSTICKTEN STIMMEN</SPK>:</P>
+<DIV_START cat="song" divStartID="dsID_2434_00848" endPtr="WR-03-02-17_n0400.xml#//DIV_END[@divEndID='deID_2434_00844']"/>
+<LG parID="04540"><L>Die f&#xFC;nf M&#xE4;dchen von Orlam&#xFC;nde,</L>
+<L>Als die Fee war todt,</L>
+<L>Die f&#xFC;nf M&#xE4;dchen von Orlam&#xFC;nde</L>
+<L>Suchten nach der Th&#xFC;r in Noth.</L></LG>
+<DIV_END divEndID="deID_2434_00844" startPtr="WR-03-02-17_n0400.xml#//DIV_START[@divStartID='dsID_2434_00848']"/>
+<DIV_END divEndID="deID_2434_00845" startPtr="WR-03-02-17_n0400.xml#//DIV_START[@divStartID='dsID_2434_00847']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00849" endPtr="WR-03-02-17_n0400.xml#//DIV_END[@divEndID='deID_2434_00846']"/>
+<P parID="04541"><SPK>ARIANE</SPK>:</P>
+<P parID="04542"><TAB/>Sie sind drinnen <SYMBOL type="3dots"/> Sie leben <SYMBOL type="3dots"/> Ach, ich wusste es ja! <SYMBOL type="3dots"/> Amme,<LE/>
+Amme, hilf mir <SYMBOL type="3dots"/> leuchte mir <SYMBOL type="3dots"/> Du hast keine Furcht mehr? <SYMBOL type="3dots"/> H&#xF6;rst<LE/>
+Du, sie leben! <SYMBOL type="2dots"/> <SD>(Sie steckt den Schl&#xFC;ssel ins Schloss und bem&#xFC;ht sich vergeblich,<LE/>
+aufzuschliessen.)</SD> Ach, die geht nicht so leicht auf, wie die erste <SYMBOL type="3dots"/> Wer<LE/>
+seid Ihr? <SYMBOL type="3dots"/> Wo seid Ihr? <SYMBOL type="3dots"/> Helft mir doch! <SYMBOL type="3dots"/> Ich komme, Euch zu<LE/>
+befreien! Macht auf! Macht auf! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00846" startPtr="WR-03-02-17_n0400.xml#//DIV_START[@divStartID='dsID_2434_00849']"/>
+<P parID="04543"><SD>(Schweigen. Dann ein Ger&#xE4;usch wie von pl&#xF6;tzlicher Flucht, Jammern, Gnaden-, Angst-<LE/>
+und Schreckensrufe. Ariane macht eine verzweifelte Anstrengung, und pl&#xF6;tzlich<LE/>
+gibt die Th&#xFC;re nach und verschwindet auf dieselbe Art, wie die vorige. Ein weiter<LE/>
+unterirdischer Saal mit schweren Gew&#xF6;lben, die auf zahlreichen Pfeilern ruhen, wird<LE/>
+sichtbar. Ein schwacher, unbestimmter Lichtschein erhellt seinen Hintergrund. Man<LE/>
+erkennt F&#xDC;NF FRAUENGESTALTEN, die best&#xFC;rzt in den Schatten der letzten <HYPH1 cont="W&#xF6;lbung">W&#xF6;l-</HYPH1><LE/>
+<HYPH2>bung</HYPH2> geflohen sind. Ariane und die Amme, welche die Lampe &#xFC;ber ihrem Kopfe h&#xE4;lt,<LE/>
+um zu leuchten, machen einen Schritt hinein und bleiben dann stehen. Ariane<LE/>
+horcht auf und sucht das Dunkel zu durchdringen.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00850" endPtr="WR-03-02-17_n0400.xml#//DIV_END[@divEndID='deID_2434_00847']"/>
+<P parID="04544"><SPK>DIE AMME</SPK>:</P>
+<P parID="04545"><TAB/>Vorsicht <SYMBOL type="3dots"/> Was glitzert da so? <SYMBOL type="3dots"/> Gewiss ein tiefes Wasser <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00847" startPtr="WR-03-02-17_n0400.xml#//DIV_START[@divStartID='dsID_2434_00850']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00851" endPtr="WR-03-02-17_n0400.xml#//DIV_END[@divEndID='deID_2434_00848']"/>
+<P parID="04546"><SPK>ARIANE</SPK>:</P>
+<P parID="04547"><TAB/>Wo seid Ihr?</P>
+<DIV_END divEndID="deID_2434_00848" startPtr="WR-03-02-17_n0400.xml#//DIV_START[@divStartID='dsID_2434_00851']"/>
+<P parID="04548"><SD>(Furchtsames Seufzen ist die Antwort. Ariane erkennt allm&#xE4;hlich die f&#xFC;nf Frauen,<LE/>
+die sie verst&#xF6;rt anblicken, eilt ihnen mit offenen Armen entgegen, umf&#xE4;ngt sie mit<LE/>
+unsicheren H&#xE4;nden, umarmt, k&#xFC;sst und liebkost sie tastend in z&#xE4;rtlicher, krampfhafter<LE/>
+Trunkenheit.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00852" endPtr="WR-03-02-17_n0401.xml#//DIV_END[@divEndID='deID_2434_00849']"/>
+<P parID="04549"><SPK>ARIANE</SPK>:</P>
+<P part="initial" parID="04550"><TAB/>Ach, nun hab&#x2019; ich Euch gefunden! Sie sind voller Leben und Lieblichkeit!<LE/>
+Als die Mauer sich aufthat, w&#xE4;hnte ich Todte zu sehen, und ich k&#xFC;sste f&#xFC;nfmal<LE/>
+weinend holde Lippen <SYMBOL type="3dots"/> Ihr habt wohl nicht gelitten? Eure Lippen sind<LE/>
+frisch und Eure Wangen sind zart wie bei Kindern <SYMBOL type="3dots"/> Und hier &#x2014; Eure<LE/>
+blossen Arme sind so weich und warm, und Eure vollen Br&#xFC;ste beben unter ihrem</P>
+<FT type="pn" num="400" c_text="&#x2014; 400 &#x2014;"/>
+</PAGE>

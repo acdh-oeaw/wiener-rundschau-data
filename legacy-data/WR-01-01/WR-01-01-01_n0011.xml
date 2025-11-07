@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-01_n0010.xml</PREV>
+<NEXT>WR-01-01-01_n0012.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 11</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00035" endPtr="WR-01-01-01_n0012.xml#//DIV_END[@divEndID='deID_2397_00036']"/>
+<TITLE titleID="tiID_2397_00013"><TITLEPART><SPC>GEDICHTE</SPC>.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00036" endPtr="WR-01-01-01_n0012.xml#//DIV_END[@divEndID='deID_2397_00034']"/>
+<TITLE titleID="tiID_2397_00014"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="00096"><L><IN>Den</IN> Erben lass verschwenden</L>
+<L>An Adler, Lamm und Pfau</L>
+<L>Das Salb&#xF6;l aus den H&#xE4;nden</L>
+<L>Der todten alten Frau!</L>
+<L>Die Todten, die entgleiten,</L>
+<L>Die Wipfel in dem Weiten,</L>
+<L>Ihm sind sie wie das Schreiten</L>
+<L>Der T&#xE4;nzerinnen werth!</L></LG>
+<LG parID="00097"><L>Er geht, wie den kein Walten</L>
+<L>Vom R&#xFC;cken her bedroht.</L>
+<L>Er l&#xE4;chelt, wenn die Falten</L>
+<L>Des Lebens fl&#xFC;stern: Tod!</L>
+<L>Ihm bietet jede Stelle</L>
+<L>Geheimnissvoll die Schwelle,</L>
+<L>Es gibt sich jeder Welle</L>
+<L>Der Heimatlose hin!</L></LG>
+<LG parID="00098"><L>Der Schwarm von wilden Bienen</L>
+<L>Nimmt seine Seele mit,</L>
+<L>Das Singen von Delphinen</L>
+<L>Befl&#xFC;gelt seinen Schritt:</L>
+<L>Ihn tragen alle Erden</L>
+<L>Mit m&#xE4;chtigen Geberden,</L>
+<L>Der Fl&#xFC;sse Dunkelwerden</L>
+<L>Begrenzt den Hirtentag!</L></LG>
+</PAGE>

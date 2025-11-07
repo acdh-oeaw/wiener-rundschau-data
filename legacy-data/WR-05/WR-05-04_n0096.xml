@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-04_n0095.xml</PREV>
+<NEXT>WR-05-05_n0097.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 4, S. 96</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>20</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<TABLE parID="05935"><ROW ciID="0987"><CELL>
+<DIV_START divStartID="dsID_2436_01177" endPtr="WR-05-04_n0096.xml#//DIV_END[@divEndID='deID_2436_01176']"/>
+<TITLE titleID="tiID_2436_00282"><TITLEPART type="repeated">B&#xFC;cher=Einlauf.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<DIV_START author="(other)" divStartID="dsID_2436_01178" endPtr="WR-05-04_n0096.xml#//DIV_END[@divEndID='deID_2436_01175']"/>
+<P parID="05936">1. <B>Allerlei brauchbarer Unsinn. <HYPH1 cont="Welt-Perpetuum">Welt-</HYPH1><LE/>
+<HYPH2>Perpetuum</HYPH2>.</B> M&#xE4;rchen oder Ernst. Zu<LE/>
+uraltem neuer Hauch. Verfasser: Der<LE/>
+Einfall. Das Werkzeug des Verfassers:<LE/>
+Arthur <SPC>Kurtz</SPC>. F. W. Ellmenreich, <HYPH1 cont="Commissions-Verlag">Com-</HYPH1><LE/>
+<HYPH2>missions-Verlag</HYPH2>, Meran.</P>
+<P parID="05937">2. <B>Balladen.</B> Von Bornes, Freiherrn von<LE/>
+<SPC>M&#xFC;nchhausen</SPC>. Mit Buchschmuck von<LE/>
+Robert Engels. Verlegt bei Breslauer und<LE/>
+Meyer. Berlin <DATE>1901</DATE>.</P>
+<P parID="05938">3. <B>Wurzeln.</B> Eine Jugend in Gedichten von<LE/>
+Josef <SPC>Schanderl</SPC>. Berlin und Leipzig.<LE/>
+Verlag von Schuster &amp; Loeffler. <DATE>1900</DATE>.</P>
+</CELL><CELL>
+<P parID="05939">4. <B>Neues Skizzenbuch</B> von Heinrich v.<LE/>
+<SPC>Schullern</SPC>. Linz, Wien, Leizig <DATE>1900</DATE>.<LE/>
+&#xD6;sterreichische Verlagsanstalt.</P>
+<P parID="05940">5. <B>Nachwuchs.</B> Roman. Von Amalie <SPC>Skram</SPC>.<LE/>
+Einzig berechtigte &#xDC;bersetzung aus dem<LE/>
+Norwegischen von Mathilde Mann. Albert<LE/>
+Langen, Verlag f&#xFC;r Literatur und Kunst.<LE/>
+M&#xFC;nchen <DATE>1901</DATE>.</P>
+<P parID="05941">6. <B>Der Spielmann.</B> Monatsbl&#xE4;tter f&#xFC;r deutsche<LE/>
+Dichtung, herausgegeben von Ernst <SPC><HYPH1 cont="Wachler">Wach-</HYPH1><LE/>
+<HYPH2>ler</HYPH2></SPC>. Verlag von Fischer und Franke, Berlin.</P>
+<P parID="05942">7. <B>Mehr Kraft. Mehr Geist. Mehr Licht.</B><LE/>
+Streiflichter &#xFC;ber <HYPH1 cont="medicin-wissenschaftliche">medicin-wissenschaft-</HYPH1><LE/>
+<HYPH2>liche</HYPH2> Zeit- und Streitfragen. Von Carl<LE/>
+<SPC>Wachtelborn</SPC>. Selbstverlag des <HYPH1 cont="Verfassers">Ver-</HYPH1><LE/>
+<HYPH2>fassers</HYPH2>. Im Buchhandel durch Wilhelm<LE/>
+M&#xF6;ller, Berlin.</P>
+<DIV_END divEndID="deID_2436_01175" startPtr="WR-05-04_n0096.xml#//DIV_START[@divStartID='dsID_2436_01178']"/>
+<DIV_END divEndID="deID_2436_01176" startPtr="WR-05-04_n0096.xml#//DIV_START[@divStartID='dsID_2436_01177']"/>
+</CELL></ROW></TABLE>
+<HR/>
+<TABLE parID="05943"><ROW ciID="0988"><CELL>
+<DIV_START cat="advertisement" divStartID="dsID_2436_01179" endPtr="WR-05-04_n0096.xml#//DIV_END[@divEndID='deID_2436_01177']"/>
+<P parID="05944"><IN><B>SECESSION</B></IN></P>
+<P parID="05945">GE&#xD6;FFNET<LE/>
+VOM 9-7 H</P>
+<DIV_END divEndID="deID_2436_01177" startPtr="WR-05-04_n0096.xml#//DIV_START[@divStartID='dsID_2436_01179']"/>
+</CELL><CELL>
+<DIV_START cat="advertisement" divStartID="dsID_2436_01180" endPtr="WR-05-04_n0096.xml#//DIV_END[@divEndID='deID_2436_01178']"/>
+<TABLE parID="05946"><ROW ciID="0989"><CELL>
+<IMG/>
+</CELL><CELL>
+<P parID="05947"><B>A. F&#xD6;RSTER</B></P>
+<P parID="05948">k. u. k. Hof-Leder-Galanterie-<LE/>
+und<LE/>
+<B>Luxuswaren-Fabrik</B></P>
+<P parID="05949"><SPC>WIEN</SPC><LE/>
+<B>I. Kohlmarkt Nr. 5.</B></P>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2436_01178" startPtr="WR-05-04_n0096.xml#//DIV_START[@divStartID='dsID_2436_01180']"/>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_START cat="advertisement" divStartID="dsID_2436_01181" endPtr="WR-05-04_n0096.xml#//DIV_END[@divEndID='deID_2436_01179']"/>
+<TABLE parID="05950"><ROW ciID="0990"><CELL>
+<P parID="05951">KUNST-SALON ARTARIA &amp; CO.</P>
+<P parID="05952">IN WIEN, I. KOHLMARKT 20 <SYMBOL num="3" type="undefined"/></P>
+</CELL><CELL>
+<IMG/>
+</CELL></ROW></TABLE>
+<TABLE parID="05953"><ROW ciID="0991"><CELL>
+<IMG/>
+</CELL><CELL>
+<P parID="05954">GEM&#xC4;LDE&#x2014;AQUARELLE <HR emDashNum="14" type="DoubleInline"/><LE/>
+NEUE ORIGINAL-RADIERUNGEN <HR emDashNum="11" type="DoubleInline"/><LE/>
+UND LITHOGRAPHIEN <HR emDashNum="15" type="DoubleInline"/><LE/>
+ALTE UND MODERNE STICHE <HR emDashNum="12" type="DoubleInline"/><LE/>
+PHOTOGRAPHIEN NACH ALTEN MEISTERN <HR emDashNum="6" type="DoubleInline"/></P>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2436_01179" startPtr="WR-05-04_n0096.xml#//DIV_START[@divStartID='dsID_2436_01181']"/>
+<HR/>
+<DIV_START cat="advertisement" divStartID="dsID_2436_01182" endPtr="WR-05-04_n0096.xml#//DIV_END[@divEndID='deID_2436_01180']"/>
+<P parID="05955"><B><IN>Wiener</IN> <IN>Rundschau</IN></B></P>
+<P parID="05956"><B>F&#xFC;nfter Jahrgang</B></P>
+<TABLE parID="05957"><ROW ciID="0992"><CELL>
+<P parID="05958"><B>Redaction: Wien, I/<SUB>1</SUB> Schreyvogelgasse 3</B></P>
+</CELL><CELL>
+<P parID="05959"><B>Administration: Wien, I/<SUB>1</SUB>, Wollzeile 13</B></P>
+</CELL></ROW></TABLE>
+<P parID="05960"><B>erscheint in Halbmonats-Heften am 1. und 15. des Monats.</B></P>
+<P parID="05961">Der Abonnementspreis betr&#xE4;gt viertelj&#xE4;hrlich 3 Kronen f&#xFC;r &#xD6;sterreich-Ungarn,<LE/>
+3 Mark f&#xFC;r Deutschland, 4 Francs 50 Centimes f&#xFC;r die L&#xE4;nder des Weltpostvereines.<LE/>
+Einzelne Hefte kosten 60 Heller <SYMBOL type="equals"/> 60 Pfennig <SYMBOL type="equals"/> 75 Centimes.</P>
+<P parID="05962">Alle Buchhandlungen, Zeitungsverschlei&#xDF;er und Postanstalten des In- und Auslandes, sowie die Administration nehmen<LE/>
+Abonnementsbestellungen entgegen.</P>
+<P parID="05963">Probehefte unentgeltlich und postfrei von der Administration.</P>
+<P parID="05964">Leipzig, in Commission bei Wilhelm Opetz.</P>
+<P parID="05965">Vertretung f&#xFC;r Berlin: Carl Siegismund, SW. Dessauerstra&#xDF;e 13. &#x2014;Vertretung f&#xFC;r M&#xFC;nchen:<LE/>
+Franz C. Mickl, Destouchesstra&#xDF;e 3.</P>
+<P parID="05966">In den <B>Wintercurorten</B> liegt die &#xBB;<SPC>Wiener Rundschau</SPC>&#xAB; in allen Buchhandlungen auf.</P>
+<DIV_END divEndID="deID_2436_01180" startPtr="WR-05-04_n0096.xml#//DIV_START[@divStartID='dsID_2436_01182']"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2436_01183" endPtr="WR-05-04_n0096.xml#//DIV_END[@divEndID='deID_2436_01181']"/>
+<P parID="05967">Verantwortl. Redacteur: R. Dworschak. &#x2014; K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</P>
+<DIV_END divEndID="deID_2436_01181" startPtr="WR-05-04_n0096.xml#//DIV_START[@divStartID='dsID_2436_01183']"/>
+<DIV_END divEndID="deID_2436_01182" startPtr="WR-05-04_n0077.xml#//DIV_START[@divStartID='dsID_2436_01166']"/>
+</PAGE>

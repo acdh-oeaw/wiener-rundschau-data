@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-01_n0002.xml</PREV>
+<NEXT>WR-01-01-01_n0004.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 3</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ALLADINE UND PALOMIDES.</CTEXT><RTEXT type="pn">3</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00012" endPtr="WR-01-01-01_n0003.xml#//DIV_END[@divEndID='deID_2397_00009']"/>
+<P parID="00021"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00022"><TAB/>Ich habe nichts geh&#xF6;rt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00009" startPtr="WR-01-01-01_n0003.xml#//DIV_START[@divStartID='dsID_2397_00012']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00013" endPtr="WR-01-01-01_n0003.xml#//DIV_END[@divEndID='deID_2397_00010']"/>
+<P parID="00023"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00024"><TAB/>Ich sage Euch, dass Jemand kommen wird <SYMBOL type="3dots"/> Da ist<LE/>
+er! <SD>(Sie zeigt auf einen J&#xFC;ngling, der, sein Pferd am Z&#xFC;gel f&#xFC;hrend, zwischen den<LE/>
+B&#xE4;umen vorw&#xE4;rtsschreitet.)</SD> Nehmt mich nicht bei der Hand, ich<LE/>
+f&#xFC;rchte mich nicht <SYMBOL type="3dots"/> Er hat uns nicht gesehen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00010" startPtr="WR-01-01-01_n0003.xml#//DIV_START[@divStartID='dsID_2397_00013']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00014" endPtr="WR-01-01-01_n0003.xml#//DIV_END[@divEndID='deID_2397_00011']"/>
+<P parID="00025"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00026"><TAB/>Wer wagt es, hierher zu kommen? <SYMBOL type="3dots"/> Wenn ich nicht<LE/>
+w&#xFC;sste <SYMBOL type="3dots"/> Ich glaube, es ist Palomides <SYMBOL type="3dots"/> Es ist <HYPH1 cont="Astolainens">Asto-</HYPH1><LE/>
+<HYPH2>lainens</HYPH2> Br&#xE4;utigam <SYMBOL type="3dots"/> Er hat den Kopf gehoben <SYMBOL type="3dots"/> Seid<LE/>
+Ihr es, Palomides? <SD>(Palomides tritt auf.)</SD></P>
+<DIV_END divEndID="deID_2397_00011" startPtr="WR-01-01-01_n0003.xml#//DIV_START[@divStartID='dsID_2397_00014']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00015" endPtr="WR-01-01-01_n0003.xml#//DIV_END[@divEndID='deID_2397_00012']"/>
+<P parID="00027"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00028"><TAB/>Ja, mein Vater <SYMBOL type="3dots"/> Wenn es mir schon gestattet ist,<LE/>
+Euch diesen Namen zu geben <SYMBOL type="3dots"/> Ich komme hierher vor<LE/>
+dem Tage und der Stunde <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00012" startPtr="WR-01-01-01_n0003.xml#//DIV_START[@divStartID='dsID_2397_00015']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00016" endPtr="WR-01-01-01_n0003.xml#//DIV_END[@divEndID='deID_2397_00013']"/>
+<P parID="00029"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00030"><TAB/>Ihr seid willkommen, zu welcher Stunde es auch sei <SYMBOL type="3dots"/><LE/>
+Doch was hat sich ereignet? Wir erwarteten Euch erst in<LE/>
+zwei Tagen <SYMBOL type="2dots"/> Ist Astolaine hier? <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00013" startPtr="WR-01-01-01_n0003.xml#//DIV_START[@divStartID='dsID_2397_00016']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00017" endPtr="WR-01-01-01_n0003.xml#//DIV_END[@divEndID='deID_2397_00014']"/>
+<P parID="00031"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00032"><TAB/>Nein, sie wird morgen kommen. Wir sind Tag und<LE/>
+Nacht gereist. Sie war m&#xFC;de und hat mich gebeten <HYPH1 cont="vorauszueilen">voraus-</HYPH1><LE/>
+<HYPH2>zueilen</HYPH2> <SYMBOL type="3dots"/> Sind meine Schwestern angekommen?</P>
+<DIV_END divEndID="deID_2397_00014" startPtr="WR-01-01-01_n0003.xml#//DIV_START[@divStartID='dsID_2397_00017']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00018" endPtr="WR-01-01-01_n0003.xml#//DIV_END[@divEndID='deID_2397_00015']"/>
+<P parID="00033"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00034"><TAB/>Sie sind, in Erwartung Euerer Hochzeit, seit drei Tagen<LE/>
+hier. &#x2014; Ihr seht sehr gl&#xFC;cklich aus, Palomides <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00015" startPtr="WR-01-01-01_n0003.xml#//DIV_START[@divStartID='dsID_2397_00018']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00019" endPtr="WR-01-01-01_n0004.xml#//DIV_END[@divEndID='deID_2397_00016']"/>
+<P parID="00035"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P part="initial" parID="00036"><TAB/>Wer w&#xE4;re nicht gl&#xFC;cklich, wenn er gefunden hat, was<LE/>
+er gesucht? Ehedem war ich traurig. Doch nun scheinen mir<LE/>
+die Tage leichter und linder als kleine Vogel, die mir harmlos</P>
+</PAGE>

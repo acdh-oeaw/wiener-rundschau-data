@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-06_n0240.xml</PREV>
+<NEXT>WR-02-01-07_n0242.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 241</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00288" endPtr="WR-02-01-07_n0280.xml#//DIV_END[@divEndID='deID_2432_00483']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00289" endPtr="WR-02-01-07_n0241.xml#//DIV_END[@divEndID='deID_2432_00288']"/>
+<P parID="01672"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="01673"><B><DATE>15. <SPC>FEBRUAR</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00288" startPtr="WR-02-01-07_n0241.xml#//DIV_START[@divStartID='dsID_2432_00289']"/>
+<DIV_START type="performance" divStartID="dsID_2432_00290" endPtr="WR-02-01-07_n0253.xml#//DIV_END[@divEndID='deID_2432_00459']"/>
+<TITLE titleID="tiID_2432_00077"><TITLEPART type="main">DER B&#xC4;R.</TITLEPART><LE/>
+<TITLEPART type="desc">Schwank in einem Aufzug von <AUCTOR><C>Anton Tschechow</C></AUCTOR>.<LE/>
+Uebersetzt von <AUCTOR type="translator"><C>Eugenie Kliorin</C></AUCTOR>.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<DIV_START cat="persList" divStartID="dsID_2432_00291" endPtr="WR-02-01-07_n0241.xml#//DIV_END[@divEndID='deID_2432_00289']"/>
+<TITLE titleID="tiID_2432_00078"><TITLEPART><SPC>Personen</SPC>:</TITLEPART></TITLE>
+<PERS>Helene Iwanowna Popowa, junge Witwe mit Gr&#xFC;bchen in den Wangen, <HYPH1 cont="Gutsherrin">Guts-</HYPH1><LE/>
+<HYPH2>herrin</HYPH2>.</PERS><LE/>
+<PERS>Grigorji Stepanowitsch Smyrnow, Gutsbesitzer in den besten Jahren.</PERS><LE/>
+<PERS>Lukas, ein Greis, Bedienter bei Frau Popowa.</PERS><LE/>
+<DIV_END divEndID="deID_2432_00289" startPtr="WR-02-01-07_n0241.xml#//DIV_START[@divStartID='dsID_2432_00291']"/>
+<P parID="01674"><SD>(Gastzimmer auf dem Popow&#x2019;schen Gute.)</SD></P>
+<DIV_START cat="scene" divStartID="dsID_2432_00292" endPtr="WR-02-01-07_n0242.xml#//DIV_END[@divEndID='deID_2432_00301']"/>
+<TITLE titleID="tiID_2432_00079"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<P parID="01675"><SD><SPK><SPC>Frau Popowa</SPC></SPK> (im Trauerkleid, h&#xE4;lt den Blick auf eine Photographie <HYPH1 cont="gerichtet">ge-</HYPH1><LE/>
+<HYPH2>richtet</HYPH2>) und <SPK><SPC>Lukas</SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00293" endPtr="WR-02-01-07_n0241.xml#//DIV_END[@divEndID='deID_2432_00290']"/>
+<P parID="01676"><TAB/><SPK><SPC>Lukas</SPC></SPK>. Das taugt nicht, gn&#xE4;dige Frau. Sie richten sich bloss<LE/>
+zu Grunde <SYMBOL type="3dots"/> Das Stubenm&#xE4;dchen und die K&#xF6;chin sind nach Beeren<LE/>
+gegangen, jegliches athmende Wesen freut sich des Daseins, sogar die<LE/>
+Katze weiss ihr Leben zu gemessen, spaziert auf dem Hofe herum und<LE/>
+jagt den V&#xF6;glein nach: Sie aber sitzen den ganzen lieben Tag in der<LE/>
+Stube wie in einem Kloster und haben gar kein Vergn&#xFC;gen. Aber<LE/>
+wirklich! Fast ein Jahr sind Sie nicht aus dem Hause gekommen.</P>
+<DIV_END divEndID="deID_2432_00290" startPtr="WR-02-01-07_n0241.xml#//DIV_START[@divStartID='dsID_2432_00293']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00294" endPtr="WR-02-01-07_n0241.xml#//DIV_END[@divEndID='deID_2432_00291']"/>
+<P parID="01677"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Und werde es auch nie verlassen. Wozu auch?<LE/>
+Mein Lebenslauf ist beschlossen. Er liegt im Grabe, ich habe mich in<LE/>
+diesen vier W&#xE4;nden begraben <SYMBOL type="3dots"/> Wir sind beide todt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2432_00291" startPtr="WR-02-01-07_n0241.xml#//DIV_START[@divStartID='dsID_2432_00294']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00295" endPtr="WR-02-01-07_n0242.xml#//DIV_END[@divEndID='deID_2432_00292']"/>
+<P part="initial" parID="01678"><TAB/><SPK><SPC>Lukas</SPC></SPK>. Da haben wir&#x2019;s! Es ist nicht anzuh&#xF6;ren, wirklich! <HYPH1 cont="Nicolaus">Ni-</HYPH1><LE/>
+<HYPH2>colaus</HYPH2> Michailowitsch ist gestorben, so hat es Gott gewollt <SYMBOL type="3dots"/> Sie<LE/>
+haben ihn beweint &#x2014; und genug damit, es muss doch mal ein Ende<LE/>
+haben. Soll man denn sein ganzes Leben lang weinen und <HYPH1 cont="Trauerkleider">Trauer-</HYPH1><LE/>
+<HYPH2>kleider</HYPH2> tragen? Auch ich habe seinerzeit meine Alte verloren. Einen<LE/>
+Monat habe ich sie betrauert, beweint, und das ist ganz gen&#xFC;gend,</P>
+</PAGE>

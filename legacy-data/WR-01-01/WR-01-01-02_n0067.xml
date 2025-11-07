@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-02_n0066.xml</PREV>
+<NEXT>WR-01-01-02_n0068.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 67</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00118" endPtr="WR-01-01-02_n0067.xml#//DIV_END[@divEndID='deID_2397_00118']"/>
+<TITLE titleID="tiID_2397_00043"><TITLEPART><SPC>GEDICHT</SPC>.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00119" endPtr="WR-01-01-02_n0067.xml#//DIV_END[@divEndID='deID_2397_00117']"/>
+<TITLE titleID="tiID_2397_00044"><TITLEPART><LANG iso="la">ODI PROFANUM <SYMBOL type="3dots"/></LANG></TITLEPART></TITLE>
+<LG parID="00479"><L><IN>Flieh</IN> um so tiefer in dich selbst zur&#xFC;ck,</L>
+<L>Als du dich keinem recht entr&#xE4;thseln kannst <SYMBOL type="3dots"/></L>
+<L>Verh&#xE4;ng&#x2019; die Fenster deiner Seele</L>
+<L>Mit dichtgekn&#xFC;pften Alltagsphrasen!</L></LG>
+<LG parID="00480"><L>Mit dummem L&#xE4;cheln stehn sie um dich her</L>
+<L>Und r&#xFC;hren hier und tasten dort dich an &#x2014;</L>
+<L>Gib acht! Bedroht sind deine Sch&#xE4;tze</L>
+<L>Von tempelsch&#xE4;nderischen Fingern.</L></LG>
+<LG parID="00481"><L>Verbirg dich im Gew&#xF6;lb des Fr&#xFC;hgew&#xF6;lks</L>
+<L>Und in des Abends langem Schattenwurf,</L>
+<L>Am liebsten aber in der N&#xE4;chte</L>
+<L>Hochherrlich ausgespannten Zelten.</L></LG>
+<LG parID="00482"><L>Dort wanderst du allein mit deinem Schmerz</L>
+<L>Und schm&#xFC;ckst die Erde ungestraft mit Lust</L>
+<L>Aus deines Geistes gr&#xFC;nen K&#xF6;rben,</L>
+<L>Ein unersch&#xF6;pflicher Verschwender.</L></LG>
+<P parID="00483">Berlin. <AUCTOR><C>Christian Morgenstern</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00117" startPtr="WR-01-01-02_n0067.xml#//DIV_START[@divStartID='dsID_2397_00119']"/>
+<DIV_END divEndID="deID_2397_00118" startPtr="WR-01-01-02_n0067.xml#//DIV_START[@divStartID='dsID_2397_00118']"/>
+</PAGE>

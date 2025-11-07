@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-08_n0182.xml</PREV>
+<NEXT>WR-03-01-08_n0184.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 8, S. 183</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>SCHAUKAL: KNABE UND HERRIN.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_00556" endPtr="WR-03-01-08_n0183.xml#//DIV_END[@divEndID='deID_2434_00554']"/>
+<P parID="02447"><SPK><SPC>Der Knabe</SPC></SPK>.</P>
+<LG parID="02448"><L>Du ahnst es nicht, wie Deine Worte strafen.</L></LG>
+<DIV_END divEndID="deID_2434_00554" startPtr="WR-03-01-08_n0183.xml#//DIV_START[@divStartID='dsID_2434_00556']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00557" endPtr="WR-03-01-08_n0183.xml#//DIV_END[@divEndID='deID_2434_00555']"/>
+<P parID="02449"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02450"><L>Ich will nicht strafen, um nicht zu verzeihen.</L></LG>
+<DIV_END divEndID="deID_2434_00555" startPtr="WR-03-01-08_n0183.xml#//DIV_START[@divStartID='dsID_2434_00557']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00558" endPtr="WR-03-01-08_n0183.xml#//DIV_END[@divEndID='deID_2434_00556']"/>
+<P parID="02451"><SPK><SPC>Der Knabe</SPC></SPK>.</P>
+<LG parID="02452"><L>O lass Dir meine stillen Qualen k&#xFC;nden!</L>
+<L>Der Abend war&#x2019;s, da Dich der fremde Ritter,</L>
+<L>Der Herr von Xanten, dem die rothe Narbe</L>
+<L>So m&#xE4;nnlich-muthig durch die Wange gl&#xFC;ht,</L>
+<L>Dessen herrisches und wie in Stolz verharrendes Schreiten</L>
+<L>Rachegedanken an seiner Verwegenheit wachrief,</L>
+<L>Mit seinen h&#xE4;mischen und wie sorglos l&#xE4;chelnden Worten</L>
+<L>Pries und laut und scheulos um Deine Farben</L>
+<L>Dich, die Err&#xF6;thende, fast doch Erz&#xFC;rnte, ansprach.</L></LG>
+<DIV_END divEndID="deID_2434_00556" startPtr="WR-03-01-08_n0183.xml#//DIV_START[@divStartID='dsID_2434_00558']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00559" endPtr="WR-03-01-08_n0183.xml#//DIV_END[@divEndID='deID_2434_00557']"/>
+<P parID="02453"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02454"><L>Standest Du hinter dem Stuhle? Ich weiss Dich mir nimmer zugegen.</L></LG>
+<DIV_END divEndID="deID_2434_00557" startPtr="WR-03-01-08_n0183.xml#//DIV_START[@divStartID='dsID_2434_00559']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00560" endPtr="WR-03-01-08_n0183.xml#//DIV_END[@divEndID='deID_2434_00558']"/>
+<P parID="02455"><SPK><SPC>Der Knabe</SPC></SPK>.</P>
+<LG parID="02456"><L>Wohl, ich war&#x2019;s. Und h&#xF6;her und zorniger schwoll mir</L>
+<L>Die des Waffenkleides noch nicht gew&#xFC;rdigte Brust.</L>
+<L>H&#xE4;tt&#x2019; ich den Dolch besessen, mit dem Du einst spielend mir drohtest.</L>
+<L>Damals in gl&#xFC;cklicher&#x2019;n Zeiten, da ich Dir wirklich ein Kind war,</L>
+<L>Tief in das Herz ihm h&#xE4;tt&#x2019; ich den scharfen gestossen,</L>
+<L>Damals, Herrin, im Zorne, verstarb mir die Kindheit,</L>
+<L>Und in der Lohe der unehrerbietigen Worte</L>
+<L>Wuchs mir Dein Wesen zur Qual der entfesselten W&#xFC;nsche.</L>
+<L>Wie ein Tr&#xE4;umender war ich bisher und pl&#xF6;tzlich ganz Wachen;</L>
+<L>Seit dem Tage verzehrt sich in Angst und bleichendem Sinnen</L>
+<L>Mein ohnm&#xE4;chtiges Wollen &#x2014; und heute hat es gesprochen.</L></LG>
+<DIV_END divEndID="deID_2434_00558" startPtr="WR-03-01-08_n0183.xml#//DIV_START[@divStartID='dsID_2434_00560']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00561" endPtr="WR-03-01-08_n0183.xml#//DIV_END[@divEndID='deID_2434_00559']"/>
+<P parID="02457"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02458"><L>Du sollst mir in den Kampf, dem Herrn will ich sagen,</L>
+<L>Dass er Dir Wehr und Helm und eine F&#xE4;hrte gibt,</L>
+<L>Auf der Dein Ross nach einem Gegner schreitet.</L>
+<L>Ich aber will an Deinem Ehrentag</L>
+<L>Dir in die Welt, in der Du mich vergessen</L>
+<L>Und rasch und anderss&#xFC;chtig still begraben wirst,</L>
+<L>Mit meinem Schleier ein Geleite winken,</L>
+<L>Dann in die Kammer geh&#x2019;n und um die Jugend weinen.</L></LG>
+<DIV_END divEndID="deID_2434_00559" startPtr="WR-03-01-08_n0183.xml#//DIV_START[@divStartID='dsID_2434_00561']"/>
+<DIV_END divEndID="deID_2434_00560" startPtr="WR-03-01-08_n0181.xml#//DIV_START[@divStartID='dsID_2434_00541']"/>
+<SEPARATOR type="hr"/>
+<FT type="pn" num="183" c_text="&#x2014; 183 &#x2014;"/>
+</PAGE>

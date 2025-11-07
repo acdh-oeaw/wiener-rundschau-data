@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-25_n0608.xml</PREV>
+<NEXT>WR-03-02-26_n0610.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 26, S. 609</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2434_01219" endPtr="WR-03-02-26_n0632.xml#//DIV_END[@divEndID='deID_2434_01238']"/>
+<DIV_START divStartID="dsID_2434_01220" endPtr="WR-03-02-26_n0609.xml#//DIV_END[@divEndID='deID_2434_01221']"/>
+<TITLE titleID="tiID_2434_00302"><TITLEPART type="bystmt"><B><AUCTOR>GABRIELE D&#x2019;ANNUNZIO</AUCTOR>:</B></TITLEPART> <TITLEPART type="main"><B>ZWEI SONETTE.</B></TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2434_01221" endPtr="WR-03-02-26_n0609.xml#//DIV_END[@divEndID='deID_2434_01219']"/>
+<TITLE titleID="tiID_2434_00303"><TITLEPART><LANG iso="la">ARTIFEX GLORIOSUS.</LANG></TITLEPART></TITLE>
+<LG parID="06496"><L>Ich kann das Gold wie Benvenuto zwingen!</L>
+<L>Mag G&#xF6;ttertraum, mag Menschentraum dich blenden,</L>
+<L>Befiehl: und meinen sieggewohnten H&#xE4;nden</L>
+<L>Wird das erlesenste Gef&#xE4;ss entspringen.</L></LG>
+<LG parID="06497"><L>Soll auf dem Henkel hier den Faun ich bringen,</L>
+<L>Zu dem Waldg&#xF6;tter sich und Nymphen wenden?</L>
+<L>Soll ich dir der Titanen Schlachten spenden?</L>
+<L>Laut l&#xE4;rmend wird das stumme Gold dann klingen.</L></LG>
+<LG parID="06498"><L>Ein Wink! Es schreiten dir in Doppelreihe</L>
+<L>Die J&#xFC;nglinge und Jungfrau&#x2019;n der Athene</L>
+<L>Mit streng gefaltetem Gewand entgegen.</L></LG>
+<LG parID="06499"><L>Kein Nass gew&#xE4;hrt dem gold&#x2019;nen Becher Weihe!</L>
+<L>Es sei denn deines Auges reine Thr&#xE4;ne,</L>
+<L>Das reinste Blut, das deine Adern hegen.</L></LG>
+<DIV_END divEndID="deID_2434_01219" startPtr="WR-03-02-26_n0609.xml#//DIV_START[@divStartID='dsID_2434_01221']"/>
+<SEPARATOR type="undefined"/>
+<DIV_START type="verse" divStartID="dsID_2434_01222" endPtr="WR-03-02-26_n0609.xml#//DIV_END[@divEndID='deID_2434_01220']"/>
+<TITLE titleID="tiID_2434_00304"><TITLEPART>DER SITTENRICHTER.</TITLEPART></TITLE>
+<LG parID="06500"><L>Die Hecken kahl, vorbei ihr Rosentragen!</L>
+<L>Die Kr&#xE4;nze fort, der Becher leer, o Schrecken!</L>
+<L>Ich trank und trank. Wer kann den Rausch entdecken,</L>
+<L>Der fremd mir blieb? Mein Ziel war: Alles wagen!</L></LG>
+<LG parID="06501"><L>&#x201E;Was wirst du thun&#x201C;, h&#xF6;r&#x2019; ich den Alten fragen,</L>
+<L>&#x201E;Soll jemand dich durch Schl&#xE4;ge neu erwecken?</L>
+<L>Willst du die Wangen ihm entgegenstrecken?</L>
+<L>Strick oder B&#xFC;sserhemd! W&#xE4;hl&#x2019; ohne Zagen!&#x201C;</L></LG>
+<LG parID="06502"><L>Ich w&#xE4;hl&#x2019; den Strick; er wird dem Halse frommen,</L>
+<L>Dem zwanzigj&#xE4;hrigen! Doch, Weiser, rede:</L>
+<L>Kann&#x2019;s unbekannte Wohllust f&#xFC;r mich geben?</L></LG>
+<LG parID="06503"><L>Dann sei als letzter Lehrer angenommen,</L>
+<L>O Alter; denn ich weiss, tief kennst du jede</L>
+<L>Unw&#xFC;rd&#x2019;ge Schmach in diesem Menschenleben!*</L></LG>
+<DIV_END divEndID="deID_2434_01220" startPtr="WR-03-02-26_n0609.xml#//DIV_START[@divStartID='dsID_2434_01222']"/>
+<SEPARATOR num="8" type="undefined"/>
+<FN>
+<P parID="06504"><TAB/>* Deutsch von Walter Kaehler.</P>
+</FN>
+<DIV_END divEndID="deID_2434_01221" startPtr="WR-03-02-26_n0609.xml#//DIV_START[@divStartID='dsID_2434_01220']"/>
+<FT type="pn" num="609" c_text="&#x2014; 609 &#x2014;"/>
+</PAGE>

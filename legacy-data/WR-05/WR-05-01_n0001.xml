@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV></PREV>
+<NEXT>WR-05-01_n0002.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 1, S. 1</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>22</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_00902" endPtr="WR-05-01_n0020.xml#//DIV_END[@divEndID='deID_2436_00930']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_00903" endPtr="WR-05-01_n0001.xml#//DIV_END[@divEndID='deID_2436_00902']"/>
+<P parID="05001"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="05002"><B>HERAUSGEGEBEN VON FELIX RAPPAPORT</B></P>
+<TABLE parID="05003"><ROW ciID="0872"><CELL>
+<P parID="05004"><DATE><B>1. J&#xC4;NNER 1901</B></DATE></P>
+</CELL><CELL>
+<P parID="05005"><B>V. JAHRGANG, N<SUP>R.</SUP> 1</B></P>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_00902" startPtr="WR-05-01_n0001.xml#//DIV_START[@divStartID='dsID_2436_00903']"/>
+<DIV_START divStartID="dsID_2436_00904" endPtr="WR-05-01_n0006.xml#//DIV_END[@divEndID='deID_2436_00909']"/>
+<TITLE titleID="tiID_2436_00239"><TITLEPART type="main">DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ALGERNON CHARLES SWINBURNE</AUCTOR> (London).</TITLEPART></TITLE>
+<TABLE parID="05006"><ROW ciID="0873"><CELL>
+<P part="initial" parID="05007"><TAB/>Wenn das Schicksal einem Genius<LE/>
+K&#xFC;nstlerschaft auf mehr denn einem Felde<LE/>
+verlieh, nimmt man gew&#xF6;hnlich an, die eine<LE/>
+Begabung m&#xFC;sse nothwendigerweise der<LE/>
+andern im Wege stehen, und deren volle<LE/>
+Entfaltung hindern. Noch immer wird<LE/>
+die Meinung laut, selbst das Werk des<LE/>
+<SPC>Michel-Angelo</SPC> und des <SPC>Lionardo</SPC><LE/>
+sei nicht zur Vollendung gereift, weil <HYPH1 cont="ungest&#xFC;mer">un-</HYPH1><LE/>
+<HYPH2>gest&#xFC;mer</HYPH2> und ruheloser Sch&#xF6;pferdrang<LE/>
+diese K&#xFC;nstler von diesem kaum erreichten<LE/>
+Ziele zu jenem entgegengesetzten peitschte.<LE/>
+Ich lasse die Frage uner&#xF6;rtert, ob das<LE/>
+allgemeine Gerede diesmal nicht einen<LE/>
+Schimmer von Wahrheit birgt; soviel<LE/>
+ist in jedem Falle gewiss, dass solch<LE/>
+doppeltes Streben dem w&#xFC;hlenden Neide<LE/>
+der Thoren und Schw&#xE4;chlinge doppelte<LE/>
+M&#xF6;glichkeit des Angriffes gew&#xE4;hrt. Die<LE/>
+jedes Licht und jeden Fr&#xFC;hling hassen,<LE/>
+verk&#xFC;nden unaufh&#xF6;rlich, Sonnen- und<LE/>
+Mondesglanz k&#xF6;nne nicht zugleich am<LE/>
+Himmel leuchten; solche F&#xFC;lle des <HYPH1 cont="Strebens">Stre-</HYPH1><LE/>
+<HYPH2>bens</HYPH2> m&#xFC;sse sich selbst verzehren; Zeit<LE/>
+und Schaffensglut, dem Werke der einen<LE/>
+Kunst zugewendet, werde dem Wirken<LE/>
+auf benachbartem Gebiet entzogen. <HYPH1 cont="Verhasst">Ver-</HYPH1><LE/>
+<HYPH2>hasst</HYPH2> wird der Menge bald, der nach<LE/>
+einem Wettlauf zum Sieger Gekr&#xF6;nte.</P>
+</CELL><CELL>
+<P part="final" parID="05008">Dennoch muss sie ertragen, von den<LE/>
+Scheiteln erlauchter K&#xFC;nstler <SPC>vielf&#xE4;ltige</SPC><LE/>
+Kronen blitzen zu sehen; jede gewonnen<LE/>
+nach einem Kampf auf anderem Gefilde,<LE/>
+das die Kennerschaft der Besten als des<LE/>
+Meisters eigenstes Herrscherreich pries <SYMBOL type="3dots"/></P>
+<P part="initial" parID="05009"><TAB/>Jede Zeit, die nicht ganz ihren <HYPH1 cont="Zusammenhang">Zu-</HYPH1><LE/>
+<HYPH2>sammenhang</HYPH2> mit der Kunst verloren hat,<LE/>
+greift immer wieder th&#xF6;richt und <HYPH1 cont="leichtfertig">leicht-</HYPH1><LE/>
+<HYPH2>fertig</HYPH2> zugleich nach dem Schlagwort<LE/>
+von dem &#xBB;bedeutendsten Dichter der<LE/>
+Gegenwart&#xAB; oder wenigstens (ein bischen<LE/>
+abged&#xE4;mpft) von der &#xBB;namhaftesten <HYPH1 cont="Erscheinung">Er-</HYPH1><LE/>
+<HYPH2>scheinung</HYPH2> seiner Generation und seines<LE/>
+Landes&#xAB;. Soll nicht blo&#xDF;e Willk&#xFC;r<LE/>
+eine gewisse Enge des Blickes, Ergebnis<LE/>
+allzu &#xFC;berfeinerter oder v&#xF6;llig <HYPH1 cont="mangelnder">mangeln-</HYPH1><LE/>
+<HYPH2>der</HYPH2> Cultur &#x2014; dergleichen Werte schaffen,<LE/>
+so m&#xFC;ssen wir zun&#xE4;chst entscheiden:<LE/>
+welche Eigenschaften verlangen wir von<LE/>
+dem vollkommenen Poeten? Reichthum<LE/>
+der Motive sch&#xE4;tzen wir nicht gering;<LE/>
+doch wird dies keineswegs den Ausschlag<LE/>
+geben. Talente vom Range des <SPC>Keats</SPC><LE/>
+und <SPC>Coleridge</SPC> ermangelten seiner v&#xF6;llig;<LE/>
+sie haben gleichwohl die Stufe der <HYPH1 cont="Vollendung">Voll-</HYPH1><LE/>
+<HYPH2>endung</HYPH2> erreicht. Dies aber wird stets<LE/>
+unerl&#xE4;ssliche Bedingung des Kranzes<LE/>
+bleiben: das wundervolle Zusammenwirken</P>
+</CELL></ROW></TABLE>
+<FT>&#x2014; 1 &#x2014;</FT><LE/>
+</PAGE>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-24_n0562.xml</PREV>
+<NEXT>WR-03-02-24_n0564.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 24, S. 563</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>VERLAINE: ZWEI GEDICHTE.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2434_01184" endPtr="WR-03-02-24_n0563.xml#//DIV_END[@divEndID='deID_2434_01182']"/>
+<TITLE titleID="tiID_2434_00279"><TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="06115"><L>Der Ton des Waldhorns wehklagt bis ins Thal,</L>
+<L>Als riefe ein verwaistes Herz darin,</L>
+<L>Und stirbt am Fuss des H&#xFC;gels schmerzlich hin</L>
+<L>Vom Windstoss aufgefangen jedesmal.</L></LG>
+<LG parID="06116"><L>Des Wolfes Seele weint in dieser Qual,</L>
+<L>Die sich zum Himmel hebt, wo zu Beginn</L>
+<L>Des Winters nun wie ein vertr&#xE4;umter Sinn</L>
+<L>Die Sonne sinkt, erdabgewandt und fahl.</L></LG>
+<LG parID="06117"><L>Damit ged&#xE4;mpfter klinge jenes Weh,</L>
+<L>F&#xE4;llt langsam, wie ein weicher Vorhang, Schnee,</L>
+<L>Dahinter matter Glanz verd&#xE4;mmernd liegt.</L></LG>
+<LG parID="06118"><L>Und wie ein Seufzer wird die Luft zuletzt,</L>
+<L>Es hat so lau der Abend sie benetzt,</L>
+<L>In den ein stilles Dorf sich schl&#xE4;frig schmiegt.</L></LG>
+<DIV_END divEndID="deID_2434_01182" startPtr="WR-03-02-24_n0563.xml#//DIV_START[@divStartID='dsID_2434_01184']"/>
+<SEPARATOR num="8" type="undefined"/>
+<DIV_END divEndID="deID_2434_01183" startPtr="WR-03-02-24_n0561.xml#//DIV_START[@divStartID='dsID_2434_01182']"/>
+<FT type="pn" num="563" c_text="&#x2014; 563 &#x2014;"/>
+</PAGE>

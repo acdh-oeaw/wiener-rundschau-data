@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-02_n0045.xml</PREV>
+<NEXT>WR-01-01-02_n0047.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 46</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">46</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<P part="final" parID="00300">Thr&#xE4;ne oder eine blosse Bewegung der Augenlider das Gl&#xFC;ck<LE/>
+Aller, die sie umgeben, zu tr&#xFC;ben, dass ich niemals erfahren<LE/>
+werde, ob sie gleich mir diesen unseligen Kuss gesehen<LE/>
+hat. Aber ich weiss, was sie leiden konnte. Ich werde dich<LE/>
+nichts fragen, was du mir nicht zu bekennen vermagst, doch<LE/>
+ich m&#xF6;chte wissen, ob du irgend einen geheimen Plan hattest,<LE/>
+als du Palomides unter dem Fenster k&#xFC;sstest, an welchem<LE/>
+ihr uns sehen musstet. Antworte mir ohne Furcht, du weisst<LE/>
+im Voraus, dass ich Alles verzeihe.</P>
+<DIV_END divEndID="deID_2397_00092" startPtr="WR-01-01-02_n0045.xml#//DIV_START[@divStartID='dsID_2397_00096']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00097" endPtr="WR-01-01-02_n0046.xml#//DIV_END[@divEndID='deID_2397_00093']"/>
+<P parID="00301"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00302"><TAB/>Ich habe ihn nicht gek&#xFC;sst.</P>
+<DIV_END divEndID="deID_2397_00093" startPtr="WR-01-01-02_n0046.xml#//DIV_START[@divStartID='dsID_2397_00097']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00098" endPtr="WR-01-01-02_n0046.xml#//DIV_END[@divEndID='deID_2397_00094']"/>
+<P parID="00303"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00304"><TAB/>Wie? Du hast Palomides nicht gek&#xFC;sst, und Palomides<LE/>
+hat dich nicht gek&#xFC;sst?</P>
+<DIV_END divEndID="deID_2397_00094" startPtr="WR-01-01-02_n0046.xml#//DIV_START[@divStartID='dsID_2397_00098']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00099" endPtr="WR-01-01-02_n0046.xml#//DIV_END[@divEndID='deID_2397_00095']"/>
+<P parID="00305"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00306"><TAB/>Nein.</P>
+<DIV_END divEndID="deID_2397_00095" startPtr="WR-01-01-02_n0046.xml#//DIV_START[@divStartID='dsID_2397_00099']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00100" endPtr="WR-01-01-02_n0046.xml#//DIV_END[@divEndID='deID_2397_00096']"/>
+<P parID="00307"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00308"><TAB/>Ah! <SYMBOL type="3dots"/> H&#xF6;re: ich war gekommen, um dir Alles zu <HYPH1 cont="verzeihen">ver-</HYPH1><LE/>
+<HYPH2>zeihen</HYPH2> <SYMBOL type="3dots"/> Ich glaubte, dass du gehandelt hattest, wie wir<LE/>
+fast Alle handeln, ohne dass etwas von unserer Seele daran<LE/>
+theilnimmt <SYMBOL type="2dots"/> Aber jetzt will ich Alles wissen, was vorgefallen<LE/>
+ist <SYMBOL type="2dots"/> Du liebst Palomides, und du hast ihn vor meinen Augen<LE/>
+gek&#xFC;sst.</P>
+<DIV_END divEndID="deID_2397_00096" startPtr="WR-01-01-02_n0046.xml#//DIV_START[@divStartID='dsID_2397_00100']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00101" endPtr="WR-01-01-02_n0046.xml#//DIV_END[@divEndID='deID_2397_00097']"/>
+<P parID="00309"><SPK><SPC>Aladine</SPC></SPK>.</P>
+<P parID="00310"><TAB/>Nein.</P>
+<DIV_END divEndID="deID_2397_00097" startPtr="WR-01-01-02_n0046.xml#//DIV_START[@divStartID='dsID_2397_00101']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00102" endPtr="WR-01-01-02_n0046.xml#//DIV_END[@divEndID='deID_2397_00098']"/>
+<P parID="00311"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00312"><TAB/>Geh&#x2019; nicht fort. Ich bin nur ein Greis. Entfliehe nicht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00098" startPtr="WR-01-01-02_n0046.xml#//DIV_START[@divStartID='dsID_2397_00102']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00103" endPtr="WR-01-01-02_n0046.xml#//DIV_END[@divEndID='deID_2397_00099']"/>
+<P parID="00313"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00314"><TAB/>Ich entfliehe nicht.</P>
+<DIV_END divEndID="deID_2397_00099" startPtr="WR-01-01-02_n0046.xml#//DIV_START[@divStartID='dsID_2397_00103']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00104" endPtr="WR-01-01-02_n0047.xml#//DIV_END[@divEndID='deID_2397_00100']"/>
+<P parID="00315"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P part="initial" parID="00316"><TAB/>Ah! Ah! Du fliehst nicht, weil du meine alten H&#xE4;nde f&#xFC;r<LE/>
+harmlos h&#xE4;ltst! <SYMBOL type="2dots"/> Aber sie haben noch die Kraft, ein Geheimniss<LE/>
+Allen zum Trotz zu entreissen <SD>(er ergreift ihre Arme)</SD> und sie k&#xF6;nnten<LE/>
+gegen Alle k&#xE4;mpfen, die du bevorzugst <SYMBOL type="3dots"/> <SD>(Er kehrt ihr die<LE/>
+Arme auf den Nacken.)</SD> Ah! Du sprichst nicht! <SYMBOL type="3dots"/> Der <HYPH1 cont="Augenblick">Augen-</HYPH1></P>
+</PAGE>

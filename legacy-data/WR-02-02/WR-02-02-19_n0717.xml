@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-19_n0716.xml</PREV>
+<NEXT>WR-02-02-19_n0718.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 19, S. 717</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>8</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2433_00228" endPtr="WR-02-02-19_n0717.xml#//DIV_END[@divEndID='deID_2433_00225']"/>
+<TITLE titleID="tiID_2433_00092"><TITLEPART>INS WEITE.</TITLEPART></TITLE>
+<LG parID="01354"><L>Die Du mich seliger machst, als Sinne ahnen k&#xF6;nnen,</L>
+<L>meine Erf&#xFC;llerin,</L>
+<L>Schlummernde:</L>
+<L>o tr&#xE4;ume dich her in meine schmachtenden Adern,</L>
+<L>und f&#xFC;hle mein Herz aus meinen Augen brennen,</L>
+<L>und sieh die Sterne sich &#xFC;ber mir verdoppeln,</L>
+<L>und schmecke das Mannah dieser grenzenlosen Nacht,</L>
+<L>die D&#xFC;fte der Sehnsucht von Wiese zu Wald zu Wolke,</L>
+<L>und h&#xF6;re den Weltwind mein heiliges Lied mitathmen,</L>
+<L>mein Echo Du!</L></LG>
+<DIV_END divEndID="deID_2433_00225" startPtr="WR-02-02-19_n0717.xml#//DIV_START[@divStartID='dsID_2433_00228']"/>
+<DIV_END divEndID="deID_2433_00226" startPtr="WR-02-02-19_n0716.xml#//DIV_START[@divStartID='dsID_2433_00225']"/>
+<SEPARATOR type="asterism"/>
+</PAGE>

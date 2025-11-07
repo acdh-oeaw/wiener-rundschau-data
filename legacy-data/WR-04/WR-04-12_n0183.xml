@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0182.xml</PREV>
+<NEXT>WR-04-12_n0184.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 183</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>BAILLY: DIE HARMONIE DER SPH&#xC4;REN.</CTEXT></HD>
+<TABLE parID="02479"><ROW ciID="0544"><CELL>
+<P part="final" parID="02480">die Glieder der doppelten und dreifachen<LE/>
+Verh&#xE4;ltnisse, wenn zu jeder der beiden<LE/>
+Reihen die Einheit als Glied gez&#xE4;hlt wird.*<LE/>
+Die Alten der Vorzeit haben uns auch<LE/>
+neun Musen &#xFC;berliefert, von denen sich<LE/>
+acht nach Plato mit den himmlischen<LE/>
+Dingen befassen, die neunte aber das<LE/>
+Irdische bes&#xE4;nftigt und aus regelloser, <HYPH1 cont="ger&#xE4;uschvoller">ge-</HYPH1><LE/>
+<HYPH2>r&#xE4;uschvoller</HYPH2> Wirrnis und Zwietracht zur<LE/>
+Ruhe lockt.&#xAB;</P>
+<DIV_END divEndID="deID_2436_00268" startPtr="WR-04-12_n0182.xml#//DIV_START[@divStartID='dsID_2436_00270']"/>
+<P part="initial" parID="02481"><TAB/>Diese Worte <SPC>Plutarchs</SPC> werden dem<LE/>
+Leser wohl dunkel erscheinen, wenn er sich<LE/>
+nicht einigerma&#xDF;en mit der Musik-Theorie<LE/>
+der alten Griechen vertraut gemacht hat;<LE/>
+ich m&#xF6;chte das Angef&#xFC;hrte nun m&#xF6;glichst<LE/>
+rasch und kurz erl&#xE4;utern: Der erste Absatz<LE/>
+besagt deutlich, dass der Erde das tiefe <I>la</I></P>
+</CELL><CELL>
+<P part="final" parID="02482">entspricht, dem Monde: <I>si</I>, dem Mercur:<LE/>
+<I>ut</I>, der Venus: <I>re</I>. Die Mese <I>(mi)</I> bezieht<LE/>
+sich auf die Sonne; von Mars, Jupiter<LE/>
+und Saturn wird &#xFC;berhaupt nicht <HYPH1 cont="gesprochen">ge-</HYPH1><LE/>
+<HYPH2>sprochen</HYPH2>, aber ohne Frage sind es <I>fa</I><LE/>
+und <I>sol</I>, die ihnen in dieser diatonischen<LE/>
+Scala entsprechen; <I>la</I>, das eine Octave<LE/>
+hinter dem Ausgangspunkte liegt, wird<LE/>
+auf die Fixsterne oder die Zeichen des<LE/>
+Zodiakus bezogen. &#xDC;brigens legt Plutarch<LE/>
+keinen besonderen Nachdruck auf diese<LE/>
+Combination. Was die anderen zwei <HYPH1 cont="Abs&#xE4;tze">Ab-</HYPH1><LE/>
+<HYPH2>s&#xE4;tze</HYPH2> betrifft, so werden sie, glaube ich,<LE/>
+wohl genugsam durch die folgende Tabelle<LE/>
+klar gemacht, in der ich das <I>grosse</I> und<LE/>
+<I>kleine System</I> des <SPC>Pythagoras</SPC> <HYPH1 cont="zusammenfasse">zusammen-</HYPH1><LE/>
+<HYPH2>fasse</HYPH2>.**</P>
+</CELL></ROW></TABLE>
+<IMG>
+<P rend="aqvl" parID="02483">MOND</P>
+<P parID="02484">VENUS<LE/>
+MERCUR<LE/>
+SONNE</P>
+<P parID="02485">MARS</P>
+<P parID="02486">SATURN</P>
+<P rend="aqvl" parID="02487">FIXSTERNE</P>
+<P parID="02488">LA &#x2014; SI &#x2014; ut &#x2014; re &#x2014; MI &#x2014; fa &#x2014; sol &#x2014; LA + SI &#x2014; ut &#x2014; re &#x2014; MI &#x2014; fa &#x2014; sol &#x2014; LA</P>
+<P rend="aqvl" parID="02489"><I>Proslambanomenos</I></P>
+<P parID="02490">I<LE/>
+<I>Hypaton</I></P>
+<P parID="02491">II<LE/>
+<I>Meson</I></P>
+<P parID="02492">IV<LE/>
+<I>Diezeugmenon</I></P>
+<P parID="02493">V<LE/>
+<I>Hyperboleon</I></P>
+<P parID="02494">JUPITER</P>
+<P parID="02495">LA &#x2014; si &#x266D; &#x2014; ut &#x2014; RE</P>
+<P parID="02496">III<LE/>
+<I>Synemmenon</I></P>
+</IMG>
+<TABLE parID="02497"><ROW ciID="0545"><CELL>
+<P part="initial" parID="02498"><TAB/>Aus einer Pr&#xFC;fung dieser Tabelle, die<LE/>
+uns das Tetrachord-System der antiken<LE/>
+griechischen Musik vor Augen f&#xFC;hrt, ergibt<LE/>
+sich, dass hier die Gestirne von vier zu<LE/>
+vier in die Tonleiter eingef&#xFC;gt sind, was<LE/>
+ihnen fictive Distanzen zuweist. Dazu<LE/>
+kommt, dass hier der <SPC>Mond</SPC> als <I><HYPH1 cont="Fundamental-Ton">Fun-</HYPH1><LE/>
+<HYPH2>damental-Ton</HYPH2></I> (<SPC>Grundt</SPC>on) genommen ist,<LE/>
+w&#xE4;hrend doch offenbar der <SPC>Sonne</SPC> diese<LE/>
+Rolle zufallen m&#xFC;sste. Solch eine Folge<LE/>
+konnte unm&#xF6;glich von Pythagoras gelehrt<LE/>
+worden sein, dem doch die kreisende <HYPH1 cont="Bewegung">Be-</HYPH1></P>
+</CELL><CELL>
+<P part="final" parID="02499"><HYPH2>wegung</HYPH2> der Erde um die Bildnerin unseres<LE/>
+Systems genau bekannt war, wenn er auch<LE/>
+nur seinen Sch&#xFC;lern gegen&#xFC;ber &#x2014; und<LE/>
+unter dem Siegel der Verschwiegenheit &#x2014;<LE/>
+davon zu sprechen pflegte.***</P>
+<P parID="02500"><TAB/>Das <I>Diagramma</I> <SPC>Platons</SPC> n&#xE4;hert sich<LE/>
+weit mehr der Wahrheit, wenn es zwischen<LE/>
+den Welten des Sonnen-Systems Distanzen<LE/>
+einer Octave und Quinte annimmt. Leider<LE/>
+geht aber auch er von dem <SPC>Mond</SPC> aus<LE/>
+und bringt ihn mit dem tiefen <I>mi</I> in <HYPH1 cont="Verbindung">Ver-</HYPH1><LE/>
+<HYPH2>bindung</HYPH2>; der Sonne entspricht da nun:</P>
+</CELL></ROW></TABLE>
+<P parID="02501">* Z. B.</P>
+<IMG>
+1<LE/>
+2 3<LE/>
+4 9<LE/>
+8 27<LE/>
+</IMG>
+<FN>
+<P parID="02502"><TAB/>** Der Leser, der die Formation dieser Systeme im Detail kennen lernen will, wird<LE/>
+mit Nutzen zu den tiefgr&#xFC;ndigen Studien greifen, die A. Dechevrens unter dem Titel: <I>&#xC9;tudes<LE/>
+de Science musicale</I> vor kurzem ver&#xF6;ffentlicht hat.</P>
+<P parID="02503"><TAB/>*** Vgl. Bailly: <I>Geschichte der antiken Astronomie.</I> Viele Stellen bei Aristides Quintilianus<LE/>
+beweisen deutlich, dass es eine <SPC>esoterische</SPC> Lehre und Betrachtungsweise der <SPC>Musik</SPC> in<LE/>
+den Schulen des Alterthums gegeben.</P>
+</FN>
+<FT type="pn" num="183" c_text="&#x2014; 183 &#x2014;"/>
+</PAGE>

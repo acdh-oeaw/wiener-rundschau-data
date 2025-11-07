@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-08_n0320.xml</PREV>
+<NEXT>WR-01-01-09_n0322.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 9, S. 321</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2397_00462" endPtr="WR-01-01-09_n0360.xml#//DIV_END[@divEndID='deID_2397_00497']"/>
+<DIV_START cat="masthead" divStartID="dsID_2397_00463" endPtr="WR-01-01-09_n0321.xml#//DIV_END[@divEndID='deID_2397_00462']"/>
+<P parID="02404"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02405"><B><DATE>15. <SPC>M&#xC4;RZ</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2397_00462" startPtr="WR-01-01-09_n0321.xml#//DIV_START[@divStartID='dsID_2397_00463']"/>
+<DIV_START divStartID="dsID_2397_00464" endPtr="WR-01-01-09_n0327.xml#//DIV_END[@divEndID='deID_2397_00463']"/>
+<TITLE titleID="tiID_2397_00131"><TITLEPART type="main">EIN EINSIEDLER.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Gustaf af Geijerstam</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebertragung aus dem Schwedischen von <AUCTOR type="translator"><C>Francis Maro</C></AUCTOR>.</TITLEPART></TITLE>
+<P parID="02406"><TAB/>Niemand, der je vorbeigefahren ist, hat umhin k&#xF6;nnen, ein <HYPH1 cont="wunderliches">wunder-</HYPH1><LE/>
+<HYPH2>liches</HYPH2> Geb&#xE4;ude zu bemerken, das am Waldessaum gerade an dem<LE/>
+Punkte liegt, wo der Weg zur Ebene hinabbiegt. Es ist ein viereckiges<LE/>
+Haus, dessen Dach sich zu einer Spitze erhebt. Aus dieser Spitze ragt<LE/>
+ein Schornstein empor, und wenn das Wetter sch&#xF6;n ist, kann man <HYPH1 cont="zuweilen">zu-</HYPH1><LE/>
+<HYPH2>weilen</HYPH2> sehen, wie sich blauer Rauch daraus ringelt. Blickt man n&#xE4;her<LE/>
+hin, so wird man finden, dass die Th&#xFC;re des alten, recht verfallenen<LE/>
+Geb&#xE4;udes nicht selten verschlossen und der Schl&#xFC;ssel herausgenommen<LE/>
+ist. Man kann dies oft beobachten, gerade wenn der blaue Rauch sich<LE/>
+aus dem gemauerten Schornstein emporringelt.</P>
+<P parID="02407"><TAB/>In diesem Hause wohnte ein seltsamer Einsiedler, der Per hiess.<LE/>
+Kein Mensch nannte ihn anders als Per, und Niemand dachte daran,<LE/>
+dass er einen vollst&#xE4;ndigeren Namen haben k&#xF6;nnte. Er hatte nun so<LE/>
+viele Jahre dort gewohnt, dass man sich auch nicht l&#xE4;nger den Kopf<LE/>
+dar&#xFC;ber zerbrach, warum er eigentlich da wohnte. Allein war er nicht,<LE/>
+denn ein armes, altes Weib versah seinen Haushalt. Auch nicht m&#xFC;ssig.<LE/>
+Denn Per war Schmied, und die Bauern pflegten bei seinem H&#xE4;uschen<LE/>
+Halt zu machen, um ihre Pferde beschlagen zu lassen. Ausserdem hatte<LE/>
+er sein eigenes Ackerland und sein eigenes G&#xE4;rtchen. All dies war seit<LE/>
+lange so geordnet, und es hatte sich in die Gedanken der Anwohnenden<LE/>
+eingewachsen, dass es gar nicht anders sein konnte.</P>
+<P parID="02408"><TAB/>Wie es zugegangen war, dass Per Schmied wurde, das wusste<LE/>
+eigentlich Niemand, wenn auch Jedermann seine Vermuthungen haben<LE/>
+konnte; aber dass dem ein Geheimniss zugrunde lag, das wussten Alle.<LE/>
+Denn Per war der &#xE4;lteste Sohn eines reichen Bauern, und es war <HYPH1 cont="eigentlich">eigent-</HYPH1><LE/>
+<HYPH2>lich</HYPH2> eine Ungerechtigkeit, dass er die Pferde der Bauern beschlagen<LE/>
+und ihre Schl&#xF6;sser verfertigen sollte.</P>
+<P part="initial" parID="02409"><TAB/>Aber Per hatte es nie verstanden, seinen eigenen Vortheil <HYPH1 cont="wahrzunehmen">wahr-</HYPH1><LE/>
+<HYPH2>zunehmen</HYPH2> und war stets ein wunderlicher Kauz gewesen, noch als er<LE/>
+ein ganz junger Mann war und Niemand etwas Anderes denken konnte,<LE/>
+als dass er einmal den Hof nach dem Vater erben w&#xFC;rde. Und dass</P>
+</PAGE>

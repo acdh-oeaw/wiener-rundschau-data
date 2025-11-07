@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0407.xml</PREV>
+<NEXT>WR-03-02-17_n0409.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 408</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: BLAUBART UND ARIANE.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_00937" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00934']"/>
+<P parID="04727"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04728"><TAB/>Hier doch, in meinen Silber&#xE4;rmeln.</P>
+<DIV_END divEndID="deID_2434_00934" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00937']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00938" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00935']"/>
+<P parID="04729"><SPK>ARIANE</SPK>:</P>
+<P parID="04730"><TAB/>Ich sehe sie nicht mehr <SYMBOL type="3dots"/> Ich habe sie noch eben bewundert, als Du<LE/>
+Dein Haar aufnahmst. Sie schienen sich zu erheben und um Liebe zu bitten, und<LE/>
+ger&#xFC;hrt folgten meine Augen allen ihren Bewegungen und liebkosten sie <SYMBOL type="3dots"/> Ich<LE/>
+wende mich um, und wie ich zur&#xFC;ckkomme, finde ich nur noch ihren Schatten <SYMBOL type="3dots"/><LE/>
+<SD>(Kn&#xFC;pft die &#xC4;rmel ab.)</SD> Noch einmal zwei Gl&#xFC;cksstrahlen, die ich doppelt <HYPH1 cont="befreie">be-</HYPH1><LE/>
+<HYPH2>freie</HYPH2> <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00935" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00938']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00939" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00936']"/>
+<P parID="04731"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04732"><TAB/>Oh, meine blossen Arme, sie werden vor K&#xE4;lte zittern <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00936" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00939']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00940" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00937']"/>
+<P parID="04733"><SPK>ARIANE</SPK>:</P>
+<P parID="04734"><TAB/>Nicht doch, sie sind ja entz&#xFC;ckend <SYMBOL type="3dots"/> <SD>(Geht zu Ygraine.)</SD> Wo bist Du,<LE/>
+Schwester Ygraine? Diesen Augenblick sah ich in diesem Spiegel noch Schultern<LE/>
+und einen Hals, die ihn ganz mit lieblichem, seligem Schimmer erf&#xFC;llten. Ich<LE/>
+muss alles befreien <SYMBOL type="3dots"/> Wahrhaftig, meine jungen Schwestern, ich wundre<LE/>
+mich nicht mehr, dass er Euch gar nicht so geliebt hat, wie es h&#xE4;tte sein<LE/>
+sollen; und wenn er hundert Frauen wollte, so hatte er eben keine <SYMBOL type="3dots"/> <SD>(Nimmt<LE/>
+Ygraine den Mantel von den Schultern.)</SD> Siehe da, zwei Quellen der Sch&#xF6;nheit, die<LE/>
+sich im Finstern verlieren w&#xFC;rden <SYMBOL type="3dots"/> Vor allem f&#xFC;rchtet Euch nicht <SYMBOL type="3dots"/> Seid<LE/>
+sch&#xF6;n heute Abend <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00937" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00940']"/>
+<P parID="04735"><SD>(Durch eine Seitenth&#xFC;r erscheint die AMME, verst&#xF6;rt und mit aufgel&#xF6;sten Haaren.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00941" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00938']"/>
+<P parID="04736"><SPK>DIE AMME</SPK>:</P>
+<P parID="04737"><TAB/>Er kommt zur&#xFC;ck! Er ist da!</P>
+<DIV_END divEndID="deID_2434_00938" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00941']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00942" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00939']"/>
+<P parID="04738"><SPK>DIE FRAUEN</SPK>:</P>
+<P parID="04739"><TAB/>Wer? Er? Heute Abend? Oh! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00939" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00942']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00943" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00940']"/>
+<P parID="04740"><SPK>ARIANE</SPK>:</P>
+<P parID="04741"><TAB/>Wer hat Dir das gesagt?</P>
+<DIV_END divEndID="deID_2434_00940" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00943']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00944" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00941']"/>
+<P parID="04742"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04743"><TAB/>Wie hat man Dich hinausgelassen?</P>
+<DIV_END divEndID="deID_2434_00941" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00944']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00945" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00942']"/>
+<P parID="04744"><SPK>ARIAN</SPK>E:</P>
+<P parID="04745"><TAB/>Hast Du jemanden gesehen?</P>
+<DIV_END divEndID="deID_2434_00942" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00945']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00946" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00943']"/>
+<P parID="04746"><SPK>DIE AMME</SPK>:</P>
+<P parID="04747"><TAB/>Ja, einen von der Wache <SYMBOL type="3dots"/> Er hat Dich gesehen und betet Dich an.</P>
+<DIV_END divEndID="deID_2434_00943" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00946']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00947" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00944']"/>
+<P parID="04748"><SPK>ARIANE</SPK>:</P>
+<P parID="04749"><TAB/>Wen? Mich?</P>
+<DIV_END divEndID="deID_2434_00944" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00947']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00948" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00945']"/>
+<P parID="04750"><SPK>DIE AMME</SPK>:</P>
+<P parID="04751"><TAB/>Ja.</P>
+<DIV_END divEndID="deID_2434_00945" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00948']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00949" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00946']"/>
+<P parID="04752"><SPK>ARIANE</SPK>:</P>
+<P parID="04753"><TAB/>Aber ich habe doch keinen Menschen gesehen, seit er fort ist. Alle Th&#xFC;ren<LE/>
+giengen auf, ich weiss nicht wie, und das Schloss schien ver&#xF6;det <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00946" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00949']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00950" endPtr="WR-03-02-17_n0408.xml#//DIV_END[@divEndID='deID_2434_00947']"/>
+<P parID="04754"><SPK>DIE AMME</SPK>:</P>
+<P parID="04755"><TAB/>Sie haben sich versteckt <SYMBOL type="3dots"/> Sie haben uns nicht aus den Augen <HYPH1 cont="gelassen">ge-</HYPH1><LE/>
+<HYPH2>lassen</HYPH2> <SYMBOL type="3dots"/> Der J&#xFC;ngste hat mir gesagt <SYMBOL type="3dots"/> Er hat mir gesagt <SYMBOL type="3dots"/> dass er<LE/>
+wiederk&#xE4;me <SYMBOL type="3dots"/> Er muss ganz nahe sein <SYMBOL type="3dots"/> Die Bauern wissen es. Sie<LE/>
+sind bewaffnet <SYMBOL type="3dots"/> Sie emp&#xF6;ren sich <SYMBOL type="3dots"/> Das ganze Dorf steckt in den<LE/>
+Hecken <SYMBOL type="3dots"/> Sie lauern ihm auf. Horch, sie schreien. <SD>(Sie l&#xE4;uft ans Fenster.)</SD><LE/>
+Ich sehe Fackeln im Walde <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00947" startPtr="WR-03-02-17_n0408.xml#//DIV_START[@divStartID='dsID_2434_00950']"/>
+<P parID="04756"><SD>(Die Frauen stossen einen Angstschrei aus und rennen verzweifelt im Saale herum,<LE/>
+einen Ausweg suchend. Die Amme versucht, sie zur&#xFC;ckzuhalten.)</SD></P>
+<FT type="pn" num="408" c_text="&#x2014; 408 &#x2014;"/>
+</PAGE>

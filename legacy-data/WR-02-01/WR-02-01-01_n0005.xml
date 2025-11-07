@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-01_n0004.xml</PREV>
+<NEXT>WR-02-01-01_n0006.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 5</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>DER HERBST.</CTEXT><RTEXT type="pn">5</RTEXT></HD>
+<DIV_START divStartID="dsID_2432_00016" endPtr="WR-02-01-01_n0005.xml#//DIV_END[@divEndID='deID_2432_00016']"/>
+<TITLE titleID="tiID_2432_00012"><TITLEPART type="enum">III.</TITLEPART><LE/>
+<TITLEPART type="main"><SPC>Tafel des Stifters</SPC>.</TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2432_00017" endPtr="WR-02-01-01_n0005.xml#//DIV_END[@divEndID='deID_2432_00014']"/>
+<TITLE titleID="tiID_2432_00013"><TITLEPART><C>Das Weihgeschenk</C>.</TITLEPART></TITLE>
+<LG parID="00034"><L>Herrin, empfangt die umflochtene Schale:</L>
+<L>Der Ernte Vollendung k&#xFC;nde sie dir;</L>
+<L>Der Ernte Vollendung im d&#xE4;mmernden Thale,</L>
+<L>Neige dein Herze, nimm sie von mir!</L>
+<L>Rast gew&#xE4;hre, bis neu ich dir diene:</L>
+<L>Siehe, die Fr&#xFC;chte brachten wir heim,</L>
+<L>Dir trug lieblichen Honig die Biene,</L>
+<L>Dir wuchs zum Wipfel Setzling und Keim.</L>
+<L>Das M&#xFC;hlrad peitschet die schnellende R&#xF6;hre,</L>
+<L>Dass es sch&#xE4;umt und malmend kreist,</L>
+<L>Im trunknen Gew&#xF6;lbe singen die Ch&#xF6;re</L>
+<L>Das Lied der Jugend von Klarheit und Geist.</L></LG>
+<LG parID="00035"><L>Ich bin der Winzer, der den Weinstock bindet,</L>
+<L>Ich bin der Mundschenk, der den J&#xE4;hrling giesst</L>
+<L>Ich bin der G&#xE4;rtner, der das Veilchen findet,</L>
+<L>Der die reife Ueberf&#xFC;lle spriesst.</L>
+<L>Ich bin der S&#xE4;mann, bin der Schnitter,</L>
+<L>Bin der Erde Wirth und Gast,</L>
+<L>Ich s&#xE4;ttige sie mit Saat</L>
+<L>Nach lenzlichem Gewitter,</L>
+<L>Ich pfl&#xFC;cke von dem s&#xFC;ss berauschten Ast</L>
+<L>Nach der V&#xE4;ter Brauch und Rath,</L>
+<L>Ich bin der S&#xE4;mann, bin der Schnitter.</L></LG>
+<DIV_END divEndID="deID_2432_00014" startPtr="WR-02-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2432_00017']"/>
+<DIV_START type="verse" divStartID="dsID_2432_00018" endPtr="WR-02-01-01_n0005.xml#//DIV_END[@divEndID='deID_2432_00015']"/>
+<TITLE titleID="tiID_2432_00014"><TITLEPART><C>Gebet</C>.</TITLEPART></TITLE>
+<LG parID="00036"><L>Breite deine klaren Linnen,</L>
+<L>Senke sanft sie, decke zu,</L>
+<L>Schliess aus deiner Kraft die Rinnen,</L>
+<L>Grosser Rufer l&#xE4;ute zur Ruh!</L>
+<L>K&#xF6;nnte noch das Herz uns darben</L>
+<L>In den irdischen Paradiesen,</L>
+<L>Da wir k&#xFC;hn die Frucht erwarben,</L>
+<L>Liebend ihren Geist gemessen,</L>
+<L>Da wir ruhen bei ruhenden Gaben,</L>
+<L>Bis verj&#xFC;ngt die Quellen fliessen.</L></LG>
+<DIV_END divEndID="deID_2432_00015" startPtr="WR-02-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2432_00018']"/>
+<DIV_END divEndID="deID_2432_00016" startPtr="WR-02-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2432_00016']"/>
+<DIV_END divEndID="deID_2432_00017" startPtr="WR-02-01-01_n0001.xml#//DIV_START[@divStartID='dsID_2432_00005']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

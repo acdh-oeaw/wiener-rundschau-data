@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0204.xml</PREV>
+<NEXT>WR-04-12_n0206.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 205</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<P part="final" parID="02854">dass wir bei Sonnenaufgang zur Jagd gehen. Alle Ehren m&#xFC;ssen C&#xE4;sars Gesandten<LE/>
+erwiesen werden, nicht?</P>
+<DIV_END divEndID="deID_2436_00583" startPtr="WR-04-12_n0204.xml#//DIV_START[@divStartID='dsID_2436_00586']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00587" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00584']"/>
+<P parID="02855"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Der Tetrarch blickt finster drein.</P>
+<DIV_END divEndID="deID_2436_00584" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00587']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00588" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00585']"/>
+<P parID="02856"><TAB/><SPK>ERSTER SOLDAT</SPK>: Ja, er blickt finster drein.</P>
+<DIV_END divEndID="deID_2436_00585" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00588']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00589" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00586']"/>
+<P parID="02857"><TAB/><SPK>HERODES</SPK>: Salome, Salome, tanz&#x2019; f&#xFC;r mich. Ich bitte dich, tanz&#x2019; f&#xFC;r mich.<LE/>
+Ich bin traurig heut&#x2019; Nacht. Als ich hieher kam, bin ich in Blut getreten, und das<LE/>
+ist ein b&#xF6;ses Zeichen; auch h&#xF6;rt&#x2019; ich in der Luft ein Rauschen von Fl&#xFC;geln, ein<LE/>
+Rauschen von riesengro&#xDF;en Fl&#xFC;geln. Ich wei&#xDF; nicht, worauf das deuten mag <SYMBOL type="4dots"/><LE/>
+Ich bin traurig heut&#x2019; Nacht. Drum tanz&#x2019; f&#xFC;r mich. Tanz&#x2019; f&#xFC;r mich, Salome, ich<LE/>
+bitte gar sehr. Wenn du f&#xFC;r mich tanzest, kannst du von mir begehren, was du<LE/>
+willst, ich werde es dir geben. Ja, tanz&#x2019; f&#xFC;r mich, Salome, und was du immer von<LE/>
+mir begehren magst, das will ich dir geben, und w&#xE4;r&#x2019;s die H&#xE4;lfte meines K&#xF6;nigreichs.</P>
+<DIV_END divEndID="deID_2436_00586" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00589']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00590" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00587']"/>
+<P parID="02858"><TAB/><SPK>SALOME</SPK> <SD>(steht auf)</SD>: Willst du mir wirklich alles geben, was ich von dir<LE/>
+begehre, Tetrarch?</P>
+<DIV_END divEndID="deID_2436_00587" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00590']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00591" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00588']"/>
+<P parID="02859"><TAB/><SPK>HERODIAS</SPK>: Tanze nicht, meine Tochter!</P>
+<DIV_END divEndID="deID_2436_00588" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00591']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00592" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00589']"/>
+<P parID="02860"><TAB/><SPK>HERODES</SPK>: Alles, was du von mir begehren wirst, und w&#xE4;r&#x2019;s die H&#xE4;lfte meines<LE/>
+K&#xF6;nigreichs.</P>
+<DIV_END divEndID="deID_2436_00589" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00592']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00593" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00590']"/>
+<P parID="02861"><TAB/><SPK>SALOME</SPK>: Du schw&#xF6;rst es, Tetrarch?</P>
+<DIV_END divEndID="deID_2436_00590" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00593']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00594" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00591']"/>
+<P parID="02862"><TAB/><SPK>HERODES</SPK>: Ich schw&#xF6;re es, Salome!</P>
+<DIV_END divEndID="deID_2436_00591" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00594']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00595" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00592']"/>
+<P parID="02863"><TAB/><SPK>HERODIAS</SPK>: Tanze nicht, meine Tochter!</P>
+<DIV_END divEndID="deID_2436_00592" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00595']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00596" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00593']"/>
+<P parID="02864"><TAB/><SPK>SALOME</SPK>: Wobei willst du das beschw&#xF6;ren, Tetrarch?</P>
+<DIV_END divEndID="deID_2436_00593" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00596']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00597" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00594']"/>
+<P parID="02865"><TAB/><SPK>HERODES</SPK>: Bei meinem Leben, bei meiner Krone, bei meinen G&#xF6;ttern. <HYPH1 cont="Verlange">Ver-</HYPH1><LE/>
+<HYPH2>lange</HYPH2>, was du willst, ich will es dir geben, und w&#xE4;r&#x2019;s die H&#xE4;lfte meines K&#xF6;nigreichs,<LE/>
+wenn du nur f&#xFC;r mich tanzen willst. O Salome, Salome, tanz&#x2019; f&#xFC;r mich!</P>
+<DIV_END divEndID="deID_2436_00594" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00597']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00598" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00595']"/>
+<P parID="02866"><TAB/><SPK>SALOME</SPK>: Du hast einen Eid geschworen, Tetrarch.</P>
+<DIV_END divEndID="deID_2436_00595" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00598']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00599" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00596']"/>
+<P parID="02867"><TAB/><SPK>HERODES</SPK>: Ich habe einen Eid geschworen!</P>
+<DIV_END divEndID="deID_2436_00596" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00599']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00600" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00597']"/>
+<P parID="02868"><TAB/><SPK>HERODIAS</SPK>: Meine Tochter, tanze nicht!</P>
+<DIV_END divEndID="deID_2436_00597" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00600']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00601" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00598']"/>
+<P parID="02869"><TAB/><SPK>HERODES</SPK>: Und w&#xE4;r&#x2019;s die H&#xE4;lfte meines K&#xF6;nigreichs. Du wirst unermesslich<LE/>
+sch&#xF6;n sein als K&#xF6;nigin, Salome, wenn es dir gef&#xE4;llt, die H&#xE4;lfte meines K&#xF6;nigreichs<LE/>
+zu begehren. Wird sie nicht sch&#xF6;n sein als K&#xF6;nigin? Ah, es ist kalt hier! Es geht<LE/>
+ein eisiger Wind, und ich h&#xF6;re <SYMBOL type="3dots"/> Warum h&#xF6;r&#x2019; ich in der Luft dies Rauschen von<LE/>
+Fl&#xFC;geln? Ah! Es ist doch so, als ob ein ungeheurer schwarzer Vogel &#xFC;ber der<LE/>
+Terrasse schwebte. Warum kann ich ihn nicht sehen, diesen Vogel? Das Rauschen<LE/>
+seiner Fl&#xFC;gel ist schrecklich. Der sausende Wind von diesen Fl&#xFC;gelschl&#xE4;gen ist<LE/>
+schrecklich. Es ist ein schneidender Wind. Aber nein, er ist nicht kalt, er ist hei&#xDF;.<LE/>
+Es ist zum Ersticken. Gie&#xDF;t mir Wasser &#xFC;ber die H&#xE4;nde. Gebt mir Schnee zu essen.<LE/>
+Macht mir den Mantel los! Schnell, schnell, macht mir den Mantel los! Doch nein,<LE/>
+lasst ihn. Mein Kranz dr&#xFC;ckt mich, die Rosen meines Kranzes. Die Blumen sind wie<LE/>
+Feuer. Sie haben mir die Stirn verbrannt. <SD>(Er rei&#xDF;t das Gewinde vom Kopf und wirft<LE/>
+es auf den Tisch.)</SD> Ah! Jetzt kann ich athmen. Wie roth diese Rosenbl&#xE4;tter sind! Sie<LE/>
+sind wie Blutflecken auf einem Gewande. Doch lassen wir&#x2019;s. Es ist th&#xF6;richt, in allem,<LE/>
+was man sieht, Bedeutung zu sp&#xFC;ren. Es bringt zu viel Entsetzen ins Leben. Es<LE/>
+w&#xE4;re besser zu sagen, dass Blutflecken so lieblich wie Rosenbl&#xE4;tter sind. Es w&#xE4;re<LE/>
+ferner besser zu sagen, dass <SYMBOL type="4dots"/> Aber wir wollen nicht davon sprechen. Ich bin<LE/>
+jetzt gl&#xFC;cklich. Ich bin &#xFC;ber die Ma&#xDF;en gl&#xFC;cklich. Hab&#x2019; ich nicht das Recht, <HYPH1 cont="gl&#xFC;cklich">gl&#xFC;ck-</HYPH1><LE/>
+<HYPH2>lich</HYPH2> zu sein? Deine Tochter will f&#xFC;r mich tanzen. Wirst du nicht f&#xFC;r mich tanzen,<LE/>
+Salome? Du hast versprochen, f&#xFC;r mich zu tanzen.</P>
+<DIV_END divEndID="deID_2436_00598" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00601']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00602" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00599']"/>
+<P parID="02870"><TAB/><SPK>HERODIAS</SPK>: Ich will nicht haben, dass sie tanze.</P>
+<DIV_END divEndID="deID_2436_00599" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00602']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00603" endPtr="WR-04-12_n0205.xml#//DIV_END[@divEndID='deID_2436_00600']"/>
+<P parID="02871"><TAB/><SPK>SALOME</SPK>: Ich will f&#xFC;r dich tanzen, Tetrarch.</P>
+<DIV_END divEndID="deID_2436_00600" startPtr="WR-04-12_n0205.xml#//DIV_START[@divStartID='dsID_2436_00603']"/>
+<FT type="pn" num="205" c_text="&#x2014; 205 &#x2014;"/>
+</PAGE>

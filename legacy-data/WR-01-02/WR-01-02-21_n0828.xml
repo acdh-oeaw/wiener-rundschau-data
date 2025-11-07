@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-21_n0827.xml</PREV>
+<NEXT>WR-01-02-22_n0829.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 21, S. 828</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>9</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">828</LTEXT><CTEXT>NOTIZEN.</CTEXT></HD>
+<TABLE parID="02072"><ROW ciID="0159"><CELL>
+<P part="medial" parID="02073">Bekanntlich haben an &#xE4;hnlichen<LE/>
+Themen Anzengruber im &#xBB;Ledigen<LE/>
+Hof&#xAB; und Maupassant in &#xBB;Musotte&#xAB;<LE/>
+mit sicheren H&#xE4;nden ger&#xFC;hrt. &#xBB;Ein<LE/>
+Testament&#xAB; verliert nicht neben<LE/>
+ihnen; das ist genug. Auch die<LE/>
+Geschichte &#xBB;Ihr Dichter&#xAB; hat eine<LE/>
+h&#xFC;bsche Idee, ist aber zu breit <HYPH1 cont="angelegt">an-</HYPH1><LE/>
+<HYPH2>gelegt</HYPH2> und wiederholt sich zu sehr.<LE/>
+Ueber die wenig feinen Skizzen</P>
+</CELL><CELL>
+<P part="final" parID="02074">&#xBB;Annuschka, die Magd&#xAB; und &#xBB;Eine<LE/>
+schreckliche Spukgeschichte&#xAB; ist<LE/>
+nichts zu sagen. Im Dialog &#xBB;<HYPH1 cont="Gewidmet">Ge-</HYPH1><LE/>
+<HYPH2>widmet</HYPH2> von <SYMBOL type="4dots"/>&#xAB; forcirt Frau Carry<LE/>
+Brachvogel jene talmifranz&#xF6;sische,<LE/>
+erschreckliche Frivolit&#xE4;t, die man<LE/>
+nur in den B&#xFC;chern werdender<LE/>
+J&#xFC;nglinge und anst&#xE4;ndiger Frauen<LE/>
+findet.</P>
+<P parID="02075"><I><AUCTOR>Ludwig Bauer</AUCTOR>.</I></P>
+<DIV_END divEndID="deID_2398_00263" startPtr="WR-01-02-21_n0827.xml#//DIV_START[@divStartID='dsID_2398_00265']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2398_00264" startPtr="WR-01-02-21_n0825.xml#//DIV_START[@divStartID='dsID_2398_00260']"/>
+<SEPARATOR type="hr"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2398_00266" endPtr="WR-01-02-21_n0828.xml#//DIV_END[@divEndID='deID_2398_00265']"/>
+<P parID="02076">Herausgeber und verantwortlicher Redacteur: <SPC>Rudolf Strauss</SPC>.</P>
+<P parID="02077">Ch. Reisser &amp; M. Werthner, Wien.</P>
+<DIV_END divEndID="deID_2398_00265" startPtr="WR-01-02-21_n0828.xml#//DIV_START[@divStartID='dsID_2398_00266']"/>
+<DIV_END divEndID="deID_2398_00266" startPtr="WR-01-02-21_n0793.xml#//DIV_START[@divStartID='dsID_2398_00251']"/>
+</PAGE>

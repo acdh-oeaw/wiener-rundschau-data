@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0395.xml</PREV>
+<NEXT>WR-03-02-17_n0397.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 396</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: BLAUBART UND ARIANE.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_00807" endPtr="WR-03-02-17_n0396.xml#//DIV_END[@divEndID='deID_2434_00804']"/>
+<P parID="04450"><SPK>STIMMEN IN DER MENGE</SPK>:</P>
+<P parID="04451"><TAB/>Kommt! Kommt! Herunter! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00804" startPtr="WR-03-02-17_n0396.xml#//DIV_START[@divStartID='dsID_2434_00807']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00808" endPtr="WR-03-02-17_n0396.xml#//DIV_END[@divEndID='deID_2434_00805']"/>
+<P parID="04452"><SPK>DIE KINDER</SPK>:</P>
+<P parID="04453"><TAB/>Nein <SYMBOL type="3dots"/> Nein <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00805" startPtr="WR-03-02-17_n0396.xml#//DIV_START[@divStartID='dsID_2434_00808']"/>
+<P parID="04454"><SD>(In diesem Augenblicke &#xF6;ffnet sich eine Th&#xFC;r zur Rechten; ZWEI SCHWARZE<LE/>
+DIENER mit brennenden Fackeln in der Hand kommen von innen.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00809" endPtr="WR-03-02-17_n0396.xml#//DIV_END[@divEndID='deID_2434_00806']"/>
+<P parID="04455"><SPK>DIE KINDER</SPK> <SD>AN DEN FENSTERN</SD>:</P>
+<P parID="04456"><TAB/>Die Mohren <SYMBOL type="3dots"/> Die Mohren <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00806" startPtr="WR-03-02-17_n0396.xml#//DIV_START[@divStartID='dsID_2434_00809']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00810" endPtr="WR-03-02-17_n0396.xml#//DIV_END[@divEndID='deID_2434_00807']"/>
+<P parID="04457"><SPK>RUFE</SPK> <SD>VON DRAUSSEN</SD>:</P>
+<P parID="04458"><TAB/>Herunter! Herunter!</P>
+<DIV_END divEndID="deID_2434_00807" startPtr="WR-03-02-17_n0396.xml#//DIV_START[@divStartID='dsID_2434_00810']"/>
+<P parID="04459"><SD>(Die Kinder verschwinden. Schweigen in der Menge. Die Schwarzen stecken die<LE/>
+Fackeln auf und gehen an die Fenster im Hintergrunde, die sie nacheinander schliessen.<LE/>
+Man h&#xF6;rt keinen Ton mehr. Durch dieselbe Seitenth&#xFC;r kommen BLAUBART und<LE/>
+ARIANE, eng umschlungen. Die Schwarzen entfernen sich.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00811" endPtr="WR-03-02-17_n0396.xml#//DIV_END[@divEndID='deID_2434_00808']"/>
+<P parID="04460"><SPK>BLAUBART</SPK>:</P>
+<P parID="04461"><TAB/>Dies ist die Marmorgalerie. Seht Ihr diese Spiegel von Krystall und<LE/>
+Silber? Diese Laden von Ebenholz zwischen den Porphyrs&#xE4;ulen? Jede Lade<LE/>
+hat ihren Spiegel, und jeder Spiegel hat zw&#xF6;lf K&#xE4;stchen. Sie sind nach den<LE/>
+verschiedenen Himmelsstrichen geordnet, und jede enth&#xE4;lt die kostbarsten <HYPH1 cont="Gew&#xE4;nder">Ge-</HYPH1><LE/>
+<HYPH2>w&#xE4;nder</HYPH2> und Edelsteine eines Landes oder einer Zeit. Sie sind alle Euer, und<LE/>
+hier sind die Schl&#xFC;ssel dazu. Liebt Ihr Edelsteine?</P>
+<DIV_END divEndID="deID_2434_00808" startPtr="WR-03-02-17_n0396.xml#//DIV_START[@divStartID='dsID_2434_00811']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00812" endPtr="WR-03-02-17_n0396.xml#//DIV_END[@divEndID='deID_2434_00809']"/>
+<P parID="04462"><SPK>ARIANE</SPK>:</P>
+<P parID="04463"><TAB/>Ja.</P>
+<DIV_END divEndID="deID_2434_00809" startPtr="WR-03-02-17_n0396.xml#//DIV_START[@divStartID='dsID_2434_00812']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00813" endPtr="WR-03-02-17_n0396.xml#//DIV_END[@divEndID='deID_2434_00810']"/>
+<P parID="04464"><SPK>BLAUBART</SPK>:</P>
+<P parID="04465"><TAB/>Welche wollt Ihr zuerst &#xF6;ffnen? Diese bergen die Sch&#xE4;tze Indiens und diese<LE/>
+die Persiens. Hier ruhen die Reichth&#xFC;mer Egyptens und dort die Kleinodien<LE/>
+Israels. Hier die Geschmeide Griechenlands und dort die Juwelen Roms <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00810" startPtr="WR-03-02-17_n0396.xml#//DIV_START[@divStartID='dsID_2434_00813']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00814" endPtr="WR-03-02-17_n0396.xml#//DIV_END[@divEndID='deID_2434_00811']"/>
+<P parID="04466"><SPK>ARIANE</SPK>:</P>
+<P parID="04467"><TAB/>Verweilen wir bei den Sch&#xE4;tzen Roms. Die R&#xF6;merinnen waren sch&#xF6;n und<LE/>
+muthig.</P>
+<DIV_END divEndID="deID_2434_00811" startPtr="WR-03-02-17_n0396.xml#//DIV_START[@divStartID='dsID_2434_00814']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00815" endPtr="WR-03-02-17_n0396.xml#//DIV_END[@divEndID='deID_2434_00812']"/>
+<P parID="04468"><SPK>BLAUBART</SPK>:</P>
+<P parID="04469"><TAB/>Hier ist der Schl&#xFC;ssel, der die grosse Lade &#xF6;ffnet, und die zw&#xF6;lf kleinen<LE/>
+Laden gehen mit ihr auf.</P>
+<DIV_END divEndID="deID_2434_00812" startPtr="WR-03-02-17_n0396.xml#//DIV_START[@divStartID='dsID_2434_00815']"/>
+<P parID="04470"><SD>(Ariane nimmt den Schl&#xFC;ssel und dreht ihn im Schlosse um. Die Deckel der<LE/>
+grossen Lade und der zw&#xF6;lf kleinen Laden &#xF6;ffnen sich langsam. Ein blendender<LE/>
+&#xDC;berfluss von Schleiern, G&#xFC;rteln, Tuniken, seidenen Geweben, Gold- und <HYPH1 cont="Silberbrocaten">Silber-</HYPH1><LE/>
+<HYPH2>brocaten</HYPH2>, welche die Schwere des Deckels niedergehalten hatte, quillt aus der grossen<LE/>
+Lade hervor, w&#xE4;hrend Ringe, Halsgeschmeide, Armb&#xE4;nder, G&#xFC;rtel, Perlen und <HYPH1 cont="kostbare">kost-</HYPH1><LE/>
+<HYPH2>bare</HYPH2> Steine aus den zw&#xF6;lf kleinen Laden schwer herabtropfen und auf die <HYPH1 cont="Marmorfliesen">Marmor-</HYPH1><LE/>
+<HYPH2>fliesen</HYPH2> fallen.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00816" endPtr="WR-03-02-17_n0396.xml#//DIV_END[@divEndID='deID_2434_00813']"/>
+<P parID="04471"><SPK>ARIANE</SPK>:</P>
+<P parID="04472"><TAB/>Oh!</P>
+<DIV_END divEndID="deID_2434_00813" startPtr="WR-03-02-17_n0396.xml#//DIV_START[@divStartID='dsID_2434_00816']"/>
+<P part="initial" parID="04473"><SD part="initial">(Sie w&#xFC;hlt mit den H&#xE4;nden gierig und freudig in der Flut von Stoffen und<LE/>
+Geschmeiden und wirft hastig einen schimmernden Schleier um ihre Schultern,<LE/>
+w&#xE4;hrend sie sich in dem grossen Krystallspiegel selig betrachtet. Um die H&#xFC;ften<LE/>
+schlingt sie einen breiten, mit Steinen besetzten G&#xFC;rtel und legt ihr langes, schweres<LE/>
+Haar in ein Perlennetz <SYMBOL type="3dots"/> Alles schweigt; nur allm&#xE4;hlich erhebt sich wie aus dem</SD></P>
+<FT type="pn" num="396" c_text="&#x2014; 396 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-15_n0573.xml</PREV>
+<NEXT>WR-02-02-15_n0575.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 15, S. 574</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>6</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">574</LTEXT><CTEXT>SCHEERBART.</CTEXT></HD>
+<P parID="00645"><TAB/>Das alte Meer tobt.</P>
+<P parID="00646"><TAB/>Und langsam tauchen die Geister des Meeres wieder hinab<LE/>
+&#x2014; ins alte, kalte Wogenbett.</P>
+<P parID="00647"><TAB/>Gurgelnd schliesst sich das Wasser &#xFC;ber den haarigen K&#xF6;pfen,<LE/>
+in denen die smaragdgr&#xFC;nen Augen verl&#xF6;schen.</P>
+<P parID="00648"><TAB/>Und wieder tobt das Meer &#x2014; einsam &#x2014; einsam &#x2014; und gross!</P>
+<DIV_END divEndID="deID_2433_00044" startPtr="WR-02-02-15_n0573.xml#//DIV_START[@divStartID='dsID_2433_00046']"/>
+<DIV_START type="verse" divStartID="dsID_2433_00047" endPtr="WR-02-02-15_n0574.xml#//DIV_END[@divEndID='deID_2433_00045']"/>
+<TITLE titleID="tiID_2433_00042"><TITLEPART>S&#xC4;ULENLIED.</TITLEPART></TITLE>
+<LG parID="00649"><L>Ich steh&#x2019; auf meiner S&#xE4;ule,</L>
+<L>Und schau ins wilde Meer,</L>
+<L>Ich h&#xF6;re Dein Geheule,</L>
+<L>Und wund&#x2019;re mich nicht mehr.</L></LG>
+<LG parID="00650"><L>Ich steh&#x2019; auf meiner S&#xE4;ule,</L>
+<L>Mir wird mein Herz nicht schwer.</L></LG>
+<DIV_END divEndID="deID_2433_00045" startPtr="WR-02-02-15_n0574.xml#//DIV_START[@divStartID='dsID_2433_00047']"/>
+<DIV_END divEndID="deID_2433_00046" startPtr="WR-02-02-15_n0572.xml#//DIV_START[@divStartID='dsID_2433_00043']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

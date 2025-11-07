@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-04_n0130.xml</PREV>
+<NEXT>WR-01-01-04_n0132.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 131</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WIE WAR <SYMBOL type="3dots"/></CTEXT><RTEXT type="pn">131</RTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2397_00204" endPtr="WR-01-01-04_n0131.xml#//DIV_END[@divEndID='deID_2397_00203']"/>
+<TITLE titleID="tiID_2397_00068"><TITLEPART>WIE WAR <SYMBOL type="3dots"/></TITLEPART></TITLE>
+<LG parID="00918"><L><IN>Wie</IN> war dein sch&#xF6;ner Leib mir hold</L>
+<L>und ist mir s&#xFC;ss bekommen &#x2014; &#x2014;!</L>
+<L>Nun deine Seele so gewollt,</L>
+<L>du hast ihn mir genommen <SYMBOL type="3dots"/></L></LG>
+<LG parID="00919"><L>Die Pracht, die einst mein Eigen war,</L>
+<L>sie h&#xE4;lt mich noch gefangen &#x2014; &#x2014;</L>
+<L>H&#xFC;ll&#x2019; ein dich in dein goldnes Haar &#x2014;</L>
+<L>mich t&#xF6;dtet mein Verlangen <SYMBOL type="2dots"/>!</L></LG>
+<P parID="00920">Wien. <AUCTOR><C>Hermann Hango</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00203" startPtr="WR-01-01-04_n0131.xml#//DIV_START[@divStartID='dsID_2397_00204']"/>
+</PAGE>

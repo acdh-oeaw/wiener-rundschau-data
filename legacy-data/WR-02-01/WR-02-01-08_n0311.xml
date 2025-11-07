@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-08_n0310.xml</PREV>
+<NEXT>WR-02-01-08_n0312.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 8, S. 311</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2432_00492" endPtr="WR-02-01-08_n0311.xml#//DIV_END[@divEndID='deID_2432_00491']"/>
+<TITLE titleID="tiID_2432_00104"><TITLEPART type="main">EIN SHILLING PRO TAG.</TITLEPART><LE/>
+<TITLEPART>(Der Ausgediente.)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Aus den <SOURCE><LANG iso="en">&#xBB;Barrak-Room-Ballads&#xAB;</LANG></SOURCE> von <AUCTOR><C>Rudyard Kipling</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Aus dem Englischen &#xFC;bersetzt von <AUCTOR type="translator"><C>Otto Sachs</C></AUCTOR>.</TITLEPART></TITLE>
+<LG parID="02241"><L><IN>Ich</IN> heisse O&#x2019;Kell&#x2019;, und ich h&#xF6;rt&#x2019; die Reveill&#x2019;</L>
+<L>Von Birr bis Bareill&#x2019;, von Leeds bis Lahore,</L>
+<L>In Hongkong und Peshawur,</L>
+<L>Lucknow und Etawah,</L>
+<L>Was weiss ich, in Johore und noch tausenden &#xBB;pore&#xAB;.</L>
+<L>Manche Cholerazeit; und ach! tief und oh! breit,</L>
+<L>Die Krankheit, das Leid auf dem Wege uns lag,</L>
+<L>Alt und hin bin ich schon,</L>
+<L>Man jagt&#x2019; mich davon &#x2014;</L>
+<L>Und ein Shilling mein Lohn. &#x2014; Ei! Ein Shilling pro Tag!</L></LG>
+<LG parID="02242"><L><SPC>Chor</SPC>: Shilling pro Tag!</L>
+<L>Potz Blitz und Schlag!</L>
+<L>Gl&#xFC;cklich wer&#x2019;s hat &#x2014; einen Shilling pro Tag!</L></LG>
+<LG parID="02243"><L>Oh! Es macht mich halb toll, wenn ich&#x2019;s sagen Euch soll,</L>
+<L>Wie der Kriegsruf erscholl von den Ghazi&#x2019;s einmal,</L>
+<L>Wie wir ritten und stritten, und was wir auch litten,</L>
+<L>Ob wir lebten, ob starben, war den Herren egal.</L>
+<L>Doch, was n&#xFC;tzt&#x2019;s alte Leiern? Mein Weib, das geht scheuern,</L>
+<L>Und ich darf nicht feiern &#x2014; als Dienstmann drum lauf ich.</L>
+<L>Habt Ihr nichts zu besorgen?</L>
+<L>Seit fr&#xFC;hestem Morgen.</L>
+<L>In Hunger und Sorgen und Frieren wart&#x2019; drauf ich.</L></LG>
+<LG parID="02244"><L><SPC>Voller Chor</SPC>: Gebt ihm den Brief,</L>
+<L>Sonst geht&#x2019;s mit ihm schief,</L>
+<L>Arm&#x2019; alter Wachtmeister, rennt mit dem Brief t</L>
+<L>Denkt doch an ihn,</L>
+<L>Wie stolz er einst schien,</L>
+<L>Denkt, was er jetzt ist, und</L>
+<L><LANG iso="en">God save the Queen!</LANG></L></LG>
+<DIV_END divEndID="deID_2432_00491" startPtr="WR-02-01-08_n0311.xml#//DIV_START[@divStartID='dsID_2432_00492']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

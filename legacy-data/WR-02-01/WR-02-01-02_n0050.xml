@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-02_n0049.xml</PREV>
+<NEXT>WR-02-01-02_n0051.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 2, S. 50</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2432_00041" endPtr="WR-02-01-02_n0051.xml#//DIV_END[@divEndID='deID_2432_00040']"/>
+<TITLE titleID="tiID_2432_00029"><TITLEPART type="main">ADONAI.</TITLEPART><LE/>
+<TITLEPART type="desc"><SPC>Liebeshymnus</SPC>.</TITLEPART></TITLE>
+<TITLE titleID="tiID_2432_00030"><TITLEPART type="enum">1.</TITLEPART></TITLE>
+<LG parID="00322"><L><IN>Gekommen</IN> ist deine Liebe,</L>
+<L>Da ward Gesang meine Seele.</L>
+<L>Meine Liebe will ich dir sagen,</L>
+<L>H&#xF6;re meiner Seele Gesang.</L></LG>
+<TITLE titleID="tiID_2432_00031"><TITLEPART type="enum">2.</TITLEPART></TITLE>
+<LG parID="00323"><L>Auf deinen Purpurwangen</L>
+<L>Verweilte lachende Morgenr&#xF6;the,</L>
+<L>Aber unter der Weisheit deiner Brauen</L>
+<L>Tr&#xE4;umen dunkle Fragen der Nacht.</L></LG>
+<LG parID="00324"><L>Wie Goldw&#xF6;lkchen im Abendwinde</L>
+<L>Wehen die Locken deiner Stirne;</L>
+<L>Die Hochfluth deiner Haare,</L>
+<L>Ein wallendes Weizenfeld im Sommer.</L></LG>
+<LG parID="00325"><L>Gleich dem w&#xFC;rzigen Athem der Wiesen</L>
+<L>Ist der Wohlgeruch deines Mundes;</L>
+<L>Der Hauch deiner Br&#xFC;ste</L>
+<L>Wie Vergissmeinnicht und Veilchen.</L></LG>
+<LG parID="00326"><L>Der Blick deiner Augen</L>
+<L>Ist gl&#xE4;nzende Verheissung,</L>
+<L>Ersehntes Wetterleuchten</L>
+<L>Nach langen, regenlosen Wochen.</L></LG>
+<LG parID="00327"><L>Deine kosende Stimme</L>
+<L>Das T&#xF6;nen tanzender Sterne;</L>
+<L>Aber ein grollendes Wort von dir</L>
+<L>Das Donnern untergehender Welten.</L></LG>
+</PAGE>

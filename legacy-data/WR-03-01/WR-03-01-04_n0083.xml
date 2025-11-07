@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-04_n0082.xml</PREV>
+<NEXT>WR-03-01-04_n0084.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 83</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>STRINDBERG: DIE SCHL&#xDC;SSEL DES HIMMELREICHS.</CTEXT></HD>
+<TABLE parID="01115"><ROW ciID="0368"><CELL>
+<P parID="01116"><TAB/>Als hierauf Petrus sich zum Gehen<LE/>
+wendet, bittet ihn der Hoberg-Alte <HYPH1 cont="inst&#xE4;ndig">in-</HYPH1><LE/>
+<HYPH2>st&#xE4;ndig</HYPH2>, ihm doch Gesellschaft zu leisten.<LE/>
+&#xBB;Ich bin so einsam und bedarf der<LE/>
+Freundschaft!&#xAB; &#xBB;Freundschaft,&#xAB; antwortet<LE/>
+St. Peter, &#xBB;kann nur zwischen Personen<LE/>
+von einigermassen gleicher Corpulenz <HYPH1 cont="bestehen">be-</HYPH1><LE/>
+<HYPH2>stehen</HYPH2>. Du bist zu gross f&#xFC;r mich,<LE/>
+Schmied. &#x2014; Viel zu gross!&#xAB;</P>
+<P parID="01117"><TAB/>Und nun flicht Strindberg eine Idylle<LE/>
+ein und zeichnet, nachdem er die <HYPH1 cont="Missgunst">Miss-</HYPH1><LE/>
+<HYPH2>gunst</HYPH2>, die Herrschsucht und <HYPH1 cont="Verschlagenheit">Verschlagen-</HYPH1><LE/>
+<HYPH2>heit</HYPH2> der Kleinen geschildert, nun auch, im<LE/>
+Gegensatze zu dem Unfrieden, den Leiden,<LE/>
+der Vereinsamung der Gr&#xF6;sse, das still<LE/>
+umfriedete Gl&#xFC;ck bescheidener <HYPH1 cont="Verh&#xE4;ltnisse">Verh&#xE4;lt-</HYPH1><LE/>
+<HYPH2>nisse</HYPH2>.</P>
+<P parID="01118"><TAB/>Es erscheinen Hand in Hand der<LE/>
+Pastor und die Pastorin, ihr Sohn und<LE/>
+ihre Schwiegertochter, die Enkelin und<LE/>
+deren Br&#xE4;utigam, die sich z&#xE4;rtlich <HYPH1 cont="umschlungen">um-</HYPH1><LE/>
+<HYPH2>schlungen</HYPH2> halten und noch ein Enkelchen.</P>
+<P parID="01119"><TAB/>Wir lassen die kleine Scene im <HYPH1 cont="Wortlaute">Wort-</HYPH1><LE/>
+<HYPH2>laute</HYPH2> folgen.</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2434_00350" endPtr="WR-03-01-04_n0084.xml#//DIV_END[@divEndID='deID_2434_00369']"/>
+<DIV_START cat="act" divStartID="dsID_2434_00351" endPtr="WR-03-01-04_n0084.xml#//DIV_END[@divEndID='deID_2434_00368']"/>
+<DIV_START cat="scene" divStartID="dsID_2434_00352" endPtr="WR-03-01-04_n0084.xml#//DIV_END[@divEndID='deID_2434_00367']"/>
+<TITLE titleID="tiID_2434_00054"><TITLEPART><SPC>Dritter Act</SPC>. <SPC>F&#xFC;nfte Scene</SPC>.</TITLEPART></TITLE>
+<DIV_START cat="speech" divStartID="dsID_2434_00353" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00348']"/>
+<P parID="01120"><SPK><SPC>Pastor</SPC></SPK>.</P>
+<LG parID="01121"><L>Ein sch&#xF6;ner Abend! &#x2014; Und nach sch&#xF6;nem</L>
+<L>Tag!</L>
+<L>Habt Dank, Ihr meine Kinder, Kindeskinder!</L>
+<L>Der Jahre achtzig f&#xFC;llte heut der Greis,</L>
+<L>Nun neiget sich dem Abend zu sein Leben.</L>
+<L>Habt Dank, dass wolkenlos die R&#xFC;ste</L>
+<L>Ihr gestaltet,</L>
+<L>Ihr alle, die Ihr meine Welt gewesen.</L>
+<L>Denn nie verliess ich noch dies stille Thal.</L>
+<L>Da nahm mein Leben erst den rechten</L>
+<L>Anfang,</L>
+<L>Als hier ich mit der Frau das Heim uns</L>
+<L>baute.</L>
+<L>Ich weiss nicht, wie es kommt, doch</L>
+<L>dieser Abend</L>
+<L>Ruft das Vergangne neu mir ins Ged&#xE4;chtnis.</L></LG>
+<DIV_END divEndID="deID_2434_00348" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00353']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00354" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00349']"/>
+<P parID="01122"><SPK><SPC>Kind</SPC></SPK> <SD>(erschrocken)</SD>.</P>
+<LG parID="01123"><L>Grossvater, sieh, der Hoberg-Alte r&#xFC;hrt sich!</L></LG>
+<DIV_END divEndID="deID_2434_00349" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00354']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00355" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00350']"/>
+<P parID="01124"><SPK><SPC>Pastor</SPC></SPK>.</P>
+<LG part="initial" parID="01125"><L>Du siehst Gespenster, Kind! &#x2014; Der Berg</L>
+<L>ist&#x2019;s,</L>
+<L>Und der hat sich noch nie ger&#xFC;hrt!</L>
+<L>Es geht vom Hoberg-Alten eine Sage,</L>
+<L>Ein M&#xE4;rchen, weisst Du, Kind, dass er</L>
+<L>ein Riese,</L>
+<L>Der einst verhext von einem Bischof ward,</L></LG>
+</CELL><CELL>
+<LG part="final" parID="01126"><L>Und eher nicht Erl&#xF6;sung finden kann,</L>
+<L>Bis er sich eines Weibes Lieb&#x2019; erringt!</L>
+<L>Sei also nur getrost, mein Enkelkind,</L>
+<L>Der Hoberg-Alte sitzt noch h&#xFC;bsch lang</L>
+<L>still.</L></LG>
+<DIV_END divEndID="deID_2434_00350" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00355']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00356" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00351']"/>
+<P parID="01127"><SPK><SPC>Sohn</SPC></SPK>.</P>
+<LG parID="01128"><L>Nein, Vater, das ist gar noch nicht so</L>
+<L>sicher;</L>
+<L>Hier spricht man schon von einem</L>
+<L>Schienenweg,</L>
+<L>Den durch den Alten quer man ziehen will.</L></LG>
+<DIV_END divEndID="deID_2434_00351" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00356']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00357" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00352']"/>
+<P parID="01129"><SPK><SPC>Pastor</SPC></SPK>.</P>
+<LG parID="01130"><L>Sieh, das ist mehr, als ich gewusst &#x2014; &#x2014; &#x2014;</L>
+<L>Das freut mich, und betr&#xFC;bt mich auch,</L>
+<L>Denn theuer war mir dieses Thal,</L>
+<L>So still und einfach, fern vom Weltgetriebe <SYMBOL type="3dots"/></L></LG>
+<DIV_END divEndID="deID_2434_00352" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00357']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00358" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00353']"/>
+<P parID="01131"><SPK><SPC>Kind</SPC></SPK>.</P>
+<LG parID="01132"><L>Sieh nur, nun sch&#xFC;ttelt sich die Linde,</L>
+<L>Grossvater, und doch bl&#xE4;st kein Wind.</L></LG>
+<DIV_END divEndID="deID_2434_00353" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00358']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00359" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00354']"/>
+<P parID="01133"><SPK><SPC>Pastor</SPC></SPK>.</P>
+<LG parID="01134"><L>Er bl&#xE4;st gewiss dort oben in der Krone,</L>
+<L>Ob wir&#x2019;s hier unten auch nicht f&#xFC;hlen,</L>
+<L>Engelchen.</L></LG>
+<DIV_END divEndID="deID_2434_00354" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00359']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00360" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00355']"/>
+<P parID="01135"><SPK><SPC>Br&#xE4;utigam</SPC></SPK> <SD>(zur Braut)</SD>.</P>
+<LG parID="01136"><L>Vielleicht, dass sich vor Schmerz die Linde</L>
+<L>sch&#xFC;ttelt,</L>
+<L>Weil morgens in die Rinde wir den Namen</L>
+<L>ritzten.</L></LG>
+<DIV_END divEndID="deID_2434_00355" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00360']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00361" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00356']"/>
+<P parID="01137"><SPK><SPC>Enkelin</SPC></SPK>.</P>
+<LG parID="01138"><L>Vor Schmerz sah ich sie weinen, und wie</L>
+<L>sollte</L>
+<L>Denn sie nicht leiden, w&#xE4;hrend wir</L>
+<L>geniessen,</L>
+<L>Ist unser Gl&#xFC;ck doch stets auf andrer</L>
+<L>Schmerz gebaut.</L></LG>
+<DIV_END divEndID="deID_2434_00356" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00361']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00362" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00357']"/>
+<P parID="01139"><SPK><SPC>Pastorin</SPC></SPK>.</P>
+<LG parID="01140"><L>Sie bl&#xFC;hte diesmal reich, die alte Linde,</L>
+<L>Da wird&#x2019;s viel Honig geben in den K&#xF6;rben.</L></LG>
+<DIV_END divEndID="deID_2434_00357" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00362']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00363" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00358']"/>
+<P parID="01141"><SPK><SPC>Schwiegertochter</SPC></SPK>.</P>
+<LG parID="01142"><L>Du denkst doch stets an Deinen Haushalt,</L>
+<L>alte Mutter.</L></LG>
+<DIV_END divEndID="deID_2434_00358" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00363']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00364" endPtr="WR-03-01-04_n0083.xml#//DIV_END[@divEndID='deID_2434_00359']"/>
+<P parID="01143"><SPK><SPC>Pastorin</SPC></SPK>.</P>
+<LG parID="01144"><L>Wer, glaubst Du, sollte sonst wohl daran</L>
+<L>denken?</L>
+<L>Man ritzt nicht mehr den Namen in die</L>
+<L>Linde,</L>
+<L>Hat man die siebzig hinter sich.</L>
+<L>Da pfl&#xFC;ckt Grossmutter lieber Bl&#xFC;ten,</L>
+<L>Und trocknet sie, um Thee zu haben,</L>
+<L>Wenn an dem Sarg der Husten hobelt.</L></LG>
+<DIV_END divEndID="deID_2434_00359" startPtr="WR-03-01-04_n0083.xml#//DIV_START[@divStartID='dsID_2434_00364']"/>
+</CELL></ROW></TABLE>
+<FT type="pn" num="83" c_text="&#x2014; 83 &#x2014;"/>
+</PAGE>

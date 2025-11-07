@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-08_n0319.xml</PREV>
+<NEXT>WR-01-01-09_n0321.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 8, S. 320</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">320</LTEXT><CTEXT>KRITIK.</CTEXT></HD>
+<TABLE parID="02399"><ROW ciID="0146"><CELL>
+<P part="medial" parID="02400">ruhelos G&#xE4;hrendes, etwas Wildes,<LE/>
+Leidenschaftliches. Es ist ein<LE/>
+Temperament, das sich ehrlich noch<LE/>
+emp&#xF6;ren und ehrlich noch <HYPH1 cont="begeistern">be-</HYPH1><LE/>
+<HYPH2>geistern</HYPH2> kann, und das deshalb<LE/>
+die grellen, grossen Tropenfr&#xFC;chte<LE/>
+heisser Gef&#xFC;hle und heisser <HYPH1 cont="Empfindungen">Empfin-</HYPH1><LE/>
+<HYPH2>dungen</HYPH2> zeitigt. F&#xFC;r Skeptiker, f&#xFC;r<LE/>
+kalte N&#xF6;rgler ist dieses Buch nicht<LE/>
+geschrieben. Uns aber sind diese<LE/>
+starken Skizzen und Novellen werth,</P>
+</CELL><CELL>
+<P part="final" parID="02401">weil sie uns eine feine, nerv&#xF6;se<LE/>
+Seele verk&#xFC;nden, die &#x2014; ein stets<LE/>
+bereites Echo &#x2014; auf den leisesten<LE/>
+Ruf laut reagirt, auf den sachtesten<LE/>
+Anschlag t&#xF6;nend und singend, wenn<LE/>
+auch vielleicht etwas l&#xE4;rmend, <HYPH1 cont="erwidert">er-</HYPH1><LE/>
+<HYPH2>widert</HYPH2>. Und darauf, auf dieser <HYPH1 cont="verst&#xE4;rkten">ver-</HYPH1><LE/>
+<HYPH2>st&#xE4;rkten</HYPH2> Resonanz empfangener<LE/>
+Reize und Eindr&#xFC;cke, beruht im<LE/>
+letzten Grunde ja alles echte<LE/>
+K&#xFC;nstlerthum. <I><AUCTOR>Carl Lang</AUCTOR>.</I></P>
+<DIV_END divEndID="deID_2397_00458" startPtr="WR-01-01-08_n0319.xml#//DIV_START[@divStartID='dsID_2397_00460']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2397_00459" startPtr="WR-01-01-08_n0317.xml#//DIV_START[@divStartID='dsID_2397_00454']"/>
+<SEPARATOR type="hr"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2397_00461" endPtr="WR-01-01-08_n0320.xml#//DIV_END[@divEndID='deID_2397_00460']"/>
+<P parID="02402">Herausgeber und verantwortlicher Redacteur: <SPC>Rudolf Strauss</SPC>.</P>
+<P parID="02403">Ch. Reisser &amp; M. Werthner, Wien.</P>
+<DIV_END divEndID="deID_2397_00460" startPtr="WR-01-01-08_n0320.xml#//DIV_START[@divStartID='dsID_2397_00461']"/>
+<DIV_END divEndID="deID_2397_00461" startPtr="WR-01-01-08_n0281.xml#//DIV_START[@divStartID='dsID_2397_00440']"/>
+</PAGE>

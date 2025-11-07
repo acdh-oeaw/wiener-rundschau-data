@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-01_n0040.xml</PREV>
+<NEXT>WR-01-01-02_n0042.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 41</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2397_00056" endPtr="WR-01-01-02_n0080.xml#//DIV_END[@divEndID='deID_2397_00126']"/>
+<DIV_START cat="masthead" divStartID="dsID_2397_00057" endPtr="WR-01-01-02_n0041.xml#//DIV_END[@divEndID='deID_2397_00056']"/>
+<P parID="00222"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00223"><B><DATE>1. <SPC>DECEMBER</SPC>, 1896</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2397_00056" startPtr="WR-01-01-02_n0041.xml#//DIV_START[@divStartID='dsID_2397_00057']"/>
+<DIV_START type="performance" divStartID="dsID_2397_00058" endPtr="WR-01-01-02_n0049.xml#//DIV_END[@divEndID='deID_2397_00110']"/>
+<TITLE titleID="tiID_2397_00026"><TITLEPART type="main">ALLADINE UND PALOMIDES.</TITLEPART><LE/>
+<TITLEPART type="desc">Ein kleines Drama f&#xFC;r Marionetten von <AUCTOR><C>Maurice Maeterlinck</C></AUCTOR>.<LE/>
+Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Marie Lang</C></AUCTOR>.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<DIV_START cat="act" divStartID="dsID_2397_00059" endPtr="WR-01-01-02_n0049.xml#//DIV_END[@divEndID='deID_2397_00109']"/>
+<TITLE titleID="tiID_2397_00027"><TITLEPART>II. ACT.</TITLEPART></TITLE>
+<DIV_START cat="scene" divStartID="dsID_2397_00060" endPtr="WR-01-01-02_n0043.xml#//DIV_END[@divEndID='deID_2397_00076']"/>
+<TITLE titleID="tiID_2397_00028"><TITLEPART>I. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="00224"><SD><SPK><SPC>Alladine</SPC></SPK>, die Stirne an eines der Fenster gelehnt, die auf den Park gehen.</SD></P>
+<P parID="00225"><SD><SPK><SPC>Ablamore</SPC></SPK> tritt auf.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00061" endPtr="WR-01-01-02_n0041.xml#//DIV_END[@divEndID='deID_2397_00057']"/>
+<P parID="00226"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00227"><TAB/>Alladine <SYMBOL type="dots"/></P>
+<DIV_END divEndID="deID_2397_00057" startPtr="WR-01-01-02_n0041.xml#//DIV_START[@divStartID='dsID_2397_00061']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00062" endPtr="WR-01-01-02_n0041.xml#//DIV_END[@divEndID='deID_2397_00058']"/>
+<P parID="00228"><SPK><SPC>Alladine</SPC></SPK> <SD>(sich j&#xE4;h umwendend)</SD>.</P>
+<P parID="00229"><TAB/>Was w&#xFC;nscht Ihr?</P>
+<DIV_END divEndID="deID_2397_00058" startPtr="WR-01-01-02_n0041.xml#//DIV_START[@divStartID='dsID_2397_00062']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00063" endPtr="WR-01-01-02_n0041.xml#//DIV_END[@divEndID='deID_2397_00059']"/>
+<P parID="00230"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00231"><TAB/>O! du bist blass <SYMBOL type="3dots"/> Bist du leidend?</P>
+<DIV_END divEndID="deID_2397_00059" startPtr="WR-01-01-02_n0041.xml#//DIV_START[@divStartID='dsID_2397_00063']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00064" endPtr="WR-01-01-02_n0041.xml#//DIV_END[@divEndID='deID_2397_00060']"/>
+<P parID="00232"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00233"><TAB/>Nein.</P>
+<DIV_END divEndID="deID_2397_00060" startPtr="WR-01-01-02_n0041.xml#//DIV_START[@divStartID='dsID_2397_00064']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00065" endPtr="WR-01-01-02_n0042.xml#//DIV_END[@divEndID='deID_2397_00061']"/>
+<P parID="00234"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P part="initial" parID="00235"><TAB/>Was geht im Parke vor? Du schautest auf die Reihen<LE/>
+der Springbrunnen, die sich vor deinen Fenstern ausbreiten?<LE/>
+Sie sind wunderbar und unerm&#xFC;dlich. Sie haben sich bei dem<LE/>
+Tode meiner T&#xF6;chter nacheinander erhoben <SYMBOL type="3dots"/> Nachts h&#xF6;re<LE/>
+ich sie singen im Garten <SYMBOL type="3dots"/> Sie gemahnen mich der Wesen,</P>
+</PAGE>

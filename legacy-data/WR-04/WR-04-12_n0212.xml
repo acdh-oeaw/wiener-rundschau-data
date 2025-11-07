@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0211.xml</PREV>
+<NEXT>WR-04-12_n0213.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 212</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2436_00651" endPtr="WR-04-12_n0212.xml#//DIV_END[@divEndID='deID_2436_00648']"/>
+<P parID="02926"><TAB/><SPK>HERODES</SPK>: Sie ist ein Ungeheuer, deine Tochter; ich sage dir, sie ist ein<LE/>
+Ungeheuer. In Wahrheit, was sie gethan hat, ist ein gro&#xDF;es Verbrechen. Mir ist<LE/>
+gewiss, es ist ein Verbrechen gegen einen unbekannten Gott.</P>
+<DIV_END divEndID="deID_2436_00648" startPtr="WR-04-12_n0212.xml#//DIV_START[@divStartID='dsID_2436_00651']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00652" endPtr="WR-04-12_n0212.xml#//DIV_END[@divEndID='deID_2436_00649']"/>
+<P parID="02927"><TAB/><SPK>HERODIAS</SPK>: Ich bin ganz zufrieden mit meiner Tochter. Sie hat recht gethan.<LE/>
+Und ich m&#xF6;chte jetzt hier bleiben.</P>
+<DIV_END divEndID="deID_2436_00649" startPtr="WR-04-12_n0212.xml#//DIV_START[@divStartID='dsID_2436_00652']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00653" endPtr="WR-04-12_n0212.xml#//DIV_END[@divEndID='deID_2436_00650']"/>
+<P parID="02928"><TAB/><SPK>HERODES</SPK> <SD>(steht auf)</SD>: Ah! da spricht meines Bruders Weib! Komm&#x2019;! Ich<LE/>
+will nicht an diesem Orte bleiben. Komm&#x2019;, sag&#x2019; ich dir! Sicher, es wird Schreckliches<LE/>
+geschehen. Manasseh, Issaschar, Ozias, l&#xF6;scht die Fackeln aus. Ich will all die Dinge<LE/>
+nicht sehen, ich will nicht leiden, dass all die Dinge mich sehen. L&#xF6;scht die Fackeln<LE/>
+aus! Verbergt den Mond! Verbergt die Sterne! Wir wollen uns selber im Palaste<LE/>
+verbergen, Herodias. Ich fange an zu erzittern.</P>
+<DIV_END divEndID="deID_2436_00650" startPtr="WR-04-12_n0212.xml#//DIV_START[@divStartID='dsID_2436_00653']"/>
+<P parID="02929"><SD>(Die Sclaven l&#xF6;schen die Fackeln aus. Die Sterne verschwinden. Eine gro&#xDF;e Wolke zieht<LE/>
+&#xFC;ber den Mond und verh&#xFC;llt ihn v&#xF6;llig. Die B&#xFC;hne wird ganz dunkel. Der Tetrarch beginnt<LE/>
+die Treppe hinaufzusteigen.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_00654" endPtr="WR-04-12_n0212.xml#//DIV_END[@divEndID='deID_2436_00651']"/>
+<P parID="02930"><TAB/><SPK>DIE STIMME DER SALOME</SPK>: Ah, ich habe deinen Mund gek&#xFC;sst, Jochanaan;<LE/>
+ich hab&#x2019; ihn gek&#xFC;sst, deinen Mond. Es war ein bitterer Geschmack auf deinen Lippen.<LE/>
+Hat er nach Blut geschmeckt? <SYMBOL type="3dots"/> Nein; doch schmeckte er vielleicht nach Liebe <SYMBOL type="3dots"/><LE/>
+Sie sagen, dass die Liebe bitter schmecke <SYMBOL type="3dots"/> Doch was thut&#x2019;s, was thut&#x2019;s? Ich<LE/>
+habe deinen Mund gek&#xFC;sst, Jochanaan, ich hab&#x2019; ihn gek&#xFC;sst, deinen Mund!</P>
+<DIV_END divEndID="deID_2436_00651" startPtr="WR-04-12_n0212.xml#//DIV_START[@divStartID='dsID_2436_00654']"/>
+<P parID="02931"><SD>(Ein Strahl des Mondlichtes f&#xE4;llt auf Salome und beleuchtet sie.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_00655" endPtr="WR-04-12_n0212.xml#//DIV_END[@divEndID='deID_2436_00652']"/>
+<P parID="02932"><TAB/><SPK>HERODES</SPK> <SD>(wendet sich um und erblickt Salome)</SD>: Man t&#xF6;dte dieses Weib!</P>
+<DIV_END divEndID="deID_2436_00652" startPtr="WR-04-12_n0212.xml#//DIV_START[@divStartID='dsID_2436_00655']"/>
+<P parID="02933"><SD>(Die <SPK>SOLDATEN</SPK> <SPC>st&#xFC;rzen vor</SPC> und <SPC>zermalmen</SPC> <SPK>SALOME</SPK> <SPC>unter ihren Schilden</SPC>.)</SD></P>
+<DIV_END divEndID="deID_2436_00653" startPtr="WR-04-12_n0191.xml#//DIV_START[@divStartID='dsID_2436_00274']"/>
+<DIV_END divEndID="deID_2436_00654" startPtr="WR-04-12_n0189.xml#//DIV_START[@divStartID='dsID_2436_00272']"/>
+<SEPARATOR num="8" type="undefined"/>
+<FT type="pn" num="212" c_text="&#x2014; 212 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-02_n0046.xml</PREV>
+<NEXT>WR-01-01-02_n0048.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 47</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ALLADINE UND PALOMIDES.</CTEXT><RTEXT type="pn">47</RTEXT></HD>
+<P part="final" parID="00317"><HYPH2>blick</HYPH2> wird noch kommen, wo die ganze Seele wie ein klares<LE/>
+Wasser hervorsprudeln wird, von dem Schmerze <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00100" startPtr="WR-01-01-02_n0046.xml#//DIV_START[@divStartID='dsID_2397_00104']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00105" endPtr="WR-01-01-02_n0047.xml#//DIV_END[@divEndID='deID_2397_00101']"/>
+<P parID="00318"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00319"><TAB/>Nein, nein!</P>
+<DIV_END divEndID="deID_2397_00101" startPtr="WR-01-01-02_n0047.xml#//DIV_START[@divStartID='dsID_2397_00105']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00106" endPtr="WR-01-01-02_n0047.xml#//DIV_END[@divEndID='deID_2397_00102']"/>
+<P parID="00320"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00321"><TAB/>Abermals <SYMBOL type="3dots"/> Wir sind nicht am Ende, der Weg ist<LE/>
+sehr weit &#x2014; und die nackte Wahrheit verbirgt sich zwischen<LE/>
+den Felsen <SYMBOL type="3dots"/> Wird sie kommen? <SYMBOL type="3dots"/> Ich sehe schon ihre<LE/>
+Zeichen in deinen Augen, und ihr frischer Athem badet mein<LE/>
+Gesicht <SYMBOL type="3dots"/> Ah! <SYMBOL type="3dots"/> Alladine! Alladine! <SD>(Er l&#xE4;sst sie pl&#xF6;tzlich los.)</SD><LE/>
+Ich habe deine Gebeine wimmern h&#xF6;ren wie kleine Kinder <SYMBOL type="3dots"/><LE/>
+Ich habe dir doch nicht wehe gethan? <SYMBOL type="3dots"/> Bleib nicht so auf<LE/>
+den Knien vor mir <SYMBOL type="3dots"/> Ich werfe mich vor dir auf die Knie.<LE/>
+<SD>(Er thut, wie er es sagt.)</SD> Ich bin ein Ungl&#xFC;cklicher <SYMBOL type="3dots"/> Du musst<LE/>
+Erbarmen mit mir haben <SYMBOL type="3dots"/> Nicht f&#xFC;r mich allein bitte ich <SYMBOL type="3dots"/><LE/>
+Ich habe nur <SPC>eine</SPC> arme Tochter <SYMBOL type="3dots"/> Alle anderen sind todt <SYMBOL type="3dots"/><LE/>
+Ich hatte sieben um mich her <SYMBOL type="3dots"/> Sie waren schon und reich<LE/>
+an Gl&#xFC;ck, und ich sah sie nicht wieder <SYMBOL type="3dots"/> Die letzte, die mir<LE/>
+blieb, war nahe daran, ebenfalls zu sterben <SYMBOL type="3dots"/> Sie liebte das<LE/>
+Leben nicht <SYMBOL type="3dots"/> Aber eines Tages hatte sie eine Begegnung,<LE/>
+welche sie nicht mehr erwartete, und ich sah, dass sie den<LE/>
+Wunsch zu sterben verloren <SYMBOL type="3dots"/> Ich verlange nichts <HYPH1 cont="Unm&#xF6;gliches">Unm&#xF6;g-</HYPH1><LE/>
+<HYPH2>liches</HYPH2> <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00102" startPtr="WR-01-01-02_n0047.xml#//DIV_START[@divStartID='dsID_2397_00106']"/>
+<P parID="00322"><SD>(Alladine weint und antwortet nicht.)</SD></P>
+<DIV_END divEndID="deID_2397_00103" startPtr="WR-01-01-02_n0045.xml#//DIV_START[@divStartID='dsID_2397_00095']"/>
+<SEPARATOR type="hr"/>
+<DIV_START cat="scene" divStartID="dsID_2397_00107" endPtr="WR-01-01-02_n0049.xml#//DIV_END[@divEndID='deID_2397_00108']"/>
+<TITLE titleID="tiID_2397_00031"><TITLEPART>IV. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="00323"><SD>Astolainens Gemach.</SD></P>
+<P parID="00324"><SD><SPK><SPC>Astolaine</SPC></SPK> und <SPK><SPC>Palomides</SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00108" endPtr="WR-01-01-02_n0048.xml#//DIV_END[@divEndID='deID_2397_00104']"/>
+<P parID="00325"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P part="initial" parID="00326"><TAB/>Astolaine, als ich durch einen Zufall Euch begegnete,<LE/>
+es sind wenige Monate her, schien es mir, als f&#xE4;nde ich endlich,<LE/>
+was ich seit langen Jahren gesucht hatte <SYMBOL type="3dots"/> Ehe ich Euch<LE/>
+kannte, wusste ich nicht, was mitleidsvolle G&#xFC;te und <HYPH1 cont="vollkommene">voll-</HYPH1><LE/>
+<HYPH2>kommene</HYPH2> Einfalt einer erhabeneren Seele allzeit sein kann. Ich<LE/>
+ward so tief davon ersch&#xFC;ttert, dass ich w&#xE4;hnte, ich begegnete</P>
+</PAGE>

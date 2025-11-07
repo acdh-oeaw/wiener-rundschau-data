@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0173.xml</PREV>
+<NEXT>WR-01-01-05_n0175.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 174</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="performance" divStartID="dsID_2397_00232" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00332']"/>
+<TITLE titleID="tiID_2397_00088"><TITLEPART type="main">ALLADINE UND PALOMIDES.</TITLEPART><LE/>
+<TITLEPART type="desc">Ein kleines Drama f&#xFC;r Marionetten von <AUCTOR><C>Maurice Maeterlinck</C></AUCTOR>.<LE/>
+Autorisirte Uebersetzung von <AUCTOR type="translator"><C>Marie Lang</C></AUCTOR>.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<DIV_START cat="act" divStartID="dsID_2397_00233" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00331']"/>
+<TITLE titleID="tiID_2397_00089"><TITLEPART>IV. <SPC>ACT</SPC>.</TITLEPART></TITLE>
+<DIV_START cat="scene" divStartID="dsID_2397_00234" endPtr="WR-01-01-05_n0183.xml#//DIV_END[@divEndID='deID_2397_00330']"/>
+<TITLE titleID="tiID_2397_00090"><TITLEPART>I. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="01239"><SD>Weite unterirdische Grotten.</SD></P>
+<P parID="01240"><SD><SPK><SPC>Alladine</SPC></SPK> und <SPK><SPC>Palomides</SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00235" endPtr="WR-01-01-05_n0174.xml#//DIV_END[@divEndID='deID_2397_00231']"/>
+<P parID="01241"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01242"><TAB/>Sie haben mir die Augen verbunden, sie haben mir die<LE/>
+H&#xE4;nde gefesselt.</P>
+<DIV_END divEndID="deID_2397_00231" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00235']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00236" endPtr="WR-01-01-05_n0174.xml#//DIV_END[@divEndID='deID_2397_00232']"/>
+<P parID="01243"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01244"><TAB/>Sie haben mir die H&#xE4;nde gefesselt, sie haben mir die<LE/>
+Augen verbunden <SYMBOL type="3dots"/> Ich glaube, meine H&#xE4;nde bluten <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00232" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00236']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00237" endPtr="WR-01-01-05_n0174.xml#//DIV_END[@divEndID='deID_2397_00233']"/>
+<P parID="01245"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01246"><TAB/>Wartet. Heute segne ich meine Kraft <SYMBOL type="4dots"/> Ich f&#xFC;hle,<LE/>
+dass die Fesseln nachgeben <SYMBOL type="3dots"/> Noch ein starker Ruck, und<LE/>
+m&#xF6;gen meine Arme brechen! Noch ein starker Ruck. Nun<LE/>
+hab&#x2019; ich meine Arme wieder <SD>(die Binde abreissend)</SD> und meine<LE/>
+Augen! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00233" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00237']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00238" endPtr="WR-01-01-05_n0174.xml#//DIV_END[@divEndID='deID_2397_00234']"/>
+<P parID="01247"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01248"><TAB/>Ihr seht?</P>
+<DIV_END divEndID="deID_2397_00234" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00238']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00239" endPtr="WR-01-01-05_n0174.xml#//DIV_END[@divEndID='deID_2397_00235']"/>
+<P parID="01249"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01250"><TAB/>Ja.</P>
+<DIV_END divEndID="deID_2397_00235" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00239']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00240" endPtr="WR-01-01-05_n0174.xml#//DIV_END[@divEndID='deID_2397_00236']"/>
+<P parID="01251"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01252"><TAB/>Wo sind wir?</P>
+<DIV_END divEndID="deID_2397_00236" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00240']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00241" endPtr="WR-01-01-05_n0174.xml#//DIV_END[@divEndID='deID_2397_00237']"/>
+<P parID="01253"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01254"><TAB/>Wo seid Ihr?</P>
+<DIV_END divEndID="deID_2397_00237" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00241']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00242" endPtr="WR-01-01-05_n0174.xml#//DIV_END[@divEndID='deID_2397_00238']"/>
+<P parID="01255"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01256"><TAB/>Hier; seht Ihr mich nicht?</P>
+<DIV_END divEndID="deID_2397_00238" startPtr="WR-01-01-05_n0174.xml#//DIV_START[@divStartID='dsID_2397_00242']"/>
+</PAGE>

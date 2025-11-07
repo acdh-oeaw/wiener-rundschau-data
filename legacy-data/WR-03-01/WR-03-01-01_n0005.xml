@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-01_n0004.xml</PREV>
+<NEXT>WR-03-01-01_n0006.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 5</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>STRINDBERG: DIE SCHL&#xDC;SSEL DES HIMMELREICHS.</CTEXT></HD>
+<TABLE parID="00104"><ROW ciID="0279"><CELL>
+<LG part="final" parID="00105"><L>Da hast Du nun die ganze Denkmechanik,</L>
+<L>Zwar stark verk&#xFC;rzt, doch nach dem</L>
+<L>Wunsch des Publicums.</L></LG>
+<DIV_END divEndID="deID_2434_00034" startPtr="WR-03-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2434_00038']"/>
+<P parID="00106"><SD>(Die Betten der Kinder verschwinden.)</SD></P>
+<DIV_END divEndID="deID_2434_00035" startPtr="WR-03-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2434_00008']"/>
+<HR type="dotted"/>
+<DIV_START cat="scene" divStartID="dsID_2434_00039" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00040']"/>
+<TITLE titleID="tiID_2434_00006"><TITLEPART>Zweite Scene.</TITLEPART></TITLE>
+<P parID="00107"><SD><B>Der Schmied. Der Arzt. Sanct Peter.</B></SD></P>
+<HR type="dotted"/>
+<P parID="00108"><SD><SPK><SPC>Der Arzt</SPC></SPK>.<LE/>
+(Er bl&#xE4;st in ein Pfeifchen, die Decoration <HYPH1 cont="verwandelt">ver-</HYPH1><LE/>
+<HYPH2>wandelt</HYPH2> sich. Ein Vorhang f&#xE4;llt vor die &#xD6;ffnung,<LE/>
+zwischen Kammer und Schmiede herabgelassen,<LE/>
+so dass die Verwandlung dahinter vor sich gehen<LE/>
+kann, der Ofen tritt in die Wand zur&#xFC;ck u. s. w.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00040" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00036']"/>
+<P parID="00109"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00110"><L>Was ist das? Ist die Erde los</L>
+<L>In ihren Angeln? Weh! Der Boden zittert.</L>
+<L>Nach beiden Seiten weicht die Wand!</L>
+<L>Ich glaub&#x2019;, es birst die Decke!!</L>
+<L>O, meine Kinder.</L></LG>
+<DIV_END divEndID="deID_2434_00036" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00040']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00041" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00037']"/>
+<P parID="00111"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00112"><L>Du weisst, hier sind sie doch nicht mehr!</L>
+<L>Und wenn Du je sie wiedersiehst,</L>
+<L>So ist es sicher nicht mehr hier.</L>
+<L>Doch trage die Erinnerung an sie mit</L>
+<L>Als Compass in des Meeres Sturm,</L>
+<L>Als trockne Blum&#x2019; im Taschenbuche,</L>
+<L>Die das Ged&#xE4;chtnis weckt des Besten,</L>
+<L>Des Lieblichsten, das uns das Leben beut,</L>
+<L>Vielleicht des einzig Guten,</L>
+<L>Das Wirklichkeit besitzt.</L></LG>
+<DIV_END divEndID="deID_2434_00037" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00041']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00042" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00038']"/>
+<P parID="00113"><SPK><SPC>Der Schmied</SPC></SPK><LE/>
+<SD>(der die Bettchen der Kinder suchen gegangen<LE/>
+war, tritt wieder an des Doctors Seite)</SD>.</P>
+<LG parID="00114"><L>Wer bist Du, Zauberer? Verkehrst Du mir</L>
+<L>den Blick?</L></LG>
+<DIV_END divEndID="deID_2434_00038" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00042']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00043" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00039']"/>
+<P parID="00115"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00116"><L>Ich bin ein Meister in der Hexerei,</L>
+<L>Doch die Magie ist ganz nat&#xFC;rlich.</L>
+<L>Das hier ist bloss nur Scenerei,</L>
+<L>Wenn auch Mechanik, wie geb&#xFC;rlich,</L>
+<L>Man aus dem Grunde muss verstehen.</L>
+<L>Sonst heisst&#x2019;s Verwandlung, mag sie vor</L>
+<L>sich gehen.</L></LG>
+<DIV_END divEndID="deID_2434_00039" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00043']"/>
+<P parID="00117"><SD><SPC>Verwandlung</SPC>.</SD></P>
+<P parID="00118"><SD>(Die Scene stellt einen Wald mit einem mit<LE/>
+Wasserblumen bewachsenen See vor.)</SD></P>
+<P parID="00119"><SD><SPK><SPC>Narcissus</SPC></SPK><LE/>
+(lehnt an einem Baumstamm und betrachtet<LE/>
+sein Bild im Wasser).</SD></P>
+<P part="initial" parID="00120"><SD part="initial"><SPK><SPC>Thersites</SPC></SPK><LE/>
+(ausserst h&#xE4;sslich, gross und feist, mit schmaler<LE/>
+Stirn, verglasten Augen und aufgedunsenen</SD></P>
+</CELL><CELL>
+<P part="final" parID="00121"><SD part="final">Wangen, sitzt in einem Kahn und wirft Steine<LE/>
+ins Wasser, um das Bild des Narcissus zu<LE/>
+tr&#xFC;ben).</SD></P>
+<P parID="00122"><SD><SPK><SPC>St. Peter</SPC></SPK><LE/>
+(sp&#xE4;ht anfangs nach allen Seiten umher, zieht<LE/>
+dann seine Brille aus der Tasche, entdeckt eine<LE/>
+Angelruthe und setzt sich an das Ufer des<LE/>
+Sees, um zu angeln).</SD></P>
+<DIV_END divEndID="deID_2434_00040" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00039']"/>
+<DIV_START cat="scene" divStartID="dsID_2434_00044" endPtr="WR-03-01-01_n0006.xml#//DIV_END[@divEndID='deID_2434_00054']"/>
+<TITLE titleID="tiID_2434_00007"><TITLEPART>Dritte Scene.</TITLEPART></TITLE>
+<P parID="00123"><SD><B>Der Arzt. Der Schmied. Narcissus. St. Peter.</B></SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00045" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00041']"/>
+<P parID="00124"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00125"><L>Den Reiseanfang lob ich mir! Im Wald</L>
+<L>ein Abenteuer!</L>
+<L>Just das ist mein Geschmack.</L>
+<L>Man hat doch etwas zu erz&#xE4;hlen,</L>
+<L>Kommt man mit heiler Haut nach Haus.</L>
+<L>Doch wer ist jener sch&#xF6;ne J&#xFC;ngling dort,</L>
+<L>Der so versunken steht in Tr&#xE4;umen?</L></LG>
+<DIV_END divEndID="deID_2434_00041" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00045']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00046" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00042']"/>
+<P parID="00126"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00127"><L>Das ist Narcissus!</L></LG>
+<DIV_END divEndID="deID_2434_00042" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00046']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00047" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00043']"/>
+<P parID="00128"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00129"><L>Narcissus! Ach! Der Narr der Eigenliebe,</L>
+<L>Der nie sein Bild erm&#xFC;det zu bewundern?</L></LG>
+<DIV_END divEndID="deID_2434_00043" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00047']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00048" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00044']"/>
+<P parID="00130"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00131"><L>So sagt die h&#xE4;ssliche Canaille,</L>
+<L>Die dort im Hintertheil des Bootes,</L>
+<L>Koth in das klare Wasser wirft!</L>
+<L>Sieh nur die kolossale Fleischbank,</L>
+<L>Soll auch dabei gewesen sein im Krieg</L>
+<L>um Troja.</L>
+<L>Im Kreis der Helden der Bagage,</L>
+<L>War er gleich gross im Prahlen und im</L>
+<L>Saufen,</L>
+<L>War obendrein der h&#xE4;sslichste von allen.</L>
+<L>Er h&#xE4;lt sich Wunder was f&#xFC;r einen S&#xE4;nger,</L>
+<L>Und l&#xE4;sst sich gerne auf den Brettern sehn.</L>
+<L>Von seiner Sch&#xF6;nheit ist er &#xFC;berzeugt,</L>
+<L>Und doch voll Neid Narcissus gegen&#xFC;ber.</L>
+<L>Darum auch tr&#xFC;bt er des Narcissus Bild</L>
+<L>Mit Schmutz, herausgekratzt aus seinen</L>
+<L>N&#xE4;geln!</L>
+<L>Pass auf, wie bei der kleinsten Schmeichelei,</L>
+<L>Er schnell bereit vor uns sich produciert &#x2014;</L>
+<L>Tersites, Bester, sing uns etwas vor!</L></LG>
+<DIV_END divEndID="deID_2434_00044" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00048']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00049" endPtr="WR-03-01-01_n0005.xml#//DIV_END[@divEndID='deID_2434_00045']"/>
+<P parID="00132"><SPK><SPC>Thersites</SPC></SPK><LE/>
+<SD>(erhebt sich und macht eine Verbeugung)</SD>.</P>
+<LG parID="00133"><L>Mit allerh&#xF6;chster Freude!</L>
+<L>Ich bin nicht difficil wie andre! Hm!</L>
+<L>Und was Natur an mich verschwendet,</L>
+<L>Ich geb&#x2019;s zur&#xFC;ck mit vollen H&#xE4;nden.</L>
+<L>S&#xE4;nger!</L></LG>
+<DIV_END divEndID="deID_2434_00045" startPtr="WR-03-01-01_n0005.xml#//DIV_START[@divStartID='dsID_2434_00049']"/>
+<P parID="00134"><SD>(Sechs Fr&#xF6;sche steigen aus dem Wasser auf<LE/>
+und declamieren unter Thersites&#x2019; Anf&#xFC;hrung.)</SD></P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="5" c_text="&#x2014; 5 &#x2014;"/>
+</PAGE>

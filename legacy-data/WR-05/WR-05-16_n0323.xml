@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-16_n0322.xml</PREV>
+<NEXT>WR-05-16_n0324.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 16, S. 323</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>14</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>8</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2436_01362" endPtr="WR-05-16_n0325.xml#//DIV_END[@divEndID='deID_2436_01368']"/>
+<TITLE titleID="tiID_2436_00364"><TITLEPART type="main">FRANCIS BACONS UND SHAKESPEARES ASTROLOGIE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ALBERT KNIEPF</AUCTOR> (Hamburg).</TITLEPART></TITLE>
+<TABLE parID="07718"><ROW ciID="1236"><CELL>
+<P parID="07719"><TAB/>In meinem Aufsatze &#xBB;Mikrokosmos und<LE/>
+Makrokosmos&#xAB; in der &#xBB;Wiener Rundschau&#xAB;<LE/>
+vom <DATE>15. M&#xE4;rz 1900</DATE> streifte ich die <HYPH1 cont="Astrologie">Astro-</HYPH1><LE/>
+<HYPH2>logie</HYPH2> in Shakespeares Dramen. Der <HYPH1 cont="Verfasser">Ver-</HYPH1><LE/>
+<HYPH2>fasser</HYPH2> derselben hat in der That eine<LE/>
+genaue Kenntnis der mysteri&#xF6;sen <HYPH1 cont="Wissenschaft">Wissen-</HYPH1><LE/>
+<HYPH2>schaft</HYPH2> und viel Interesse daf&#xFC;r besessen &#x2014;,<LE/>
+ein Umstand, der bisher hinsichtlich der<LE/>
+Muthma&#xDF;ungen &#xFC;ber den wahren Autor<LE/>
+dieser unvergleichlichen Dichtungen noch<LE/>
+gar nicht ber&#xFC;cksichtigt worden ist, weil<LE/>
+keiner der Shakespeare-Kenner etwas von<LE/>
+Astrologie verstand und daher auch nicht<LE/>
+die Wichtigkeit dieser Seite des literarischen<LE/>
+Problems erkannte. Es mag ja schlie&#xDF;lich<LE/>
+f&#xFC;r Viele nun gleichgiltig sein, ob die<LE/>
+Epen Homers von einem oder mehreren<LE/>
+Verfassern herr&#xFC;hren und ob Shakespeare<LE/>
+nur ein Pseudonym ist oder nicht. Aber<LE/>
+immerhin besteht das Problem, und man<LE/>
+muss zugeben, dass die Dunkelheiten &#xFC;ber<LE/>
+die Person des Dichters der Erhellung<LE/>
+wohl wert sind.</P>
+<P parID="07720"><TAB/>Der Dichter musste sich nun geradezu<LE/>
+jahrelang mit den lateinischen B&#xFC;chern<LE/>
+der Astrologen und mit der Technik der<LE/>
+Sache selbst viel besch&#xE4;ftigt haben, um<LE/>
+die astrologischen Elemente derartig am<LE/>
+Schn&#xFC;rchen zu haben, wie in der folgenden<LE/>
+Stelle in &#xBB;Troilus und Cressida&#xAB;, I. Act,<LE/>
+Scene 3:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2436_01363" endPtr="WR-05-16_n0323.xml#//DIV_END[@divEndID='deID_2436_01361']"/>
+<LG parID="07721"><LANG iso="en"><L>&#xBB;The heavens themselves, the planets and this</L>
+<L>centre</L>
+<L>Observe degree, priority and place,</L>
+<L>Insisture, course, proportion, season, form,</L>
+<L>Office and custom, in all line of order.&#xAB;</L></LANG></LG>
+<DIV_END divEndID="deID_2436_01361" startPtr="WR-05-16_n0323.xml#//DIV_START[@divStartID='dsID_2436_01363']"/>
+<P parID="07722"><TAB/>Dies hat A. W. <SPC>Schlegel</SPC> ohne n&#xE4;here<LE/>
+Sachkenntnis nur ungef&#xE4;hr richtig so<LE/>
+&#xFC;bersetzt:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2436_01364" endPtr="WR-05-16_n0323.xml#//DIV_END[@divEndID='deID_2436_01362']"/>
+<P parID="07723">&#xBB;Der Himmel selbst, Planeten und ihr Centrum<LE/>
+Reih&#x2019;n sich nach Abstand, Rang und W&#xFC;rdigkeit,<LE/>
+Beziehung, Jahreszeit, Form, Verh&#xE4;ltnis, Raum,<LE/>
+Amt und Gewohnheit in der Ordnung Folge.&#xAB;</P>
+<DIV_END divEndID="deID_2436_01362" startPtr="WR-05-16_n0323.xml#//DIV_START[@divStartID='dsID_2436_01364']"/>
+<P part="initial" parID="07724"><TAB/>Aber wir haben im englischen Text<LE/>
+ein Verzeichnis von Fachausdr&#xFC;cken vor<LE/>
+uns, von <LANG iso="la"><I>terminis technicis</I></LANG>, welche nur der</P>
+</CELL><CELL>
+<P part="final" parID="07725">Arstrolog versteht. <LANG iso="en"><I>Insisture</I></LANG> bedeutet den<LE/>
+Stillstand der Planeten, die station&#xE4;re<LE/>
+Position; <LANG iso="en"><I>course</I></LANG> ist der Lauf, d. h. ob sie<LE/>
+rechtl&#xE4;ufig oder r&#xFC;ckl&#xE4;ufig sind; <LANG iso="en"><I>proportion</I></LANG><LE/>
+ist der Geschwindigkeitsgrad des Laufes,<LE/>
+unter <LANG iso="en"><I>stason</I></LANG> sind die Quadranten des<LE/>
+Horoskops zu verstehen, unter <LANG iso="en"><I>office</I></LANG>, in<LE/>
+welchen Zeichen und H&#xE4;usern die Gestirne<LE/>
+regieren; mit <LANG iso="en"><I>custom</I></LANG> ist ihre Beschaffenheit,<LE/>
+ihre specifische Art der Wirkung gemeint<LE/>
+und <LANG iso="en"><I>form</I></LANG>, wie sie sich gegenseitig formieren,<LE/>
+welche Affecte sie haben. Es ist ein <HYPH1 cont="vollst&#xE4;ndiges">voll-</HYPH1><LE/>
+<HYPH2>st&#xE4;ndiges</HYPH2> Recept zur Diagnose eines <HYPH1 cont="Horoskops">Horos-</HYPH1><LE/>
+<HYPH2>kops</HYPH2>, das er noch bekr&#xE4;ftigt <LANG iso="en">&#x201E;<I>in all line,<LE/>
+of order</I>&#x201C;</LANG>, d. h.: in allen m&#xF6;glichen, <HYPH1 cont="vorschriftsm&#xE4;&#xDF;igen">vor-</HYPH1><LE/>
+<HYPH2>schriftsm&#xE4;&#xDF;igen</HYPH2> Hin- und R&#xFC;cksichten ist<LE/>
+dies Alles zu erw&#xE4;gen und zu combinieren.</P>
+<P parID="07726"><TAB/>Nur ein wirklicher Kenner der <HYPH1 cont="Astrologie">Astro-</HYPH1><LE/>
+<HYPH2>logie</HYPH2> und obendrein ein solcher, der die<LE/>
+Sache mit Liebe studiert hat, konnte eine<LE/>
+so eingehende, wenngleich im Rahmen<LE/>
+der Poesie fl&#xFC;chtige Anweisung geben.<LE/>
+Wie sollte ein Schauspieler, den noch<LE/>
+die Last der B&#xFC;hnengesch&#xE4;fte dr&#xFC;ckte, zu<LE/>
+einem solchen, &#xE4;u&#xDF;erst zeitraubenden <HYPH1 cont="Studium">Stu-</HYPH1><LE/>
+<HYPH2>dium</HYPH2> gekommen sein? Es ist doch <HYPH1 cont="Thatsache">That-</HYPH1><LE/>
+<HYPH2>sache</HYPH2>, dass nicht einmal jeder <SPC>Astronom</SPC><LE/>
+derartig mit der Astrologie vertraut war,<LE/>
+denn man irrt sehr, wenn man etwa<LE/>
+meint, sie lie&#xDF;e sich leicht und schon aus<LE/>
+Volkskalendern erlernen.</P>
+<P parID="07727"><TAB/>Der Dichter kennt auch die <HYPH1 cont="Berechnung">Berech-</HYPH1><LE/>
+<HYPH2>nung</HYPH2> der Directionen, wie aus der hier<LE/>
+in meinem ersten Aufsatze angef&#xFC;hrten,<LE/>
+sch&#xF6;nen Stelle aus &#xBB;Richard II.&#xAB;, III. Act,<LE/>
+Scene 1, f&#xFC;r den Kenner hervorgeht, denn<LE/>
+dort ist die Wirkung der Direction der<LE/>
+Sonne zum siebenten Hause und also <HYPH1 cont="zugleich">zu-</HYPH1><LE/>
+<HYPH2>gleich</HYPH2> in dem fatalen Gegenschein zum<LE/>
+Ascendenten des Horoskops geschildert:</P>
+<DIV_START author="(other)" type="performance" divStartID="dsID_2436_01365" endPtr="WR-05-16_n0323.xml#//DIV_END[@divEndID='deID_2436_01363']"/>
+<P parID="07728">&#xBB;Es senkt sich weinend deine Sonne im West,<LE/>
+Die nichts als Sturm, Weh, Unruh&#x2019; hinterl&#xE4;sst,<LE/>
+Zu deinen Feinden sind die Freund&#x2019; entfloh&#x2019;n,<LE/>
+Und widrig Gl&#xFC;ck spricht jeder M&#xFC;he Hohn.&#xAB;</P>
+<DIV_END divEndID="deID_2436_01363" startPtr="WR-05-16_n0323.xml#//DIV_START[@divStartID='dsID_2436_01365']"/>
+<P part="initial" parID="07729"><TAB/><SPC>Das ist vollkommene <HYPH1 cont="Astrologie">Astro-</HYPH1><LE/>
+<HYPH2>logie</HYPH2></SPC> und solche, wie sie in den <HYPH1 cont="Volkskalendern">Volks-</HYPH1></P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="323" c_text="&#x2014; 323 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0198.xml</PREV>
+<NEXT>WR-04-12_n0200.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 199</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2436_00450" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00447']"/>
+<P parID="02716"><TAB/><SPK>HERODES</SPK>: Doch; die Luft ist sehr s&#xFC;&#xDF;. Komm&#x2019;, Herodias, unsere G&#xE4;ste warten<LE/>
+auf uns. Ah! ich bin ausgeglitten! Ich bin in Blut getreten! Das ist ein b&#xF6;ses Zeichen,<LE/>
+das ist ein sehr b&#xF6;ses Zeichen. Warum ist hier Blut? <SYMBOL type="3dots"/> Und dieser Todte? Was<LE/>
+soll dieser Todte hier? Denkt ihr, ich sei wie der K&#xF6;nig von Egypten, der seinen<LE/>
+G&#xE4;sten kein Fest gibt, ohne ihnen einen Leichnam zu zeigen? Wer ist der Todte?<LE/>
+Ich will ihn nicht sehen.</P>
+<DIV_END divEndID="deID_2436_00447" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00450']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00451" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00448']"/>
+<P parID="02717"><TAB/><SPK>ERSTER SOLDAT</SPK>: Es ist unser Hauptmann, Herr. Es ist der junge Syrier,<LE/>
+den Ihr erst vor drei Tagen zum Hauptmann der Leibwache ernannt habt.</P>
+<DIV_END divEndID="deID_2436_00448" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00451']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00452" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00449']"/>
+<P parID="02718"><TAB/><SPK>HERODES</SPK>: Ich erlie&#xDF; keinen Befehl, dass er get&#xF6;dtet werde.</P>
+<DIV_END divEndID="deID_2436_00449" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00452']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00453" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00450']"/>
+<P parID="02719"><TAB/><SPK>ERSTER SOLDAT</SPK>: Er hat sich selbst get&#xF6;dtet, Herr.</P>
+<DIV_END divEndID="deID_2436_00450" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00453']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00454" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00451']"/>
+<P parID="02720"><TAB/><SPK>HERODES</SPK>: Aus welchem Grund? Ich hatte ihn zum Hauptmann meiner <HYPH1 cont="Leibwache">Leib-</HYPH1><LE/>
+<HYPH2>wache</HYPH2> ernannt!</P>
+<DIV_END divEndID="deID_2436_00451" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00454']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00455" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00452']"/>
+<P parID="02721"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Wir wissen es nicht, Herr. Aber mit eigener Hand<LE/>
+hat er sich get&#xF6;dtet.</P>
+<DIV_END divEndID="deID_2436_00452" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00455']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00456" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00453']"/>
+<P parID="02722"><TAB/><SPK>HERODES</SPK>: Das scheint mir seltsam. Ich h&#xE4;tte gedacht, nur die r&#xF6;mischen<LE/>
+Philosophen t&#xF6;dten sich selbst. Nicht wahr, Tigellinus, die Philosophen in Rom<LE/>
+t&#xF6;dten sich selbst?</P>
+<DIV_END divEndID="deID_2436_00453" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00456']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00457" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00454']"/>
+<P parID="02723"><TAB/><SPK>TIGELLINUS</SPK>: Es gibt dort einige, die sich selbst t&#xF6;dten. Es sind die Stoiker.<LE/>
+Die Stoiker sind Leute ohne Bildung. Es sind l&#xE4;cherliche Leute. Ich f&#xFC;r meinen<LE/>
+Theil halte sie f&#xFC;r ganz und gar l&#xE4;cherlich.</P>
+<DIV_END divEndID="deID_2436_00454" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00457']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00458" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00455']"/>
+<P parID="02724"><TAB/><SPK>HERODES</SPK>: Ich auch. Es ist l&#xE4;cherlich, sich selbst zu t&#xF6;dten.</P>
+<DIV_END divEndID="deID_2436_00455" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00458']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00459" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00456']"/>
+<P parID="02725"><TAB/><SPK>TIGELLINUS</SPK>: Alle Welt in Rom lacht &#xFC;ber sie. Der Kaiser hat eine Satire<LE/>
+gegen sie geschrieben. Man tr&#xE4;gt sie &#xFC;berall vor.</P>
+<DIV_END divEndID="deID_2436_00456" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00459']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00460" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00457']"/>
+<P parID="02726"><TAB/><SPK>HERODES</SPK>: Ah! Er hat eine Satire gegen sie geschrieben? C&#xE4;sar ist erstaunlich.<LE/>
+Er kann alles<SYMBOL type="3dots"/> Es ist seltsam, dass der junge Syrier sich get&#xF6;dtet hat. Es thut<LE/>
+mir leid, dass er sich get&#xF6;dtet hat. Es thut mir sehr leid. Denn er war sch&#xF6;n zu<LE/>
+sehen. Er war sehr sch&#xF6;n. Er hatte so schmachtende Augen. Ich erinnere mich, ich<LE/>
+sah seine schmachtenden Augen, wenn er Salome ansah. Wahrhaftig, ich dachte:<LE/>
+er sieht sie zuviel an.</P>
+<DIV_END divEndID="deID_2436_00457" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00460']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00461" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00458']"/>
+<P parID="02727"><TAB/><SPK>HERODIAS</SPK>: Es gibt noch andere, die sie zuviel ansehen.</P>
+<DIV_END divEndID="deID_2436_00458" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00461']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00462" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00459']"/>
+<P parID="02728"><TAB/><SPK>HERODES</SPK>: Sein Vater war ein K&#xF6;nig. Ich vertrieb ihn aus seinem Reiche.<LE/>
+Und seine Mutter, die eine K&#xF6;nigin war, machtest du zur Sclavin, Herodias. Er<LE/>
+war also sozusagen mein Gast, und darum ernannte ich ihn zu meinem <HYPH1 cont="Hauptmann">Haupt-</HYPH1><LE/>
+<HYPH2>mann</HYPH2>. Es thut mir leid, dass er todt ist. He! Warum habt ihr den Leichnam hier<LE/>
+liegen lassen? Er muss anderswohin gebracht werden. Ich will ihn nicht sehen &#x2014;<LE/>
+Fort mit ihm! <SD>(Sie tragen den Leichnam weg.)</SD> Es ist kalt hier. Es weht ein Wind.<LE/>
+Weht nicht ein Wind?</P>
+<DIV_END divEndID="deID_2436_00459" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00462']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00463" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00460']"/>
+<P parID="02729"><TAB/><SPK>HERODIAS</SPK>: Nein, es weht kein Wind.</P>
+<DIV_END divEndID="deID_2436_00460" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00463']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00464" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00461']"/>
+<P parID="02730"><TAB/><SPK>HERODES</SPK>: Ich sage euch, es weht ein Wind<SYMBOL type="3dots"/> Und in der Luft h&#xF6;re<LE/>
+ich etwas wie das Rauschen von Fl&#xFC;geln, wie das Rauschen von m&#xE4;chtigen Fl&#xFC;geln.<LE/>
+H&#xF6;rt ihr es nicht?</P>
+<DIV_END divEndID="deID_2436_00461" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00464']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00465" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00462']"/>
+<P parID="02731"><TAB/><SPK>HERODIAS</SPK>: Ich h&#xF6;re nichts.</P>
+<DIV_END divEndID="deID_2436_00462" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00465']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00466" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00463']"/>
+<P parID="02732"><TAB/><SPK>HERODES</SPK>: Jetzt h&#xF6;re ich es nicht mehr. Aber ich habe es geh&#xF6;rt. Es war<LE/>
+das Wehen des Windes. Es ist vor&#xFC;ber. Horch, jetzt h&#xF6;re ich es wieder. H&#xF6;rt ihr<LE/>
+es nicht? Es ist genau wie ein Rauschen von Fl&#xFC;geln.</P>
+<DIV_END divEndID="deID_2436_00463" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00466']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00467" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00464']"/>
+<P parID="02733"><TAB/><SPK>HERODIAS</SPK>: Ich sage dir, es ist nichts daran. Du bist krank. Wir wollen<LE/>
+hineingehen.</P>
+<DIV_END divEndID="deID_2436_00464" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00467']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00468" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00465']"/>
+<P parID="02734"><TAB/><SPK>HERODES</SPK>: Ich bin nicht krank. Aber deine Tochter ist krank zu Tode.<LE/>
+Niemals habe ich sie so blass gesehen.</P>
+<DIV_END divEndID="deID_2436_00465" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00468']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00469" endPtr="WR-04-12_n0199.xml#//DIV_END[@divEndID='deID_2436_00466']"/>
+<P parID="02735"><TAB/><SPK>HERODIAS</SPK>: Ich habe dir gesagt, du sollst sie nicht ansehen.</P>
+<DIV_END divEndID="deID_2436_00466" startPtr="WR-04-12_n0199.xml#//DIV_START[@divStartID='dsID_2436_00469']"/>
+<FT type="pn" num="199" c_text="&#x2014; 199 &#x2014;"/>
+</PAGE>

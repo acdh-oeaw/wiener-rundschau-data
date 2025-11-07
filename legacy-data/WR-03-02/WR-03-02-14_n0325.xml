@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-14_n0324.xml</PREV>
+<NEXT>WR-03-02-14_n0326.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 14, S. 325</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2434_00741" endPtr="WR-03-02-14_n0327.xml#//DIV_END[@divEndID='deID_2434_00743']"/>
+<TITLE titleID="tiID_2434_00171"><TITLEPART type="main"><SPC>DIE WAHL</SPC>.</TITLEPART><LE/>
+<TITLEPART type="desc">ZWEI SONETTE NACH<LE/>
+DANTE GABRIEL ROSSETTI.<LE/>
+DEUTSCH VON<LE/>
+<AUCTOR type="translator">HEDWIG LACHMANN</AUCTOR> (BERLIN).</TITLEPART></TITLE>
+<DIV_START author="(other)" divStartID="dsID_2434_00742" endPtr="WR-03-02-14_n0325.xml#//DIV_END[@divEndID='deID_2434_00740']"/>
+<P parID="03858"><TAB/><SPC>Anm</SPC>. d. <SPC>&#xDC;bers</SPC>.: Die beiden Sonette sind der Sammlung <LANG iso="en">&#xBB;House of life&#xAB;</LANG> des <HYPH1 cont="Malerdichters">Maler-</HYPH1><LE/>
+<HYPH2>dichters</HYPH2> Rossetti entnommen, der als der Erste in England jene Bewegung hervorrief, die wir<LE/>
+als &#xBB;Pr&#xE4;rafaelismus&#xAB; kennen und die in Dichtung und Malerei die Wiedergeburt <HYPH1 cont="mittelalterlicher">mittelalter-</HYPH1><LE/>
+<HYPH2>licher</HYPH2> primitiver Empfindung im Gegensatze zum Classicismus bedeutet.</P>
+<DIV_END divEndID="deID_2434_00740" startPtr="WR-03-02-14_n0325.xml#//DIV_START[@divStartID='dsID_2434_00742']"/>
+<FT type="pn" num="325" c_text="&#x2014; 325 &#x2014;"/>
+</PAGE>

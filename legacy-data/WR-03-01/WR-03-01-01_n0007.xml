@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-01_n0006.xml</PREV>
+<NEXT>WR-03-01-01_n0008.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 7</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>FRIEDRICH NIETZSCHE &#xDC;BER RICHARD WAGNER.</CTEXT></HD>
+<TABLE parID="00176"><ROW ciID="0281"><CELL>
+<DIV_START cat="speech" divStartID="dsID_2434_00065" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00061']"/>
+<P parID="00177"><SPK><SPC>Thersites</SPC></SPK> <SD>(auf der Bootkante)</SD>.</P>
+<LG parID="00178"><L>Seh ich den Himmel dort sich unten</L>
+<L>spiegeln!</L></LG>
+<DIV_END divEndID="deID_2434_00061" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00065']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00066" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00062']"/>
+<P parID="00179"><SPK><SPC>Die Oreade</SPC></SPK>.</P>
+<LG parID="00180"><L>Ja, auf der Oberfl&#xE4;che, tiefer blick&#x2019;, Thersites.</L></LG>
+<DIV_END divEndID="deID_2434_00062" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00066']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00067" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00063']"/>
+<P parID="00181"><SPK><SPC>Thersites</SPC></SPK>.<LE/>
+<SD>(Das Boot schl&#xE4;gt um und er versinkt.)</SD></P>
+<LG parID="00182"><L>Zu Hilf! Ich sink&#x2019;! Kein Boden unter mir!</L></LG>
+<DIV_END divEndID="deID_2434_00063" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00067']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00068" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00064']"/>
+<P parID="00183"><SPK><SPC>Die Oreade</SPC></SPK>.</P>
+<LG parID="00184"><L>Das war zu tief f&#xFC;r Dich!</L>
+<L>Die Wellen schlagen &#xFC;ber Dir zusammen.</L></LG>
+<DIV_END divEndID="deID_2434_00064" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00068']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00069" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00065']"/>
+<P parID="00185"><SPK><SPC>Die Nymphen</SPC></SPK>.</P>
+<LG parID="00186"><L><LANG iso="grc" script="latin">Gnothi Seauton!</LANG></L>
+<L>Das da heisst: Erkenne Dich selbst!</L></LG>
+<DIV_END divEndID="deID_2434_00065" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00069']"/>
+<P parID="00187"><SD>(Thersites sinkt in die Tiefe. Die Fr&#xF6;sche h&#xFC;pfen<LE/>
+ihm nach hinein. Die Nymphen kehren in das<LE/>
+Dickicht, Narcissus zieht sich in die H&#xF6;hlung<LE/>
+des Baumes zur&#xFC;ck. Der See bedeckt sich mit<LE/>
+einer Grasmatte und St. Peter, der, ohne auf<LE/>
+die sich abspielende Scene zu achten, w&#xE4;hrend<LE/>
+der ganzen Zeit erfolglos mit Angeln besch&#xE4;ftigt<LE/>
+gewesen, wird schliesslich gewahr, dass etwas<LE/>
+Ungew&#xF6;hnliches vorgehe.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00070" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00066']"/>
+<P parID="00188"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00189"><L>Nun Schmied, was d&#xFC;nkt Dich von dem</L>
+<L>Abenteuer?</L></LG>
+<DIV_END divEndID="deID_2434_00066" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00070']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00071" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00067']"/>
+<P parID="00190"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00191"><L>Gewiss, recht nett und auch sehr</L>
+<L>instructiv &#x2014;</L>
+<L>Etwas zu tief wohl auch f&#xFC;r mich &#x2014;</L>
+<L>Philosophie ist just nicht meine St&#xE4;rke.</L></LG>
+<DIV_END divEndID="deID_2434_00067" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00071']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00072" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00068']"/>
+<P parID="00192"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG part="initial" parID="00193"><L>Nein, nein, das geb&#x2019; ich zu! denn Leben</L>
+<L>erst</L></LG>
+</CELL><CELL>
+<LG part="final" parID="00194"><L>Und seh&#x2019;n und h&#xF6;ren, dann summieren,</L>
+<L>Den Abzug machen, Wurzel, Mittel suchen,</L>
+<L>So spinnt sich ja der Hergang ab.</L>
+<L>Nicht eher lernst Du Dich erkennen,</L>
+<L>Als bis im kleinen Finger Du das Leben</L>
+<L>hast,</L>
+<L>Also zur&#xFC;ck zu Fuss auf neuen Wegen.</L>
+<L>Wie steht&#x2019;s mit unserm Freund, Apostel?</L>
+<L>Sind seine Rappen schon bereit?</L></LG>
+<DIV_END divEndID="deID_2434_00068" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00072']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00073" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00069']"/>
+<P parID="00195"><SPK><SPC>St. Peter</SPC></SPK><LE/>
+<SD>(der die Angelruthe auf die Wiese ausgeworfen)</SD>.</P>
+<LG parID="00196"><L>Ich glaube, meiner Seel&#x2019;, der See ist all!</L></LG>
+<DIV_END divEndID="deID_2434_00069" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00073']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00074" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00070']"/>
+<P parID="00197"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00198"><L>Du fischest auf dem Trock&#x2019;nen, alter</L>
+<L>Fischer,</L>
+<L>Komm mit und fische Menschen, Petrus.</L></LG>
+<DIV_END divEndID="deID_2434_00070" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00074']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00075" endPtr="WR-03-01-01_n0007.xml#//DIV_END[@divEndID='deID_2434_00071']"/>
+<P parID="00199"><SPK><SPC>St. Peter</SPC></SPK>.</P>
+<LG parID="00200"><L>Das Wort hab&#x2019; ich einmal geh&#xF6;rt</L>
+<L>Vor vielen, vielen Jahren schon &#x2014; &#x2014; &#x2014;</L>
+<L>Wie doch das Alter mein Ged&#xE4;chtnis</L>
+<L>tr&#xFC;bt!</L>
+<L>Doch sehe ich wie durch ein Gew&#xF6;lk</L>
+<L>&#x2019;nen Mann so licht, so mild,</L>
+<L>Mit Malen an der Brust, den H&#xE4;nden &#x2014;</L>
+<L>In B&#xFC;chern las er niemals, sondern</L>
+<L>wanderte</L>
+<L>In Waldeseinsamkeit und auch auf Bergen,</L>
+<L>In D&#xF6;rfern, St&#xE4;dten <SYMBOL type="3dots"/> Da, nun reisst</L>
+<L>der Faden ab &#x2014;</L>
+<L>Doch immerhin; &#x2014; komm&#x2019;, lass uns</L>
+<L>Menschen fischen, Doctor!</L></LG>
+<DIV_END divEndID="deID_2434_00071" startPtr="WR-03-01-01_n0007.xml#//DIV_START[@divStartID='dsID_2434_00075']"/>
+<P parID="00201"><SD>(Er wirft die Angelruthe weg; sie gehen.)</SD></P>
+<DIV_END divEndID="deID_2434_00072" startPtr="WR-03-01-01_n0006.xml#//DIV_START[@divStartID='dsID_2434_00058']"/>
+<DIV_END divEndID="deID_2434_00073" startPtr="WR-03-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2434_00007']"/>
+<P parID="00202">(Fortsetzung folgt.)</P>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2434_00074" startPtr="WR-03-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2434_00006']"/>
+<SEPARATOR type="hr"/>
+<DIV_START divStartID="dsID_2434_00076" endPtr="WR-03-01-01_n0009.xml#//DIV_END[@divEndID='deID_2434_00075']"/>
+<TITLE titleID="tiID_2434_00009"><TITLEPART><AUCTOR>FRIEDRICH NIETZSCHE</AUCTOR> &#xDC;BER RICHARD WAGNER.*</TITLEPART></TITLE>
+<TABLE parID="00203"><ROW ciID="0282"><CELL>
+<P part="initial" parID="00204"><TAB/>In meiner Jugend, wo ich vielerlei war,<LE/>
+z. B. auch Maler, habe ich einmal ein Bild<LE/>
+von Richard Wagner gemalt, unter dem<LE/>
+Titel: &#xBB;Richard Wagner in Bayreuth&#xAB;.<LE/>
+Einige Jahre sp&#xE4;ter sagte ich mir: &#xBB;Teufel,<LE/>
+es ist gar nicht &#xE4;hnlich!&#xAB; Noch ein paar<LE/>
+Jahre sp&#xE4;ter antwortete ich: &#xBB;Umso besser,<LE/>
+umso besser!&#xAB; In gewissen Jahren des<LE/>
+Lebens hat man ein Recht, Dinge und<LE/>
+Menschen falsch zu sehen &#x2014; <HYPH1 cont="Vergr&#xF6;sserungsgl&#xE4;ser">Vergr&#xF6;sserungs-</HYPH1></P>
+</CELL><CELL>
+<P part="medial" parID="00205"><HYPH2>gl&#xE4;ser</HYPH2>, welche die Hoffnung uns gibt. Als<LE/>
+Knabe liebte ich H&#xE4;ndel und Beethoven;<LE/>
+aber &#xBB;Tristan und Isolde&#xAB; kam, als ich<LE/>
+13 Jahre alt war, hinzu als eine mir <HYPH1 cont="verst&#xE4;ndliche">ver-</HYPH1><LE/>
+<HYPH2>st&#xE4;ndliche</HYPH2> Welt, w&#xE4;hrend ich damals den<LE/>
+&#xBB;Tannh&#xE4;user&#xAB; und &#xBB;Lohengrin&#xAB; als &#xBB;<HYPH1 cont="unterhalb">unter-</HYPH1><LE/>
+<HYPH2>halb</HYPH2> meines Geschmackes&#xAB; empfand:<LE/>
+Knaben sind in Sachen des Geschmackes<LE/>
+ganz unversch&#xE4;mt stolz. Als ich 21 Jahre<LE/>
+alt war, war ich vielleicht der einzige</P>
+</CELL></ROW></TABLE>
+<FN>
+<P parID="00206"><TAB/>* <SPC>Anmerkung der Redaction</SPC>. Wir freuen uns, hier den Freunden des grossen Denkers<LE/>
+einige noch ungedruckte Aphorismen bieten zu k&#xF6;nnen, wenn auch dieselben bereits den Schatten<LE/>
+der Verdunklung dieses strahlenden Geistes deutlich merken lassen.</P>
+</FN>
+<FT type="pn" num="7" c_text="&#x2014; 7 &#x2014;"/>
+</PAGE>

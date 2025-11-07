@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-17_n0676.xml</PREV>
+<NEXT>WR-02-02-18_n0678.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 18, S. 677</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>8</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2433_00207" endPtr="WR-02-02-18_n0712.xml#//DIV_END[@divEndID='deID_2433_00220']"/>
+<DIV_START cat="masthead" divStartID="dsID_2433_00208" endPtr="WR-02-02-18_n0677.xml#//DIV_END[@divEndID='deID_2433_00206']"/>
+<P parID="01206"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="01207"><B><DATE>1. <SPC>AUGUST</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2433_00206" startPtr="WR-02-02-18_n0677.xml#//DIV_START[@divStartID='dsID_2433_00208']"/>
+<DIV_START divStartID="dsID_2433_00209" endPtr="WR-02-02-18_n0682.xml#//DIV_END[@divEndID='deID_2433_00207']"/>
+<TITLE titleID="tiID_2433_00075"><TITLEPART type="main">MAX STIRNERS LEBEN UND WERK.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAX MESSER</AUCTOR> (Wien.)</TITLEPART></TITLE>
+<P parID="01208"><TAB/>Unter grossen M&#xFC;hseligkeiten ist es John Henry Mackay gelungen,<LE/>
+die Biographie Stirners fertig zu stellen.*) Vor zehn Jahren hatte er<LE/>
+begonnen, nach den Lebensumst&#xE4;nden des verschollenen Denkers zu<LE/>
+forschen, in der &#xDC;berzeugung, dass irgend etwas Ausserordentliches in<LE/>
+ihnen zu finden sein werde. Aber was sich aus den sp&#xE4;rlichen <HYPH1 cont="&#xDC;berresten">&#xDC;ber-</HYPH1><LE/>
+<HYPH2>resten</HYPH2> sammeln liess, bewies nur, dass das Leben Max Stirners<LE/>
+ereignislos, einfach, leer von &#xE4;usseren Erlebnissen gewesen war.<LE/>
+Schliesslich erkannte er, dass es eine Thorheit war, sich Stirners<LE/>
+Leben gleichsam in rauschender, heftiger Bewegung vorzustellen und<LE/>
+dass dieses, weit entfernt im Gegensatz zu seiner grossen That zu<LE/>
+stehen, vielmehr der klare und schlichte Ausdruck ihrer letzten Lehre<LE/>
+war: das Leben eines Egoisten, der wusste, dass er es war!</P>
+<P part="initial" parID="01209"><TAB/>In Bayreuth, am <DATE>25. October 1806</DATE>, wurde Johann Caspar Schmidt<LE/>
+als Sohn eines &#xBB;blasenden Instrumentenmachers&#xAB; geboren und genoss<LE/>
+hier als ein &#xBB;guter und fleissiger&#xAB; Sch&#xFC;ler die Erziehung des st&#xE4;dtischen<LE/>
+Gymnasiums. Von dem inneren Leben, das der Knabe und J&#xFC;ngling<LE/>
+bis zu seiner Reise an die Berliner Universit&#xE4;t f&#xFC;hrte, ist keinerlei Kunde<LE/>
+erhalten. An der Hochschule immatriculierte er sich als H&#xF6;rer der <HYPH1 cont="philosophischen">philo-</HYPH1><LE/>
+<HYPH2>sophischen</HYPH2> Facult&#xE4;t, die damals eine Reihe gl&#xE4;nzender Namen aufwies.<LE/>
+Nach zwei Jahren verl&#xE4;sst er Berlin und studiert bis zum Jahre <DATE>1832</DATE> in<LE/>
+Erlangen und K&#xF6;nigsberg, um dann, wieder in Berlin angelangt, sich dem<LE/>
+Lehrerexamen zu unterziehen. 1&#xBD; Jahre verbrachte er als <HYPH1 cont="Schulamtscandidat">Schulamts-</HYPH1><LE/>
+<HYPH2>candidat</HYPH2> an der k&#xF6;niglichen Realschule. Am <DATE>12. Dezember 1837</DATE><LE/>
+heirathete er die Tochter seiner Wohnungsgeberin, Agnes Burtz. Die,<LE/>
+wie es scheint, stille, friedvolle, leidenschaftslose Ehe wird durch den<LE/>
+Tod der Frau schon im <DATE>n&#xE4;chsten Jahre</DATE> gel&#xF6;st. Nun nahm Stirner eine</P>
+<HR/>
+<FN>
+<P parID="01210"><TAB/>*) Berlin <DATE>1898</DATE>. Verlag von Schuster &amp; Loeffler.</P>
+</FN>
+</PAGE>

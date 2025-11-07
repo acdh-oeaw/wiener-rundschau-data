@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-12_n0451.xml</PREV>
+<NEXT>WR-01-01-12_n0453.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 452</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00561" endPtr="WR-01-01-12_n0452.xml#//DIV_END[@divEndID='deID_2397_00560']"/>
+<TITLE titleID="tiID_2397_00177"><TITLEPART><SPC>DAS H&#xD6;HENLIED</SPC>.</TITLEPART></TITLE>
+<LG parID="03172"><L><IN>Hochweit</IN> herab</L>
+<L>T&#xF6;nen meine Ges&#xE4;nge:</L>
+<L>Von der St&#xE4;tte des Schweigens,</L>
+<L>Von dem Felsen der Einsamkeiten.</L></LG>
+<LG parID="03173"><L>Feindlich zu den Tiefen der Nachtschl&#xFC;nde</L>
+<L>Bohrte ich mich abw&#xE4;rtsfliehend &#x2014;</L>
+<L>In leidvollstem Hassen.</L></LG>
+<LG parID="03174"><L>Schwesterlich zum Tagessterne</L>
+<L>Habe ich mich gesellt &#x2014;</L>
+<L>In gewaltigem, lichtvollem Lieben. &#x2014;</L></LG>
+<LG parID="03175"><L>Zwischen Sonne und Abgrund</L>
+<L>Schaffe ich mir meine Strasse;</L>
+<L>Wegeweit, raumvergessen</L>
+<L>Treibe ich meine Fernsicht.</L></LG>
+<LG parID="03176"><L>Von dem Felsen der Einsamkeiten,</L>
+<L>Von der St&#xE4;tte des Schweigens</L>
+<L>T&#xF6;net &#x2014; meine Ges&#xE4;nge &#x2014;</L>
+<L>Hochweit herab!</L></LG>
+<P parID="03177">Wien. <AUCTOR><C>Freiherr Carl v. Levetzow</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00560" startPtr="WR-01-01-12_n0452.xml#//DIV_START[@divStartID='dsID_2397_00561']"/>
+</PAGE>

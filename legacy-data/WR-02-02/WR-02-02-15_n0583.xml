@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-15_n0582.xml</PREV>
+<NEXT>WR-02-02-15_n0584.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 15, S. 583</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>6</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>SCENE AUS &#xBB;FANTASIO&#xAB;.</CTEXT><RTEXT type="pn">583</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2433_00126" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00123']"/>
+<P parID="00741"><TAB/><SPK><SPC>Spark</SPC></SPK>. Geh&#x2019; nach Frankreich.</P>
+<DIV_END divEndID="deID_2433_00123" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00126']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00127" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00124']"/>
+<P parID="00742"><TAB/><SPK><SPC>Fantasio</SPC></SPK>. Es gibt keinen guten Rheinwein in Paris.</P>
+<DIV_END divEndID="deID_2433_00124" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00127']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00128" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00125']"/>
+<P parID="00743"><TAB/><SPK><SPC>Spark</SPC></SPK>. Geh&#x2019; nach England.</P>
+<DIV_END divEndID="deID_2433_00125" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00128']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00129" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00126']"/>
+<P parID="00744"><TAB/><SPK><SPC>Fantasio</SPC></SPK>. Ich bin in England. Haben die Engl&#xE4;nder ein<LE/>
+Vaterland? Ich seh&#x2019; sie hier so gern wie in ihrer Heimat.</P>
+<DIV_END divEndID="deID_2433_00126" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00129']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00130" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00127']"/>
+<P parID="00745"><TAB/><SPK><SPC>Spark</SPC></SPK>. Geh&#x2019; also zum Teufel.</P>
+<DIV_END divEndID="deID_2433_00127" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00130']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00131" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00128']"/>
+<P parID="00746"><TAB/><SPK><SPC>Fantasio</SPC></SPK>. Oh! wenn es einen Teufel im Himmel g&#xE4;be! Wenn<LE/>
+es eine H&#xF6;lle g&#xE4;be! Ich w&#xFC;rde mir eine Kugel vor den Kopf schiessen,<LE/>
+all das zu schau&#x2019;n. Welch erb&#xE4;rmliches Ding ist doch der Mensch!<LE/>
+Man kann nicht aus dem Fenster springen, ohne sich die Beine zu<LE/>
+zerbrechen! Man muss zehn Jahre die Geige spielen, um ein ertr&#xE4;glicher<LE/>
+Musiker zu werden! Lernen, um Maler, lernen, um Stallknecht zu<LE/>
+sein! Lernen, um eine Omelette zu bereiten! Weisst Du, Spark, ich<LE/>
+habe Lust, mich auf ein Gel&#xE4;nder zu setzen, den fliessenden Strom<LE/>
+zu betrachten und zu z&#xE4;hlen: eins, zwei, drei, vier, f&#xFC;nf, sechs, sieben,<LE/>
+und so weiter bis zu meiner Sterbestunde.</P>
+<DIV_END divEndID="deID_2433_00128" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00131']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00132" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00129']"/>
+<P parID="00747"><TAB/><SPK><SPC>Spark</SPC></SPK>. Was Du da sagst, w&#xFC;rde viele zum Lachen reizen;<LE/>
+mich macht es erbeben: das ist die Geschichte uns&#x2019;res ganzen <HYPH1 cont="Jahrhundertes">Jahr-</HYPH1><LE/>
+<HYPH2>hundertes</HYPH2>. Die Ewigkeit ist ein gewaltiger Horst, aus dem alle <HYPH1 cont="Jahrhunderte">Jahr-</HYPH1><LE/>
+<HYPH2>hunderte</HYPH2> wie junge Adler nacheinander entfliegen, um den Himmel<LE/>
+zu durchkreuzen und zu verschwinden. Auch unser Jahrhundert ist an<LE/>
+den Rand des Horstes gelangt; aber man hat ihm die Fl&#xFC;gel beschnitten,<LE/>
+und es erwartet den Tod, die Weite betrachtend, in die es sich nicht<LE/>
+zu schwingen vermag.</P>
+<DIV_END divEndID="deID_2433_00129" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00132']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00133" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00131']"/>
+<P parID="00748"><TAB/><SPK><SPC>Fantasio</SPC></SPK> <SD>(singend)</SD>.</P>
+<DIV_START cat="song" divStartID="dsID_2433_00134" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00130']"/>
+<LG parID="00749"><L>Du nennst mich Dein Leben, nenn&#x2019; mich Deine Seele;</L>
+<L>Denn die Seele bl&#xFC;ht ewig, das Leben verweht.</L></LG>
+<DIV_END divEndID="deID_2433_00130" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00134']"/>
+<P parID="00750"><TAB/>Kennst Du eine g&#xF6;ttlichere Romanze als diese, Spark? Es ist eine<LE/>
+portugiesische Romanze. Immer wenn sie mir in den Sinn kam, fasste<LE/>
+mich heisse Sehnsucht zu lieben.</P>
+<DIV_END divEndID="deID_2433_00131" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00133']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00135" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00132']"/>
+<P parID="00751"><TAB/><SPK><SPC>Spark</SPC></SPK>. Wen zum Beispiel?</P>
+<DIV_END divEndID="deID_2433_00132" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00135']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00136" endPtr="WR-02-02-15_n0583.xml#//DIV_END[@divEndID='deID_2433_00133']"/>
+<P parID="00752"><TAB/><SPK><SPC>Fantasio</SPC></SPK>. Wen? Ich weiss es nicht; irgend ein M&#xE4;dchen, rund<LE/>
+wie die Frauen des Mieris, s&#xFC;ss wie der West, bleich wie die Gefilde<LE/>
+des Mondes, nachdenklich wie die kleinen M&#xE4;gde auf fl&#xE4;mischen Bildern,<LE/>
+welche einem Reisenden den Abschiedstrunk credenzen, der mit seinen<LE/>
+weiten Stiefeln kerzengerade auf hohem Schimmel sitzt. Solch ein<LE/>
+Abschiedstrunk muss herrlich sein. Ein junges Weib auf der Th&#xFC;rschwelle,<LE/>
+im Hintergrund des Zimmers flackerndes Feuer, das Nachtmahl bereitet,<LE/>
+die Kinder eingeschlafen. Die ganze Ruhe des friedlich beschaulichen<LE/>
+Lebens in einer Ecke des Bildes. Und vorn der Mann, welcher noch<LE/>
+keuchend, aber fest im Sattel sitzt; er hat zwanzig Meilen zur&#xFC;ckgelegt<LE/>
+und noch dreissig vor sich. Einen Schluck Brantwein und fort. Die<LE/>
+Nacht ist tief, das Wetter drohend, der Wald gef&#xE4;hrlich. Die Blicke<LE/>
+der Frau folgen ihm einen Augenblick, dann entsinkt ihren Lippen,<LE/>
+indem sie zum Feuer zur&#xFC;ckkehrt, das erhabene Opfer der Armen, das<LE/>
+Gebet: &#xBB;Gott m&#xF6;ge ihn beschirmen&#xAB;.</P>
+<DIV_END divEndID="deID_2433_00133" startPtr="WR-02-02-15_n0583.xml#//DIV_START[@divStartID='dsID_2433_00136']"/>
+</PAGE>

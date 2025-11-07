@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-13_n0508.xml</PREV>
+<NEXT>WR-02-02-13_n0510.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 13, S. 509</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2433_00009" endPtr="WR-02-02-13_n0509.xml#//DIV_END[@divEndID='deID_2433_00007']"/>
+<TITLE titleID="tiID_2433_00015"><TITLEPART type="enum">II.</TITLEPART><LE/>
+<TITLEPART type="main">&#xBB;DIE GUTE STIMME.&#xAB;</TITLEPART></TITLE>
+<LG parID="00244"><L>Du bist allein, Nichts And&#x2019;res weisst Du mehr,</L>
+<L>Und w&#xFC;sstest Du&#x2019;s, o so vergiss es auch!</L>
+<L>Sanft sp&#xFC;lt der Lethestrom das Herz Dir leer.</L></LG>
+<LG parID="00245"><L>O liebe diesen so geringen Pfad.</L>
+<L>Noch manche Rose ist am Rosenstrauch;</L>
+<L>Dein Morgen bringt, was Dir Dein Heut verbat.</L></LG>
+<LG parID="00246"><L>Morgen vergisst die Seele ihre Qual</L>
+<L>Und sch&#xF6;pft sich neuen Muth zu neuer That,</L>
+<L>Wie sich beim ersten Thau, beim ersten Strahl</L>
+<L>Das Gras erhebt, das jetzt Dein Fuss zertrat.</L></LG>
+<P parID="00247">Deutsch von <AUCTOR type="translator"><C>Hermann Ubell</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2433_00007" startPtr="WR-02-02-13_n0509.xml#//DIV_START[@divStartID='dsID_2433_00009']"/>
+<DIV_END divEndID="deID_2433_00008" startPtr="WR-02-02-13_n0508.xml#//DIV_START[@divStartID='dsID_2433_00007']"/>
+</PAGE>

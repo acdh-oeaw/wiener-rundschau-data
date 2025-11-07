@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-14_n0256.xml</PREV>
+<NEXT>WR-04-15_n0258.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 15, S. 257</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>18</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_00703" endPtr="WR-04-15_n0274.xml#//DIV_END[@divEndID='deID_2436_00716']"/>
+<DIV_START divStartID="dsID_2436_00704" endPtr="WR-04-15_n0261.xml#//DIV_END[@divEndID='deID_2436_00703']" titleID="tiID_2436_00147"/>
+<TITLE titleID="tiID_2436_00147" parDivStartID="dsID_2436_00704"><TITLEPART type="main">DAS MYSTERIUM DER GERECHTIGKEIT.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAURICE MAETERLINCK</AUCTOR> (Paris).*</TITLEPART></TITLE>
+<TABLE parID="03298"><ROW ciID="0637"><CELL>
+<IMG/>
+<CAPTION><P parID="03299">Maurice Maeterlinck</P>
+<P parID="03300">Zeichnung von <AUCTOR>Felix Vallotton</AUCTOR></P>
+<P parID="03301">Paris.</P></CAPTION>
+</CELL><CELL>
+<TITLE titleID="tiID_2436_00148"><TITLEPART type="enum">V.</TITLEPART></TITLE>
+<P part="initial" parID="03302"><TAB/>Ist der Glaube an die <HYPH1 cont="Gerechtigkeit">Ge-</HYPH1><LE/>
+<HYPH2>rechtigkeit</HYPH2> der Dinge in uns,<LE/>
+der auch den Ungl&#xE4;ubigsten<LE/>
+und am wenigsten mystisch<LE/>
+Veranlagten tief im Herzen<LE/>
+ruht, ein heilsamer? Ist dieser<LE/>
+Theil unserer Moral nicht wie<LE/>
+ein Insect auf einem st&#xFC;rzenden<LE/>
+Felsen, das w&#xE4;hrend des Falles<LE/>
+sich einbildet, der Fels <HYPH1 cont="ver&#xE4;ndere">ver-</HYPH1><LE/>
+<HYPH2>&#xE4;ndere</HYPH2> nur deshalb seine Lage,<LE/>
+um es zu tragen? Gibt es <HYPH1 cont="Irrth&#xFC;mer">Irr-</HYPH1><LE/>
+<HYPH2>th&#xFC;mer</HYPH2>, Illusionen und L&#xFC;gen,<LE/>
+die man ermuthigen soll? <HYPH1 cont="Vielleicht">Viel-</HYPH1><LE/>
+<HYPH2>leicht</HYPH2> hat es solche gegeben,<LE/>
+die einen Augenblick <HYPH1 cont="wohlth&#xE4;tig">wohl-</HYPH1><LE/>
+<HYPH2>th&#xE4;tig</HYPH2> waren &#x2014; aber als ihre<LE/>
+Wohlth&#xE4;tigkeit ein Ende hatte,<LE/>
+stand man dann nicht wieder<LE/>
+der Wahrheit gegen&#xFC;ber und<LE/>
+musste man ihr das Opfer, das<LE/>
+man aufgeschoben hatte, dann<LE/>
+nicht <SPC>doch</SPC> bringen? War es<LE/>
+nothwendig, zu warten, bis<LE/>
+uns die Illusion oder L&#xFC;ge, die uns <HYPH1 cont="heilsam">heil-</HYPH1><LE/>
+<HYPH2>sam</HYPH2> zu sein schien, verh&#xE4;ngnisvoll zu<LE/>
+werden begann oder doch wenigstens die<LE/>
+nothwendige &#xDC;bereinstimmung verz&#xF6;gerte<LE/>
+zwischen der wohlempfundenen <HYPH1 cont="Wirklichkeit">Wirklich-</HYPH1><LE/>
+<HYPH2>keit</HYPH2> und der Art, sie zu deuten, zu<LE/>
+nutzen und anzuerkennen? Was waren doch<LE/>
+das Gottesgnadenthum, die Unfehlbarkeit<LE/>
+der Kirche und der Lohn im Jenseits<LE/>
+anderes, als Illusionen, die lange auf das<LE/>
+Opfer warteten? Was ist damit gewonnen,<LE/>
+dass man es nicht gleich brachte? Etwas<LE/>
+tr&#xFC;gerischer Frieden, etliche oft <HYPH1 cont="verh&#xE4;ngnisvolle">verh&#xE4;ng-</HYPH1><LE/>
+<HYPH2>nisvolle</HYPH2> Tr&#xF6;stungen, einige unth&#xE4;tige <HYPH1 cont="Hoffnungen">Hoff-</HYPH1><LE/>
+<HYPH2>nungen</HYPH2>. Aber man hat viel Zeit verloren,<LE/>
+und die Menschheit will endlich die <HYPH1 cont="Wahrheit">Wahr-</HYPH1><LE/>
+<HYPH2>heit</HYPH2> kennen und hat in diesem Suchen nach<LE/>
+Wahrheit einen Daseinsgrund entdeckt,</P>
+</CELL></ROW></TABLE>
+<FN>
+<P parID="03303"><TAB/>* Aus dem <SPC>Manuscript</SPC> &#xFC;bertragen von F. v. Oppeln-Bronikowski. Vgl. die Bemerkung<LE/>
+in der vorigen Nummer (S. 241).</P>
+</FN>
+<FT type="pn" num="257" c_text="&#x2014; 257 &#x2014;"/>
+</PAGE>

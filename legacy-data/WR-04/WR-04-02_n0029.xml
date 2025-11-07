@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-01_n0028.xml</PREV>
+<NEXT>WR-04-02_n0030.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 2, S. 29</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_00027" endPtr="WR-04-02_n0052.xml#//DIV_END[@divEndID='deID_2436_00043']"/>
+<DIV_START divStartID="dsID_2436_00028" endPtr="WR-04-02_n0030.xml#//DIV_END[@divEndID='deID_2436_00030']" titleID="tiID_2436_00018"/>
+<TITLE titleID="tiID_2436_00018" parDivStartID="dsID_2436_00028"><TITLEPART type="bystmt"><AUCTOR>WALTER CRANE</AUCTOR><LE/>
+LONDON <HR emDashNum="5" type="DoubleInline"/></TITLEPART><LE/>
+<TITLEPART type="main">DREI GEDICHTE: <HR emDashNum="2" type="doubleInline"/></TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2436_00029" endPtr="WR-04-02_n0029.xml#//DIV_END[@divEndID='deID_2436_00027']" titleID="tiID_2436_00019"/>
+<TITLE titleID="tiID_2436_00019" parDivStartID="dsID_2436_00029"><TITLEPART>RONDELL.</TITLEPART></TITLE>
+<LG parID="00244"><L>Wenn, einer Schwalbe gleich,</L>
+<L>Sorglos die ZEIT entflieht,</L>
+<L>Dann in der LIEBE Reich</L>
+<L>Schweigt ihrer V&#xF6;gel Lied.</L>
+<L>Die B&#xE4;ume werden bleich,</L>
+<L>Denn auch der Fr&#xFC;hling schied,</L>
+<L>Wenn, einer Schwalbe gleich,</L>
+<L>Sorglos die ZEIT entflieht.</L>
+<L>Wer weiss, ob dann entweicht</L>
+<L>Der Traum, der uns umzieht,</L>
+<L>Ob uns gef&#xE4;llt ein Streich,</L>
+<L>Ob Hoffnung uns verrieth &#x2014;</L>
+<L>Wenn, einer Schwalbe gleich,</L>
+<L>Sorglos die ZEIT entflieht.</L></LG>
+<DIV_END divEndID="deID_2436_00027" startPtr="WR-04-02_n0029.xml#//DIV_START[@divStartID='dsID_2436_00029']"/>
+<SEPARATOR num="3" type="undefined"/>
+<DIV_START type="verse" divStartID="dsID_2436_00030" endPtr="WR-04-02_n0029.xml#//DIV_END[@divEndID='deID_2436_00028']" titleID="tiID_2436_00020"/>
+<TITLE titleID="tiID_2436_00020" parDivStartID="dsID_2436_00030"><TITLEPART>TRIOLETT.</TITLEPART></TITLE>
+<LG parID="00245"><L>Im Lichte des Tags, im Schatten der Nacht</L>
+<L>Das ist das Maass der ZEIT und des LEBENS;</L>
+<L>Dero Herzen, dem nichts bange macht,</L>
+<L>Im Lichte des Tags, im Schatten der Nacht,</L>
+<L>Ist HOFFNUNG geboren und nicht gemacht,</L>
+<L>Und das Herz sucht nie seine Sch&#xE4;tze vergebens</L>
+<L>Im Lichte des Tags, im Schatten der Nacht &#x2014;</L>
+<L>Das ist das Maass der ZEIT und des LEBENS.</L></LG>
+<DIV_END divEndID="deID_2436_00028" startPtr="WR-04-02_n0029.xml#//DIV_START[@divStartID='dsID_2436_00030']"/>
+<SEPARATOR num="3" type="undefined"/>
+<FT type="pn" num="29" c_text="&#x2014; 29 &#x2014;"/>
+</PAGE>

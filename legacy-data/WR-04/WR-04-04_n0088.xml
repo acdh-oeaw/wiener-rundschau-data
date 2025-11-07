@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-04_n0087.xml</PREV>
+<NEXT>WR-04-04_n0089.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 4, S. 88</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2436_00068" endPtr="WR-04-04_n0091.xml#//DIV_END[@divEndID='deID_2436_00068']" titleID="tiID_2436_00043"/>
+<TITLE titleID="tiID_2436_00043" parDivStartID="dsID_2436_00068"><TITLEPART type="main"><SPC>DIE PHILOSOPHIE DES GIORDANO BRUNO</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LUDWIG KUHLENBECK</AUCTOR> (Jena).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE>
+<TABLE parID="00786"><ROW ciID="0317"><CELL>
+<P parID="00787"><TAB/>Am <DATE>17. Februar d. J.</DATE> sind dreihundert<LE/>
+Jahre verflossen, seitdem <SPC>Giordano<LE/>
+Bruno</SPC> sein rastloses Leben und Streben<LE/>
+als &#xBB;F&#xFC;rst der Ketzer&#xAB;, wie ihn die heilige<LE/>
+Inquisition bezeichnete, auf dem Campo<LE/>
+di fiori zu Rom in den Flammen des<LE/>
+Scheiterhaufens beendigt hat. Damals diente<LE/>
+dieses Autodaf&#xE9; zur besonderen <HYPH1 cont="Verherrlichung">Verherr-</HYPH1><LE/>
+<HYPH2>lichung</HYPH2> des Jubil&#xE4;ums, das ebenso wie zur<LE/>
+Zeit noch zahlreiche Pilger in Rom <HYPH1 cont="versammelte">ver-</HYPH1><LE/>
+<HYPH2>sammelte</HYPH2>. Heute erhebt sich an derselben<LE/>
+St&#xE4;tte sein von einem der ersten K&#xFC;nstler<LE/>
+Italiens, Ettore Ferrari, gegossenes, im<LE/>
+Jahre <DATE>1889</DATE> errichtetes Standbild mit der<LE/>
+Inschrift auf dem Sockel:</P>
+<DIV_START author="(other)" cat="dedication" divStartID="dsID_2436_00069" endPtr="WR-04-04_n0088.xml#//DIV_END[@divEndID='deID_2436_00067']"/>
+<P parID="00788"><LANG iso="it"><I>A Giordano Bruno<LE/>
+Il Secolo<LE/>
+Da Lui Divinato<LE/>
+Qui Dove<LE/>
+Il Rogo Arse.</I></LANG>*</P>
+<DIV_END divEndID="deID_2436_00067" startPtr="WR-04-04_n0088.xml#//DIV_START[@divStartID='dsID_2436_00069']"/>
+<P part="initial" parID="00789"><TAB/>Die Curie hat die Errichtung dieses<LE/>
+Denkmals im Jahre <DATE>1889</DATE> als eine gro&#xDF;e<LE/>
+Beleidigung empfunden. Man wird sich<LE/>
+noch der S&#xFC;hnmessen erinnern, die damals<LE/>
+f&#xFC;r die gesammte katholische Kirche<LE/>
+angeordnet wurden und den Namen dieses<LE/>
+Philosophen bis in die entlegenste <HYPH1 cont="Dorfkirche">Dorf-</HYPH1><LE/>
+<HYPH2>kirche</HYPH2> trugen. Umgekehrt ist der Anh&#xE4;nger<LE/>
+der Weltanschauung, welche Giordano<LE/>
+Bruno vertrat, durch diese <HYPH1 cont="Denkmalserrichtung">Denkmals-</HYPH1><LE/>
+<HYPH2>errichtung</HYPH2> an das stille Walten der <HYPH1 cont="sittlichen"><SPC>sitt</SPC>-</HYPH1><LE/>
+<HYPH2><SPC>lichen</SPC></HYPH2> <SPC>Weltordnung</SPC> erinnert worden,<LE/>
+welche jene St&#xE4;tte eines unvergesslichen<LE/>
+Verbrechens auch <SPC>&#xE4;u&#xDF;erlich</SPC> zu <HYPH1 cont="ents&#xFC;hnen">ent-</HYPH1><LE/>
+<HYPH2>s&#xFC;hnen</HYPH2> gedachte. Wichtiger als diese<LE/>
+&#xE4;u&#xDF;erliche S&#xFC;hne muss dem wirklichen<LE/>
+Kenner des Lebens und der Lehre jenes<LE/>
+M&#xE4;rtyrers der Geistesfreiheit aber die mit<LE/>
+der dritten Wiederkehr seines <HYPH1 cont="Ged&#xE4;chtnistages">Ged&#xE4;chtnis-</HYPH1><LE/>
+<HYPH2>tages</HYPH2> von neuem an ihn herantretende<LE/>
+Aufgabe erscheinen, dem geistigen Inhalte</P>
+</CELL><CELL>
+<P part="final" parID="00790">seiner Lehre diejenige Anerkennung und<LE/>
+W&#xFC;rdigung zu erk&#xE4;mpfen, die sie <HYPH1 cont="verdient">ver-</HYPH1><LE/>
+<HYPH2>dient</HYPH2> und die ihr bislang vielfach selbst<LE/>
+auf der Seite noch mangelt, wo man das<LE/>
+&#xE4;u&#xDF;erliche geschichtliche Moment seines<LE/>
+Martyriums als g&#xFC;nstige Veranlassung zur<LE/>
+Bek&#xE4;mpfung der immer noch bedeutenden<LE/>
+Geistesmacht, der er zum Opfer fiel, zwar<LE/>
+gerne ben&#xFC;tzt, aber &#xFC;ber dem rein <HYPH1 cont="negativen">nega-</HYPH1><LE/>
+<HYPH2>tiven</HYPH2> Ber&#xFC;hrungspunkte die positiven<LE/>
+Werte vernachl&#xE4;ssigt, f&#xFC;r welche dieser<LE/>
+Geistesheld sein Leben einsetzte.</P>
+<P part="initial" parID="00791"><TAB/>Vielleicht ist der folgende Versuch<LE/>
+einer Skizze der Weltanschauung des <HYPH1 cont="Giordano">Gior-</HYPH1><LE/>
+<HYPH2>dano</HYPH2> Bruno geeignet, die immer noch von<LE/>
+Feinden und vermeintlichen Freunden seines<LE/>
+Namens mit Schlagworten umnebelten<LE/>
+Vorstellungen von seiner Lehre in <HYPH1 cont="wesentlichen">wesent-</HYPH1><LE/>
+<HYPH2>lichen</HYPH2> Punkten richtigzustellen. Eine<LE/>
+befriedigende Skizze der Grundgedanken<LE/>
+zu geben, auf denen die universelle <HYPH1 cont="Weltanschauung">Welt-</HYPH1><LE/>
+<HYPH2>anschauung</HYPH2> des Nolaners beruht, ist<LE/>
+schwierig &#x2014; wegen <LANG iso="fr"><I>embarras de richesse</I></LANG>.<LE/>
+Handelte es sich um ein eigentliches<LE/>
+System im modernen Sinne, so lie&#xDF;e sich<LE/>
+vielleicht ein Grundriss nach Art eines<LE/>
+architektonischen Entwurfes zeichnen. Aber<LE/>
+die speculative Construction, in der sich<LE/>
+nach ihm als bedeutendster Vorg&#xE4;nger<LE/>
+unserer deutschen Systemdichter <LANG iso="la"><I>more<LE/>
+geometrico</I></LANG> Spinoza versucht hat, verbot ihm<LE/>
+seine Methode oder auch, wenn man will,<LE/>
+vielmehr sein vorurtheilsloser Mangel einer<LE/>
+solchen, den er selber im <LANG iso="la"><I>Exenbitor</I></LANG><LE/>
+folgenderma&#xDF;en kennzeichnet: &#xBB;Wen das<LE/>
+Schicksal mit guten Gaben ausger&#xFC;stet hat,<LE/>
+wer einen regsamen Geist besitzt, der<LE/>
+wird die schwierige Arbeit nicht scheuen,<LE/>
+das Licht &#xFC;berall aufzufangen, wo es sich<LE/>
+ergie&#xDF;t, der wird den gemeinen <HYPH1 cont="Menschenverstand">Menschen-</HYPH1><LE/>
+<HYPH2>verstand</HYPH2> einerseits und den hochm&#xFC;thigen<LE/>
+Glauben andererseits als Processparteien vor<LE/>
+den Richterstuhl seiner Vernunft laden,</P>
+</CELL></ROW></TABLE>
+<FN>
+<P parID="00792"><TAB/>* Dem Giordano Bruno &#x2014; Das von ihm vorausgeschaute Jahrhundert &#x2014; Hier, wo der<LE/>
+Scheiterhaufen brannte.</P>
+</FN>
+<FT type="pn" num="88" c_text="&#x2014; 88 &#x2014;"/>
+</PAGE>

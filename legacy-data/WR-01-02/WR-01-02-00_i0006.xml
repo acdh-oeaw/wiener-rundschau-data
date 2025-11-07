@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-00_i0005.xml</PREV>
+<NEXT>WR-01-02-13_n0481.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Inhalt S. 6</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS></ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>INHALTS-VERZEICHNISS.</CTEXT></HD>
+<TABLE parID="00004">
+<ROW ciID="0109"><CELL colspan="2"><HYPH2 part="final"><SPC>panski</SPC></HYPH2>, <LANG iso="pl">&#xBB;Srebrne noce&#xAB;</LANG> Nr. <B>13,</B> S. 519; <SPC>Wassermann</SPC>, &#xBB;Die Juden von Zirn-
+dorf&#xAB; Nr. <B>19,</B> S. 751; <SPC>Wedekind</SPC>, &#xBB;Die F&#xFC;rstin Russalka&#xAB; Nr. <B>20,</B> S. 792;
+<SPC>Wendriner</SPC>, &#xBB;F&#xF6;hn&#xAB; Nr. <B>22,</B> S. 864; <LANG iso="la">&#xBB;Horatius travestitus&#xAB;</LANG> Nr. <B>13,</B> S. 518;
+&#xBB;Die Reden Kaiser Wilhelms II.&#xAB; Nr. <B>20,</B> S. 791; &#xBB;Das Wiener Barreau&#xAB;
+Nr. <B>18,</B> S. 714.
+</CELL></ROW>
+<ROW ciID="0110"><CELL colspan="2"><TITLE titleID="tiID_2398_00005"><TITLEPART><B>Kunst.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0111"><CELL colspan="2">Edmund Hellmer&#x2019;s Marmorbrunnen Nr. <B>15,</B> S. 557; Unsere Kunstkritik Nr. <B>18,</B>
+S. 715; Secession Nr. <B>15,</B> S. 559; Slevogt Nr. <B>24,</B> S. 943.
+</CELL></ROW>
+<ROW ciID="0112"><CELL colspan="2"><TITLE titleID="tiID_2398_00006"><TITLEPART><B>Vortr&#xE4;ge.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0113"><CELL>Calderon <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>15,</B> S. 597
+</CELL></ROW>
+<ROW ciID="0114"><CELL colspan="2"><TITLE titleID="tiID_2398_00007"><TITLEPART><B>Diverse Notizen.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0115"><CELL>Die Budapester Theaterscandale <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>15,</B> S. 600
+</CELL></ROW>
+<ROW ciID="0116"><CELL>Director Emerich v. Bukovics <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>22,</B> S. 863
+</CELL></ROW>
+<ROW ciID="0117"><CELL>Vincenz Chiavacci &#x2014; entdeckt <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>15,</B> S. 559
+</CELL></ROW>
+</TABLE>
+<DIV_END divEndID="deID_2398_00002" startPtr="WR-01-02-00_i0001.xml#//DIV_START[@divStartID='dsID_2398_00000']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

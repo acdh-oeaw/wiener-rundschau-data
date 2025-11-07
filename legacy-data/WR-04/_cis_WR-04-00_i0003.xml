@@ -1,0 +1,3941 @@
+<root>
+
+<ci>
+   <rn>1</rn>
+   <author>A. Lg.</author>
+   <title>Moderne Keramik*</title>
+   <issue>22</issue>
+   <page>396</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0002</contDocID>
+   <target>WR-04-22_n0396.xml#//P[@parID='04495']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00842</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-22_n0397.xml#//DIV_END[@divEndID='deID_2436_00840']</divEndPtr>
+   <targetTitle><P parID="04495" complete="false"><TAB/>MODERNE KERAMIK.</P></targetTitle>
+   <auctores><AUCTOR>Lg. A.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>2</rn>
+   <author>Abels, Ludwig</author>
+   <title>Wiener Wohnräume*</title>
+   <issue>1</issue>
+   <page>20</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0003</contDocID>
+   <target>WR-04-01_n0020.xml#//P[@parID='00177']</target>
+   <secTitle></secTitle>
+   <divStartID></divStartID>
+   <divType></divType>
+   <divEndPtr></divEndPtr>
+   <targetTitle><P parID="00177" complete="false"><TAB/>Doch ein Gesetz ist es</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>3</rn>
+   <author>Achelis, Thomas</author>
+   <title>Über Thiercultus vom völkerpsychologischen Standpunkte</title>
+   <issue>8</issue>
+   <page>196</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0004</contDocID>
+   <target>WR-04-08_n0196.xml#//TITLE[@titleID='tiID_2436_00090']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00190</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0201.xml#//DIV_END[@divEndID='deID_2436_00189']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00090" parDivStartID="dsID_2436_00190"><TITLEPART type="main">ÜBER THIERCULTUS VOM VÖLKERPSYCHOLOGISCHEN<LE/>
+STANDPUNKTE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>THOMAS ACHELIS</AUCTOR> (Bremen).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>THOMAS ACHELIS</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>4</rn>
+   <author>Adler, Prof. S.</author>
+   <title>Über die Bewohnbarkeit der Sterne</title>
+   <issue>10</issue>
+   <page>145</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0005</contDocID>
+   <target>WR-04-10_n0145.xml#//TITLE[@titleID='tiID_2436_00109']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00230</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0147.xml#//DIV_END[@divEndID='deID_2436_00229']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00109" parDivStartID="dsID_2436_00230"><TITLEPART type="main">ÜBER DIE BEWOHNBARKEIT DER STERNE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Prof. <AUCTOR>S. ADLER</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>S. ADLER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>5</rn>
+   <author>Altenberg, Peter</author>
+   <title>Aus ihrem Tagebuche : Ein December-Abend</title>
+   <issue>1</issue>
+   <page>6</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0006</contDocID>
+   <target>WR-04-01_n0006.xml#//TITLE[@titleID='tiID_2436_00005']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00007</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-01_n0008.xml#//DIV_END[@divEndID='deID_2436_00006']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00005" parDivStartID="dsID_2436_00007"><TITLEPART type="main">AUS IHREM TAGEBUCHE: EIN DECEMBER-ABEND.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PETER ALTENBERG</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PETER ALTENBERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>6</rn>
+   <author>Altenberg, Peter</author>
+   <title>Theater-Abend</title>
+   <issue>6</issue>
+   <page>131</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0007</contDocID>
+   <target>WR-04-06_n0131.xml#//TITLE[@titleID='tiID_2436_00063']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00118</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0132.xml#//DIV_END[@divEndID='deID_2436_00117']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00063" parDivStartID="dsID_2436_00118"><TITLEPART type="main">THEATER-ABEND.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PETER ALTENBERG</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PETER ALTENBERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>7</rn>
+   <author>Altenberg, Peter</author>
+   <title>Gerichts-Verhandlung</title>
+   <issue>9</issue>
+   <page>117</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0008</contDocID>
+   <target>WR-04-09_n0117.xml#//TITLE[@titleID='tiID_2436_00101']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00218</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-09_n0118.xml#//DIV_END[@divEndID='deID_2436_00217']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00101" parDivStartID="dsID_2436_00218"><TITLEPART type="main"><SPC>GERICHTS-VERHANDLUNG</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PETER ALTENBERG</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PETER ALTENBERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>8</rn>
+   <author>Altenberg, Peter</author>
+   <title>Neu-Romantik</title>
+   <issue>11</issue>
+   <page>164</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0009</contDocID>
+   <target>WR-04-11_n0164.xml#//TITLE[@titleID='tiID_2436_00116']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00248</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0164.xml#//DIV_END[@divEndID='deID_2436_00247']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00116" parDivStartID="dsID_2436_00248"><TITLEPART type="main">NEU-ROMANTIK.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PETER ALTENBERG</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PETER ALTENBERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>9</rn>
+   <author>Appia, Adolphe</author>
+   <title>Das Licht und die Inscenierung</title>
+   <issue>24</issue>
+   <page>422</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0010</contDocID>
+   <target>WR-04-24_n0422.xml#//TITLE[@titleID='tiID_2436_00232']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00878</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-24_n0428.xml#//DIV_END[@divEndID='deID_2436_00877']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00232" parDivStartID="dsID_2436_00878"><TITLEPART type="main">DAS LICHT UND DIE INSCENIERUNG.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ADOLPHE APPIA</AUCTOR> (Rom).</TITLEPART>*</TITLE></targetTitle>
+   <auctores><AUCTOR>ADOLPHE APPIA</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>10</rn>
+   <author>Arjuna van Jostenoode, Harald</author>
+   <title>Der theosophische Congress zu Paris</title>
+   <issue>14</issue>
+   <page>245</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0011</contDocID>
+   <target>WR-04-14_n0245.xml#//TITLE[@titleID='tiID_2436_00141']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00692</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0248.xml#//DIV_END[@divEndID='deID_2436_00691']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00141" parDivStartID="dsID_2436_00692"><TITLEPART type="main">DER THEOSOPHISCHE CONGRESS ZU PARIS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR>HARALD ARJUNA VAN JOSTENOODE</AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HARALD ARJUNA VAN JOSTENOODE</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>11</rn>
+   <author>Arjuna van Jostenoode, Harald</author>
+   <title>Dharma und Karma</title>
+   <issue>18</issue>
+   <page>318</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0012</contDocID>
+   <target>WR-04-18_n0318.xml#//TITLE[@titleID='tiID_2436_00192']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00765</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-18_n0321.xml#//DIV_END[@divEndID='deID_2436_00764']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00192" parDivStartID="dsID_2436_00765"><TITLEPART type="main">DHARMA UND KARMA.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>HARALD ARJUNA VAN JOSTENOODE</AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HARALD ARJUNA VAN JOSTENOODE</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>12</rn>
+   <author>d’Aurevilly, Barbey</author>
+   <title>Augen</title>
+   <issue>4</issue>
+   <page>77</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0013</contDocID>
+   <target>WR-04-04_n0077.xml#//TITLE[@titleID='tiID_2436_00040']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00065</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-04_n0078.xml#//DIV_END[@divEndID='deID_2436_00064']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00040" parDivStartID="dsID_2436_00065"><TITLEPART type="main">AUGEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>BARBEY D’AUREVILLY</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>BARBEY D’AUREVILLY</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>13</rn>
+   <author>Bailly, Edmund</author>
+   <title>Das tönende Phänomen in der Natur I</title>
+   <issue>11</issue>
+   <page>167</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0014</contDocID>
+   <target>WR-04-11_n0167.xml#//TITLE[@titleID='tiID_2436_00118']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00250</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0172.xml#//DIV_END[@divEndID='deID_2436_00254']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00118" parDivStartID="dsID_2436_00250"><TITLEPART type="main">DAS TÖNENDE PHÄNOMEN IN DER NATUR.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>EDMUND BAILLY</AUCTOR> (Paris).</TITLEPART><LE/>
+<TITLEPART>DAS WESEN DES TONS.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>EDMUND BAILLY</AUCTOR><AUCTOR>Johannes</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>14</rn>
+   <author>Bailly, Edmund</author>
+   <title>Das tönende Phänomen in der Natur II.</title>
+   <issue>12</issue>
+   <page>181</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0015</contDocID>
+   <target>WR-04-12_n0181.xml#//TITLE[@titleID='tiID_2436_00122']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00269</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-12_n0184.xml#//DIV_END[@divEndID='deID_2436_00269']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00122" parDivStartID="dsID_2436_00269"><TITLEPART type="main">DAS TÖNENDE PHÄNOMEN IN DER NATUR.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><ERR sug="EDMUND">EDMUMD</ERR> BAILLY</AUCTOR> (Paris).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART> <TITLEPART>DIE HARMONIE DER SPHÄREN.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR><ERR sug="EDMUND">EDMUMD</ERR> BAILLY</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>15</rn>
+   <author>Bailly, Edmund</author>
+   <title>Die Harmonie der Sphären</title>
+   <issue>14</issue>
+   <page>250</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0016</contDocID>
+   <target>WR-04-14_n0250.xml#//TITLE[@titleID='tiID_2436_00143']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00694</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0253.xml#//DIV_END[@divEndID='deID_2436_00693']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00143" parDivStartID="dsID_2436_00694"><TITLEPART type="main"><SPC>DIE HARMONIE DER SPHÄREN</SPC>.</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>EDMUND BAILLY</AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>EDMUND BAILLY</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>16</rn>
+   <author>Bleibtreu, Carl</author>
+   <title>Die Formen der Dichtkunst</title>
+   <issue>8</issue>
+   <page>179</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0017</contDocID>
+   <target>WR-04-08_n0179.xml#//TITLE[@titleID='tiID_2436_00086']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00184</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0186.xml#//DIV_END[@divEndID='deID_2436_00183']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00086" parDivStartID="dsID_2436_00184"><TITLEPART type="main"><SPC>DIE FORMEN DER DICHTKUNST</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CARL BLEIBTREU</AUCTOR> (Berlin-Wilmersdorf).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CARL BLEIBTREU</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>17</rn>
+   <author>Bleibtreu, Carl</author>
+   <title>Aphorismen über das Karma</title>
+   <issue>15</issue>
+   <page>266</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0018</contDocID>
+   <target>WR-04-15_n0266.xml#//TITLE[@titleID='tiID_2436_00156']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00707</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-15_n0267.xml#//DIV_END[@divEndID='deID_2436_00706']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00156" parDivStartID="dsID_2436_00707"><TITLEPART type="main">APHORISMEN ÜBER DAS KARMA.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CARL BLEIBTREU</AUCTOR> (Chur, Schweiz).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CARL BLEIBTREU</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>18</rn>
+   <author>Bleibtreu, Carl</author>
+   <title>Das »Karma« in der Literatur</title>
+   <issue>19</issue>
+   <page>341</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0019</contDocID>
+   <target>WR-04-19_n0341.xml#//TITLE[@titleID='tiID_2436_00201']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00790</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-19_n0343.xml#//DIV_END[@divEndID='deID_2436_00790']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00201" parDivStartID="dsID_2436_00790"><TITLEPART>DAS »KARMA« IN DER LITERATUR.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CARL BLEIBTREU</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>19</rn>
+   <author>Bleibtreu, Carl</author>
+   <title>Marlowe, Grabbe und Lenz</title>
+   <issue>24</issue>
+   <page>429</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0020</contDocID>
+   <target>WR-04-24_n0429.xml#//TITLE[@titleID='tiID_2436_00233']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00879</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-24_n0432.xml#//DIV_END[@divEndID='deID_2436_00878']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00233" parDivStartID="dsID_2436_00879"><TITLEPART type="main">MARLOWE, GRABBE UND LENZ.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CARL BLEIBTREU</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CARL BLEIBTREU</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>20</rn>
+   <author>Brausewetter, Ernst</author>
+   <title>Ibsen, der Bekenner</title>
+   <issue>11</issue>
+   <page>172</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0021</contDocID>
+   <target>WR-04-11_n0172.xml#//TITLE[@titleID='tiID_2436_00119']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00256</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0176.xml#//DIV_END[@divEndID='deID_2436_00255']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00119" parDivStartID="dsID_2436_00256"><TITLEPART type="main">IBSEN DER BEKENNER.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ERNST BRAUSEWETTER</AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ERNST BRAUSEWETTER</AUCTOR><AUCTOR>FELIX VALLOTTON</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>21</rn>
+   <author>Buttenstedt, Carl</author>
+   <title>Unser Leben und Tod I.</title>
+   <issue>5</issue>
+   <page>117</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0022</contDocID>
+   <target>WR-04-05_n0117.xml#//TITLE[@titleID='tiID_2436_00054']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00100</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-05_n0121.xml#//DIV_END[@divEndID='deID_2436_00100']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00054" parDivStartID="dsID_2436_00100"><TITLEPART type="main">UNSER LEBEN UND TOD.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CARL BUTTENSTEDT</AUCTOR> (Rüdersdorf-Berlin).*</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART><LE/>
+<TITLEPART>DAS MECHANISCHE PRINCIP DES ORGANISMUS.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CARL BUTTENSTEDT</AUCTOR><AUCTOR>G. Forster</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>22</rn>
+   <author>Buttenstedt, Carl</author>
+   <title>Unser Leben und Tod II.</title>
+   <issue>7</issue>
+   <page>154</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0023</contDocID>
+   <target>WR-04-07_n0154.xml#//TITLE[@titleID='tiID_2436_00076']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00165</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-07_n0158.xml#//DIV_END[@divEndID='deID_2436_00168']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00076" parDivStartID="dsID_2436_00165"><TITLEPART type="main">UNSER LEBEN UND TOD.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><SPC>CARL BUTTENSTEDT</SPC></AUCTOR> (Rüdersdorf-Berlin).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART><LE/>
+<TITLEPART>DIE ÜBERTRAGUNG DER LEBENSKRAFT.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CARL BUTTENSTEDT</AUCTOR><AUCTOR>MESMER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>23</rn>
+   <author>Ceconi-Huch, Ricarda</author>
+   <title>Die blaue Blume*</title>
+   <issue>18</issue>
+   <page>321</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0024</contDocID>
+   <target>WR-04-18_n0321.xml#//TITLE[@titleID='tiID_2436_00194']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00767</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-18_n0323.xml#//DIV_END[@divEndID='deID_2436_00771']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00194" parDivStartID="dsID_2436_00767"><TITLEPART type="main">DIE BLAUE BLUME.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>RICARDA CECONI-HUCH</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>RICARDA CECONI-HUCH</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>24</rn>
+   <author>Chamberlain, Houston Stewart</author>
+   <title>Classicität und Germanismus</title>
+   <issue>7</issue>
+   <page>162</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0025</contDocID>
+   <target>WR-04-07_n0162.xml#//TITLE[@titleID='tiID_2436_00078']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00171</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-07_n0166.xml#//DIV_END[@divEndID='deID_2436_00170']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00078" parDivStartID="dsID_2436_00171"><TITLEPART type="main"><SPC>CLASSICITÄT UND GERMANISMUS</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>HOUSTON STEWART CHAMBERLAIN</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HOUSTON STEWART CHAMBERLAIN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>25</rn>
+   <author>Crane, Walter</author>
+   <title>Drei Gedichte</title>
+   <issue>2</issue>
+   <page>29</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0026</contDocID>
+   <target>WR-04-02_n0029.xml#//TITLE[@titleID='tiID_2436_00018']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00028</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-02_n0030.xml#//DIV_END[@divEndID='deID_2436_00030']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00018" parDivStartID="dsID_2436_00028"><TITLEPART type="bystmt"><AUCTOR>WALTER CRANE</AUCTOR><LE/>
+LONDON <HR emDashNum="5" type="DoubleInline"/></TITLEPART><LE/>
+<TITLEPART type="main">DREI GEDICHTE: <HR emDashNum="2" type="doubleInline"/></TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>WALTER CRANE</AUCTOR><AUCTOR type="translator">Otto Hauser</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>26</rn>
+   <author>Deinhard, Ludwig</author>
+   <title>Der vierte internationale Psychologen-Congress</title>
+   <issue>22</issue>
+   <page>388</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0027</contDocID>
+   <target>WR-04-22_n0388.xml#//TITLE[@titleID='tiID_2436_00222']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00838</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-22_n0393.xml#//DIV_END[@divEndID='deID_2436_00838']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00222" parDivStartID="dsID_2436_00838"><TITLEPART type="main">DER VIERTE INTERNATIONALE PSYCHOLOGEN-CONGRESS.*</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LUDWIG DEINHARD</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LUDWIG DEINHARD</AUCTOR><AUCTOR>Max Dessoir</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>27</rn>
+   <author>Deussen, Paul, Prof.</author>
+   <title>Die Wahrheit über Friedrich Nietzsche</title>
+   <issue>20</issue>
+   <page>353</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0028</contDocID>
+   <target>WR-04-20_n0353.xml#//TITLE[@titleID='tiID_2436_00208']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00804</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-20_n0359.xml#//DIV_END[@divEndID='deID_2436_00803']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00208" parDivStartID="dsID_2436_00804"><TITLEPART type="main">DIE WAHRHEIT ÜBER FRIEDRICH NIETZSCHE.*</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <SPC>PROF</SPC>. <AUCTOR><SPC>PAUL DEUSSEN</SPC></AUCTOR> (Kiel).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>PAUL DEUSSEN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>28</rn>
+   <author>Drews, Arthur, Prof.</author>
+   <title>Zeitgenössische englische Malerei</title>
+   <issue>4</issue>
+   <page>92</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0030</contDocID>
+   <target>WR-04-04_n0092.xml#//TITLE[@titleID='tiID_2436_00044']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00070</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-04_n0094.xml#//DIV_END[@divEndID='deID_2436_00069']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00044" parDivStartID="dsID_2436_00070"><TITLEPART type="main">ZEITGENÖSSISCHE ENGLISCHE MALEREI.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ARTHUR DREWS</AUCTOR> (Karlsruhe).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ARTHUR DREWS</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>29</rn>
+   <author>Drews, Arthur, Prof.</author>
+   <title>Parsifal-Märchen von Houston Stewart Chamberlain*</title>
+   <issue>11</issue>
+   <page>177</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0031</contDocID>
+   <target>WR-04-11_n0177.xml#//P[@parID='02437']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00260</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0177.xml#//DIV_END[@divEndID='deID_2436_00258']</divEndPtr>
+   <targetTitle><P parID="02437"><TAB/>PARSIFAL-MÄRCHEN von HOUSTON<LE/>
+STEWART CHAMBERLAIN. Verlagsanstalt<LE/>
+F. Bruckmann, München.</P></targetTitle>
+   <auctores><AUCTOR>ARTHUR DREWS</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>30</rn>
+   <author>Drews, Arthur, Prof.</author>
+   <title>Dante von Carl Federn*</title>
+   <issue>12</issue>
+   <page>213</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0032</contDocID>
+   <target>WR-04-12_n0213.xml#//P[@parID='02935']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00657</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-12_n0214.xml#//DIV_END[@divEndID='deID_2436_00655']</divEndPtr>
+   <targetTitle><P parID="02935"><TAB/><SPC>Dante</SPC> von Karl Federn. Leipzig,<LE/>
+Berlin und Wien. Verlag von E. A. <HYPH1 cont="Seemann">See-</HYPH1><LE/>
+<HYPH2>mann</HYPH2> und der Gesellschaft für graphische<LE/>
+Industrie.</P></targetTitle>
+   <auctores><AUCTOR>A. D.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>31</rn>
+   <author>Drews, Arthur, Prof.</author>
+   <title>Die deutsche Literatur des neunzehnten Jahrhunderts</title>
+   <issue>16</issue>
+   <page>282</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0033</contDocID>
+   <target>WR-04-16_n0282.xml#//TITLE[@titleID='tiID_2436_00165']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00726</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-16_n0285.xml#//DIV_END[@divEndID='deID_2436_00725']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00165" parDivStartID="dsID_2436_00726"><TITLEPART type="main">DIE DEUTSCHE LITERATUR<LE/>
+DES <DATERANGE>NEUNZEHNTEN JAHRHUNDERTS</DATERANGE>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von PROF. <AUCTOR>ARTHUR DREWS</AUCTOR> (Karlsruhe).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ARTHUR DREWS</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>32</rn>
+   <author>Driesmans, Heinrich</author>
+   <title>Telepathie</title>
+   <issue>20</issue>
+   <page>359</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0034</contDocID>
+   <target>WR-04-20_n0359.xml#//TITLE[@titleID='tiID_2436_00209']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00805</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-20_n0361.xml#//DIV_END[@divEndID='deID_2436_00804']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00209" parDivStartID="dsID_2436_00805"><TITLEPART type="main"><SPC>TELEPATHIE</SPC>.</TITLEPART><LE/>
+<TITLEPART type="desc">Ein Dialog</TITLEPART><LE/>
+<TITLEPART type="bystmt">von <AUCTOR>HEINRICH DRIESMANS</AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HEINRICH DRIESMANS</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>33</rn>
+   <author>Driesmans, Heinrich</author>
+   <title>Ahnungen und Lebenswellen</title>
+   <issue>24</issue>
+   <page>432</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0035</contDocID>
+   <target>WR-04-24_n0432.xml#//TITLE[@titleID='tiID_2436_00234']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00880</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-24_n0436.xml#//DIV_END[@divEndID='deID_2436_00881']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00234" parDivStartID="dsID_2436_00880"><TITLEPART type="main">AHNUNGEN UND LEBENSWELLEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>HEINRICH DRIESMANS</AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HEINRICH DRIESMANS</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>34</rn>
+   <author>Ephron, Jefim</author>
+   <title>Carl Pawlowitsch Brjulów*</title>
+   <issue>2</issue>
+   <page>51</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0036</contDocID>
+   <target>WR-04-02_n0051.xml#//P[@parID='00441']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00041</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-02_n0051.xml#//DIV_END[@divEndID='deID_2436_00039']</divEndPtr>
+   <targetTitle><P parID="00441" complete="false"><TAB/>KARL PAWLOWITSCH BRJULÓW.</P></targetTitle>
+   <auctores><AUCTOR>JEFIM EPHRON</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>35</rn>
+   <author>Ferri, Enrico</author>
+   <title>Die Anormalen</title>
+   <issue>2</issue>
+   <page>37</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0037</contDocID>
+   <target>WR-04-02_n0037.xml#//TITLE[@titleID='tiID_2436_00023']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00034</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-02_n0041.xml#//DIV_END[@divEndID='deID_2436_00033']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00023" parDivStartID="dsID_2436_00034"><TITLEPART type="main">DIE ANORMALEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ENRICO FERRI</AUCTOR> (Fiesole).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ENRICO FERRI</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>36</rn>
+   <author>Fischer, Arnold</author>
+   <title>Die Entstehung des socialen Problems</title>
+   <issue>8</issue>
+   <page>194</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0038</contDocID>
+   <target>WR-04-08_n0194.xml#//TITLE[@titleID='tiID_2436_00089']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00189</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0196.xml#//DIV_END[@divEndID='deID_2436_00188']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00089" parDivStartID="dsID_2436_00189"><TITLEPART type="main">DIE ENTSTEHUNG DES SOCIALEN PROBLEMS.</TITLEPART><LE/>
+<TITLEPART type="desc">EINE ENTGEGNUNG.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ARNOLD FISCHER</AUCTOR> (Dresden).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ARNOLD FISCHER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>37</rn>
+   <author>Förster-Nietzsche, Elisabeth</author>
+   <title>Zuschrift *</title>
+   <issue>13</issue>
+   <page>240</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0039</contDocID>
+   <target>WR-04-13_n0240.xml#//P[@parID='03161']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00688</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-13_n0240.xml#//DIV_END[@divEndID='deID_2436_00686']</divEndPtr>
+   <targetTitle><P part="initial" parID="03161" complete="false"><TAB/>Nachdem in den letzten Jahren <HYPH1 cont="mehrfach">mehr-</HYPH1><LE/>
+<HYPH2>fach</HYPH2> Briefe meines Bruders <SPC>Friedrich<LE/>
+Nietzsche</SPC> unbefugt veröffentlicht worden<LE/>
+sind, erkläre ich,</P></targetTitle>
+   <auctores><AUCTOR>ELISABETH FÖRSTER-NIETZSCHE</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>38</rn>
+   <author>Prantz, Heinrich</author>
+   <title>Das Museum Moreau in Paris</title>
+   <issue>10</issue>
+   <page>134</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0040</contDocID>
+   <target>WR-04-10_n0134.xml#//TITLE[@titleID='tiID_2436_00106']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00226</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0136.xml#//DIV_END[@divEndID='deID_2436_00225']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00106" parDivStartID="dsID_2436_00226"><TITLEPART type="main">DAS MUSEUM MOREAU IN PARIS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>HEINRICH FRANTZ</AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HEINRICH FRANTZ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>39</rn>
+   <author>Froebe, Robert, Dr.</author>
+   <title>Helene Petrowna Blavatsky und die »Geheim-, lehre«</title>
+   <issue>10</issue>
+   <page>137</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0041</contDocID>
+   <target>WR-04-10_n0137.xml#//TITLE[@titleID='tiID_2436_00107']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00227</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0141.xml#//DIV_END[@divEndID='deID_2436_00226']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00107" parDivStartID="dsID_2436_00227"><TITLEPART type="main">HELENE PETROWNA BLAVATSKY UND DIE<LE/>
+»GEHEIMLEHRE«.*</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR>ROBERT FROEBE</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ROBERT FROEBE</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>40</rn>
+   <author>Gorkij, Maxim</author>
+   <title>Das Lied vom Falken</title>
+   <issue>5</issue>
+   <page>102</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0042</contDocID>
+   <target>WR-04-05_n0102.xml#//TITLE[@titleID='tiID_2436_00050']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00089</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-05_n0105.xml#//DIV_END[@divEndID='deID_2436_00088']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00050" parDivStartID="dsID_2436_00089"><TITLEPART type="main">DAS LIED VOM FALKEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAXIM GORKIJ</AUCTOR> (Nižhnij-Novgorod).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAXIM GORKIJ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>41</rn>
+   <author>Gorkij, Maxim</author>
+   <title>Die Isergil I.</title>
+   <issue>11</issue>
+   <page>157</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0043</contDocID>
+   <target>WR-04-11_n0157.xml#//TITLE[@titleID='tiID_2436_00114']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00244</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0161.xml#//DIV_END[@divEndID='deID_2436_00244']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00114" parDivStartID="dsID_2436_00244"><TITLEPART type="main">DIE ISERGIL.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAXIM GORKIJ</AUCTOR> (Nižhnij-Novgorod).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAXIM GORKIJ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>42</rn>
+   <author>Gorkij, Maxim</author>
+   <title>Die Isergil II.</title>
+   <issue>13</issue>
+   <page>217</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0044</contDocID>
+   <target>WR-04-13_n0217.xml#//TITLE[@titleID='tiID_2436_00129']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00666</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-13_n0222.xml#//DIV_END[@divEndID='deID_2436_00665']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00129" parDivStartID="dsID_2436_00666"><TITLEPART type="main">DIE ISERGIL.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAXIM GORKIJ</AUCTOR> (Nižhnij-Novgorod).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAXIM GORKIJ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>43</rn>
+   <author>Gourmont, Remy de</author>
+   <title>Brief aus Paris</title>
+   <issue>3</issue>
+   <page>66</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0045</contDocID>
+   <target>WR-04-03_n0066.xml#//TITLE[@titleID='tiID_2436_00035']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00055</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-03_n0069.xml#//DIV_END[@divEndID='deID_2436_00055']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00035" parDivStartID="dsID_2436_00055"><TITLEPART type="repeated">BRIEF AUS PARIS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>REMY DE GOURMONT</AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>REMY DE GOURMONT</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>44</rn>
+   <author>Gourmont, Remy de</author>
+   <title>Die Utopie und die Utopisten</title>
+   <issue>8</issue>
+   <page>191</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0046</contDocID>
+   <target>WR-04-08_n0191.xml#//TITLE[@titleID='tiID_2436_00088']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00186</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0194.xml#//DIV_END[@divEndID='deID_2436_00187']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00088" parDivStartID="dsID_2436_00186"><TITLEPART>DIE UTOPIE UND DIE UTOPISTEN.</TITLEPART><LE/>
+<TITLEPART type="repeated"><SPC>BRIEF AUS PARIS</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>REMY DE GOURMONT</AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>REMY DE GOURMONT</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>45</rn>
+   <author>Gourmont, Remy de</author>
+   <title>L’Ennemie des rêves, roman contemporain, par Camille Mauclair</title>
+   <issue>8</issue>
+   <page>204</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0047</contDocID>
+   <target>WR-04-08_n0204.xml#//P[@parID='01784']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00198</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0205.xml#//DIV_END[@divEndID='deID_2436_00195']</divEndPtr>
+   <targetTitle><P part="initial" parID="01784" complete="false"><TAB/><LANG iso="fr">L’<SPC>Ennemie des rêves</SPC>, <SPC>roman<LE/>
+contemporain</SPC>, <SPC>par Camille Mauclair</SPC></LANG><LE/>
+(<SPC>Librairie Ollendorff</SPC>). Paris <DATE>1900</DATE>.<LE/></P></targetTitle>
+   <auctores><AUCTOR>REMY DE GOURMONT</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>46</rn>
+   <author>Gourmont, Remy de</author>
+   <title>Die internationale Kunst in Paris I.</title>
+   <issue>16</issue>
+   <page>285</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0048</contDocID>
+   <target>WR-04-16_n0285.xml#//TITLE[@titleID='tiID_2436_00166']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00727</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-16_n0288.xml#//DIV_END[@divEndID='deID_2436_00730']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00166" parDivStartID="dsID_2436_00727"><TITLEPART type="main">DIE INTERNATIONALE KUNST IN PARIS.</TITLEPART><LE/>
+<TITLEPART type="desc">NOTIZEN AUS DEM GRAND PALAIS DER WELTAUSSTELLUNG.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>REMY DE GOURMONT</AUCTOR> (Paris).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>REMY DE GOURMONT</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>47</rn>
+   <author>Gourmont, Remy de</author>
+   <title>Die internationale Kunst in Paris II.</title>
+   <issue>17</issue>
+   <page>301</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0049</contDocID>
+   <target>WR-04-17_n0301.xml#//TITLE[@titleID='tiID_2436_00175']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00740</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-17_n0305.xml#//DIV_END[@divEndID='deID_2436_00749']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00175" parDivStartID="dsID_2436_00740"><TITLEPART type="main">DIE INTERNATIONALE KUNST IN PARIS.</TITLEPART><LE/>
+<TITLEPART type="desc">NOTIZEN AUS DEM GRAND PALAIS DER WELTAUSSTELLUNG.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>REMY DE GOURMONT</AUCTOR> (Paris).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>REMY DE GOURMONT</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>48</rn>
+   <author>Graevell van Jostenoode, Harald</author>
+   <title>Geistige Heilkunst</title>
+   <issue>3</issue>
+   <page>55</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0050</contDocID>
+   <target>WR-04-03_n0055.xml#//TITLE[@titleID='tiID_2436_00032']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00048</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-03_n0058.xml#//DIV_END[@divEndID='deID_2436_00051']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00032" parDivStartID="dsID_2436_00048"><TITLEPART type="main">GEISTIGE HEILKUNST.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>HARALD GRAEVELL VAN JOSTENOODE</AUCTOR> (Lüttich).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HARALD GRAEVELL VAN JOSTENOODE</AUCTOR><AUCTOR>Paracelsus</AUCTOR><AUCTOR><HYPH1 cont="Paracelsus">Para-</HYPH1><LE/>
+<HYPH2>celsus</HYPH2></AUCTOR><AUCTOR>Paracelsus</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>49</rn>
+   <author>Graevell van Jostenoode, Harald</author>
+   <title>Bücher</title>
+   <issue>4</issue>
+   <page>94</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0051</contDocID>
+   <target>WR-04-01_n0027.xml#//TITLE[@titleID='tiID_2436_00016']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00019</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-01_n0028.xml#//DIV_END[@divEndID='deID_2436_00020']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00016" parDivStartID="dsID_2436_00019"><TITLEPART type="repeated"><SPC>BÜCHER</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HARALD GRAEVELL</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>50</rn>
+   <author>Graevell van Jostenoode, Harald</author>
+   <title>Die Renaissance des Keltenthums</title>
+   <issue>7</issue>
+   <page>167</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0052</contDocID>
+   <target>WR-04-04_n0094.xml#//TITLE[@titleID='tiID_2436_00045']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00071</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-04_n0096.xml#//DIV_END[@divEndID='deID_2436_00076']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00045" parDivStartID="dsID_2436_00071"><TITLEPART type="repeated"><SPC>BÜCHER</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>HARALD GRAEVELL VAN JOSTENOODE</AUCTOR> (Lüttich).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HARALD GRAEVELL VAN JOSTENOODE</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>51</rn>
+   <author>Graevell, Harald</author>
+   <title>Gobineau: Les Religions et les Philosophies dans l’Asie Centrale!—A. Ribot: La Réforme de l’Enseignement secondaire*</title>
+   <issue>8</issue>
+   <page>205</page>
+   <contDoc>WR-04-00_i0003.xml</contDoc>
+   <contDocID>0053</contDocID>
+   <target>WR-04-08_n0205.xml#//P[@parID='01791']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00199</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0205.xml#//DIV_END[@divEndID='deID_2436_00196']</divEndPtr>
+   <targetTitle><P parID="01791" complete="false"><TAB/><SPC>Gobineau</SPC>: <LANG iso="fr"><I>Les Religions et les <HYPH1 cont="Philosophies">Philo-</HYPH1><LE/>
+<HYPH2>sophies</HYPH2> dans l’Asie Centrale.</I></LANG> Paris, Leroux,<LE/>
+<DATE>1900</DATE>.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>52</rn>
+   <author>Graevell, Harald</author>
+   <title>Baumgartner S. J.: Geschichte der Welt-Literatur*</title>
+   <issue>19</issue>
+   <page>343</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0056</contDocID>
+   <target>WR-04-19_n0343.xml#//P[@parID='03990']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00793</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-19_n0344.xml#//DIV_END[@divEndID='deID_2436_00791']</divEndPtr>
+   <targetTitle><P parID="03990"><TAB/>BAUMGARTNER S. J.: GESCHICHTE<LE/>
+DER WELT-LITERATUR. III. Die griechische<LE/>
+und lateinische Literatur des classischen <HYPH1 cont="Alterthums">Alter-</HYPH1><LE/>
+<HYPH2>thums</HYPH2>. Herder. Freiburg. <DATE>1900</DATE>.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>53</rn>
+   <author>Graevell, Harald</author>
+   <title>Ein Abenteuer unter den Rosenkreuzern *</title>
+   <issue>19</issue>
+   <page>344</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0057</contDocID>
+   <target>WR-04-19_n0344.xml#//P[@parID='03998']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00794</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-19_n0344.xml#//DIV_END[@divEndID='deID_2436_00792']</divEndPtr>
+   <targetTitle><P parID="03998" complete="false"><TAB/>EIN ABENTEUER UNTER DEN <HYPH1 cont="ROSENKREUZERN">ROSEN-</HYPH1><LE/>
+<HYPH2>KREUZERN</HYPH2>. Aus dem Englischen übersetzt<LE/>
+von Helene <SPC>Zillmann</SPC>. Leipzig, Friedrich.</P></targetTitle>
+   <auctores><AUCTOR>HARALD GRAEVELL</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>54</rn>
+   <author>Graevell, Harald</author>
+   <title>»Kurzgefasster Grundriss der Geheimlehre« von H. P. Blavatsky*</title>
+   <issue>1</issue>
+   <page>27</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0058</contDocID>
+   <target>WR-04-01_n0027.xml#//P[@parID='00231']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00020</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-01_n0028.xml#//DIV_END[@divEndID='deID_2436_00019']</divEndPtr>
+   <targetTitle><P parID="00231" complete="false"><TAB/>»<SPC>Kurzgefasster Grundriss der<LE/>
+Geheimlehre</SPC>« von H. P. <SPC>Blavatsky</SPC>.<LE/>
+Leipzig, Wilhelm <SPC>Friedrich</SPC>. <DATE>1899</DATE>.</P></targetTitle>
+   <auctores><AUCTOR>HARALD GRAEVELL</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>55</rn>
+   <author>Graf, Max</author>
+   <title>Philharmonische Concerte</title>
+   <issue>1</issue>
+   <page>23</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0059</contDocID>
+   <target>WR-04-01_n0023.xml#//TITLE[@titleID='tiID_2436_00014']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00016</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-01_n0026.xml#//DIV_END[@divEndID='deID_2436_00015']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00014" parDivStartID="dsID_2436_00016"><TITLEPART type="main">PHILHARMONISCHE CONCERTE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAX GRAF</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAX GRAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>56</rn>
+   <author>Graf, Max</author>
+   <title>Hof-Operntheater: »Es war einmal «*</title>
+   <issue>4</issue>
+   <page>97</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0060</contDocID>
+   <target>WR-04-04_n0097.xml#//P[@parID='00864']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00081</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-04_n0098.xml#//DIV_END[@divEndID='deID_2436_00080']</divEndPtr>
+   <targetTitle><P part="initial" parID="00864" complete="false"><TAB/><SPC>Hof</SPC>-<SPC>Operntheater</SPC>:»<SPC>Es war</SPC> <HYPH1 cont="einmal"><SPC>ein</SPC>-</HYPH1><LE/>
+<HYPH2><SPC>mal</SPC></HYPH2> <SYMBOL type="3dots"/>« von Alexander v. <SPC>Zemlinsky</SPC>.<LE/></P></targetTitle>
+   <auctores><AUCTOR>MAX GRAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>57</rn>
+   <author>Graf, Max</author>
+   <title>Die Aufführung der »Neunten Symphonie«</title>
+   <issue>5</issue>
+   <page>122</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0061</contDocID>
+   <target>WR-04-05_n0122.xml#//TITLE[@titleID='tiID_2436_00055']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00102</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-05_n0124.xml#//DIV_END[@divEndID='deID_2436_00101']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00055" parDivStartID="dsID_2436_00102"><TITLEPART type="main">DIE AUFFÜHRUNG DER »NEUNTEN SYMPHONIE«.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAX GRAF</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAX GRAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>58</rn>
+   <author>Graf, Max</author>
+   <title>Hofoper: »Jolanthe« von Tschaïkowsky *</title>
+   <issue>7</issue>
+   <page>174</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0062</contDocID>
+   <target>WR-04-07_n0174.xml#//P[@parID='01594']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00178</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-07_n0174.xml#//DIV_END[@divEndID='deID_2436_00176']</divEndPtr>
+   <targetTitle><P part="initial" parID="01594" complete="false"><TAB/><SPC>Hofoper</SPC>: »<SPC>Jolanthe</SPC>« <SPC>von</SPC> <HYPH1 cont="Tschaïkowsky"><SPC>Tschaï</SPC>-</HYPH1><LE/>
+<HYPH2><SPC>kowsky</SPC></HYPH2>.</P></targetTitle>
+   <auctores><AUCTOR>MAX GRAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>59</rn>
+   <author>Graf, Max</author>
+   <title>Hof-Operntheater: »Così fan tutte«*</title>
+   <issue>20</issue>
+   <page>361</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0063</contDocID>
+   <target>WR-04-20_n0361.xml#//P[@parID='04216']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00807</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-20_n0361.xml#//DIV_END[@divEndID='deID_2436_00805']</divEndPtr>
+   <targetTitle><P part="initial" parID="04216" complete="false"><TAB/>HOF-OPERNTHEATER: <LANG iso="it">COSÌ FAN<LE/>
+TUTTE.</LANG></P></targetTitle>
+   <auctores><AUCTOR>MAX GRAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>60</rn>
+   <author>Graf, Max</author>
+   <title>Eine erste Symphonie*</title>
+   <issue>23</issue>
+   <page>415</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0064</contDocID>
+   <target>WR-04-23_n0415.xml#//TITLE[@titleID='tiID_2436_00229']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00863</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-23_n0416.xml#//DIV_END[@divEndID='deID_2436_00862']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00229" parDivStartID="dsID_2436_00863"><TITLEPART>EINE ERSTE SYMPHONIE.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAX GRAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>61</rn>
+   <author>Graf, Max</author>
+   <title>Hof-Operntheater: »Der Bundschuh«</title>
+   <issue>23</issue>
+   <page>416</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0065</contDocID>
+   <target>WR-04-23_n0416.xml#//P[@parID='04703']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00864</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-23_n0417.xml#//DIV_END[@divEndID='deID_2436_00863']</divEndPtr>
+   <targetTitle><P parID="04703"><TAB/>HOF-OPERNTHEATER: »DER <HYPH1 cont="BUNDSCHUH">BUND-</HYPH1><LE/>
+<HYPH2>SCHUH</HYPH2>«. Oper von Josef REITER. Text von<LE/>
+Max MOROLD.</P></targetTitle>
+   <auctores><AUCTOR>M. G.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>62</rn>
+   <author>Gumppenberg, E. Freiin von</author>
+   <title>Gedanken über ein Drama Björnsons</title>
+   <issue>23</issue>
+   <page>401</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0066</contDocID>
+   <target>WR-04-23_n0401.xml#//TITLE[@titleID='tiID_2436_00225']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00858</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-23_n0404.xml#//DIV_END[@divEndID='deID_2436_00857']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00225" parDivStartID="dsID_2436_00858"><TITLEPART type="main">GEDANKEN ÜBER EIN DRAMA BJÖRNSONS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>E. FREIIN VON GUMPPENBERG</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>E. FREIIN VON GUMPPENBERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>63</rn>
+   <author>Gundolf, Friedrich</author>
+   <title>Stefan George: Der Teppich des Lebens und die Lieder von Traum und Tod</title>
+   <issue>9</issue>
+   <page>109</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0067</contDocID>
+   <target>WR-04-09_n0109.xml#//TITLE[@titleID='tiID_2436_00098']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00208</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-09_n0115.xml#//DIV_END[@divEndID='deID_2436_00215']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00098" parDivStartID="dsID_2436_00208"><TITLEPART type="main"><SPC>STEFAN GEORGE</SPC>: DER TEPPICH DES LEBENS<LE/>
+UND DIE LIEDER VON TRAUM UND TOD.</TITLEPART><LE/>
+<TITLEPART>MIT EINEM VORSPIEL.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>FRIEDRICH GUNDOLF</AUCTOR> (Darmstadt).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>FRIEDRICH GUNDOLF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>64</rn>
+   <author>Hardt, Ernst</author>
+   <title>Vor Sonnenaufgang</title>
+   <issue>10</issue>
+   <page>142</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0068</contDocID>
+   <target>WR-04-10_n0142.xml#//TITLE[@titleID='tiID_2436_00108']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00228</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0144.xml#//DIV_END[@divEndID='deID_2436_00228']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00108" parDivStartID="dsID_2436_00228"><TITLEPART type="main">VOR SONNENAUFGANG.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ERNST HARDT</AUCTOR> (Loschwitz, Dresden).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ERNST HARDT</AUCTOR><AUCTOR>STÉPHANE MALLARMÉ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>65</rn>
+   <author>Hartmann, Franz</author>
+   <title>Das Princip der Geschlechter</title>
+   <issue>7</issue>
+   <page>158</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0069</contDocID>
+   <target>WR-04-07_n0158.xml#//TITLE[@titleID='tiID_2436_00077']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00170</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-07_n0162.xml#//DIV_END[@divEndID='deID_2436_00169']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00077" parDivStartID="dsID_2436_00170"><TITLEPART type="main">DAS PRINCIP DER GESCHLECHTER.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>FRANZ HARTMANN</AUCTOR> (Florenz).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>FRANZ HARTMANN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>66</rn>
+   <author>Hartmann, Franz</author>
+   <title>Die Vorausbestimmung des Geschlechts bei der Erzeugung vom Standpunkte der occulten Wissenschaft</title>
+   <issue>13</issue>
+   <page>230</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0070</contDocID>
+   <target>WR-04-13_n0230.xml#//TITLE[@titleID='tiID_2436_00132']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00678</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-13_n0233.xml#//DIV_END[@divEndID='deID_2436_00677']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00132" parDivStartID="dsID_2436_00678"><TITLEPART type="main">DIE VORAUSBESTIMMUNG DES GESCHLECHTS<LE/>
+BEI DER ERZEUGUNG<LE/>
+VOM STANDPUNKTE DER OCCULTEN WISSENSCHAFT.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von Dr. <AUCTOR><SPC>FRANZ HARTMANN</SPC></AUCTOR> (Florenz).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>FRANZ HARTMANN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>67</rn>
+   <author>Hartmann, Franz</author>
+   <title>Aus den Lehren der Kabbala</title>
+   <issue>21</issue>
+   <page>370</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0071</contDocID>
+   <target>WR-04-21_n0370.xml#//TITLE[@titleID='tiID_2436_00217']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00820</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-21_n0374.xml#//DIV_END[@divEndID='deID_2436_00819']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00217" parDivStartID="dsID_2436_00820"><TITLEPART type="main">AUS DEN LEHREN DER KABBALA.*</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><SPC>FRANZ HARTMANN</SPC></AUCTOR> (Florenz).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>FRANZ HARTMANN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>68</rn>
+   <author>Heiberg, Gunnar</author>
+   <title>Sigbjörn Obstfelder</title>
+   <issue>20</issue>
+   <page>349</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0072</contDocID>
+   <target>WR-04-20_n0349.xml#//TITLE[@titleID='tiID_2436_00207']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00799</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-20_n0352.xml#//DIV_END[@divEndID='deID_2436_00802']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00207" parDivStartID="dsID_2436_00799"><TITLEPART type="main"><SPC>SIGBJÖRN OBSTFELDER</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>GUNNAR HEIBERG</AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>GUNNAR HEIBERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>69</rn>
+   <author>Heidenstam, Verner von</author>
+   <title>Über die Abschaffung des Pöbels</title>
+   <issue>6</issue>
+   <page>139</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0073</contDocID>
+   <target>WR-04-06_n0139.xml#//TITLE[@titleID='tiID_2436_00066']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00121</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0141.xml#//DIV_END[@divEndID='deID_2436_00120']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00066" parDivStartID="dsID_2436_00121"><TITLEPART type="main">ÜBER DIE ABSCHAFFUNG DES PÖBELS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>VERNER VON HEIDENSTAM</AUCTOR> (Stockholm).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>VERNER VON HEIDENSTAM</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>70</rn>
+   <author>Jellinek, A. L.</author>
+   <title>Lesen und Bildung*</title>
+   <issue>18</issue>
+   <page>324</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0074</contDocID>
+   <target>WR-04-18_n0324.xml#//TITLE[@titleID='tiID_2436_00195']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00774</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-18_n0325.xml#//DIV_END[@divEndID='deID_2436_00772']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00195" parDivStartID="dsID_2436_00774"><TITLEPART>LESEN UND BILDUNG.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>J.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>71</rn>
+   <author>Jacobsen, R.</author>
+   <title>W. G. van Nouhuys: »Egidius und der Fremde«</title>
+   <issue>2</issue>
+   <page>42</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0075</contDocID>
+   <target>WR-04-02_n0042.xml#//TITLE[@titleID='tiID_2436_00024']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00035</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-02_n0045.xml#//DIV_END[@divEndID='deID_2436_00036']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00024" parDivStartID="dsID_2436_00035"><TITLEPART type="main">W. G. VAN NOUHUYS: »EGIDIUS UND DER FREMDE.«</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>R. JACOBSEN</AUCTOR> (Brüssel).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>R. JACOBSEN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>72</rn>
+   <author>K. A.</author>
+   <title>Die C-moll-Symphonie*</title>
+   <issue>21</issue>
+   <page>379</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0076</contDocID>
+   <target>WR-04-21_n0379.xml#//P[@parID='04351']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00824</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-21_n0380.xml#//DIV_END[@divEndID='deID_2436_00822']</divEndPtr>
+   <targetTitle><P part="initial" parID="04351" complete="false"><TAB/>DIE C-MOLL-SYMPHONIE.</P></targetTitle>
+   <auctores><AUCTOR>A. K.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>73</rn>
+   <author>Kassner, Rudolf</author>
+   <title>Noten zu den Sculpturen Rodins</title>
+   <issue>12</issue>
+   <page>185</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0077</contDocID>
+   <target>WR-04-12_n0185.xml#//TITLE[@titleID='tiID_2436_00123']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00271</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-12_n0187.xml#//DIV_END[@divEndID='deID_2436_00270']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00123" parDivStartID="dsID_2436_00271"><TITLEPART type="main">NOTEN ZU DEN SCULPTUREN RODINS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>RUDOLF KASSNER</AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>RUDOLF KASSNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>74</rn>
+   <author>Kassner, Rudolf</author>
+   <title>Die Ethik der Gobelins</title>
+   <issue>18</issue>
+   <page>309</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0078</contDocID>
+   <target>WR-04-18_n0309.xml#//TITLE[@titleID='tiID_2436_00187']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00760</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-18_n0313.xml#//DIV_END[@divEndID='deID_2436_00759']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00187" parDivStartID="dsID_2436_00760"><TITLEPART type="main">DIE ETHIK DER GOBELINS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>RUDOLF KASSNER</AUCTOR> (Cancale, Bretagne).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>RUDOLF KASSNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>75</rn>
+   <author>Kassner, Rudolf</author>
+   <title>Der Abbé Galiani</title>
+   <issue>23</issue>
+   <page>411</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0079</contDocID>
+   <target>WR-04-23_n0411.xml#//TITLE[@titleID='tiID_2436_00228']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00861</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-23_n0415.xml#//DIV_END[@divEndID='deID_2436_00861']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00228" parDivStartID="dsID_2436_00861"><TITLEPART type="main">DER ABBÉ GALIANI.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><SPC>RUDOLF KASSNER</SPC></AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>RUDOLF KASSNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>76</rn>
+   <author>Key, Ellen</author>
+   <title>Gedanken vor einem Bilde des Filippo Lippi</title>
+   <issue>21</issue>
+   <page>365</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0080</contDocID>
+   <target>WR-04-21_n0365.xml#//TITLE[@titleID='tiID_2436_00215']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00816</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-21_n0368.xml#//DIV_END[@divEndID='deID_2436_00815']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00215" parDivStartID="dsID_2436_00816"><TITLEPART type="main">GEDANKEN VOR EINEM BILDE DES FILIPPO LIPPI.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ELLEN KEY</AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ELLEN KEY</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>77</rn>
+   <author>Kniepf, Albert</author>
+   <title>Mikrokosmos und Makrokosmos</title>
+   <issue>6</issue>
+   <page>125</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0081</contDocID>
+   <target>WR-04-06_n0125.xml#//TITLE[@titleID='tiID_2436_00057']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00108</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0128.xml#//DIV_END[@divEndID='deID_2436_00111']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00057" parDivStartID="dsID_2436_00108"><TITLEPART type="main">MIKROKOSMOS UND MAKROKOSMOS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ALBERT KNIEPF</AUCTOR> (Hamburg).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ALBERT KNIEPF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>78</rn>
+   <author>Kolb, Annette</author>
+   <title>Ein Quartett in Rom</title>
+   <issue>2</issue>
+   <page>45</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0082</contDocID>
+   <target>WR-04-02_n0045.xml#//TITLE[@titleID='tiID_2436_00025']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00038</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-02_n0047.xml#//DIV_END[@divEndID='deID_2436_00037']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00025" parDivStartID="dsID_2436_00038"><TITLEPART type="main">EIN QUARTETT IN ROM.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ANNETTE KOLB</AUCTOR> (Rom).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANNETTE KOLB</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>79</rn>
+   <author>Kolb, Annette</author>
+   <title>»Il Fuoco«*</title>
+   <issue>13</issue>
+   <page>237</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0083</contDocID>
+   <target>WR-04-13_n0237.xml#//P[@parID='03139']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00682</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-13_n0238.xml#//DIV_END[@divEndID='deID_2436_00680']</divEndPtr>
+   <targetTitle><P part="initial" parID="03139" complete="false"><TAB/><LANG iso="it">»IL FUOCO«</LANG>.</P></targetTitle>
+   <auctores><AUCTOR>ANNETTE KOLB</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>80</rn>
+   <author>Kolb, Annette</author>
+   <title>Wagner und das »Repertoire«</title>
+   <issue>21</issue>
+   <page>375</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0084</contDocID>
+   <target>WR-04-21_n0375.xml#//TITLE[@titleID='tiID_2436_00218']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00821</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-21_n0377.xml#//DIV_END[@divEndID='deID_2436_00820']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00218" parDivStartID="dsID_2436_00821"><TITLEPART type="main">WAGNER UND DAS »REPERTOIRE«.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ANNETTE KOLB</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANNETTE KOLB</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>81</rn>
+   <author>Kuhlenbeck, Ludwig<ADD>,</ADD> Dr.</author>
+   <title>Die Philosophie des Giordano Bruno I.</title>
+   <issue>4</issue>
+   <page>88</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0085</contDocID>
+   <target>WR-04-04_n0088.xml#//TITLE[@titleID='tiID_2436_00043']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00068</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-04_n0091.xml#//DIV_END[@divEndID='deID_2436_00068']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00043" parDivStartID="dsID_2436_00068"><TITLEPART type="main"><SPC>DIE PHILOSOPHIE DES GIORDANO BRUNO</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LUDWIG KUHLENBECK</AUCTOR> (Jena).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LUDWIG KUHLENBECK</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>82</rn>
+   <author>Kuhlenbeck, Ludwig, Dr.</author>
+   <title>Die Philosophie des Giordano Bruno II.</title>
+   <issue>5</issue>
+   <page>105</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0086</contDocID>
+   <target>WR-04-05_n0105.xml#//TITLE[@titleID='tiID_2436_00051']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00090</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-05_n0109.xml#//DIV_END[@divEndID='deID_2436_00095']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00051" parDivStartID="dsID_2436_00090"><TITLEPART type="main"><SPC>DIE PHILOSOPHIE DES GIORDANO BRUNO</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LUDWIG KUHLENBECK</AUCTOR> (Jena).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LUDWIG KUHLENBECK</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>83</rn>
+   <author>Kuhlenbeck, Ludwig, Dr.</author>
+   <title>Wie gelangen wir zu einer heroischen Weltanschauung?</title>
+   <issue>13</issue>
+   <page>224</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0087</contDocID>
+   <target>WR-04-13_n0224.xml#//TITLE[@titleID='tiID_2436_00131']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00669</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-13_n0230.xml#//DIV_END[@divEndID='deID_2436_00676']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00131" parDivStartID="dsID_2436_00669"><TITLEPART type="main">WIE GELANGEN WIR ZU EINER HEROISCHEN <HYPH1 cont="WELTANSCHAUUNG">WELT-</HYPH1><LE/>
+<HYPH2>ANSCHAUUNG</HYPH2>?</TITLEPART><LE/>
+<TITLEPART>Ein Beitrag zur Psychologie und Kritik der Erkenntnis als Vorwort zu weiteren gedanklichen<LE/>
+Bausteinen einer heroischen Weltanschauung.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von DR. <AUCTOR><SPC>LUDWIG KUHLENBECK</SPC></AUCTOR> (Jena).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LUDWIG KUHLENBECK</AUCTOR><AUCTOR>Kants</AUCTOR><AUCTOR>Goethes</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>84</rn>
+   <author>Kuhlenbeck, Ludwig, Dr.</author>
+   <title>Die Wahrheit des Individualismus</title>
+   <issue>21</issue>
+   <page>368</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0088</contDocID>
+   <target>WR-04-21_n0368.xml#//TITLE[@titleID='tiID_2436_00216']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00817</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-21_n0370.xml#//DIV_END[@divEndID='deID_2436_00818']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00216" parDivStartID="dsID_2436_00817"><TITLEPART type="main">DIE WAHRHEIT DES INDIVIDUALISMUS.</TITLEPART><LE/>
+<TITLEPART><SPC>Ein Baustein zum Aufbau einer heroischen Welt-Anschauung</SPC>.*</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LUDWIG KUHLENBECK</AUCTOR> (Jena).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LUDWIG KUHLENBECK</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>85</rn>
+   <author>Kuhlenbeck, Ludwig, Dr.</author>
+   <title>Die Wahrheit des Individualismus II.</title>
+   <issue>22</issue>
+   <page>381</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0089</contDocID>
+   <target>WR-04-22_n0381.xml#//TITLE[@titleID='tiID_2436_00220']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00830</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-22_n0385.xml#//DIV_END[@divEndID='deID_2436_00835']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00220" parDivStartID="dsID_2436_00830"><TITLEPART type="main">DIE WAHRHEIT DES INDIVIDUALISMUS.</TITLEPART><LE/>
+<TITLEPART><SPC>Ein Baustein zum Aufbau einer heroischen Welt-Anschauung</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LUDWIG KUHLENBECK</AUCTOR> (Jena).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LUDWIG KUHLENBECK</AUCTOR><AUCTOR>Höffding</AUCTOR><AUCTOR>Schiller</AUCTOR><AUCTOR>Lotze</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>86</rn>
+   <author>Lemonnier, Camille</author>
+   <title>Flandrische Lieder</title>
+   <issue>7</issue>
+   <page>153</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0090</contDocID>
+   <target>WR-04-07_n0153.xml#//TITLE[@titleID='tiID_2436_00072']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00161</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-07_n0154.xml#//DIV_END[@divEndID='deID_2436_00163']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00072" parDivStartID="dsID_2436_00161"><TITLEPART type="main">FLANDRISCHE LIEDER.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><SPC>CAMILLE LEMONNIER</SPC></AUCTOR> (Brüssel).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CAMILLE LEMONNIER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>87</rn>
+   <author>Lemonnier, Camille</author>
+   <title>Flandrische Lieder</title>
+   <issue>18</issue>
+   <page>317</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0091</contDocID>
+   <target>WR-04-18_n0317.xml#//TITLE[@titleID='tiID_2436_00189']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00762</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-18_n0317.xml#//DIV_END[@divEndID='deID_2436_00763']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00189" parDivStartID="dsID_2436_00762"><TITLEPART type="main">FLANDRISCHE LIEDER.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><SPC>CAMILLE LEMONNIER</SPC></AUCTOR> (Brüssel).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CAMILLE LEMONNIER</AUCTOR><AUCTOR type="translator">M. v. BERTHOF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>88</rn>
+   <author>Lindner, Anton</author>
+   <title>Farbe und Linie, I.</title>
+   <issue>1</issue>
+   <page>2</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0093</contDocID>
+   <target>WR-04-01_n0002.xml#//TITLE[@titleID='tiID_2436_00004']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00005</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-01_n0006.xml#//DIV_END[@divEndID='deID_2436_00005']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00004" parDivStartID="dsID_2436_00005"><TITLEPART type="main">FARBE UND LINIE.</TITLEPART><LE/>
+<TITLEPART>Ein Versuch.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ANTON LINDNER</AUCTOR> (Wien).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>89</rn>
+   <author>Lindner, Anton</author>
+   <title>Rossetti*</title>
+   <issue>1</issue>
+   <page>28</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0094</contDocID>
+   <target>WR-04-01_n0009.xml#//TITLE[@titleID='tiID_2436_00006']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00008</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-01_n0011.xml#//DIV_END[@divEndID='deID_2436_00012']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00006" parDivStartID="dsID_2436_00008"><TITLEPART type="bystmt"><AUCTOR>DANTE GABRIEL ROSSETTI</AUCTOR>:</TITLEPART><LE/>
+<TITLEPART type="main"><HR emDashNum="2" type="DoubleInline"/> FUENF SONETTE <HR emDashNum="2" type="DoubleInline"/></TITLEPART><LE/>
+<TITLEPART type="desc">DEUTSCH VON <AUCTOR type="translator">HEDWIG LACHMANN</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>DANTE GABRIEL ROSSETTI</AUCTOR><AUCTOR type="translator">HEDWIG LACHMANN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>90</rn>
+   <author>Lindner, Anton</author>
+   <title>Farbe und Linie II.</title>
+   <issue>2</issue>
+   <page>31</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0095</contDocID>
+   <target>WR-04-02_n0031.xml#//TITLE[@titleID='tiID_2436_00022']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00032</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-02_n0036.xml#//DIV_END[@divEndID='deID_2436_00032']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00022" parDivStartID="dsID_2436_00032"><TITLEPART type="main">FARBE UND LINIE.</TITLEPART><LE/>
+<TITLEPART>Ein Versuch</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><SPC>ANTON LINDNER</SPC></AUCTOR> (Wien)</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>91</rn>
+   <author>Lindner, Anton</author>
+   <title>Walter Crane*</title>
+   <issue>2</issue>
+   <page>52</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0096</contDocID>
+   <target>WR-04-02_n0052.xml#//TITLE[@titleID='tiID_2436_00028']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00042</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-02_n0052.xml#//DIV_END[@divEndID='deID_2436_00040']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00028" parDivStartID="dsID_2436_00042"><TITLEPART>WALTER CRANE</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>92</rn>
+   <author>Lindner, Anton</author>
+   <title>Lithographien</title>
+   <issue>3</issue>
+   <page>72</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0097</contDocID>
+   <target>WR-04-03_n0072.xml#//TITLE[@titleID='tiID_2436_00038']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00058</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-03_n0075.xml#//DIV_END[@divEndID='deID_2436_00057']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00038" parDivStartID="dsID_2436_00058"><TITLEPART type="main">LITHOGRAPHIEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><SPC>ANTON LINDNER</SPC></AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>93</rn>
+   <author>Lindner, Anton</author>
+   <title>Ferdinand Bonn*</title>
+   <issue>4</issue>
+   <page>98</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0098</contDocID>
+   <target>WR-04-04_n0098.xml#//P[@parID='00870']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00083</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-04_n0100.xml#//DIV_END[@divEndID='deID_2436_00081']</divEndPtr>
+   <targetTitle><P part="initial" parID="00870" complete="false"><TAB/><SPC>Raimund-Theater</SPC>: Ferdinand<LE/>
+<SPC>Bonn</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>94</rn>
+   <author>Lindner, Anton</author>
+   <title>Lionardo da Vinci von Otto Sachs*</title>
+   <issue>4</issue>
+   <page>100</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0099</contDocID>
+   <target>WR-04-04_n0100.xml#//P[@parID='00885']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00085</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-04_n0100.xml#//DIV_END[@divEndID='deID_2436_00084']</divEndPtr>
+   <targetTitle><P parID="00885" complete="false"><TAB/>Die Arbeit über <SPC>Lionardo da Vinci</SPC><LE/>
+von Otto <SPC>Sachs</SPC> (S. 84 ff.)</P></targetTitle>
+   <auctores><AUCTOR>A. L.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>95</rn>
+   <author>Lindner, Anton</author>
+   <title>Lex Heinze</title>
+   <issue>6</issue>
+   <page>145</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0100</contDocID>
+   <target>WR-04-06_n0145.xml#//TITLE[@titleID='tiID_2436_00069']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00124</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0147.xml#//DIV_END[@divEndID='deID_2436_00124']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00069" parDivStartID="dsID_2436_00124"><TITLEPART><LANG iso="la">LEX</LANG> HEINZE.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>96</rn>
+   <author>Lindner, Anton</author>
+   <title>Jan Toorop</title>
+   <issue>7</issue>
+   <page>172</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0101</contDocID>
+   <target>WR-04-07_n0172.xml#//TITLE[@titleID='tiID_2436_00081']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00174</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-07_n0173.xml#//DIV_END[@divEndID='deID_2436_00172']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00081" parDivStartID="dsID_2436_00174"><TITLEPART><SPC>JAN TOOROP</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>—.—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>97</rn>
+   <author>Lindner, Anton</author>
+   <title>Die Freie Bühne in Wien</title>
+   <issue>8</issue>
+   <page>202</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0102</contDocID>
+   <target>WR-04-08_n0202.xml#//TITLE[@titleID='tiID_2436_00093']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00193</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0203.xml#//DIV_END[@divEndID='deID_2436_00190']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00093" parDivStartID="dsID_2436_00193"><TITLEPART>DIE FREIE BÜHNE IN WIEN.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>98</rn>
+   <author>Lindner, Anton</author>
+   <title>Cultur im Alltag*</title>
+   <issue>10</issue>
+   <page>154</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0103</contDocID>
+   <target>WR-04-10_n0154.xml#//P[@parID='02218']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00235</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0155.xml#//DIV_END[@divEndID='deID_2436_00234']</divEndPtr>
+   <targetTitle><P part="initial" parID="02218" complete="false"><TAB/>MICHAEL HABERLANDT: CULTUR<LE/>
+IM ALLTAG. Gesammelte Aufsätze. <HYPH1 cont="Wiener">Wie-</HYPH1><LE/>
+<HYPH2>ner</HYPH2> Verlag. <DATE>1900</DATE>.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>99</rn>
+   <author>Lindner, Anton</author>
+   <title>Iphigenie auf Tauris*</title>
+   <issue>13</issue>
+   <page>239</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0104</contDocID>
+   <target>WR-04-13_n0239.xml#//P[@parID='03148']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00684</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-13_n0240.xml#//DIV_END[@divEndID='deID_2436_00684']</divEndPtr>
+   <targetTitle><P parID="03148" complete="false"><TAB/>BURGTHEATER: IPHIGENIE AUF<LE/>
+TAURIS.</P></targetTitle>
+   <auctores><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>100</rn>
+   <author>Lindner, Anton</author>
+   <title>Annie Besant</title>
+   <issue>14</issue>
+   <page>254</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0105</contDocID>
+   <target>WR-04-14_n0254.xml#//TITLE[@titleID='tiID_2436_00144']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00695</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0254.xml#//DIV_END[@divEndID='deID_2436_00694']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00144" parDivStartID="dsID_2436_00695"><TITLEPART>DIE THEOSOPHIN ANNIE BESANT,</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>101</rn>
+   <author>Lindner, Anton</author>
+   <title>Die Berliner Secessionsbühne*</title>
+   <issue>14</issue>
+   <page>254</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0106</contDocID>
+   <target>WR-04-14_n0254.xml#//P[@parID='03280']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00697</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0255.xml#//DIV_END[@divEndID='deID_2436_00695']</divEndPtr>
+   <targetTitle><P parID="03280"><TAB/>Die Berliner SECESSIONS-BÜHNE (<HYPH1 cont="Leitung">Lei-</HYPH1><LE/>
+<HYPH2>tung</HYPH2>: Paul MARTIN) eröffnet in den nächsten<LE/>
+Tagen ihr Wiener Gastspiel (Josefstädter<LE/>
+Theater).</P></targetTitle>
+   <auctores><AUCTOR>a. l.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>102</rn>
+   <author>Lindner, Anton</author>
+   <title>Moderne Bühnen-Ästhetik</title>
+   <issue>15</issue>
+   <page>270</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0107</contDocID>
+   <target>WR-04-15_n0270.xml#//TITLE[@titleID='tiID_2436_00159']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00710</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-15_n0273.xml#//DIV_END[@divEndID='deID_2436_00710']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00159" parDivStartID="dsID_2436_00710"><TITLEPART type="main"><SPC>MODERNE BÜHNEN-ÄSTHETIK</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ANTON LINDNER</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>103</rn>
+   <author>Lindner, Anton</author>
+   <title>Sigbjörn Obstfelder*</title>
+   <issue>16</issue>
+   <page>290</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0108</contDocID>
+   <target>WR-04-16_n0290.xml#//P[@parID='03545']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00734</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-16_n0290.xml#//DIV_END[@divEndID='deID_2436_00732']</divEndPtr>
+   <targetTitle><P parID="03545" complete="false"><TAB/><I>Vor wenigen Tagen, am <DATE>dreissigsten Juli dieses Jahres</DATE>, ist SIGBJÖRN<LE/>
+OBSTFELDER in Kopenhagen gestorben. </I></P></targetTitle>
+   <auctores><AUCTOR>ANT. L.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>104</rn>
+   <author>Lindner, Anton</author>
+   <title>Ästhetik der Gasse</title>
+   <issue>17</issue>
+   <page>296</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0109</contDocID>
+   <target>WR-04-17_n0296.xml#//TITLE[@titleID='tiID_2436_00174']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00739</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-17_n0301.xml#//DIV_END[@divEndID='deID_2436_00738']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00174" parDivStartID="dsID_2436_00739"><TITLEPART type="main"><SPC>ÄSTHETIK DER GASSE</SPC>.</TITLEPART><LE/>
+<TITLEPART>Anlässlich der Decorierung Wiens am <DATE>18. August dieses Jahres</DATE>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ANTON LINDNER</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>105</rn>
+   <author>Lindner, Anton</author>
+   <title>Die materielle Stellung der deutschen Dichter und Schriftsteller *</title>
+   <issue>17</issue>
+   <page>306</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0110</contDocID>
+   <target>WR-04-17_n0306.xml#//P[@parID='03673']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00752</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-17_n0307.xml#//DIV_END[@divEndID='deID_2436_00751']</divEndPtr>
+   <targetTitle><P parID="03673"><TAB/>Die MATERIELLE STELLUNG der<LE/>
+DEUTSCHEN DICHTER und <HYPH1 cont="SCHRIFTSTELLER">SCHRIFT-</HYPH1><LE/>
+<HYPH2>STELLER</HYPH2>. Im Anschluss an Tony <SPC>Kellens</SPC><LE/>
+Aufsätze (»Nord und Süd«, Nr. 277 und 278),<LE/>
+von denen im vorigen Hefte der »W. R.« die<LE/>
+Rede war, sei über dieses Thema noch das<LE/>
+Folgende nachgetragen.</P></targetTitle>
+   <auctores><AUCTOR>a. l.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>106</rn>
+   <author>Maeterlinck, Maurice</author>
+   <title>Das Mysterium der Gerechtigkeit</title>
+   <issue>14</issue>
+   <page>241</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0111</contDocID>
+   <target>WR-04-14_n0241.xml#//TITLE[@titleID='tiID_2436_00136']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00691</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0245.xml#//DIV_END[@divEndID='deID_2436_00690']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00136" parDivStartID="dsID_2436_00691"><TITLEPART type="main">DAS MYSTERIUM DER GERECHTIGKEIT.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAURICE MAETERLINCK</AUCTOR> (Paris).*</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAURICE MAETERLINCK</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>107</rn>
+   <author>Maeterlinck, Maurice</author>
+   <title>Das Mysterium der Gerechtigkeit (Fortsetzung und Schluss)</title>
+   <issue>15</issue>
+   <page>257</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0112</contDocID>
+   <target>WR-04-15_n0257.xml#//TITLE[@titleID='tiID_2436_00147']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00704</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-15_n0261.xml#//DIV_END[@divEndID='deID_2436_00703']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00147" parDivStartID="dsID_2436_00704"><TITLEPART type="main">DAS MYSTERIUM DER GERECHTIGKEIT.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAURICE MAETERLINCK</AUCTOR> (Paris).*</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAURICE MAETERLINCK</AUCTOR><AUCTOR>Felix Vallotton</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>108</rn>
+   <author>Mallarmé, Stéphane</author>
+   <title>Herbstklage</title>
+   <issue>21</issue>
+   <page>363</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0113</contDocID>
+   <target>WR-04-21_n0363.xml#//TITLE[@titleID='tiID_2436_00213']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00814</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-21_n0363.xml#//DIV_END[@divEndID='deID_2436_00812']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00213" parDivStartID="dsID_2436_00814"><TITLEPART type="enum">I.</TITLEPART><LE/>
+<TITLEPART type="main">HERBSTKLAGE.</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>109</rn>
+   <author>Mallarmé, Stéphane</author>
+   <title>Das Wunder der Zukunft</title>
+   <issue>21</issue>
+   <page>364</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0114</contDocID>
+   <target>WR-04-21_n0364.xml#//TITLE[@titleID='tiID_2436_00214']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00815</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-21_n0364.xml#//DIV_END[@divEndID='deID_2436_00813']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00214" parDivStartID="dsID_2436_00815"><TITLEPART type="enum">II.</TITLEPART><LE/>
+<TITLEPART type="main">DAS WUNDER DER ZUKUNFT.</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>110</rn>
+   <author>Mauclair, Camille</author>
+   <title>Richard Wagner und das französische Publicum</title>
+   <issue>1</issue>
+   <page>12</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0115</contDocID>
+   <target>WR-04-01_n0012.xml#//TITLE[@titleID='tiID_2436_00012']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00014</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-01_n0018.xml#//DIV_END[@divEndID='deID_2436_00013']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00012" parDivStartID="dsID_2436_00014"><TITLEPART type="main">RICHARD WAGNER UND DAS FRANZÖSISCHE PUBLICUM.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CAMILLE MAUCLAIR</AUCTOR> (Paris).*</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CAMILLE MAUCLAIR</AUCTOR><AUCTOR>FELIX VALLOTTON</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>111</rn>
+   <author>Mauclair, Camille</author>
+   <title>Die moderne Kunst in Frankreich seit 1870</title>
+   <issue>9</issue>
+   <page>124</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0116</contDocID>
+   <target>WR-04-09_n0124.xml#//TITLE[@titleID='tiID_2436_00104']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00222</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-09_n0131.xml#//DIV_END[@divEndID='deID_2436_00221']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00104" parDivStartID="dsID_2436_00222"><TITLEPART type="main">DIE MODERNE KUNST IN FRANKREICH SEIT <DATE>1870</DATE>.</TITLEPART><LE/>
+<TITLEPART type="desc">EIN RÜCKBLICK.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CAMILLE MAUCLAIR</AUCTOR> (Marseille).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CAMILLE MAUCLAIR</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>112</rn>
+   <author>Mauclair, Camille</author>
+   <title>Zur Psychologie und Überwindung des Bohémiens I.</title>
+   <issue>16</issue>
+   <page>275</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0117</contDocID>
+   <target>WR-04-16_n0275.xml#//TITLE[@titleID='tiID_2436_00161']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00718</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-16_n0277.xml#//DIV_END[@divEndID='deID_2436_00717']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00161" parDivStartID="dsID_2436_00718"><TITLEPART type="main">ZUR PSYCHOLOGIE UND ÜBERWINDUNG DES BOHÉMIENS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CAMILLE MAUCLAIR</AUCTOR> (Marseille).</TITLEPART><LE/>
+<TITLEPART type="enum">I.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CAMILLE MAUCLAIR</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>113</rn>
+   <author>Mauclair, Camille</author>
+   <title>Zur Psychologie und Überwindung des Bohémiens II.</title>
+   <issue>17</issue>
+   <page>294</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0118</contDocID>
+   <target>WR-04-17_n0294.xml#//TITLE[@titleID='tiID_2436_00173']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00738</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-17_n0296.xml#//DIV_END[@divEndID='deID_2436_00737']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00173" parDivStartID="dsID_2436_00738"><TITLEPART type="main">ZUR PSYCHOLOGIE UND ÜBERWINDUNG DES BOHÉMIENS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CAMILLE MAUCLAIR</AUCTOR> (Marseille).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CAMILLE MAUCLAIR</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>114</rn>
+   <author>Mauclair, Camille</author>
+   <title>Zur Psychologie und Überwindung des Bohémiens III.</title>
+   <issue>18</issue>
+   <page>313</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0119</contDocID>
+   <target>WR-04-18_n0313.xml#//TITLE[@titleID='tiID_2436_00188']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00761</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-18_n0316.xml#//DIV_END[@divEndID='deID_2436_00760']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00188" parDivStartID="dsID_2436_00761"><TITLEPART type="main">ZUR PSYCHOLOGIE UND ÜBERWINDUNG DES BOHÉMIENS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CAMILLE MAUCLAIR</AUCTOR> (Marseille).</TITLEPART><LE/>
+<TITLEPART type="enum">III.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CAMILLE MAUCLAIR</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>115</rn>
+   <author>Menkes, Hermann</author>
+   <title>Sigbjörn Obstfelder</title>
+   <issue>6</issue>
+   <page>132</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0120</contDocID>
+   <target>WR-04-06_n0132.xml#//TITLE[@titleID='tiID_2436_00064']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00119</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0135.xml#//DIV_END[@divEndID='deID_2436_00118']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00064" parDivStartID="dsID_2436_00119"><TITLEPART type="main"><SPC>SIGBJÖRN OBSTFELDER</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>HERMANN MENKES</AUCTOR> (Brody).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HERMANN MENKES</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>116</rn>
+   <author>Multatuli, Wahrheit</author>
+   <title>in der Legende</title>
+   <issue>19</issue>
+   <page>327</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0121</contDocID>
+   <target>WR-04-19_n0327.xml#//TITLE[@titleID='tiID_2436_00197']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00782</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-19_n0332.xml#//DIV_END[@divEndID='deID_2436_00781']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00197" parDivStartID="dsID_2436_00782"><TITLEPART type="main">WAHRHEIT IN DER LEGENDE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MULTATULI</AUCTOR>.*</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MULTATULI</AUCTOR><AUCTOR type="translator">Wilhelm Spohr</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>117</rn>
+   <author>Neera</author>
+   <title>Die platonische Liebe I.</title>
+   <issue>13</issue>
+   <page>222</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0122</contDocID>
+   <target>WR-04-13_n0222.xml#//TITLE[@titleID='tiID_2436_00130']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00667</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-13_n0224.xml#//DIV_END[@divEndID='deID_2436_00667']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00130" parDivStartID="dsID_2436_00667"><TITLEPART type="main">DIE PLATONLSCHE LIEBE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>NEERA</AUCTOR> (Mailand).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>NEERA</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>118</rn>
+   <author>Neera</author>
+   <title>Die platonische Liebe II.</title>
+   <issue>14</issue>
+   <page>248</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0123</contDocID>
+   <target>WR-04-14_n0248.xml#//TITLE[@titleID='tiID_2436_00142']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00693</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0250.xml#//DIV_END[@divEndID='deID_2436_00692']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00142" parDivStartID="dsID_2436_00693"><TITLEPART type="main">DIE PLATONISCHE LIEBE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>NEERA</AUCTOR> (Mailand).</TITLEPART><LE/>
+<TITLEPART type="enum">II.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>NEERA</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>119</rn>
+   <author>Neera</author>
+   <title>Die platonische Liebe III.</title>
+   <issue>15</issue>
+   <page>268</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0124</contDocID>
+   <target>WR-04-15_n0268.xml#//TITLE[@titleID='tiID_2436_00157']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00708</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-15_n0270.xml#//DIV_END[@divEndID='deID_2436_00707']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00157" parDivStartID="dsID_2436_00708"><TITLEPART type="main">DIE PLATONISCHE LIEBE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>NEERA</AUCTOR> (Mailand).</TITLEPART><LE/>
+<TITLEPART type="enum">III.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>NEERA</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>120</rn>
+   <author>Obstfelder, Sigbjörn</author>
+   <title>Zwei Skizzen</title>
+   <issue>3</issue>
+   <page>53</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0125</contDocID>
+   <target>WR-04-03_n0053.xml#//TITLE[@titleID='tiID_2436_00029']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00045</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-03_n0055.xml#//DIV_END[@divEndID='deID_2436_00046']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00029" parDivStartID="dsID_2436_00045"><TITLEPART type="main">ZWEI SKIZZEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>SIGBJÖRN OBSTFELDER</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>SIGBJÖRN OBSTFELDER</AUCTOR><AUCTOR type="translator">TYRA BENTSEN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>121</rn>
+   <author>Obstfelder, Sigbjörn</author>
+   <title>Gattin</title>
+   <issue>6</issue>
+   <page>131</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0126</contDocID>
+   <target>WR-04-06_n0131.xml#//TITLE[@titleID='tiID_2436_00062']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00117</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0131.xml#//DIV_END[@divEndID='deID_2436_00116']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00062" parDivStartID="dsID_2436_00117"><TITLEPART type="main">GATTIN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>SIGBJÖRN OBSTFELDER</AUCTOR> (Stavanger, Norwegen).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>SIGBJÖRN OBSTFELDER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>122</rn>
+   <author>Panizza, Oscar</author>
+   <title>Brief aus Paris</title>
+   <issue>16</issue>
+   <page>279</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0127</contDocID>
+   <target>WR-04-16_n0279.xml#//TITLE[@titleID='tiID_2436_00163']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00722</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-16_n0282.xml#//DIV_END[@divEndID='deID_2436_00724']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00163" parDivStartID="dsID_2436_00722"><TITLEPART type="repeated">BRIEF AUS PARIS.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>OSCAR PANIZZA</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>123</rn>
+   <author>Panizza, Oscar</author>
+   <title>Arthur Rimbaud</title>
+   <issue>19</issue>
+   <page>332</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0128</contDocID>
+   <target>WR-04-19_n0332.xml#//TITLE[@titleID='tiID_2436_00198']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00783</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-19_n0336.xml#//DIV_END[@divEndID='deID_2436_00786']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00198" parDivStartID="dsID_2436_00783"><TITLEPART type="main">ARTHUR RIMBAUD.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><SPC>OSCAR PANIZZA</SPC></AUCTOR> (Paris).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>OSCAR PANIZZA</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>124</rn>
+   <author>Pastor, Willy</author>
+   <title>Gerhart Hauptmanns »Schluck und Jau«</title>
+   <issue>6</issue>
+   <page>144</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0129</contDocID>
+   <target>WR-04-06_n0144.xml#//TITLE[@titleID='tiID_2436_00068']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00123</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0145.xml#//DIV_END[@divEndID='deID_2436_00122']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00068" parDivStartID="dsID_2436_00123"><TITLEPART type="main">GERHART HAUPTMANNS »SCHLUCK UND JAU«.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>WILLY PASTOR</AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>WILLY PASTOR</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>125</rn>
+   <author>Poe, Edgar Allan</author>
+   <title>Schatten</title>
+   <issue>8</issue>
+   <page>176</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0130</contDocID>
+   <target>WR-04-08_n0176.xml#//TITLE[@titleID='tiID_2436_00084']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00181</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0177.xml#//DIV_END[@divEndID='deID_2436_00181']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00084" parDivStartID="dsID_2436_00181"><TITLEPART type="main">SCHATTEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>EDGAR ALLAN POE</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>EDGAR ALLAN POE</AUCTOR><AUCTOR type="translator">H. Moeller-Bruck</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>126</rn>
+   <author>Pudor, Heinrich</author>
+   <title>Porträtmalerei</title>
+   <issue>10</issue>
+   <page>152</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0131</contDocID>
+   <target>WR-04-10_n0152.xml#//TITLE[@titleID='tiID_2436_00111']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00233</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0153.xml#//DIV_END[@divEndID='deID_2436_00232']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00111" parDivStartID="dsID_2436_00233"><TITLEPART type="main">PORTRÄTMALEREI.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>HEINRICH PUDOR</AUCTOR> (Wasa, Finnland).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HEINRICH PUDOR</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>127</rn>
+   <author>Pudor, Heinrich</author>
+   <title>Zur Physiologie der Frivolität und des Cynismus</title>
+   <issue>15</issue>
+   <page>263</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0132</contDocID>
+   <target>WR-04-15_n0263.xml#//TITLE[@titleID='tiID_2436_00155']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00706</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-15_n0265.xml#//DIV_END[@divEndID='deID_2436_00705']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00155" parDivStartID="dsID_2436_00706"><TITLEPART type="main">ZUR PHYSIOLOGIE DER FRIVOLITÄT UND DES CYNISMUS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>HEINRICH PUDOR</AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>HEINRICH PUDOR</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>128</rn>
+   <author>Quincey, Thomas de</author>
+   <title>Levana und Unsere lieben Frauen von der Traurigkeit</title>
+   <issue>22</issue>
+   <page>386</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0133</contDocID>
+   <target>WR-04-22_n0386.xml#//TITLE[@titleID='tiID_2436_00221']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00837</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-22_n0388.xml#//DIV_END[@divEndID='deID_2436_00836']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00221" parDivStartID="dsID_2436_00837"><TITLEPART type="main">LEVANA UND UNSERE LIEBEN FRAUEN VON DER<LE/>
+TRAURIGKEIT.*</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>THOMAS DE QUINCEY</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>THOMAS DE QUINCEY</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>129</rn>
+   <author>Rappaport, Felix</author>
+   <title>Die Beziehungen zwischen Thema und Material</title>
+   <issue>5</issue>
+   <page>109</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0134</contDocID>
+   <target>WR-04-05_n0109.xml#//TITLE[@titleID='tiID_2436_00052']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00097</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-05_n0111.xml#//DIV_END[@divEndID='deID_2436_00096']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00052" parDivStartID="dsID_2436_00097"><TITLEPART type="main">DIE BEZIEHUNGEN ZWISCHEN THEMA UND MATERIAL.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>FELIX RAPPAPORT</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>FELIX RAPPAPORT</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>130</rn>
+   <author>Rappaport, Felix</author>
+   <title>Aischylos und das Burgtheater</title>
+   <issue>24</issue>
+   <page>439</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0135</contDocID>
+   <target>WR-04-24_n0439.xml#//P[@parID='04895']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00885</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-24_n0440.xml#//DIV_END[@divEndID='deID_2436_00883']</divEndPtr>
+   <targetTitle><P part="initial" parID="04895" complete="false"><TAB/><SPC>Aischylos und das Burgtheater</SPC>.<LE/></P></targetTitle>
+   <auctores><AUCTOR>—.—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>131</rn>
+   <author>Rossetti, Dante Gabriel</author>
+   <title>Fünf Sonette</title>
+   <issue>1</issue>
+   <page>9</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0136</contDocID>
+   <target>WR-04-01_n0009.xml#//TITLE[@titleID='tiID_2436_00006']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00008</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-01_n0011.xml#//DIV_END[@divEndID='deID_2436_00012']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00006" parDivStartID="dsID_2436_00008"><TITLEPART type="bystmt"><AUCTOR>DANTE GABRIEL ROSSETTI</AUCTOR>:</TITLEPART><LE/>
+<TITLEPART type="main"><HR emDashNum="2" type="DoubleInline"/> FUENF SONETTE <HR emDashNum="2" type="DoubleInline"/></TITLEPART><LE/>
+<TITLEPART type="desc">DEUTSCH VON <AUCTOR type="translator">HEDWIG LACHMANN</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>DANTE GABRIEL ROSSETTI</AUCTOR><AUCTOR type="translator">HEDWIG LACHMANN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>132</rn>
+   <author>Rossetti, Dante Gabriel</author>
+   <title>Sonette</title>
+   <issue>6</issue>
+   <page>129</page>
+   <contDoc>WR-04-00_i0004.xml</contDoc>
+   <contDocID>0137</contDocID>
+   <target>WR-04-06_n0129.xml#//TITLE[@titleID='tiID_2436_00058']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00113</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0130.xml#//DIV_END[@divEndID='deID_2436_00115']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00058" parDivStartID="dsID_2436_00113"><TITLEPART type="bystmt"><AUCTOR>DANTE GABRIEL ROSSETTI</AUCTOR></TITLEPART><LE/>
+<TITLEPART type="main">SONETTE: <HR emDashNum="10" type="DoubleInline"/></TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>DANTE GABRIEL ROSSETTI</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>133</rn>
+   <author>S., B.</author>
+   <title>Theater*</title>
+   <issue>12</issue>
+   <page>214</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0140</contDocID>
+   <target>WR-04-12_n0214.xml#//TITLE[@titleID='tiID_2436_00127']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00658</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-12_n0214.xml#//DIV_END[@divEndID='deID_2436_00658']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00127" parDivStartID="dsID_2436_00658"><TITLEPART type="repeated"><SPC>THEATER</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>B. S.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>134</rn>
+   <author>Sachs, Otto</author>
+   <title>Lionardo da Vinci</title>
+   <issue>4</issue>
+   <page>84</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0141</contDocID>
+   <target>WR-04-04_n0084.xml#//TITLE[@titleID='tiID_2436_00042']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00067</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-04_n0087.xml#//DIV_END[@divEndID='deID_2436_00066']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00042" parDivStartID="dsID_2436_00067"><TITLEPART type="main">LIONARDO DA VINCI.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>OTTO SACHS</AUCTOR>.*</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>OTTO SACHS</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>135</rn>
+   <author>Sachs, Otto</author>
+   <title>Lionardo da Vinci (Schluss)</title>
+   <issue>6</issue>
+   <page>135</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0142</contDocID>
+   <target>WR-04-06_n0135.xml#//TITLE[@titleID='tiID_2436_00065']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00120</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0138.xml#//DIV_END[@divEndID='deID_2436_00119']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00065" parDivStartID="dsID_2436_00120"><TITLEPART type="main">LIONARDO DA VINCI.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>OTTO SACHS</AUCTOR>.</TITLEPART></TITLE>
+<P parID="01276">(Schluss des Fragments.)*</P></targetTitle>
+   <auctores><AUCTOR>OTTO SACHS</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>136</rn>
+   <author>Sch., W.</author>
+   <title>»The Studio«</title>
+   <issue>3</issue>
+   <page>75</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0143</contDocID>
+   <target>WR-04-03_n0075.xml#//P[@parID='00694']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00060</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-03_n0076.xml#//DIV_END[@divEndID='deID_2436_00058']</divEndPtr>
+   <targetTitle><P part="initial" parID="00694" complete="false"><TAB/>»THE STUDIO.«</P></targetTitle>
+   <auctores><AUCTOR>W. SCH.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>137</rn>
+   <author>Schlaf, Johannes</author>
+   <title>Sophus Michaelis: »Aebelö«. — Hunger und Liebe. Von Irma v. Troll-Borostyáni*</title>
+   <issue>11</issue>
+   <page>176</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0144</contDocID>
+   <target>WR-04-11_n0176.xml#//P[@parID='02428']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00258</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0177.xml#//DIV_END[@divEndID='deID_2436_00256']</divEndPtr>
+   <targetTitle><P parID="02428"><TAB/>SOPHUS MICHAELIS: »AEBELÖ«.<LE/>
+<SPC>Roman</SPC>. <SPC>Aus dem Dänischen übersetzt<LE/>
+von Marie Herzfeld</SPC>. <SPC>Wiener Verlag</SPC>. <DATE>1900</DATE>.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>138</rn>
+   <author>Schlaf, Johannes</author>
+   <title>Bücher*</title>
+   <issue>15</issue>
+   <page>274</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0145</contDocID>
+   <target>WR-04-15_n0274.xml#//TITLE[@titleID='tiID_2436_00160']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00713</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-15_n0274.xml#//DIV_END[@divEndID='deID_2436_00714']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00160" parDivStartID="dsID_2436_00713"><TITLEPART type="repeated"><SPC>BÜCHER</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>JOHANNES SCHLAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>139</rn>
+   <author>Schlaf, Johannes</author>
+   <title>Multatuli</title>
+   <issue>23</issue>
+   <page>406</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0146</contDocID>
+   <target>WR-04-23_n0406.xml#//TITLE[@titleID='tiID_2436_00227']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00860</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-23_n0411.xml#//DIV_END[@divEndID='deID_2436_00859']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00227" parDivStartID="dsID_2436_00860"><TITLEPART type="main">MULTATULI.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>JOHANNES SCHLAF</AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>JOHANNES SCHLAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>140</rn>
+   <author>Schlaf, Johannes</author>
+   <title>Maurice Maeterlinck: Drei mystische Spiele*</title>
+   <issue>24</issue>
+   <page>440</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0147</contDocID>
+   <target>WR-04-24_n0440.xml#//P[@parID='04902']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00887</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-24_n0441.xml#//DIV_END[@divEndID='deID_2436_00885']</divEndPtr>
+   <targetTitle><P parID="04902"><TAB/><SPC>Maurice Maeterlinck</SPC>: <SPC>Drei</SPC> <HYPH1 cont="mystische"><SPC>mysti</SPC>-</HYPH1><LE/>
+<HYPH2><SPC>sche</SPC></HYPH2> <SPC>Spiele</SPC>. <SPC>Deutsch von <HYPH1 cont="Oppeln-Bronikowski">Oppeln-</HYPH1><LE/>
+<HYPH2>Bronikowski</HYPH2></SPC>. <SPC>Autorisierte Ausgabe</SPC>.<LE/>
+<SPC>Die sieben Prinzessinnen</SPC>. <SPC>Alladine<LE/>
+und Palomides</SPC>. <SPC>Der Tod des</SPC> <HYPH1 cont="Tintagiles"><SPC>Tinta</SPC>-</HYPH1><LE/>
+<HYPH2><SPC>giles</SPC></HYPH2>. <SPC>Verlegt in Leipzig bei Eugen<LE/>
+Diederichs</SPC>. <DATE>1900</DATE>. 104 <SPC>Seiten</SPC>.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>141</rn>
+   <author>Schmitt, Eugen Heinrich</author>
+   <title>Die Entstehung des socialen Problems</title>
+   <issue>6</issue>
+   <page>141</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0148</contDocID>
+   <target>WR-04-06_n0141.xml#//TITLE[@titleID='tiID_2436_00067']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00122</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0143.xml#//DIV_END[@divEndID='deID_2436_00121']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00067" parDivStartID="dsID_2436_00122"><TITLEPART type="main">DIE ENTSTEHUNG DES SOCIALEN PROBLEMS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>EUGEN HEINRICH SCHMITT</AUCTOR> (Budapest).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>EUGEN HEINRICH SCHMITT</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>142</rn>
+   <author>Schmitz, Oscar A. H.</author>
+   <title>Rückblicke auf Paris und die Ausstellung</title>
+   <issue>22</issue>
+   <page>393</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0149</contDocID>
+   <target>WR-04-22_n0393.xml#//TITLE[@titleID='tiID_2436_00223']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00840</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-22_n0396.xml#//DIV_END[@divEndID='deID_2436_00839']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00223" parDivStartID="dsID_2436_00840"><TITLEPART type="main">RÜCKBLICKE AUF PARIS UND DIE AUSSTELLUNG.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>OSCAR A. H. SCHMITZ</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>OSCAR A. H. SCHMITZ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>143</rn>
+   <author>Schölermann, W.</author>
+   <title>John Ruskin*</title>
+   <issue>4</issue>
+   <page>96</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0150</contDocID>
+   <target>WR-04-04_n0096.xml#//P[@parID='00854']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00079</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-04_n0097.xml#//DIV_END[@divEndID='deID_2436_00077']</divEndPtr>
+   <targetTitle><P part="initial" parID="00854" complete="false"><TAB/><SPC>John Ruskin</SPC>.</P></targetTitle>
+   <auctores><AUCTOR>W. SCHÖLERMANN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>144</rn>
+   <author>Scholz, Wilhelm von</author>
+   <title>Symbolische Kunst</title>
+   <issue>8</issue>
+   <page>177</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0151</contDocID>
+   <target>WR-04-08_n0177.xml#//TITLE[@titleID='tiID_2436_00085']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00183</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0179.xml#//DIV_END[@divEndID='deID_2436_00182']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00085" parDivStartID="dsID_2436_00183"><TITLEPART type="main">SYMBOLISCHE KUNST.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>WILHELM VON SCHOLZ</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>WILHELM VON SCHOLZ</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>145</rn>
+   <author>Seiling, Max, Prof.</author>
+   <title>Occultismus und officielle Wissenschaft</title>
+   <issue>9</issue>
+   <page>120</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0152</contDocID>
+   <target>WR-04-09_n0120.xml#//TITLE[@titleID='tiID_2436_00103']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00220</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-09_n0124.xml#//DIV_END[@divEndID='deID_2436_00220']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00103" parDivStartID="dsID_2436_00220"><TITLEPART type="main">OKKULTISMUS UND OFFICIELLE WISSENSCHAFT.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAX SEILING</AUCTOR> (München-Pasing).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAX SEILING</AUCTOR><AUCTOR>SHAKESPEARE</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>146</rn>
+   <author>Seiling, Max, Prof.</author>
+   <title>Christen und Heiden</title>
+   <issue>13</issue>
+   <page>233</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0153</contDocID>
+   <target>WR-04-13_n0233.xml#//TITLE[@titleID='tiID_2436_00133']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00679</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-13_n0237.xml#//DIV_END[@divEndID='deID_2436_00679']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00133" parDivStartID="dsID_2436_00679"><TITLEPART type="main">CHRISTEN UND »HEIDEN«.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von PROF. <AUCTOR>MAX SEILING</AUCTOR> (München - Pasing).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>MAX SEILING</AUCTOR><AUCTOR>SCHOPENHAUER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>147</rn>
+   <author>Sokal, Eduard</author>
+   <title>Der Schwachsinn des Weibes</title>
+   <issue>17</issue>
+   <page>291</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0154</contDocID>
+   <target>WR-04-17_n0291.xml#//TITLE[@titleID='tiID_2436_00172']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00737</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-17_n0294.xml#//DIV_END[@divEndID='deID_2436_00736']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00172" parDivStartID="dsID_2436_00737"><TITLEPART type="main">DER SCHWACHSINN DES WEIBES.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>EDUARD SOKAL</AUCTOR> (Berlin).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>EDUARD SOKAL</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>148</rn>
+   <author>Spreti, Adolf Graf von</author>
+   <title>Das System des Védanta</title>
+   <issue>4</issue>
+   <page>79</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0155</contDocID>
+   <target>WR-04-04_n0079.xml#//TITLE[@titleID='tiID_2436_00041']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00066</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-04_n0083.xml#//DIV_END[@divEndID='deID_2436_00065']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00041" parDivStartID="dsID_2436_00066"><TITLEPART type="main">DAS SYSTEM DES VÉDANTA.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><SPC>ADOLF GRAF VON SPRETI</SPC></AUCTOR> (Starnberg).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ADOLF GRAF VON SPRETI</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>149</rn>
+   <author>Spreti, Adolf Graf von</author>
+   <title>Wille und Heilung</title>
+   <issue>9</issue>
+   <page>118</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0156</contDocID>
+   <target>WR-04-09_n0118.xml#//TITLE[@titleID='tiID_2436_00102']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00219</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-09_n0120.xml#//DIV_END[@divEndID='deID_2436_00218']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00102" parDivStartID="dsID_2436_00219"><TITLEPART type="main">WILLE UND HEILUNG.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ADOLF GRAF SPRETI</AUCTOR> (Stamberg).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ADOLF GRAF SPRETI</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>150</rn>
+   <author>Spreti, Adolf Graf von</author>
+   <title>Das göttliche Alphabet</title>
+   <issue>11</issue>
+   <page>165</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0157</contDocID>
+   <target>WR-04-11_n0165.xml#//TITLE[@titleID='tiID_2436_00117']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00249</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0167.xml#//DIV_END[@divEndID='deID_2436_00248']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00117" parDivStartID="dsID_2436_00249"><TITLEPART type="main"><SPC>DAS GÖTTLICHE ALPHABET</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ADOLF GRAF SPRETI</AUCTOR> (Starnberg).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ADOLF GRAF SPRETI</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>151</rn>
+   <author>Strindberg, August</author>
+   <title>Ein Brief</title>
+   <issue>16</issue>
+   <page>278</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0158</contDocID>
+   <target>WR-04-16_n0278.xml#//TITLE[@titleID='tiID_2436_00162']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00719</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-16_n0278.xml#//DIV_END[@divEndID='deID_2436_00720']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00162" parDivStartID="dsID_2436_00719"><TITLEPART type="main">EIN BRIEF.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>AUGUST STRINDBERG</AUCTOR> (Lund).*</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>AUGUST STRINDBERG</AUCTOR><AUCTOR>August Strindberg</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>152</rn>
+   <author>Strindberg, August</author>
+   <title>Zur Physiologie des Geschmacks</title>
+   <issue>19</issue>
+   <page>338</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0159</contDocID>
+   <target>WR-04-19_n0338.xml#//TITLE[@titleID='tiID_2436_00200']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00789</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-19_n0340.xml#//DIV_END[@divEndID='deID_2436_00788']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00200" parDivStartID="dsID_2436_00789"><TITLEPART type="main">ZUR PHYSIOLOGIE DES GESCHMACKS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>AUGUST STRINDBERG</AUCTOR> (Stockholm).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>AUGUST STRINDBERG</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>153</rn>
+   <author>Th.</author>
+   <title>Londoner Vorträge. — Pariser Congresse*</title>
+   <issue>18</issue>
+   <page>325</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0160</contDocID>
+   <target>WR-04-18_n0325.xml#//P[@parID='03823']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00776</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-18_n0325.xml#//DIV_END[@divEndID='deID_2436_00774']</divEndPtr>
+   <targetTitle><P parID="03823" complete="false"><TAB/>LONDONER VORTRÄGE.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>154</rn>
+   <author>Th.</author>
+   <title>Religionsphilosophische Vorträge *</title>
+   <issue>21</issue>
+   <page>378</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0161</contDocID>
+   <target>WR-04-21_n0378.xml#//P[@parID='04338']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00823</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-21_n0379.xml#//DIV_END[@divEndID='deID_2436_00821']</divEndPtr>
+   <targetTitle><P parID="04338" complete="false"><TAB/>RELIGIONS-PHILOSOPHISCHE <HYPH1 cont="VORTRÄGE">VOR-</HYPH1><LE/>
+<HYPH2>TRÄGE</HYPH2>.</P></targetTitle>
+   <auctores><AUCTOR>Th.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>155</rn>
+   <author>Th., K. v.</author>
+   <title>Max Müller</title>
+   <issue>23</issue>
+   <page>417</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0163</contDocID>
+   <target>WR-04-23_n0417.xml#//P[@parID='04711']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00867</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-23_n0419.xml#//DIV_END[@divEndID='deID_2436_00865']</divEndPtr>
+   <targetTitle><P part="initial" parID="04711" complete="false"><TAB/>MAX MÜLLER.</P></targetTitle>
+   <auctores><AUCTOR>K. v. Th.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>156</rn>
+   <author>Thomassin, Carl von</author>
+   <title>Die Theosophin Annie Besant</title>
+   <issue>3</issue>
+   <page>63</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0164</contDocID>
+   <target>WR-04-03_n0063.xml#//TITLE[@titleID='tiID_2436_00034']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00054</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-03_n0066.xml#//DIV_END[@divEndID='deID_2436_00053']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00034" parDivStartID="dsID_2436_00054"><TITLEPART type="main">DIE THEOSOPHIN ANNIE BESANT.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>KARL VON THOMASSIN</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>KARL VON THOMASSIN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>157</rn>
+   <author>Thomassin, Carl von</author>
+   <title>Deutsche Buddhisten</title>
+   <issue>8</issue>
+   <page>187</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0165</contDocID>
+   <target>WR-04-08_n0187.xml#//TITLE[@titleID='tiID_2436_00087']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00185</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0191.xml#//DIV_END[@divEndID='deID_2436_00184']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00087" parDivStartID="dsID_2436_00185"><TITLEPART type="main"><SPC>DEUTSCHE BUDDHISTEN</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CARL v. THOMASSIN</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CARL v. THOMASSIN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>158</rn>
+   <author>Thomassin, Carl von</author>
+   <title>Zur Geschichte der Passionsspiele</title>
+   <issue>10</issue>
+   <page>147</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0166</contDocID>
+   <target>WR-04-10_n0147.xml#//TITLE[@titleID='tiID_2436_00110']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00231</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0151.xml#//DIV_END[@divEndID='deID_2436_00231']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00110" parDivStartID="dsID_2436_00231"><TITLEPART type="main">ZUR GESCHICHTE DER PASSIONSSPIELE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>KARL v. THOMASSIN</AUCTOR> (München).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>KARL v. THOMASSIN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>159</rn>
+   <author>Tolstoi, Leo</author>
+   <title>Glosse über den Selbstmord</title>
+   <issue>15</issue>
+   <page>262</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0167</contDocID>
+   <target>WR-04-15_n0262.xml#//TITLE[@titleID='tiID_2436_00154']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00705</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-15_n0263.xml#//DIV_END[@divEndID='deID_2436_00704']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00154" parDivStartID="dsID_2436_00705"><TITLEPART type="main">GLOSSE ÜBER DEN SELBSTMORD.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LEO TOLSTOI</AUCTOR> (Jasnaja-Poljana).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LEO TOLSTOI</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>160</rn>
+   <author>Tolstoi, Leo</author>
+   <title>Über den Sinn des Lebens</title>
+   <issue>19</issue>
+   <page>337</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0168</contDocID>
+   <target>WR-04-19_n0337.xml#//TITLE[@titleID='tiID_2436_00199']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00788</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-19_n0338.xml#//DIV_END[@divEndID='deID_2436_00787']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00199" parDivStartID="dsID_2436_00788"><TITLEPART type="main">ÜBER DEN SINN DES LEBENS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>LEO TOLSTOI</AUCTOR> (Jaßnaja-Poljana).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>LEO TOLSTOI</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>161</rn>
+   <author>Topelius, Zacharias</author>
+   <title>Der Gedanke</title>
+   <issue>11</issue>
+   <page>161</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0169</contDocID>
+   <target>WR-04-11_n0161.xml#//TITLE[@titleID='tiID_2436_00115']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00246</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0163.xml#//DIV_END[@divEndID='deID_2436_00246']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00115" parDivStartID="dsID_2436_00246"><TITLEPART type="main">DER GEDANKE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ZACHARIAS TOPELIUS</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ZACHARIAS TOPELIUS</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>162</rn>
+   <author>Tschechoff, Anton</author>
+   <title>Der Mensch im Futteral</title>
+   <issue>2</issue>
+   <page>47</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0170</contDocID>
+   <target>WR-04-02_n0047.xml#//TITLE[@titleID='tiID_2436_00026']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00039</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-02_n0050.xml#//DIV_END[@divEndID='deID_2436_00038']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00026" parDivStartID="dsID_2436_00039"><TITLEPART type="main">DER MENSCH IM FUTTERAL.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ANTON TSCHECHOFF</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON TSCHECHOFF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>163</rn>
+   <author>Tschechoff, Anton</author>
+   <title>Der Mensch im Futteral (Forts. und Schluss)</title>
+   <issue>3</issue>
+   <page>58</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0171</contDocID>
+   <target>WR-04-03_n0058.xml#//TITLE[@titleID='tiID_2436_00033']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00053</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-03_n0062.xml#//DIV_END[@divEndID='deID_2436_00052']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00033" parDivStartID="dsID_2436_00053"><TITLEPART type="main"><SPC>DER MENSCH IM FUTTERAL</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>ANTON TSCHECHOFF</AUCTOR> (Moskau).</TITLEPART></TITLE>
+<P parID="00530">(Fortsetzung und Schluss.)</P></targetTitle>
+   <auctores><AUCTOR>ANTON TSCHECHOFF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>164</rn>
+   <author>Tschechoff, Anton</author>
+   <title>Der Student</title>
+   <issue>23</issue>
+   <page>404</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0172</contDocID>
+   <target>WR-04-23_n0404.xml#//TITLE[@titleID='tiID_2436_00226']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00859</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-23_n0406.xml#//DIV_END[@divEndID='deID_2436_00858']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00226" parDivStartID="dsID_2436_00859"><TITLEPART type="main">DER STUDENT.</TITLEPART><LE/>
+<TITLEPART type="desc">Aus dem Russischen des <AUCTOR>ANTON TSCHECHOW</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>ANTON TSCHECHOW</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>165</rn>
+   <author>Vick, Carl</author>
+   <title>Was am Wege liegt</title>
+   <issue>24</issue>
+   <page>436</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0173</contDocID>
+   <target>WR-04-24_n0436.xml#//TITLE[@titleID='tiID_2436_00235']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00883</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-24_n0439.xml#//DIV_END[@divEndID='deID_2436_00882']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00235" parDivStartID="dsID_2436_00883"><TITLEPART type="main">WAS AM WEGE LIEGT.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CARL VICK</AUCTOR> (Görz).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CARL VICK</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>166</rn>
+   <author>Wachtelborn, Carl</author>
+   <title>Die Naturheilbewegung</title>
+   <issue>1</issue>
+   <page>18</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0174</contDocID>
+   <target>WR-04-01_n0018.xml#//TITLE[@titleID='tiID_2436_00013']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00015</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-01_n0023.xml#//DIV_END[@divEndID='deID_2436_00014']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00013" parDivStartID="dsID_2436_00015"><TITLEPART type="main">DIE NATURHEILBEWEGUNG.</TITLEPART><LE/>
+<TITLEPART>IHRE BEDEUTUNG UND IHR EINFLUSS AUF CULTUR UND SEELENLEBEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>CARL WACHTELBORN</AUCTOR> (Fürstenwalde, Spree).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>CARL WACHTELBORN</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>167</rn>
+   <author>Wickström, Victor Hugo</author>
+   <title>Die Klippeninsel</title>
+   <issue>9</issue>
+   <page>115</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0175</contDocID>
+   <target>WR-04-09_n0115.xml#//TITLE[@titleID='tiID_2436_00100']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00217</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-09_n0117.xml#//DIV_END[@divEndID='deID_2436_00216']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00100" parDivStartID="dsID_2436_00217"><TITLEPART type="main">DIE KLIPPENINSEL.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>VICTOR HUGO WICKSTRÖM</AUCTOR> (Östersund, Schweden).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>VICTOR HUGO WICKSTRÖM</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>168</rn>
+   <author>Wilde, Oscar</author>
+   <title>Die Wahrheit der Maske</title>
+   <issue>5</issue>
+   <page>112</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0176</contDocID>
+   <target>WR-04-05_n0112.xml#//TITLE[@titleID='tiID_2436_00053']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00098</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-05_n0117.xml#//DIV_END[@divEndID='deID_2436_00098']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00053" parDivStartID="dsID_2436_00098"><TITLEPART type="main"><SPC>DIE WAHRHEIT DER MASKE</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>OSCAR WILDE</AUCTOR> (London).*</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>OSCAR WILDE</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>169</rn>
+   <author>Wilde, Oscar</author>
+   <title>Salome</title>
+   <issue>12</issue>
+   <page>189</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0177</contDocID>
+   <target>WR-04-12_n0189.xml#//TITLE[@titleID='tiID_2436_00124']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00272</divStartID>
+   <divType>performance</divType>
+   <divEndPtr>WR-04-12_n0212.xml#//DIV_END[@divEndID='deID_2436_00654']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00124"><TITLEPART type="main"><B>Salome</B></TITLEPART><LE/>
+<TITLEPART type="desc"><SPC>Tragödie in einem Aufzug</SPC><LE/>
+von<LE/>
+<AUCTOR>Oscar Wilde</AUCTOR> (London)<LE/>
+<SEPARATOR num="8" type="undefined"/>
+<SPC>Deutsch von <AUCTOR type="translator">Hedwig Lachmann</AUCTOR></SPC>.</TITLEPART><LE/>
+<SEPARATOR num="8" type="undefined"/>
+<TITLEPART>Mit Zeichnungen von Beardsley.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>Oscar Wilde</AUCTOR><AUCTOR type="translator">Hedwig Lachmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>170</rn>
+   <author>Wilde, Oscar</author>
+   <title>Aus der Ballade des Stockhauses zu Reading</title>
+   <issue>20</issue>
+   <page>345</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0178</contDocID>
+   <target>WR-04-20_n0345.xml#//TITLE[@titleID='tiID_2436_00203']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00798</divStartID>
+   <divType>verse</divType>
+   <divEndPtr>WR-04-20_n0349.xml#//DIV_END[@divEndID='deID_2436_00797']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00203" parDivStartID="dsID_2436_00798"><TITLEPART type="main">AUS DER BALLADE DES STOCKHAUSES ZU READING.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>C. 3. 3.</AUCTOR><LE/>
+(Zellennummer <AUCTOR>OSCAR WILDES</AUCTOR>).</TITLEPART><LE/>
+<TITLEPART type="dedication"><LANG iso="la"><SPC>In Memoriam</SPC></LANG><LE/>
+C. T. W.<LE/>
+weiland Reiter in der Königlichen Leibgarde<LE/>
+hingerichtet in Ihrer Majestät Gefängnis zu Reading, Berkshire, am <DATE>7. Juli 1896</DATE>.</TITLEPART><LE/>
+<SEPARATOR type="asterisk"/>
+<TITLEPART type="desc">Deutsche Nachdichtung von <AUCTOR type="translator">ARTHUR HOLITSCHEK</AUCTOR>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>C. 3. 3.</AUCTOR><AUCTOR>OSCAR WILDES</AUCTOR><AUCTOR type="translator">ARTHUR HOLITSCHEK</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>171</rn>
+   <author>Wilde, Oscar</author>
+   <title>Im Hause des Richters</title>
+   <issue>24</issue>
+   <page>421</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0179</contDocID>
+   <target>WR-04-24_n0421.xml#//TITLE[@titleID='tiID_2436_00231']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00877</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-24_n0422.xml#//DIV_END[@divEndID='deID_2436_00876']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00231" parDivStartID="dsID_2436_00877"><TITLEPART type="main">IM HAUSE DES RICHTERS.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>OSCAR WILDE</AUCTOR> <SYMBOL type="died"/>.</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>OSCAR WILDE</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>172</rn>
+   <author>Ysaey, L.</author>
+   <title>Der Garten</title>
+   <issue>7</issue>
+   <page>149</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0180</contDocID>
+   <target>WR-04-07_n0149.xml#//TITLE[@titleID='tiID_2436_00071']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00133</divStartID>
+   <divType>performance</divType>
+   <divEndPtr>WR-04-07_n0152.xml#//DIV_END[@divEndID='deID_2436_00159']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00071" parDivStartID="dsID_2436_00133"><TITLEPART type="main">DER GARTEN.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>L. YSAEY</AUCTOR> (Wien).*</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>L. YSAEY</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>173</rn>
+   <author>Zuckerkandl, B.</author>
+   <title>Japanische Kunstausstellung</title>
+   <issue>3</issue>
+   <page>70</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0181</contDocID>
+   <target>WR-04-03_n0070.xml#//TITLE[@titleID='tiID_2436_00037']</target>
+   <secTitle></secTitle>
+   <divStartID>dsID_2436_00057</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-03_n0071.xml#//DIV_END[@divEndID='deID_2436_00056']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00037" parDivStartID="dsID_2436_00057"><TITLEPART type="main"><SPC>JAPANISCHE KUNSTAUSSTELLUNG</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>B. ZUCKERKANDL</AUCTOR> (Wien).</TITLEPART></TITLE></targetTitle>
+   <auctores><AUCTOR>B. ZUCKERKANDL</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>174</rn>
+   <author></author>
+   <title>Ästhetische Uncultur unserer Bühnen-Decoration*</title>
+   <issue>12</issue>
+   <page>215</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0184</contDocID>
+   <target>WR-04-12_n0215.xml#//P[@parID='02949']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00661</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-12_n0215.xml#//DIV_END[@divEndID='deID_2436_00659']</divEndPtr>
+   <targetTitle><P part="initial" parID="02949" complete="false"><TAB/>Gegen die ÄSTHETISCHE UNCULTUR<LE/>
+unserer BÜHNEN-DECORATION wendet sich<LE/></P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>175</rn>
+   <author></author>
+   <title>Bewohnbarkeit des Mondes*</title>
+   <issue>12</issue>
+   <page>216</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0185</contDocID>
+   <target>WR-04-12_n0216.xml#//P[@parID='02954']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00663</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-12_n0216.xml#//DIV_END[@divEndID='deID_2436_00661']</divEndPtr>
+   <targetTitle><P parID="02954"><TAB/>Über die Entwicklung und <HYPH1 cont="BEWOHNBARKEIT">BEWOHN-</HYPH1><LE/>
+<HYPH2>BARKEIT</HYPH2> DES MONDES spricht Otto Klemm<LE/>
+in der »<SPC>Gäa</SPC>« (Central-Organ der Fortschritte<LE/>
+auf dem Gebiete der gesammten <HYPH1 cont="Naturwissenschaften">Naturwissen-</HYPH1><LE/>
+<HYPH2>schaften</HYPH2>, XXXVI, 2 —Leipzig, Eduard Heinrich<LE/>
+Mayer).</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>176</rn>
+   <author></author>
+   <title>Eekhoud, Georges*</title>
+   <issue>17</issue>
+   <page>308</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0186</contDocID>
+   <target>WR-04-17_n0308.xml#//P[@parID='03693']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00755</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-17_n0308.xml#//DIV_END[@divEndID='deID_2436_00753']</divEndPtr>
+   <targetTitle><P parID="03693" complete="false"><TAB/>GEORGES EEKHOUD,</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>177</rn>
+   <author></author>
+   <title>Fieber-Erscheinungen bei Pflanzen</title>
+   <issue>10</issue>
+   <page>156</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0187</contDocID>
+   <target>WR-04-10_n0156.xml#//P[@parID='02231']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00239</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0156.xml#//DIV_END[@divEndID='deID_2436_00237']</divEndPtr>
+   <targetTitle><P parID="02231" complete="false"><TAB/>FIEBER-Erscheinungen bei PFLANZEN<LE/></P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>178</rn>
+   <author></author>
+   <title>Gehirn des Weibes*</title>
+   <issue>14</issue>
+   <page>255</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0188</contDocID>
+   <target>WR-04-14_n0255.xml#//P[@parID='03291']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00700</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0256.xml#//DIV_END[@divEndID='deID_2436_00698']</divEndPtr>
+   <targetTitle><P part="initial" parID="03291" complete="false"><TAB/>Über das GEHIRN des WEIBES finden<LE/>
+sich interessante Daten in <LANG iso="en">»<DATERANGE>Nineteenth Century</DATERANGE>«</LANG>.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>179</rn>
+   <author></author>
+   <title>Geschlecht der Charaktere*</title>
+   <issue>10</issue>
+   <page>156</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0189</contDocID>
+   <target>WR-04-10_n0156.xml#//P[@parID='02232']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00240</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0156.xml#//DIV_END[@divEndID='deID_2436_00238']</divEndPtr>
+   <targetTitle><P parID="02232" complete="false"><TAB/>Über das GESCHLECHT DER <HYPH1 cont="CHARAKTERE">CHA-</HYPH1><LE/>
+<HYPH2>RAKTERE</HYPH2> spricht Ludwig <SPC>Klages</SPC> in einer<LE/>
+tiefgründigen Studie, die sich „Zur <HYPH1 cont="Menschenkunde">Menschen-</HYPH1><LE/>
+<HYPH2>kunde</HYPH2>“ („Graphologische Monatshefte“, III., 1)<LE/>
+betitelt.</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>180</rn>
+   <author></author>
+   <title>Gorkij, Maxim*</title>
+   <issue>11</issue>
+   <page>180</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0190</contDocID>
+   <target>WR-04-11_n0180.xml#//P[@parID='02459']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00266</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0180.xml#//DIV_END[@divEndID='deID_2436_00264']</divEndPtr>
+   <targetTitle><P part="initial" parID="02459" complete="false"><TAB/>MAXIM GORKIJ (Pseudonym für A. M.<LE/>
+<SPC>Pješkov</SPC>)</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>181</rn>
+   <author></author>
+   <title>Internationaler theosophischer Congress*</title>
+   <issue>10</issue>
+   <page>156</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0191</contDocID>
+   <target>WR-04-10_n0156.xml#//P[@parID='02233']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00241</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0156.xml#//DIV_END[@divEndID='deID_2436_00239']</divEndPtr>
+   <targetTitle><P parID="02233" complete="false"><TAB/>Am <DATE>24. Juni dieses Jahres</DATE>, 3 Uhr <HYPH1 cont="nachmittags">nach-</HYPH1><LE/>
+<HYPH2>mittags</HYPH2>, wird in Paris in den Räumen der<LE/>
+dortigen Theosophischen Gesellschaft</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>182</rn>
+   <author></author>
+   <title>Kunst*</title>
+   <issue>8</issue>
+   <page>203</page>
+   <contDoc>203 WR-04-00_i0005.xml</contDoc>
+   <contDocID>0192</contDocID>
+   <target>WR-04-08_n0203.xml#//TITLE[@titleID='tiID_2436_00094']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00194</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0203.xml#//DIV_END[@divEndID='deID_2436_00194']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00094" parDivStartID="dsID_2436_00194"><TITLEPART type="repeated">KUNST.</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>183</rn>
+   <author></author>
+   <title>Maurice Maeterlincks Das Mysterium der Gerechtigkeit*</title>
+   <issue>11</issue>
+   <page>178</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0193</contDocID>
+   <target>WR-04-11_n0178.xml#//P[@parID='02441']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00262</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0178.xml#//DIV_END[@divEndID='deID_2436_00260']</divEndPtr>
+   <targetTitle><P part="initial" parID="02441" complete="false"><TAB/>Die erste Mainummer (VII, 9) der <I>Revue de<LE/>
+Paris</I> bringt eine Studie MAURICE <HYPH1 cont="MAETERLINCKS">MAETER-</HYPH1><LE/>
+<HYPH2>LINCKS</HYPH2>,</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>184</rn>
+   <author></author>
+   <title>Materielle Stellung der deutschen Dichter und Schriftsteller*</title>
+   <issue>16</issue>
+   <page>289</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0194</contDocID>
+   <target>WR-04-16_n0289.xml#//P[@parID='03539']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00733</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-16_n0290.xml#//DIV_END[@divEndID='deID_2436_00731']</divEndPtr>
+   <targetTitle><P part="initial" parID="03539" complete="false"><TAB/>Über die MATERIELLE STELLUNG<LE/>
+der DEUTSCHEN DICHTER und <HYPH1 cont="SCHRIFTSTELLER">SCHRIFT-</HYPH1><LE/>
+<HYPH2>STELLER</HYPH2> gibt Tony <SPC>Kellen</SPC> in »Nord und<LE/>
+Süd« (Nr. 277 und 278) interessante Aufschlüsse.<LE/></P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>185</rn>
+   <author></author>
+   <title>Melancholische Gesichtsausdruck und seine Bahn, Der</title>
+   <issue>14</issue>
+   <page>255</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0195</contDocID>
+   <target>WR-04-14_n0255.xml#//P[@parID='03289']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00699</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0255.xml#//DIV_END[@divEndID='deID_2436_00697']</divEndPtr>
+   <targetTitle><P part="initial" parID="03289" complete="false"><TAB/>»Der MELANCHOLISCHE <HYPH1 cont="GESICHTSAUSDRUCK">GESICHTS-</HYPH1><LE/>
+<HYPH2>AUSDRUCK</HYPH2> und seine Bahn«</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>186</rn>
+   <author></author>
+   <title>Musikalischen Centren des Gehirns, Die*</title>
+   <issue>11</issue>
+   <page>179</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0196</contDocID>
+   <target>WR-04-11_n0179.xml#//P[@parID='02454']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00264</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0179.xml#//DIV_END[@divEndID='deID_2436_00262']</divEndPtr>
+   <targetTitle><P parID="02454" complete="false"><TAB/>Über die Selbständigkeit der <HYPH1 cont="MUSIKALISCHEN">MUSIKALI-</HYPH1><LE/>
+<HYPH2>SCHEN</HYPH2> Centren des GEHIRNS spricht<LE/>
+<SPC>Wegener</SPC> in Dr. J. H. Bechholds »</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>187</rn>
+   <author></author>
+   <title>Notizen*</title>
+   <issue>6</issue>
+   <page>148</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0197</contDocID>
+   <target>WR-04-06_n0148.xml#//TITLE[@titleID='tiID_2436_00070']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00126</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-06_n0148.xml#//DIV_END[@divEndID='deID_2436_00129']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00070" parDivStartID="dsID_2436_00126"><TITLEPART type="repeated"><SPC>NOTIZEN</SPC>.</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>188</rn>
+   <author></author>
+   <title>Rimbaud, Arthur*</title>
+   <issue>17</issue>
+   <page>307</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0198</contDocID>
+   <target>WR-04-17_n0307.xml#//P[@parID='03690']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00754</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-17_n0308.xml#//DIV_END[@divEndID='deID_2436_00752']</divEndPtr>
+   <targetTitle><P part="initial" parID="03690" complete="false"><TAB/>In Paris hat sich ein Comité moderner<LE/>
+Schriftsteller gebildet</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>189</rn>
+   <author></author>
+   <title>Rodin*</title>
+   <issue>22</issue>
+   <page>397</page>
+   <contDoc>397 WR-04-00_i0005.xml</contDoc>
+   <contDocID>0199</contDocID>
+   <target>WR-04-22_n0397.xml#//P[@parID='04506']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00843</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-22_n0398.xml#//DIV_END[@divEndID='deID_2436_00841']</divEndPtr>
+   <targetTitle><P parID="04506"><TAB/>Über RODIN sagt René Berthelot im<LE/>
+October-Hefte der »<I>Plume</I>« u. a. Folgendes:</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>190</rn>
+   <author></author>
+   <title>Schauspielkunst und Mcdianimität*</title>
+   <issue>23</issue>
+   <page>419</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0200</contDocID>
+   <target>WR-04-23_n0419.xml#//P[@parID='04724']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00868</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-23_n0419.xml#//DIV_END[@divEndID='deID_2436_00866']</divEndPtr>
+   <targetTitle><P part="initial" parID="04724" complete="false"><TAB/>Über SCHAUSPIELKUNST UND <HYPH1 cont="MEDIANIMITÄT">ME-</HYPH1><LE/>
+<HYPH2>DIANIMITÄT</HYPH2> sagt »Die übersinnliche Welt«<LE/>
+(VIII., 10 und 11):</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>191</rn>
+   <author></author>
+   <title>Secession*</title>
+   <issue>23</issue>
+   <page>417</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0201</contDocID>
+   <target>WR-04-23_n0417.xml#//P[@parID='04709']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00866</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-23_n0417.xml#//DIV_END[@divEndID='deID_2436_00864']</divEndPtr>
+   <targetTitle><P part="initial" parID="04709" complete="false"><TAB/>SECESSION.</P></targetTitle>
+   <auctores><AUCTOR>—.—</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>192</rn>
+   <author></author>
+   <title>Sinne des primitiven Menschen*</title>
+   <issue>14</issue>
+   <page>256</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0202</contDocID>
+   <target>WR-04-14_n0256.xml#//P[@parID='03294']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00701</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0256.xml#//DIV_END[@divEndID='deID_2436_00699']</divEndPtr>
+   <targetTitle><P part="initial" parID="03294" complete="false"><TAB/>Dem Studium der SINNE des PRIMITIVEN<LE/>
+MENSCHEN war, wie die »Umschau« (IV, 25)<LE/>
+mittheilt, die jüngste Forschungsreise des<LE/>
+Ethnologen Dr. <SPC>Rivers</SPC> (durch Neu-Guinea<LE/>
+und längs der Torrestraße) gewidmet</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>193</rn>
+   <author></author>
+   <title>Sitz des mathematischen Sinns*</title>
+   <issue>11</issue>
+   <page>178</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0203</contDocID>
+   <target>WR-04-11_n0178.xml#//P[@parID='02443']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00263</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0179.xml#//DIV_END[@divEndID='deID_2436_00261']</divEndPtr>
+   <targetTitle><P parID="02443" complete="false"><TAB/>Über den SITZ DES MATHEMATISCHEN<LE/>
+SINNS spricht der bekannte Neurologe Dr. med.<LE/>
+et phil. Paul MÖBIUS (Leipzig) in Prof. Dr. E.<LE/>
+MENDELS »Neurologischem Centralblatt«<LE/></P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>194</rn>
+   <author></author>
+   <title>Sociologie des Genies, Die*</title>
+   <issue>12</issue>
+   <page>215</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0204</contDocID>
+   <target>WR-04-12_n0215.xml#//P[@parID='02951']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00662</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-12_n0216.xml#//DIV_END[@divEndID='deID_2436_00660']</divEndPtr>
+   <targetTitle><P part="initial" parID="02951" complete="false"><TAB/>Unter dem Titel »DIE SOCIOLOGIE DES<LE/>
+GENIES« veröffentlicht Ernst <SPC>Gystrow</SPC> eine<LE/>
+Studie in den »Socialistischen Monatsheften«.<LE/></P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>195</rn>
+   <author></author>
+   <title>Spiritualistische Bewegung, Die*</title>
+   <issue>8</issue>
+   <page>206</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0205</contDocID>
+   <target>WR-04-08_n0206.xml#//TITLE[@titleID='tiID_2436_00096']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00201</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0207.xml#//DIV_END[@divEndID='deID_2436_00202']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00096" parDivStartID="dsID_2436_00201"><TITLEPART>DIE SPIRITUALISTISCHE BEWEGUNG.</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>196</rn>
+   <author></author>
+   <title>Spiritualistische Bewegung, Die*</title>
+   <issue>9</issue>
+   <page>132</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0206</contDocID>
+   <target>WR-04-09_n0132.xml#//TITLE[@titleID='tiID_2436_00105']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00223</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-09_n0132.xml#//DIV_END[@divEndID='deID_2436_00222']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00105" parDivStartID="dsID_2436_00223"><TITLEPART>DIE SPIRITUALISTISCHE BEWEGUNG.</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>197</rn>
+   <author></author>
+   <title>Theosophin Annie Besant, Die*</title>
+   <issue>14</issue>
+   <page>254</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0207</contDocID>
+   <target>WR-04-14_n0254.xml#//TITLE[@titleID='tiID_2436_00144']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00695</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0254.xml#//DIV_END[@divEndID='deID_2436_00694']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00144" parDivStartID="dsID_2436_00695"><TITLEPART>DIE THEOSOPHIN ANNIE BESANT,</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>198</rn>
+   <author></author>
+   <title>Theosophische Zeitschriften</title>
+   <issue>8</issue>
+   <page>207</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0208</contDocID>
+   <target>WR-04-08_n0207.xml#//TITLE[@titleID='tiID_2436_00097']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00205</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-08_n0208.xml#//DIV_END[@divEndID='deID_2436_00203']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00097" parDivStartID="dsID_2436_00205"><TITLEPART>THEOSOPHISCHE ZEITSCHRIFTEN.</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>199</rn>
+   <author></author>
+   <title>Vererbung künstlerischer Talente*</title>
+   <issue>20</issue>
+   <page>362</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0209</contDocID>
+   <target>WR-04-20_n0362.xml#//P[@parID='04220']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00809</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-20_n0362.xml#//DIV_END[@divEndID='deID_2436_00807']</divEndPtr>
+   <targetTitle><P parID="04220" complete="false"><TAB/>Über die VERERBUNG <HYPH1 cont="KÜNSTLERISCHER">KÜNSTLERI-</HYPH1><LE/>
+<HYPH2>SCHER</HYPH2> TALENTE spricht Dr. med. et phil. P. J.<LE/>
+<SPC>Möbius</SPC> in Dr. J. H. Bechholds »Umschau« (IV,<LE/>
+38).</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>200</rn>
+   <author></author>
+   <title>Vorgeburtliche Beeinflussung*</title>
+   <issue>11</issue>
+   <page>179</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0210</contDocID>
+   <target>WR-04-11_n0179.xml#//P[@parID='02456']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00265</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-11_n0180.xml#//DIV_END[@divEndID='deID_2436_00263']</divEndPtr>
+   <targetTitle><P part="initial" parID="02456" complete="false"><TAB/>Die VORGEBURTLICHE <HYPH1 cont="BEEINFLUSSUNG">BEEIN-</HYPH1><LE/>
+<HYPH2>FLUSSUNG</HYPH2> des Menschen behandelt Hofrath<LE/>
+Prof. Max <SPC>Seiling</SPC> in einem sehr <HYPH1 cont="beachtenswerten">beachtens-</HYPH1><LE/>
+<HYPH2>werten</HYPH2> Artikel der »<SPC>Neuen Heilkunst</SPC>«<LE/></P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>201</rn>
+   <author></author>
+   <title>Wenban, Sion L.*</title>
+   <issue>5</issue>
+   <page>124</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0211</contDocID>
+   <target>WR-04-05_n0124.xml#//P[@parID='01137']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00104</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-05_n0124.xml#//DIV_END[@divEndID='deID_2436_00102']</divEndPtr>
+   <targetTitle><P part="initial" parID="01137" complete="false"><TAB/><SPC>Sion</SPC> L. <SPC>Wenban</SPC>, aus dessen <HYPH1 cont="Nachlass">Nach-</HYPH1><LE/>
+<HYPH2>lass</HYPH2> die diesem Heft beiliegende <HYPH1 cont="Kohlenarbeit">Kohlen-</HYPH1><LE/>
+<HYPH2>arbeit</HYPH2> stammt,</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>202</rn>
+   <author></author>
+   <title>Wirkung der Farben und des farbigen Lichtes auf die Nerven*</title>
+   <issue>10</issue>
+   <page>156</page>
+   <contDoc>WR-04-00_i0005.xml</contDoc>
+   <contDocID>0212</contDocID>
+   <target>WR-04-10_n0156.xml#//P[@parID='02230']</target>
+   <secTitle>Rundschau.</secTitle>
+   <divStartID>dsID_2436_00238</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-10_n0156.xml#//DIV_END[@divEndID='deID_2436_00236']</divEndPtr>
+   <targetTitle><P parID="02230" complete="false"><TAB/>Ueber die WIRKUNG DER FARBEN<LE/>
+und des <SPC>farbigen Lichtes</SPC> auf die NERVEN<LE/>
+finden sich interessante Bemerkungen in der<LE/>
+»Gäa« (XXXVI, 4).</P></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>203</rn>
+   <author>Beardsley, Aubrey</author>
+   <title>Zwei Zeichnungen</title>
+   <issue>12</issue>
+   <page>189</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0215</contDocID>
+   <target>WR-04-12_n0189.xml#//TITLE[@titleID='tiID_2436_00124']</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID>dsID_2436_00272</divStartID>
+   <divType>performance</divType>
+   <divEndPtr>WR-04-12_n0212.xml#//DIV_END[@divEndID='deID_2436_00654']</divEndPtr>
+   <targetTitle><IMG>
+<TITLE titleID="tiID_2436_00124"><TITLEPART type="main"><B>Salome</B></TITLEPART><LE/>
+<TITLEPART type="desc"><SPC>Tragödie in einem Aufzug</SPC><LE/>
+von<LE/>
+<AUCTOR>Oscar Wilde</AUCTOR> (London)<LE/>
+<SEPARATOR num="8" type="undefined"/>
+<SPC>Deutsch von <AUCTOR type="translator">Hedwig Lachmann</AUCTOR></SPC>.</TITLEPART><LE/>
+<SEPARATOR num="8" type="undefined"/>
+<TITLEPART>Mit Zeichnungen von Beardsley.</TITLEPART></TITLE>
+<SEPARATOR num="3" type="undefined"/>
+</IMG></targetTitle>
+   <auctores><AUCTOR>Oscar Wilde</AUCTOR><AUCTOR type="translator">Hedwig Lachmann</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>204</rn>
+   <author>Beardsley, Aubrey</author>
+   <title>Zwei Zeichnungen</title>
+   <issue>12</issue>
+   <page>211</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0216</contDocID>
+   <target>WR-04-12_n0211.xml</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID></divStartID>
+   <divType></divType>
+   <divEndPtr></divEndPtr>
+   <targetTitle></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>205</rn>
+   <author>Khnopff, Fernand</author>
+   <title>Die Kaiserin</title>
+   <issue>1</issue>
+   <page>1</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0217</contDocID>
+   <target>WR-04-01_n0001.xml#//P[@parID='00019']</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID>dsID_2436_00004</divStartID>
+   <divType>prose</divType>
+   <divEndPtr>WR-04-01_n0028.xml#//DIV_END[@divEndID='deID_2436_00026']</divEndPtr>
+   <targetTitle><CAPTION><P parID="00019"><AUCTOR>FERNAND KHNOPFF</AUCTOR></P>
+<P parID="00020">BRÜSSEL: <HR emDashNum="7" type="DoubleInline"/></P>
+<P parID="00021">DIE KAISERIN <HR emDashNum="5" type="DoubleInline"/></P></CAPTION>
+<IMG>
+<P parID="00022"><DATERANGE>1837 1898</DATERANGE></P>
+<SIGNATURE/>
+</IMG></targetTitle>
+   <auctores><AUCTOR>FERNAND KHNOPFF</AUCTOR><AUCTOR>ANTON LINDNER</AUCTOR><AUCTOR>PETER ALTENBERG</AUCTOR><AUCTOR>DANTE GABRIEL ROSSETTI</AUCTOR><AUCTOR type="translator">HEDWIG LACHMANN</AUCTOR><AUCTOR>CAMILLE MAUCLAIR</AUCTOR><AUCTOR>FELIX VALLOTTON</AUCTOR><AUCTOR>CARL WACHTELBORN</AUCTOR><AUCTOR>MAX GRAF</AUCTOR><AUCTOR>LUDWIG ABELS</AUCTOR><AUCTOR>HARALD GRAEVELL</AUCTOR><AUCTOR>A. L.</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>206</rn>
+   <author>Moreau, Gustave</author>
+   <title>Les Muses quittent Apollon</title>
+   <issue>10</issue>
+   <page>133</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0218</contDocID>
+   <target>WR-04-10_n0133.xml#//P[@parID='02090']</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID>dsID_2436_00225</divStartID>
+   <divType>prose</divType>
+   <divEndPtr>WR-04-10_n0156.xml#//DIV_END[@divEndID='deID_2436_00242']</divEndPtr>
+   <targetTitle><CAPTION><P parID="02090"><AUCTOR>GUSTAVE MOREAU</AUCTOR>:</P>
+<P parID="02091"><LANG iso="fr">Les Muses quittent Apollon</LANG> <HR emDashNum="3" type="DoubleInline"/></P></CAPTION>
+<IMG/></targetTitle>
+   <auctores><AUCTOR>GUSTAVE MOREAU</AUCTOR><AUCTOR>HEINRICH FRANTZ</AUCTOR><AUCTOR>ROBERT FROEBE</AUCTOR><AUCTOR>ERNST HARDT</AUCTOR><AUCTOR>STÉPHANE MALLARMÉ</AUCTOR><AUCTOR>S. ADLER</AUCTOR><AUCTOR>KARL v. THOMASSIN</AUCTOR><AUCTOR>HEINRICH PUDOR</AUCTOR><AUCTOR>ANTON LINDNER</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>207</rn>
+   <author>Toorop, Jan</author>
+   <title>O grave where is thy Victory</title>
+   <issue>8</issue>
+   <page>175</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0219</contDocID>
+   <target>WR-04-08_n0175.xml#//P[@parID='01598']</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID>dsID_2436_00180</divStartID>
+   <divType>prose</divType>
+   <divEndPtr>WR-04-08_n0208.xml#//DIV_END[@divEndID='deID_2436_00206']</divEndPtr>
+   <targetTitle><CAPTION><P parID="01598"><AUCTOR>JAN TOOROP</AUCTOR>: <HR emDashNum="2" type="DoubleInline"/></P>
+<P parID="01599"><LANG iso="en">O grave where is thy Victory</LANG></P></CAPTION>
+<IMG>
+<SIGNATURE/>
+</IMG></targetTitle>
+   <auctores><AUCTOR>JAN TOOROP</AUCTOR><AUCTOR>EDGAR ALLAN POE</AUCTOR><AUCTOR type="translator">H. Moeller-Bruck</AUCTOR><AUCTOR>WILHELM VON SCHOLZ</AUCTOR><AUCTOR>CARL BLEIBTREU</AUCTOR><AUCTOR>CARL v. THOMASSIN</AUCTOR><AUCTOR>REMY DE GOURMONT</AUCTOR><AUCTOR>ARNOLD FISCHER</AUCTOR><AUCTOR>THOMAS ACHELIS</AUCTOR><AUCTOR>ANTON LINDNER</AUCTOR><AUCTOR>REMY DE GOURMONT</AUCTOR><AUCTOR>HARALD GRAEVELL</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>208</rn>
+   <author>Vallotton, Felix</author>
+   <title>Richard Wagner</title>
+   <issue>1</issue>
+   <page>15</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0221</contDocID>
+   <target>WR-04-01_n0015.xml#//P[@parID='00144']</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID></divStartID>
+   <divType></divType>
+   <divEndPtr></divEndPtr>
+   <targetTitle><CAPTION><P parID="00144"><AUCTOR>FELIX VALLOTTON</AUCTOR></P>
+<P parID="00145">PARIS: <HR emDashNum="6" type="DoubleInline"/></P></CAPTION>
+<IMG>
+<P parID="00146"><LANG iso="fr">A</LANG> RICHARD WAGNER</P>
+<SIGNATURE cont="FV"/>
+</IMG></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>209</rn>
+   <author>Vallotton, Felix</author>
+   <title>Henrik Ibsen</title>
+   <issue>11</issue>
+   <page>173</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0222</contDocID>
+   <target>WR-04-11_n0173.xml</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID></divStartID>
+   <divType></divType>
+   <divEndPtr></divEndPtr>
+   <targetTitle></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>210</rn>
+   <author>Vallotton, Felix</author>
+   <title>Maurice Maeterlinck</title>
+   <issue>15</issue>
+   <page>257</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0223</contDocID>
+   <target>WR-04-15_n0257.xml</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID>dsID_2436_00691</divStartID>
+   <divType></divType>
+   <divEndPtr>WR-04-14_n0245.xml#//DIV_END[@divEndID='deID_2436_00690']</divEndPtr>
+   <targetTitle><TITLE titleID="tiID_2436_00136" parDivStartID="dsID_2436_00691"><TITLEPART type="main">DAS MYSTERIUM DER GERECHTIGKEIT.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>MAURICE MAETERLINCK</AUCTOR> (Paris).*</TITLEPART></TITLE></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>211</rn>
+   <author>Wenban, Sion L.</author>
+   <title>Landschaft</title>
+   <issue>5</issue>
+   <page>101</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0224</contDocID>
+   <target>WR-04-05_n0101.xml</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID>dsID_2436_00088</divStartID>
+   <divType>prose</divType>
+   <divEndPtr>WR-04-05_n0124.xml#//DIV_END[@divEndID='deID_2436_00106']</divEndPtr>
+   <targetTitle><IMG>
+<SIGNATURE/>
+</IMG></targetTitle>
+   <auctores><AUCTOR>MAXIM GORKIJ</AUCTOR><AUCTOR>LUDWIG KUHLENBECK</AUCTOR><AUCTOR>FELIX RAPPAPORT</AUCTOR><AUCTOR>OSCAR WILDE</AUCTOR><AUCTOR>CARL BUTTENSTEDT</AUCTOR><AUCTOR>G. Forster</AUCTOR><AUCTOR>MAX GRAF</AUCTOR></auctores>
+</ci>
+
+<ci>
+   <rn>212</rn>
+   <author></author>
+   <title>Porträt Dante Gabriel Rossettis</title>
+   <issue>1</issue>
+   <page>9</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0225</contDocID>
+   <target>WR-04-01_n0009.xml</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID></divStartID>
+   <divType></divType>
+   <divEndPtr></divEndPtr>
+   <targetTitle></targetTitle>
+   <auctores></auctores>
+</ci>
+
+<ci>
+   <rn>213</rn>
+   <author></author>
+   <title>Porträt der Mrs. Annie Besant</title>
+   <issue>11</issue>
+   <page>247</page>
+   <contDoc>WR-04-00_i0006.xml</contDoc>
+   <contDocID>0226</contDocID>
+   <target>WR-05-11_n0247.xml</target>
+   <secTitle>Bilder.</secTitle>
+   <divStartID></divStartID>
+   <divType></divType>
+   <divEndPtr></divEndPtr>
+   <targetTitle></targetTitle>
+   <auctores></auctores>
+</ci>
+
+</root>

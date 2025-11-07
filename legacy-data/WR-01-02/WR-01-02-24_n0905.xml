@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-23_n0904.xml</PREV>
+<NEXT>WR-01-02-24_n0906.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 24, S. 905</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2398_00303" endPtr="WR-01-02-24_n0944.xml#//DIV_END[@divEndID='deID_2398_00322']"/>
+<DIV_START cat="masthead" divStartID="dsID_2398_00304" endPtr="WR-01-02-24_n0905.xml#//DIV_END[@divEndID='deID_2398_00303']"/>
+<P parID="02473"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02474"><B><DATE>1. <SPC>NOVEMBER</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2398_00303" startPtr="WR-01-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2398_00304']"/>
+<DIV_START divStartID="dsID_2398_00305" endPtr="WR-01-02-24_n0908.xml#//DIV_END[@divEndID='deID_2398_00307']"/>
+<TITLE titleID="tiID_2398_00139"><TITLEPART>AUS <AUCTOR>DANTE&#x2019;S</AUCTOR> NEUEM LEBEN.<SUP>1</SUP>)</TITLEPART></TITLE>
+<TITLE titleID="tiID_2398_00140"><TITLEPART type="enum">XIV.</TITLEPART></TITLE>
+<P parID="02475"><TAB/>Nach dem Kampfe der verschiedenen Gedanken geschah es,<LE/>
+dass jene Allerlieblichste an einen Ort kam, wo viele liebliche Frauen<LE/>
+versammelt waren; und an denselben Ort ward auch ich von einer<LE/>
+befreundeten Person gef&#xFC;hrt, die mir einen grossen Gefallen zu thun<LE/>
+glaubte, da sie mich dorthin f&#xFC;hrte, wo so viele Frauen ihre <HYPH1 cont="Sch&#xF6;nheit">Sch&#xF6;n-</HYPH1><LE/>
+<HYPH2>heit</HYPH2> zeigten. Ich, der ich eigentlich nicht wusste, wozu ich gef&#xFC;hrt<LE/>
+wurde, und mich auf jene Person, die einer ihrer Freunde an den<LE/>
+Rand des Verderbens gef&#xFC;hrt hatte, verliess, sagte: &#xBB;Warum sind wir<LE/>
+zu diesen Frauen gekommen?&#xAB; darauf sagte mir jener: &#xBB;Um zu sorgen,<LE/>
+dass sie w&#xFC;rdig bedient werden.&#xAB; Und die Wahrheit war, dass sie<LE/>
+dort versammelt waren zum Ehrengeleite einer vornehmen Dame, welche<LE/>
+sich an jenem Tage verm&#xE4;hlt hatte; denn es ziemte sich nach der<LE/>
+Sitte jener Stadt, dass sie ihr Gesellschaft leisteten, wenn sie zum<LE/>
+erstenmal im Hause ihres jungen Gatten am Tische sass. So gedachte<LE/>
+auch ich, indem ich jenem Freunde gef&#xE4;llig zu sein glaubte, zum<LE/>
+Dienste jener Frauen, die in ihrer Gesellschaft waren, zu bleiben. Und<LE/>
+kaum hatte ich mir dies vorgenommen, da war&#x2019;s mir, als f&#xFC;hlte ich<LE/>
+ein seltsames Zittern in meiner Brust an der linken Seite, das sogleich<LE/>
+durch alle Theile meines K&#xF6;rper sich verbreitete.</P>
+<P part="initial" parID="02476"><TAB/>Und nun, sage ich, lehnte ich mich heimlich an ein Gem&#xE4;lde,<LE/>
+welches das ganze Gemach umgab, und da ich in der Furcht, ob ein<LE/>
+Anderer mein Zittern bemerkt h&#xE4;tte, die Augen erhob und nach den<LE/>
+Frauen schaute, sah ich unter ihnen die holdseligste Beatrice. Da<LE/>
+wurden meine Geister so heftig verst&#xF6;rt durch die Gewalt der Liebe,<LE/>
+da sie sich in solcher N&#xE4;he des lieblichsten Weibes sah, dass nichts<LE/>
+in mir das Leben bewahrte ausser den Geistern des Gesichtes, und</P>
+<HR/>
+<FN>
+<P parID="02477"><TAB/><SUP>1</SUP>) Wir sind in der Lage, aus der demn&#xE4;chst bei Otto Hendel (Halle a. S.)<LE/>
+erscheinenden, von Dr. Carl <SPC>Federn</SPC> verfassten Uebersetzung der Dante&#x2019;schen<LE/>
+<LANG iso="it">Vita Nuova</LANG> die obenstehenden Proben zu ver&#xF6;ffentlichen.</P>
+</FN>
+</PAGE>

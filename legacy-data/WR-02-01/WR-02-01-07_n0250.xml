@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-07_n0249.xml</PREV>
+<NEXT>WR-02-01-07_n0251.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 250</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">250</LTEXT><CTEXT>TSCHECHOW.</CTEXT></HD>
+<DIV_START cat="scene" divStartID="dsID_2432_00396" endPtr="WR-02-01-07_n0251.xml#//DIV_END[@divEndID='deID_2432_00424']"/>
+<TITLE titleID="tiID_2432_00087"><TITLEPART type="enum">IX.</TITLEPART></TITLE>
+<P parID="01790"><SD><SPK><SPC>Dieselben</SPC></SPK> und <SPK><SPC>Lukas</SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00397" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00394']"/>
+<P parID="01791"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Lukas, f&#xFC;hre diesen Herrn hinaus!</P>
+<DIV_END divEndID="deID_2432_00394" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00397']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00398" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00395']"/>
+<P parID="01792"><TAB/><SPK><SPC>Lukas</SPC></SPK> <SD>(n&#xE4;hert sich Smyrnow)</SD>. Mein Herr, gehen Sie doch, wenn<LE/>
+man&#x2019;s Ihnen befiehlt! Was haben Sie hier <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2432_00395" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00398']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00399" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00396']"/>
+<P parID="01793"><TAB/><SPK><SPC>Smyrnow</SPC></SPK> <SD>(aufspringend)</SD>. Halt&#x2019;s Maul! Mit wem unterstehst du<LE/>
+dich zu reden? Ich werde dich kurz und klein hauen!</P>
+<DIV_END divEndID="deID_2432_00396" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00399']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00400" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00397']"/>
+<P parID="01794"><TAB/><SPK><SPC>Lukas</SPC></SPK> <SD>(die Hand aufs Herz legend)</SD>. Gerechter Himmel! Jesus<LE/>
+Maria! <SD>(F&#xE4;llt auf einen Sessel nieder.)</SD> Ach, mir wird schlecht! Ich ersticke!</P>
+<DIV_END divEndID="deID_2432_00397" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00400']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00401" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00398']"/>
+<P parID="01795"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Wo ist denn Dascha? Dascha, <SD>(schreit)</SD> Dascha!<LE/>
+Pelageja! Dascha! <SD>(Klingelt.)</SD></P>
+<DIV_END divEndID="deID_2432_00398" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00401']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00402" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00399']"/>
+<P parID="01796"><TAB/><SPK><SPC>Lukas</SPC></SPK>. Ach! Alle sind fort <SYMBOL type="3dots"/> nach Beeren <SYMBOL type="3dots"/> Niemand ist zu<LE/>
+Hause. Mir ist schlecht! Wasser!</P>
+<DIV_END divEndID="deID_2432_00399" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00402']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00403" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00400']"/>
+<P parID="01797"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Machen Sie, dass Sie fortkommen!</P>
+<DIV_END divEndID="deID_2432_00400" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00403']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00404" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00401']"/>
+<P parID="01798"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Wollen Sie nicht die G&#xFC;te haben, h&#xF6;flicher zu sein?</P>
+<DIV_END divEndID="deID_2432_00401" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00404']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00405" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00402']"/>
+<P parID="01799"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK> <SD>(die F&#xE4;uste ballend und mit den F&#xFC;ssen stampfend)</SD>.<LE/>
+Sie Flegel! Grober B&#xE4;r! T&#xF6;lpel! Ungeheuer!</P>
+<DIV_END divEndID="deID_2432_00402" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00405']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00406" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00403']"/>
+<P parID="01800"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Was? Was sagten Sie?</P>
+<DIV_END divEndID="deID_2432_00403" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00406']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00407" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00404']"/>
+<P parID="01801"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Ich sagte, dass Sie ein B&#xE4;r, ein Ungeheuer sind!</P>
+<DIV_END divEndID="deID_2432_00404" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00407']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00408" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00405']"/>
+<P parID="01802"><TAB/><SPK><SPC>Smyrnow</SPC></SPK> <SD>(geht auf sie los)</SD>. Erlauben Sie, was f&#xFC;r ein Recht<LE/>
+haben Sie, mich zu beleidigen?</P>
+<DIV_END divEndID="deID_2432_00405" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00408']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00409" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00406']"/>
+<P parID="01803"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Ja, ich beleidige Sie <SYMBOL type="3dots"/> was ist denn dabei?<LE/>
+Glauben Sie, dass ich mich vor Ihnen f&#xFC;rchte?</P>
+<DIV_END divEndID="deID_2432_00406" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00409']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00410" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00407']"/>
+<P parID="01804"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Und Sie glauben wohl, als poetisches Gesch&#xF6;pf,<LE/>
+mich ungestraft beleidigen zu d&#xFC;rfen? Ja? In die Schranken!</P>
+<DIV_END divEndID="deID_2432_00407" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00410']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00411" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00408']"/>
+<P parID="01805"><TAB/><SPK><SPC>Lukas</SPC></SPK>. Gerechter Himmel! <SYMBOL type="3dots"/> Jesus Maria! <SYMBOL type="3dots"/> Wasser!</P>
+<DIV_END divEndID="deID_2432_00408" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00411']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00412" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00409']"/>
+<P parID="01806"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Pistolen her!</P>
+<DIV_END divEndID="deID_2432_00409" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00412']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00413" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00410']"/>
+<P parID="01807"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Sie glauben wohl, dass ich mich vor Ihnen<LE/>
+f&#xFC;rchte, weil Sie kr&#xE4;ftige F&#xE4;uste und eine Ochsenkehle haben? Was?<LE/>
+Sie Flegel!</P>
+<DIV_END divEndID="deID_2432_00410" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00413']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00414" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00411']"/>
+<P parID="01808"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. In die Schranken! Ich gestatte es keinem, mich zu<LE/>
+beleidigen, und werde nicht darauf achten, dass Sie eine Dame, ein<LE/>
+zartes Gesch&#xF6;pf sind!</P>
+<DIV_END divEndID="deID_2432_00411" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00414']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00415" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00412']"/>
+<P parID="01809"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK> <SD>(sucht ihn zu &#xFC;berschreien)</SD>. B&#xE4;r! B&#xE4;r! B&#xE4;r!</P>
+<DIV_END divEndID="deID_2432_00412" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00415']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00416" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00413']"/>
+<P parID="01810"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Es ist endlich schon Zeit, vom Vorurtheil zu lassen,<LE/>
+dass bloss die M&#xE4;nner f&#xFC;r Beleidigungen verantwortlich sind! Will<LE/>
+man Gleichberechtigung, so sei man gleich in Allem, zum Teufel! In<LE/>
+die Schranken!</P>
+<DIV_END divEndID="deID_2432_00413" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00416']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00417" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00414']"/>
+<P parID="01811"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Sie wollen sich duelliren? Bitte sehr!</P>
+<DIV_END divEndID="deID_2432_00414" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00417']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00418" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00415']"/>
+<P parID="01812"><TAB/><SPK><SPC>Smyrnow</SPC></SPK>. Augenblicklich!</P>
+<DIV_END divEndID="deID_2432_00415" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00418']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00419" endPtr="WR-02-01-07_n0250.xml#//DIV_END[@divEndID='deID_2432_00416']"/>
+<P parID="01813"><TAB/><SPK><SPC>Frau Popowa</SPC></SPK>. Sofort! Mein Mann hatte Pistolen <SYMBOL type="3dots"/> Ich bringe<LE/>
+sie gleich her <SYMBOL type="3dots"/> <SD>(Geht eilig hinaus und kommt wieder).</SD> Mit welcher Wonne<LE/>
+werde ich eine Kugel durch Ihre freche Stirn jagen! Hol&#x2019; Sie der<LE/>
+Teufel! <SD>(Geht ab.)</SD></P>
+<DIV_END divEndID="deID_2432_00416" startPtr="WR-02-01-07_n0250.xml#//DIV_START[@divStartID='dsID_2432_00419']"/>
+</PAGE>

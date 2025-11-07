@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-19_n0344.xml</PREV>
+<NEXT>WR-04-20_n0346.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 20, S. 345</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>18</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_00797" endPtr="WR-04-20_n0362.xml#//DIV_END[@divEndID='deID_2436_00811']"/>
+<DIV_START type="verse" divStartID="dsID_2436_00798" endPtr="WR-04-20_n0349.xml#//DIV_END[@divEndID='deID_2436_00797']" titleID="tiID_2436_00203"/>
+<TITLE titleID="tiID_2436_00203" parDivStartID="dsID_2436_00798"><TITLEPART type="main">AUS DER BALLADE DES STOCKHAUSES ZU READING.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>C. 3. 3.</AUCTOR><LE/>
+(Zellennummer <AUCTOR>OSCAR WILDES</AUCTOR>).</TITLEPART><LE/>
+<TITLEPART type="dedication"><LANG iso="la"><SPC>In Memoriam</SPC></LANG><LE/>
+C. T. W.<LE/>
+weiland Reiter in der K&#xF6;niglichen Leibgarde<LE/>
+hingerichtet in Ihrer Majest&#xE4;t Gef&#xE4;ngnis zu Reading, Berkshire, am <DATE>7. Juli 1896</DATE>.</TITLEPART><LE/>
+<SEPARATOR type="asterisk"/>
+<TITLEPART type="desc">Deutsche Nachdichtung von <AUCTOR type="translator">ARTHUR HOLITSCHEK</AUCTOR>.</TITLEPART></TITLE>
+<TITLE titleID="tiID_2436_00204"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<TABLE parID="04004"><ROW ciID="0737"><CELL>
+<LG parID="04005"><L>Er trug nicht mehr seinen rothen Rock,</L>
+<L>Denn Blut und Wein sind roth,</L>
+<L>Und Blut und Wein klebten ihm auf der</L>
+<L>Hand,</L>
+<L>Als man ihn bei der Todten fand,</L>
+<L>Der armen todten Magd, die er liebt&#x2019;</L>
+<L>Und gemordet hat in ihrem Bett.</L></LG>
+<LG parID="04006"><L>Er schritt zwischen den Gefangenen mit</L>
+<L>Im sch&#xE4;bigen, grauen Habit;</L>
+<L>Eine Cricketm&#xFC;tze sa&#xDF; auf dem Haar,</L>
+<L>Sein Gang gar leicht und fr&#xF6;hlich war;</L>
+<L>Doch nimmer sah einen Mann ich</L>
+<L>starren</L>
+<L>So gl&#xFC;hend aufs Firmament.</L></LG>
+<LG parID="04007"><L>Nein, niemals sah solch starren Blick</L>
+<L>Auf zu dem Himmel ich brennen,</L>
+<L>Zum Himmel, wie die Str&#xE4;flinge all</L>
+<L>Den winzigen blauen Fetzen nennen,</L>
+<L>Und jeglicher Wolke silbernem Flor,</L>
+<L>Der oben vor&#xFC;berzog und sich verlor.</L></LG>
+<LG parID="04008"><L>Ich schritt mit den anderen verdammten</L>
+<L>Seelen</L>
+<L>In einem andern Ring,</L>
+<L>Und wunderte mich, ob jener dort</L>
+<L>Was Schweres wohl begieng?</L>
+<L>Da fl&#xFC;stert&#x2019;s hinter mir scheu und gesenkt:</L>
+<L>&#xBB;Der Junge dort wird gehenkt!&#xAB;</L></LG>
+</CELL><CELL>
+<LG parID="04009"><L>Mein Christ! Die starken Gef&#xE4;ngnismauern</L>
+<L>Sah ich in ihren Festen erschauern,</L>
+<L>Der Himmel zu meinen H&#xE4;upten erglomm</L>
+<L>Wie ein Helm aus gl&#xFC;hendem Stahl;</L>
+<L>Und ob meine Seele in Verdammnis auch</L>
+<L>war,</L>
+<L>Verga&#xDF; sie der eigenen Qual.</L></LG>
+<LG parID="04010"><L>Nun wusste ich, welch ein gesetzter Sinn</L>
+<L>Ihm Schritt und Athem trieb,</L>
+<L>Und weshalb solch ein Blick voll Glut</L>
+<L>Am Lichte haften blieb;</L>
+<L>Der Mann hat gemordet sein Liebstes auf</L>
+<L>Erden,</L>
+<L>Und darum muss er verderben.</L></LG>
+<SEPARATOR type="asterisk"/>
+<LG parID="04011"><L>Doch mordet ja jeder sein liebstes Ding,</L>
+<L>Damit ihr es nur h&#xF6;rt!</L>
+<L>Der eine thut&#x2019;s mit b&#xF6;sem Blick,</L>
+<L>Der and&#x2019;re mit Schmeichelwort;</L>
+<L>Der Feigling thut&#x2019;s in einem Kuss,</L>
+<L>Der Held mit seinem Schwert!</L></LG>
+<LG parID="04012"><L>Die morden ihre Liebe, solang sie jung,</L>
+<L>Jene erst, wenn sie alt sind;</L>
+<L>Die w&#xFC;rgen sie mit H&#xE4;nden der Lust,</L>
+<L>Jene mit H&#xE4;nden, die von Gold sind;</L>
+<L>Die Besten gebrauchen ein Messer dazu,</L>
+<L>Weil die Todten dann so bald kalt sind.</L></LG>
+</CELL></ROW></TABLE>
+<FT type="pn" num="345" c_text="&#x2014; 345 &#x2014;"/>
+</PAGE>

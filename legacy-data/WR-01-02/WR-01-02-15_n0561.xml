@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-14_n0560.xml</PREV>
+<NEXT>WR-01-02-15_n0562.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 15, S. 561</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>6</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2398_00045" endPtr="WR-01-02-15_n0600.xml#//DIV_END[@divEndID='deID_2398_00060']"/>
+<DIV_START cat="masthead" divStartID="dsID_2398_00046" endPtr="WR-01-02-15_n0561.xml#//DIV_END[@divEndID='deID_2398_00045']"/>
+<P parID="00521"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00522"><B><DATE>15. <SPC>JUNI</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2398_00045" startPtr="WR-01-02-15_n0561.xml#//DIV_START[@divStartID='dsID_2398_00046']"/>
+<DIV_START divStartID="dsID_2398_00047" endPtr="WR-01-02-15_n0563.xml#//DIV_END[@divEndID='deID_2398_00046']"/>
+<TITLE titleID="tiID_2398_00034"><TITLEPART type="main">DER VATER.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Bj&#xF6;rnstjerne Bj&#xF6;rnson</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Deutsch von <AUCTOR type="translator"><C>Wilhelm Thal</C></AUCTOR>.</TITLEPART></TITLE>
+<P parID="00523"><TAB/>Der Mann, von dem hier die Rede ist, war der erste seines <HYPH1 cont="Kirchspiels">Kirch-</HYPH1><LE/>
+<HYPH2>spiels</HYPH2> und hiess Thorr Oeverhaas.</P>
+<P parID="00524"><TAB/>Eines Tages erschien er in dem Arbeitszimmer des Pastors; hoch<LE/>
+trug er das Haupt und sprach mit feierlichem Ernste:</P>
+<P parID="00525"><TAB/>&#xBB;Es ist mir ein Sohn geboren worden, und ich will ihn taufen<LE/>
+lassen.&#xAB;</P>
+<P parID="00526"><TAB/>&#xBB;Welchen Namen willst du ihm geben?&#xAB;</P>
+<P parID="00527"><TAB/>&#xBB;Finn, nach meinem Vater.&#xAB;</P>
+<P parID="00528"><TAB/>&#xBB;Und wer sind die Pathen und Pathinnen?&#xAB;</P>
+<P parID="00529"><TAB/>Thorr nannte sie; es waren M&#xE4;nner und Frauen, die <HYPH1 cont="angesehensten">an-</HYPH1><LE/>
+<HYPH2>gesehensten</HYPH2> Leute des Kirchspiels, die Alle zur Familie des Vaters<LE/>
+geh&#xF6;rten.</P>
+<P parID="00530"><TAB/>&#xBB;Hast du mir noch etwas zu sagen?&#xAB; fragte der Pastor, ihn <HYPH1 cont="ansehend">an-</HYPH1><LE/>
+<HYPH2>sehend</HYPH2>. Der Bauer blieb einen Augenblick stumm, dann sagte er: &#xBB;Ich<LE/>
+m&#xF6;chte gern, dass mein Sohn ganz allein getauft werde.&#xAB;</P>
+<P parID="00531"><TAB/>&#xBB;Das heisst, an einem Wochentage?&#xAB;</P>
+<P parID="00532"><TAB/>&#xBB;Ja, n&#xE4;chsten Sonnabend um 12 Uhr Mittag.&#xAB;</P>
+<P parID="00533"><TAB/>&#xBB;Ist das Alles?&#xAB;</P>
+<P parID="00534"><TAB/>&#xBB;Ich w&#xFC;sste weiter nichts!&#xAB;</P>
+<P parID="00535"><TAB/>Der Bauer drehte seinen Hut in den H&#xE4;nden, als wolle er gehen.<LE/>
+Der Pastor erhob sich und sagte auf Thorr zuschreitend, seine Hand<LE/>
+ergreifend und ihm in die Augen blickend:</P>
+<P parID="00536"><TAB/>&#xBB;Lass&#x2019; mich dir, bevor du gehst, noch einen Wunsch aussprechen,<LE/>
+der dich begleiten mag. Gott gebe, dass dieses Kind f&#xFC;r dich ein<LE/>
+Segen sei.&#xAB;</P>
+<P parID="00537"><TAB/>Sechzehn Jahre nach diesem Tage erschien Thorr wieder in dem<LE/>
+Arbeitszimmer des Pastors.</P>
+<P parID="00538"><TAB/>&#xBB;Du h&#xE4;ltst dich gut, Thorr,&#xAB; sagte dieser zu ihm, denn er fand<LE/>
+ihn gar nicht ver&#xE4;ndert.</P>
+</PAGE>

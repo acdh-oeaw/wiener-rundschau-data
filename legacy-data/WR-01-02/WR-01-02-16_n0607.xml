@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-16_n0606.xml</PREV>
+<NEXT>WR-01-02-16_n0608.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 16, S. 607</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>7</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>QUINTIN MESSIS.</CTEXT><RTEXT type="pn">607</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2398_00113" endPtr="WR-01-02-16_n0607.xml#//DIV_END[@divEndID='deID_2398_00109']"/>
+<P parID="00919"><TAB/><SPK><SPC>Messis</SPC></SPK>. Himmel, dort kommt er. Jetzt werden die W&#xFC;rfel<LE/>
+fallen!</P>
+<DIV_END divEndID="deID_2398_00109" startPtr="WR-01-02-16_n0607.xml#//DIV_START[@divStartID='dsID_2398_00113']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00114" endPtr="WR-01-02-16_n0607.xml#//DIV_END[@divEndID='deID_2398_00110']"/>
+<P parID="00920"><TAB/><SPK><SPC>Memling</SPC></SPK>. Mir ahnt, wie&#x2019;s kommen wird. Uebertroffen hat er<LE/>
+Euch nicht, und that er Euch&#x2019;s nur gleich, so steht ihr wie zuvor, und<LE/>
+die Entscheidung hat nichts entschieden.</P>
+<DIV_END divEndID="deID_2398_00110" startPtr="WR-01-02-16_n0607.xml#//DIV_START[@divStartID='dsID_2398_00114']"/>
+<DIV_END divEndID="deID_2398_00111" startPtr="WR-01-02-16_n0606.xml#//DIV_START[@divStartID='dsID_2398_00099']"/>
+<DIV_START cat="scene" divStartID="dsID_2398_00115" endPtr="WR-01-02-16_n0607.xml#//DIV_END[@divEndID='deID_2398_00116']"/>
+<TITLE titleID="tiID_2398_00050"><TITLEPART>4. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="00921"><SD><SPC>Die Vorigen</SPC>. <SPC>Dagobert</SPC>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2398_00116" endPtr="WR-01-02-16_n0607.xml#//DIV_END[@divEndID='deID_2398_00112']"/>
+<P parID="00922"><TAB/><SPK><SPC>Dagobert</SPC></SPK> <SD>(eine Rolle in der Hand, hastig auf die B&#xFC;hne st&#xFC;rzend)</SD>.<LE/>
+Bist du fertig, Messis?</P>
+<DIV_END divEndID="deID_2398_00112" startPtr="WR-01-02-16_n0607.xml#//DIV_START[@divStartID='dsID_2398_00116']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00117" endPtr="WR-01-02-16_n0607.xml#//DIV_END[@divEndID='deID_2398_00113']"/>
+<P parID="00923"><TAB/><SPK><SPC>Messis</SPC></SPK>. Hier.</P>
+<DIV_END divEndID="deID_2398_00113" startPtr="WR-01-02-16_n0607.xml#//DIV_START[@divStartID='dsID_2398_00117']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00118" endPtr="WR-01-02-16_n0607.xml#//DIV_END[@divEndID='deID_2398_00114']"/>
+<P parID="00924"><TAB/><SPK><SPC>Dagobert</SPC></SPK> <SD>(wirft einen vergleichenden Blick auf beide Bl&#xE4;tter, dann<LE/>
+zerreisst er sein eigenes und schleudert es, zu einem Ball zerknittert, Messis vor<LE/>
+die F&#xFC;sse)</SD>. Du hast gesiegt, Messis. &#x2014; Gott helfe mir! <SD>(Eilt ab.)</SD></P>
+<DIV_END divEndID="deID_2398_00114" startPtr="WR-01-02-16_n0607.xml#//DIV_START[@divStartID='dsID_2398_00118']"/>
+<DIV_START cat="speech" divStartID="dsID_2398_00119" endPtr="WR-01-02-16_n0607.xml#//DIV_END[@divEndID='deID_2398_00115']"/>
+<P parID="00925"><TAB/><SPK><SPC>Memling</SPC></SPK>. Dorothea, eilt ihm nach, dass er keinen verzweifelten<LE/>
+Streich macht.</P>
+<DIV_END divEndID="deID_2398_00115" startPtr="WR-01-02-16_n0607.xml#//DIV_START[@divStartID='dsID_2398_00119']"/>
+<P parID="00926"><TAB/><SD><SPK><SPC>Dorothea</SPC></SPK> (eilt Dagobert nach).</SD></P>
+<DIV_END divEndID="deID_2398_00116" startPtr="WR-01-02-16_n0607.xml#//DIV_START[@divStartID='dsID_2398_00115']"/>
+<P parID="00927">(Schluss folgt.)</P>
+<DIV_END divEndID="deID_2398_00117" startPtr="WR-01-02-16_n0601.xml#//DIV_START[@divStartID='dsID_2398_00064']"/>
+<DIV_END divEndID="deID_2398_00118" startPtr="WR-01-02-16_n0601.xml#//DIV_START[@divStartID='dsID_2398_00063']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2398_00120" endPtr="WR-01-02-16_n0607.xml#//DIV_END[@divEndID='deID_2398_00119']"/>
+<TITLE titleID="tiID_2398_00051"><TITLEPART>HAIDE.</TITLEPART></TITLE>
+<LG parID="00928"><L><IN>Und</IN> weit und breit</L>
+<L>Ueberschneit</L>
+<L>Die Haide <SYMBOL type="2dots"/></L>
+<L>Durch weisse Wintereinsamkeit</L>
+<L>Lauschen wir beide</L>
+<L>Der grossen Ruh&#x2019;:</L>
+<L>Wir sind allein, ich und du,</L>
+<L>Auf der Haide <SYMBOL type="3dots"/></L></LG>
+<P parID="00929">Berlin. <AUCTOR><C>Victor Mauheimer</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2398_00119" startPtr="WR-01-02-16_n0607.xml#//DIV_START[@divStartID='dsID_2398_00120']"/>
+</PAGE>

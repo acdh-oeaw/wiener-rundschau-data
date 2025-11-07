@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-22_n0835.xml</PREV>
+<NEXT>WR-01-02-22_n0837.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 22, S. 836</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>10</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2398_00270" endPtr="WR-01-02-22_n0836.xml#//DIV_END[@divEndID='deID_2398_00269']"/>
+<TITLE titleID="tiID_2398_00121"><TITLEPART>ZU EINEM BILD VON HOLMAN HUNT.</TITLEPART></TITLE>
+<LG parID="02154"><L><IN>Sie</IN> scheint in dieser Einsamkeit zu leben</L>
+<L>&#x2014; Kaum ist der Glanz der Farbe noch verwischt &#x2014;</L>
+<L>Und ihre Ruhe leis mit Schmerz gemischt</L>
+<L>Dem alten Schlosse immer noch zu geben.</L></LG>
+<LG parID="02155"><L>Sie steht im Kleid vergangener Jahrzehnte</L>
+<L>Auf der Terrasse die den Thurm umschliesst</L>
+<L>Als ob im D&#xE4;mmern, wenn die Form zerfiiesst</L>
+<L>Sie noch der Wolken fernes Weiss ersehnte.</L></LG>
+<LG parID="02156"><L>In blindgewordnen Spiegeln schimmert wieder</L>
+<L>Der Hochmuth um die Lippen die stets schweigen</L>
+<L>Und die verhehlte Traurigkeit der Lider.</L></LG>
+<LG parID="02157"><L>Durch gothische Bogenfenster langsam steigen</L>
+<L>Die letzten Lichter nieder und umziehn</L>
+<L>Das Bild mit einem Schein, grau und carmin.</L></LG>
+<P parID="02158">Paris. <AUCTOR><C>Gaston Soulier</C></AUCTOR>.</P>
+<P parID="02159">Deutsch von <AUCTOR type="translator">F. R.</AUCTOR></P>
+<DIV_END divEndID="deID_2398_00269" startPtr="WR-01-02-22_n0836.xml#//DIV_START[@divStartID='dsID_2398_00270']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2398_00271" endPtr="WR-01-02-22_n0836.xml#//DIV_END[@divEndID='deID_2398_00270']"/>
+<TITLE titleID="tiID_2398_00122"><TITLEPART>SELENE.</TITLEPART></TITLE>
+<LG parID="02160"><L><IN>Darf</IN> ich Freundin dich und Schwester nennen,</L>
+<L>Die des Nachts dem Wolkenbett entflieht,</L>
+<L>Wenn die Glieder in den Linnen brennen,</L>
+<L>Dass es mich zu deinem Lichte zieht?</L></LG>
+<LG parID="02161"><L>Denn ich ward gezeugt in deinem Scheine,</L>
+<L>Fremd mir selbst, in wandelbarem Sinn,</L>
+<L>Dass ich ewig nach dem Lande weine,</L>
+<L>Dessen Bl&#xE4;ue ich am fernsten bin.</L></LG>
+<LG parID="02162"><L>Dass ich mich in stetem Sehnen wiege,</L>
+<L>Ohne Heim und &#xFC;berall ein Gast,</L>
+<L>Dass ich mich wie eine Weide biege,</L>
+<L>Die ein abendlicher Schauer fasst.</L></LG>
+<LG parID="02163"><L>Und ich spiegle mich in allen Quellen,</L>
+<L>Und ich lausche mein in jedem Hain,</L>
+<L>Meine Sehnsucht fliesst in allen Wellen,</L>
+<L>Meine Ohnmacht schl&#xE4;ft in jedem Stein.</L></LG>
+<LG parID="02164"><L>Wenn ich Abends auf die H&#xF6;hen steige,</L>
+<L>Harrend deinem bleichen Trost im Traum,</L>
+<L>Ist&#x2019;s, als ob das nahe Leben schweige,</L>
+<L>Ob ein todter Vogel fiel vom Baum.</L></LG>
+<P parID="02165">Paris. <AUCTOR><C>Oscar A. H. Schmitz</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2398_00270" startPtr="WR-01-02-22_n0836.xml#//DIV_START[@divStartID='dsID_2398_00271']"/>
+</PAGE>

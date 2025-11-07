@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-11_n0440.xml</PREV>
+<NEXT>WR-01-01-12_n0442.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 441</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2397_00550" endPtr="WR-01-01-12_n0480.xml#//DIV_END[@divEndID='deID_2397_00580']"/>
+<DIV_START cat="masthead" divStartID="dsID_2397_00551" endPtr="WR-01-01-12_n0441.xml#//DIV_END[@divEndID='deID_2397_00550']"/>
+<P parID="03107"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="03108"><B><DATE>1. <SPC>MAI</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2397_00550" startPtr="WR-01-01-12_n0441.xml#//DIV_START[@divStartID='dsID_2397_00551']"/>
+<DIV_START divStartID="dsID_2397_00552" endPtr="WR-01-01-12_n0446.xml#//DIV_END[@divEndID='deID_2397_00551']"/>
+<TITLE titleID="tiID_2397_00170"><TITLEPART type="main">W&#xD6;LFE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Carl Erik Forsslund</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebertragung aus dem Schwedischen von <AUCTOR type="translator"><C>Francis Maro</C></AUCTOR>.</TITLEPART></TITLE>
+<P parID="03109"><TAB/>In der Winternacht ist ein heulender Schneesturm &#xFC;ber die Felsen<LE/>
+dahingezogen. Das Dunkel hat sich durch die B&#xE4;ume gew&#xE4;lzt, <HYPH1 cont="undurchdringlich">undurch-</HYPH1><LE/>
+<HYPH2>dringlich</HYPH2>, erstickend, wie die Str&#xF6;me am Grunde des Meeres. <HYPH1 cont="Schneeschwere">Schnee-</HYPH1><LE/>
+<HYPH2>schwere</HYPH2> Wolken rauschten &#xFC;ber die Bergspitzen, und Seufzer quollen<LE/>
+aus dem Innern der W&#xE4;lder und der Tiefe des Dunkels hervor.</P>
+<P parID="03110"><TAB/>Aber wie dann die Schneest&#xFC;rme gegen Morgen dahinsterben und<LE/>
+ein erster schwacher Lichtschein von den Felsenh&#xF6;hen hinab ins Thal<LE/>
+gleitet, da kehren die W&#xF6;lfe wieder in den Wald zur&#xFC;ck von ihren<LE/>
+Streifz&#xFC;gen in bewohnten Gegenden.</P>
+<P parID="03111"><TAB/>Stille kommen sie, wie dunklere Schatten im Dunkel. Vielleicht<LE/>
+wurde der Hunger gestillt bis zur n&#xE4;chsten Nacht, vielleicht von<LE/>
+M&#xFC;digkeit bet&#xE4;ubt. Stille stampfen sie &#xFC;ber den Schnee; mit schlotterndem<LE/>
+Schweife und gesenktem Kopfe suchen sie wieder die verborgensten<LE/>
+Schlupfwinkel, das geheimste Dunkel des Waldes auf. Die Kinnladen<LE/>
+sind um die scharfen Z&#xE4;hne geschlossen, die Augen blicken stumpf<LE/>
+und gleichgiltig vor sich hin.</P>
+<P parID="03112"><TAB/>Es ist bleicher Mondschein in der Luft, der halbhelle Lichter<LE/>
+&#xFC;ber die Stellen zwischen Dickicht und St&#xE4;mmen streut. Eine stumme<LE/>
+D&#xE4;mmerung ist es, die sich langsam emporhebt. Eine verheissungsvolle<LE/>
+Stille, so wie nach l&#xE4;rmenden Anstalten, bevor das Fest kommt, mit<LE/>
+Leben und funkelndem Lichte.</P>
+<P parID="03113"><TAB/>Aber wie die Tr&#xE4;ume sich am dichtesten zusammendr&#xE4;ngen,<LE/>
+gerade bevor man erwacht, so schreiten die W&#xF6;lfe in d&#xFC;sterer Ruhe<LE/>
+durch die Waldesd&#xE4;mmerung hin. Sie haben in dieser Nacht keine<LE/>
+Beute gefunden, alle lebenden Wesen suchten Schutz und Schirm vor<LE/>
+K&#xE4;lte und Sturm. Sie m&#xF6;chten vor Hunger aufheulen, doch die M&#xFC;digkeit<LE/>
+schliesst ihren Rachen. Stille schreiten sie der H&#xF6;he zu.</P>
+<P part="initial" parID="03114"><TAB/>Da ist einer, der den Kopf erhebt und die N&#xFC;stern weitet,<LE/>
+indess in die Augen ein Funke tritt und die Kienmuskeln sich <HYPH1 cont="anspannen">an-</HYPH1></P>
+</PAGE>

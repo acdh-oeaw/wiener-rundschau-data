@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-01_n0002.xml</PREV>
+<NEXT>WR-02-01-01_n0004.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 3</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>DER HERBST.</CTEXT><RTEXT type="pn">3</RTEXT></HD>
+<LG part="final" parID="00027"><L>Blind sind die Augen, die sonst herrisch lohten,</L>
+<L>Nimmer kehren die glanzbeschuhten Boten,</L>
+<L>Die auf Strahlenpfaden eilen,</L>
+<L>In silbernen Gespinnsten schwingen,</L>
+<L>Die blonden Knaben, die mit Demantpfeilen</L>
+<L>Den bunten Schein der Welt uns bringen.</L>
+<L>Ein Abend drang zu meinem Herzen,</L>
+<L>Des Gottes Athem verl&#xF6;schte die Kerzen;</L>
+<L>Doch dir verlieh er vor den Menschen allen,</L>
+<L>Am tiefsten und am weitesten zu sehn,</L>
+<L>Du trachtest nicht aus deinem Kreis zu gehn</L>
+<L>Und zu belauern das entr&#xFC;ckte Wallen,</L>
+<L>Dankbar singst du von den Auen,</L>
+<L>Im Glanz der F&#xFC;lle darfst nur du sie schauen.</L></LG>
+<DIV_END divEndID="deID_2432_00010" startPtr="WR-02-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2432_00013']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00014" endPtr="WR-02-01-01_n0004.xml#//DIV_END[@divEndID='deID_2432_00011']"/>
+<P parID="00028"><SPK><C>Der S&#xE4;nger</C></SPK> <SD>(spielt und singt)</SD>:</P>
+<LG parID="00029"><L>T&#xF6;ne tief, du meine Laute,</L>
+<L>Quill uns rein am h&#xF6;chsten Ort</L>
+<L>Tr&#xE4;ume, die ich dir vertraute,</L>
+<L>Und gib St&#xE4;rke meinem Wort,</L>
+<L>Und gib St&#xE4;rke meinen H&#xE4;nden,</L>
+<L>Dass sie dich mit Jubel f&#xFC;hren,</L>
+<L>Brausend deine Gluthen sch&#xFC;ren</L>
+<L>Jede F&#xFC;lle zu vollenden!</L></LG>
+<LG part="initial" parID="00030"><L>Jauchzend von den gelben H&#xE4;ngen</L>
+<L>Steigt des Weinstocks blaue Wucht,</L>
+<L>Hochgebahrt, mit Festges&#xE4;ngen</L>
+<L>Ziehet ein die edle Zucht.</L>
+<L>Die sch&#xFC;tten die K&#xF6;rbe, die h&#xFC;ten den Spund,</L>
+<L>Die treten im Rund,</L>
+<L>Die Kelter mit &#xE4;chzendem Pflock zu beschweren</L>
+<L>Und stampfen im Kreisen die quellenden Beeren;</L>
+<L>Auf springen die Bronnen:</L>
+<L>Braun wie der Rost,</L>
+<L>Schiesset der Most</L>
+<L>S&#xFC;ss in die sausenden Tonnen.</L></LG>
+</PAGE>

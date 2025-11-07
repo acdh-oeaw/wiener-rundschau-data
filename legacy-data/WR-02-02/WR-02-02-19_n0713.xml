@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-18_n0712.xml</PREV>
+<NEXT>WR-02-02-19_n0714.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 19, S. 713</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>8</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2433_00222" endPtr="WR-02-02-19_n0748.xml#//DIV_END[@divEndID='deID_2433_00242']"/>
+<DIV_START cat="masthead" divStartID="dsID_2433_00223" endPtr="WR-02-02-19_n0713.xml#//DIV_END[@divEndID='deID_2433_00221']"/>
+<P parID="01343"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="01344"><B><DATE>15. <SPC>AUGUST</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2433_00221" startPtr="WR-02-02-19_n0713.xml#//DIV_START[@divStartID='dsID_2433_00223']"/>
+<DIV_START divStartID="dsID_2433_00224" endPtr="WR-02-02-19_n0715.xml#//DIV_END[@divEndID='deID_2433_00222']"/>
+<TITLE titleID="tiID_2433_00088"><TITLEPART type="main"><SPC>BISMARCK</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>F. SCHIK</AUCTOR> (Wien).</TITLEPART></TITLE>
+<P parID="01345"><TAB/>Die politischen Weltangelegenheiten sind nun ohne die <HYPH1 cont="langgewohnte">lang-</HYPH1><LE/>
+<HYPH2>gewohnte</HYPH2>, verl&#xE4;ssliche Controle.</P>
+<P parID="01346"><TAB/>Nicht wie damals, als deutscher Reichskanzler, in berechtigtem<LE/>
+Grimme den Formalismus des R&#xFC;cktrittes mit &#xE4;tzendem Sarkasmus<LE/>
+erf&#xFC;llend, sondern ergeben ist Bismarck abgetreten. Er hat in die<LE/>
+Freundeshand eingeschlagen, die ihn aus dem Wirrsal der <HYPH1 cont="Ereignisse">Er-</HYPH1><LE/>
+<HYPH2>eignisse</HYPH2> hinausf&#xFC;hrte, in das er bis zum letzten Augenblicke seine<LE/>
+kl&#xE4;rende Stimme erschallen liess. Jetzt mag erst recht der Genius<LE/>
+mit der gesenkten Fackel um seine Macht, Bismarcks Mund f&#xFC;r<LE/>
+ewig zu schliessen, beneidet worden sein, jetzt m&#xF6;gen wieder<LE/>
+die irdischen Gewalten, denen es nicht gelang, den Zweck der<LE/>
+herostratischen Entlassung zu erreichen, an die Grenzen ihres<LE/>
+K&#xF6;nnens gemahnt worden sein.</P>
+<P part="initial" parID="01347"><TAB/>War auch seit acht Jahren Bismarck jener Weg <HYPH1 cont="versagt">ver-</HYPH1><LE/>
+<HYPH2>sagt</HYPH2>, alle &#xF6;ffentlichen Autorit&#xE4;ten Deutschlands zu unmittelbaren<LE/>
+Organen seiner wuchtigen Willensbestimmung, alle Bewegungen<LE/>
+der Staatsmaschine zu &#xC4;usserungen seiner politischen Einsicht<LE/>
+zu machen, so vermochte doch das ganze kaiserliche Aufgebot<LE/>
+nicht zu bewirken, Bismarcks ferneren Einfluss auf die <HYPH1 cont="Weltgeschichte">Welt-</HYPH1><LE/>
+<HYPH2>geschichte</HYPH2> mit einem Ruck auszuschalten. Noch war sein Geist<LE/>
+in den Pr&#xE4;missen des deutschen Reiches, in den Einrichtungen<LE/>
+des politischen Lebens zu innerlich fixiert, das diplomatische</P>
+</PAGE>

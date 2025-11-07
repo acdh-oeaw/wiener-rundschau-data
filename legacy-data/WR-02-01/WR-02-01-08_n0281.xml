@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-07_n0280.xml</PREV>
+<NEXT>WR-02-01-08_n0282.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 8, S. 281</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00484" endPtr="WR-02-01-08_n0320.xml#//DIV_END[@divEndID='deID_2432_00499']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00485" endPtr="WR-02-01-08_n0281.xml#//DIV_END[@divEndID='deID_2432_00484']"/>
+<P parID="02010"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02011"><B><DATE>1. <SPC>M&#xC4;RZ</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00484" startPtr="WR-02-01-08_n0281.xml#//DIV_START[@divStartID='dsID_2432_00485']"/>
+<DIV_START divStartID="dsID_2432_00486" endPtr="WR-02-01-08_n0291.xml#//DIV_END[@divEndID='deID_2432_00485']"/>
+<TITLE titleID="tiID_2432_00099"><TITLEPART type="desc">EIN AUSGEGRABENER ESSAY.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Max Stirner</C></AUCTOR>.<SUP>1</SUP>)</TITLEPART><LE/>
+<TITLEPART type="main">Ueber die &#xBB;<C>Mysterien von Paris</C>&#xAB; von <C>Eugen Sue</C>.</TITLEPART></TITLE>
+<P parID="02012"><TAB/>Die Mysterien haben grosses Aufsehen in der Welt gemacht,<LE/>
+und schon dr&#xE4;ngen sich die Nachahmungen in Masse. Man will den<LE/>
+verborgenen Grund, die &#xBB;unterste Schicht&#xAB; der Gesellschaft kennen<LE/>
+lernen, und neugierig blickt man sich in den finsteren, grauenvollen<LE/>
+Winkeln um. Aber mit welchen Augen schaut man hinein? Mit<LE/>
+dem Auge der gesicherten Sittsamkeit, des tugendhaften Schauders.<LE/>
+&#xBB;Welch ein Abgrund des Verderbens, welche Greuel, welche Tiefe<LE/>
+des Lasters! Herr Gott, wie darf es in deiner Welt so ruchlos <HYPH1 cont="zugehen">zu-</HYPH1><LE/>
+<HYPH2>gehen</HYPH2>!&#xAB; Aber bald erwacht die christliche Liebe und r&#xFC;stet sich zu<LE/>
+allen Werken des Mitleids und der th&#xE4;tigen Hilfe. &#xBB;Hier muss <HYPH1 cont="gerettet">ge-</HYPH1><LE/>
+<HYPH2>rettet</HYPH2>, hier muss der List des Satans entgegengearbeitet werden; o <HYPH1 cont="gewiss">ge-</HYPH1><LE/>
+<HYPH2>wiss</HYPH2>, hier ist viel zu retten und dem Reiche des Guten manche Seele<LE/>
+zu gewinnen!&#xAB;</P>
+<P part="initial" parID="02013"><TAB/>Nun beginnt die R&#xFC;hrigkeit der Gedanken, und auf tausend<LE/>
+Mittel und Wege wird gesonnen, wie dem Uebel abzuhelfen, der<LE/>
+grenzenlosen Verderbtheit zu steuern sei. Kerker mit abgesonderten<LE/>
+Zellen, Leihh&#xE4;user f&#xFC;r heruntergekommene Arbeiter, Stifter f&#xFC;r gefallene<LE/>
+und reuige M&#xE4;dchen und unz&#xE4;hliges Andere wird nicht nur <HYPH1 cont="vorgeschlagen">vorge-</HYPH1><LE/>
+<HYPH2>schlagen</HYPH2>, sondern auch sogleich unternommen. Es werden auch ganze<LE/>
+Wohlth&#xE4;tigkeitsgesellschaften zusammentreten, wie man sie nie zuvor<LE/>
+in solcher Ausdehnung gesehen hat und an Aufopferung und <HYPH1 cont="Mildth&#xE4;tigkeit">Mild-</HYPH1><LE/>
+<HYPH2>th&#xE4;tigkeit</HYPH2> wird kein Mangel sein. Rudolf, der Grossherzog von <HYPH1 cont="Gerolstein">Gerol-</HYPH1></P>
+<HR/>
+<FN>
+<P parID="02014"><TAB/><SUP>1</SUP>) Wir ver&#xF6;ffentlichen hier einen verschollenen Essay von Max Stirner,<LE/>
+welcher dem in B&#xE4;lde erscheinenden Werke: &#xBB;Max Stirner&#x2019;s kleinere Schriften&#xAB;,<LE/>
+herausgegeben von John Henry Mackay, entnommen ist. Gleichzeitig erscheint<LE/>
+im selben Verlage (Schuster &amp; Loeffler in Berlin) eine Biographie Stirner&#x2019;s<LE/>
+aus der Feder Mackay&#x2019;s. Ein ausf&#xFC;hrliches Eingehen auf beide bedeutsame<LE/>
+Erscheinungen behalten wir uns vor.</P>
+<P parID="02015"><I>D. R.</I></P>
+</FN>
+</PAGE>

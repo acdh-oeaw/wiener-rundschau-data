@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0189.xml</PREV>
+<NEXT>WR-04-12_n0191.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 190</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="persList" divStartID="dsID_2436_00273" endPtr="WR-04-12_n0190.xml#//DIV_END[@divEndID='deID_2436_00271']" titleID="tiID_2436_00125"/>
+<TITLE titleID="tiID_2436_00125" parDivStartID="dsID_2436_00273"><TITLEPART><SPC>PERSONEN</SPC>:</TITLEPART></TITLE>
+<PERS>HERODES ANTIPAS, Tetrarch von Jud&#xE4;a.</PERS><LE/>
+<PERS>JOCHANAAN, der Prophet.</PERS><LE/>
+<PERS>Der JUNGE SYRIER, Hauptmann der Leibwache.</PERS><LE/>
+<PERS>TIGELLINUS, ein junger R&#xF6;mer.</PERS><LE/>
+<PERS>Ein CAPPADOCIER.</PERS><LE/>
+<PERS>Ein NUBIER.</PERS><LE/>
+<PERS>ERSTER SOLDAT.</PERS><LE/>
+<PERS>ZWEITER SOLDAT.</PERS><LE/>
+<PERS>Der PAGE der Herodias.</PERS><LE/>
+<PERS>JUDEN, NAZARENER etc.</PERS><LE/>
+<PERS>Ein SCLAVE.</PERS><LE/>
+<PERS>NAAMAN, der Henker.</PERS><LE/>
+<PERS>HERODIAS, Gemahlin des Tetrarchen.</PERS><LE/>
+<PERS>SALOME, Tochter der Herodias.</PERS><LE/>
+<PERS>Die SCLAVINNEN Salomes.</PERS><LE/>
+<DIV_END divEndID="deID_2436_00271" startPtr="WR-04-12_n0190.xml#//DIV_START[@divStartID='dsID_2436_00273']"/>
+<SEPARATOR num="5" type="undefined"/>
+<FT type="pn" num="190" c_text="&#x2014; 190 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0200.xml</PREV>
+<NEXT>WR-01-01-06_n0202.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 201</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2397_00344" endPtr="WR-01-01-06_n0240.xml#//DIV_END[@divEndID='deID_2397_00421']"/>
+<DIV_START cat="masthead" divStartID="dsID_2397_00345" endPtr="WR-01-01-06_n0201.xml#//DIV_END[@divEndID='deID_2397_00344']"/>
+<P parID="01538"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="01539"><B><DATE>1. <SPC>FEBRUAR</SPC>, 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2397_00344" startPtr="WR-01-01-06_n0201.xml#//DIV_START[@divStartID='dsID_2397_00345']"/>
+<DIV_START divStartID="dsID_2397_00346" endPtr="WR-01-01-06_n0205.xml#//DIV_END[@divEndID='deID_2397_00346']"/>
+<TITLE titleID="tiID_2397_00095"><TITLEPART type="main">EINE SCHAUSPIELERIN.</TITLEPART><LE/>
+<TITLEPART type="desc">Novelle von <AUCTOR><C>Gabriele Reuter</C></AUCTOR> (M&#xFC;nchen).</TITLEPART><LE/>
+<TITLEPART>(Schluss.)</TITLEPART></TITLE>
+<P parID="01540"><TAB/>Professor Ridberg sass in der Studirstube vor seinem <HYPH1 cont="Schreibtisch">Schreib-</HYPH1><LE/>
+<HYPH2>tisch</HYPH2>, von dem aus er der Welt viel gute und t&#xFC;chtige Werke <HYPH1 cont="geschenkt">ge-</HYPH1><LE/>
+<HYPH2>schenkt</HYPH2> hatte. Er dachte an seine Jugend, an lustige Abende mit<LE/>
+lustigen Schauspielerinnen und an Eine, die ihm sehr gefiel und ihm<LE/>
+dann f&#xFC;r eine kurze Weile angeh&#xF6;rte. Wie das gekommen? &#x2014; Es<LE/>
+konnte nicht anders sein &#x2014; es war so nat&#xFC;rlich in jenem freien <HYPH1 cont="bewegten">be-</HYPH1><LE/>
+<HYPH2>wegten</HYPH2> Dasein, wo die Kunst aus dem Rausch geboren wird und der<LE/>
+sch&#xF6;ne leichte Rausch aus der Kunst.</P>
+<P parID="01541"><TAB/>Sie war eigentlich ein liebes, tapferes M&#xE4;dchen gewesen &#x2014; voller<LE/>
+Energie und Witz und Klugheit <SYMBOL type="3dots"/> Er hatte doch kaum an sie <HYPH1 cont="gedacht">ge-</HYPH1><LE/>
+<HYPH2>dacht</HYPH2>, diese vielen, vielen Jahre hindurch; es w&#xE4;re ihm nicht <HYPH1 cont="eingefallen">einge-</HYPH1><LE/>
+<HYPH2>fallen</HYPH2>, sich jemals einen Vorwurf zu machen. Und jetzt wollte sie ihm<LE/>
+nicht aus dem Sinn &#x2014; nun seine Tochter zur B&#xFC;hne ging.</P>
+<SEPARATOR type="asterismDown"/>
+<P parID="01542"><TAB/>Excellenz Wabern kam Olga in der Garderobe mit ausgebreiteten<LE/>
+Armen entgegen. Das M&#xE4;dchen warf sich ihr st&#xFC;rmisch an die Brust.</P>
+<P parID="01543"><TAB/>&#xBB;Ach, gn&#xE4;dige Frau! Ich bin so froh! So gl&#xFC;cklich!<ADD>&#xAB;</ADD></P>
+<P parID="01544"><TAB/>&#xBB;Mein Herzchen, ist es denn nur wahr?&#xAB;</P>
+<P parID="01545"><TAB/>&#xBB;Wahr! Wahr! Seine Braut! Wie ist es nur m&#xF6;glich, einen Mann<LE/>
+pl&#xF6;tzlich so lieb zu haben? Den man vor zwei Wochen noch nicht<LE/>
+kannte! Wenn man sich auch oft vorgestellt hat &#x2014; es ist doch ein<LE/>
+Wunder <SYMBOL type="3dots"/>&#xAB;</P>
+<P parID="01546"><TAB/> &#xBB;<SYMBOL type="3dots"/> Gef&#xE4;llt er Ihnen? Nicht, er ist ein sch&#xF6;ner Mann? Aber<LE/>
+das ist ja Nebensache. Das heisst &#x2014; &#x2014;. Wissen Sie &#x2014; ich hab&#x2019;s<LE/>
+doch gern!&#xAB;</P>
+<P part="initial" parID="01547"><TAB/>Olga versteckte lachend ihren Kopf an der Schulter der alten<LE/>
+Freundin, und diese f&#xFC;hlte das Beben und Schauern des jungen K&#xF6;rpers</P>
+</PAGE>

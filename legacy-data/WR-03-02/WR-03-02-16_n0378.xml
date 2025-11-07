@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-16_n0377.xml</PREV>
+<NEXT>WR-03-02-16_n0379.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 16, S. 378</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2434_00786" endPtr="WR-03-02-16_n0379.xml#//DIV_END[@divEndID='deID_2434_00786']"/>
+<TITLE titleID="tiID_2434_00188"><TITLEPART type="main"><SPC>DAS LIED DES MATROSEN</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>RUDYARD KIPLING</AUCTOR> (New-York).</TITLEPART><LE/>
+<TITLEPART type="desc">Deutsch von <AUCTOR type="translator">ROBERT F. ARNOLD</AUCTOR>.</TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2434_00787" endPtr="WR-03-02-16_n0379.xml#//DIV_END[@divEndID='deID_2434_00785']"/>
+<LG parID="04314"><L>Sie sah ich nachts bei des Herds feurigem Lohen,</L>
+<L>Schleppt&#x2019; aus dem Lager die Maid; hei, und wir flohen!</L>
+<L>Hinter uns jagt&#x2019; ihr Geschlecht, wollte mich fangen,</L>
+<L>Und in dem Taumel der Flucht wuchs mein Verlangen.</L></LG>
+<LG parID="04315"><L>War das ein Lauf durch den Wald! Endlich, da standen</L>
+<L>Wir vor des riesigen Sees zornigem Branden.</L>
+<L>Vorn und im R&#xFC;cken zugleich grauses Verderben,</L>
+<L>Harrten wir, R&#xE4;uber und Raub, wehrhaft zu sterben.</L></LG>
+<LG parID="04316"><L>Auf einen Baumstamm im See &#x2014; h&#xF6;ret nur! &#x2014; sprang sie,</L>
+<L>Zog mich Erstaunenden nach; hoch empor schwang sie,</L>
+<L>Hielt sie ihr Thierfellgewand quer in die Breite,</L>
+<L>Schreiend: &#xBB;O Gott Du des Sturms, gib uns Geleite!&#xAB;</L></LG>
+<LG parID="04317"><L>Leben gewann da der Baum! Zaubrisch gezogen,</L>
+<L>Ottergleich glitt er hinaus, schnitt durch die Wogen!</L>
+<L>Beilw&#xFC;rfe zischten uns nach, her vom Gestade,</L>
+<L>Sie aber pries mit Gesang g&#xF6;ttliche Gnade.</L></LG>
+<FT type="pn" num="378" c_text="&#x2014; 378 &#x2014;"/>
+</PAGE>

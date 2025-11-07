@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-02_n0025.xml</PREV>
+<NEXT>WR-03-01-02_n0027.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 2, S. 26</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>STRINDBERG: DIE SCHL&#xDC;SSEL DES HIMMELREICHS.</CTEXT></HD>
+<TABLE parID="00417"><ROW ciID="0305"><CELL>
+<DIV_START cat="speech" divStartID="dsID_2434_00115" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00111']"/>
+<P parID="00418"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00419"><L>Und Ihr?</L></LG>
+<DIV_END divEndID="deID_2434_00111" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00115']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00116" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00112']"/>
+<P parID="00420"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00421"><L>Ich trinke nicht!</L></LG>
+<DIV_END divEndID="deID_2434_00112" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00116']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00117" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00113']"/>
+<P parID="00422"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00423"><L>Wohl aus Princip?</L></LG>
+<DIV_END divEndID="deID_2434_00113" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00117']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00118" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00114']"/>
+<P parID="00424"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00425"><L>Beileibe nicht! &#x2014; Ich trank so viel in</L>
+<L>meiner Jugend,</L>
+<L>Dass nichts mehr mich berauschen kann!</L></LG>
+<DIV_END divEndID="deID_2434_00114" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00118']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00119" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00115']"/>
+<P parID="00426"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00427"><L>Na, dann trink ich!</L></LG>
+<DIV_END divEndID="deID_2434_00115" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00119']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00120" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00116']"/>
+<P parID="00428"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<LG parID="00429"><L>Ich aber geh&#x2019;,</L>
+<L>Denn wer nicht mittrinkt, wird leicht</L>
+<L>l&#xE4;stig.</L>
+<L>Sorg&#x2019; nun f&#xFC;r Dich, dort kommen Leut&#x2019;!</L>
+<L>Gesellschaft hast Du nun beim Kruge,</L>
+<L><DOUBT sug="Zu">Zum</DOUBT> mindestens, so lang er voll;</L>
+<L>Doch wenn Du in die Klemme kommst,</L>
+<L>Und nach dem Doctor Dich&#x2019;s verlangt,</L>
+<L>So rufe nur; ich steh&#x2019; Dir bei! &#x2014;</L></LG>
+<DIV_END divEndID="deID_2434_00116" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00120']"/>
+<P parID="00430"><SD>(Entfernt sich durch das grosse Thor.)</SD></P>
+<DIV_END divEndID="deID_2434_00117" startPtr="WR-03-01-02_n0025.xml#//DIV_START[@divStartID='dsID_2434_00094']"/>
+<DIV_START cat="scene" divStartID="dsID_2434_00121" endPtr="WR-03-01-02_n0027.xml#//DIV_END[@divEndID='deID_2434_00151']"/>
+<TITLE titleID="tiID_2434_00019"><TITLEPART>Zweite Scene.</TITLEPART></TITLE>
+<P parID="00431"><SD><B>Der Schmied</B> (allein). (Dann) <B>Die Liebhaberin.</B></SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00122" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00118']"/>
+<P parID="00432"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00433"><L>Philosophie, bah! Horizont und Archimedes,</L>
+<L>Was k&#xFC;mmert&#x2019;s mich, mag sich die Erde</L>
+<L>drehen,</L>
+<L>Mag sie auf Vieren kriechen!</L></LG>
+<DIV_END divEndID="deID_2434_00118" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00122']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00123" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00119']"/>
+<P parID="00434"><SPK><SPC>Liebhaberin</SPC></SPK>.</P>
+<LG parID="00435"><L>O hilf! O helft mir, edler Herr!</L></LG>
+<DIV_END divEndID="deID_2434_00119" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00123']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00124" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00120']"/>
+<P parID="00436"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00437"><L>Was stiess Euch zu, mein sch&#xF6;nes</L>
+<L>Fr&#xE4;ulein?</L></LG>
+<DIV_END divEndID="deID_2434_00120" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00124']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00125" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00121']"/>
+<P parID="00438"><SPK><SPC>Liebhaberin</SPC></SPK>.</P>
+<LG parID="00439"><L>Ich bin ein hilflos elend Weib,</L>
+<L>Gepl&#xFC;ndert wurd&#x2019; ich eben auf der Strasse.</L></LG>
+<DIV_END divEndID="deID_2434_00121" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00125']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00126" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00122']"/>
+<P parID="00440"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00441"><L>Von wem? &#x2014; Wer war es? Sprecht ein</L>
+<L>Wort</L>
+<L>Und stracks den Arm zu Eurem Schutze,</L>
+<L>Wie&#x2019;s Ehrenm&#xE4;nnern ansteht, will ich</L>
+<L>heben.</L>
+<L>Ward Eure Tugend, Eure Sittsamkeit</L>
+<L>verunehrt,</L>
+<L>Lass ich die ganze R&#xE4;uberbande h&#xE4;ngen!</L>
+<L>Doch sprecht nur, sagt: Wer seid Ihr?</L>
+<L>Und wo geschah&#x2019;s? Wer ist der freche</L>
+<L>Th&#xE4;ter?</L></LG>
+<DIV_END divEndID="deID_2434_00122" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00126']"/>
+</CELL><CELL>
+<DIV_START cat="speech" divStartID="dsID_2434_00127" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00123']"/>
+<P parID="00442"><SPK><SPC>Liebhaberin</SPC></SPK>.</P>
+<LG parID="00443"><L>Seid Ihr der Edelmann, der Ihr mir scheinet,</L>
+<L>So fragt mich nicht um meinen Namen.</L></LG>
+<DIV_END divEndID="deID_2434_00123" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00127']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00128" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00124']"/>
+<P parID="00444"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00445"><L>Ich fragte nicht, ich stelle blos in Frage <SYMBOL type="3dots"/></L></LG>
+<DIV_END divEndID="deID_2434_00124" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00128']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00129" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00125']"/>
+<P parID="00446"><SPK><SPC>Liebhaberin</SPC></SPK>.</P>
+<LG parID="00447"><L>In Frage stellet, was Ihr wollt,</L>
+<L>Nur glaubt an meine Ehrlichkeit</L>
+<L>Und Tugend, an die Schmach, die ich</L>
+<L>erlitten <SYMBOL type="3dots"/></L></LG>
+<DIV_END divEndID="deID_2434_00125" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00129']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00130" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00126']"/>
+<P parID="00448"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00449"><L>Ich glaub&#x2019; daran, wie nur an Eure Sch&#xF6;nheit,</L>
+<L>Die ich mit meinen offnen Augen sah,</L>
+<L>Wie nie zuvor dergleichen ich erschaut! &#x2014;</L></LG>
+<DIV_END divEndID="deID_2434_00126" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00130']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00131" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00127']"/>
+<P parID="00450"><SPK><SPC>Liebhaberin</SPC></SPK>.</P>
+<LG parID="00451"><L>Ich wusst&#x2019; es ja: Ihr seid ein edler Mann <SYMBOL type="3dots"/></L>
+<L>Nun denn! mein Vater wollte mich zur</L>
+<L>Ehe zwingen!</L></LG>
+<DIV_END divEndID="deID_2434_00127" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00131']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00132" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00128']"/>
+<P parID="00452"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00453"><L>Ha! Nun versteh&#x2019; ich alles! &#x2014; Ihr,</L>
+<L>Ihr liebtet einen andern!</L></LG>
+<DIV_END divEndID="deID_2434_00128" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00132']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00133" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00129']"/>
+<P parID="00454"><SPK><SPC>Liebhaberin</SPC></SPK>.</P>
+<LG parID="00455"><L>Nein! &#x2014; das soll mein Geheimnis sein.</L>
+<L>Ich bitt&#x2019; Euch: fragt nicht mehr! Erlaubet</L>
+<L>nur,</L>
+<L>Dass ich mich Eure Schwester nenne</L>
+<L>Und unter diesem Namen suche Schutz</L>
+<L>und Schirm.</L></LG>
+<DIV_END divEndID="deID_2434_00129" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00133']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00134" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00130']"/>
+<P parID="00456"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00457"><L>Als Schwester? Herzlich gerne, edles</L>
+<L>Fr&#xE4;ulein,</L>
+<L>Wenn Eure Sch&#xF6;nheit, Eure edle Art</L>
+<L>Nicht allzutief mich stellt in Schatten</L>
+<L>Und unwahrscheinlich die Kom&#xF6;die macht.</L></LG>
+<DIV_END divEndID="deID_2434_00130" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00134']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00135" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00131']"/>
+<P parID="00458"><SPK><SPC>Liebhaberin</SPC></SPK>.</P>
+<LG parID="00459"><L>Sprecht nicht von Sch&#xF6;nheit, von der</L>
+<L>meinen gar,</L>
+<L>Das Sch&#xF6;ne ist nur Schein!</L></LG>
+<DIV_END divEndID="deID_2434_00131" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00135']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00136" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00132']"/>
+<P parID="00460"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="00461"><L>Ein strahlend heller Schein, der w&#xE4;rmt</L>
+<L>und leuchtet.</L></LG>
+<DIV_END divEndID="deID_2434_00132" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00136']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00137" endPtr="WR-03-01-02_n0026.xml#//DIV_END[@divEndID='deID_2434_00133']"/>
+<P parID="00462"><SPK><SPC>Liebhaberin</SPC></SPK>.</P>
+<LG parID="00463"><L>Ein Irrwisch nur auf Wiesensumpf.</L></LG>
+<DIV_END divEndID="deID_2434_00133" startPtr="WR-03-01-02_n0026.xml#//DIV_START[@divStartID='dsID_2434_00137']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00138" endPtr="WR-03-01-02_n0027.xml#//DIV_END[@divEndID='deID_2434_00134']"/>
+<P parID="00464"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG part="initial" parID="00465"><L>Das ist nicht wahr, kann nimmermehr so</L>
+<L>sein!</L>
+<L>Allein der G&#xFC;te Wiederschein ist Sch&#xF6;nheit,</L>
+<L>Wenn sie mit solchen Augen redet &#x2014;</L>
+<L>Kein b&#xF6;ses Wort von Euren Lippen</L>
+<L>Kann ich mir denken! Diese klare Stirne,</L></LG>
+</CELL></ROW></TABLE>
+<FT type="pn" num="26" c_text="&#x2014; 26 &#x2014;"/>
+</PAGE>

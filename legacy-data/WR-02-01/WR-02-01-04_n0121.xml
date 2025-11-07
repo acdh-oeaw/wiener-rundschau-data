@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-03_n0120.xml</PREV>
+<NEXT>WR-02-01-04_n0122.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 4, S. 121</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00225" endPtr="WR-02-01-04_n0160.xml#//DIV_END[@divEndID='deID_2432_00247']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00226" endPtr="WR-02-01-04_n0121.xml#//DIV_END[@divEndID='deID_2432_00225']"/>
+<P parID="00795"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00796"><B><DATE>1. <SPC>JANUAR</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00225" startPtr="WR-02-01-04_n0121.xml#//DIV_START[@divStartID='dsID_2432_00226']"/>
+<DIV_START divStartID="dsID_2432_00227" endPtr="WR-02-01-04_n0128.xml#//DIV_END[@divEndID='deID_2432_00226']"/>
+<TITLE titleID="tiID_2432_00051"><TITLEPART type="main">BETRACHTUNGEN &#xDC;BER DIE ZIELE UNSERER ZEIT.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Camille Mauclair</C></AUCTOR> (Paris).</TITLEPART><LE/>
+<TITLEPART type="desc">Autorisirte Uebersetzung von <AUCTOR type="translator"><C>St. G.</C></AUCTOR></TITLEPART></TITLE>
+<P part="initial" parID="00797"><TAB/>Eine Studie, die ich j&#xFC;ngst ver&#xF6;ffentlichte, hat mir mehrere Briefe<LE/>
+von jungen Leuten verschafft. Ich habe in der erw&#xE4;hnten Arbeit <HYPH1 cont="auseinandergesetzt">aus-</HYPH1><LE/>
+<HYPH2>einandergesetzt</HYPH2>, dass nach meiner Meinung unseren Intelligenzen die<LE/>
+Charaktere mangeln, ich betonte die Activit&#xE4;t aller Energie und ich<LE/>
+wollte &#x2014; endlich! &#x2014; sagen, bis zu welchem Grade mich die <HYPH1 cont="Atmosph&#xE4;re">Atmo-</HYPH1><LE/>
+<HYPH2>sph&#xE4;re</HYPH2> meiner Generation bedr&#xFC;ckt, und meinen unab&#xE4;nderlichen <HYPH1 cont="Beschluss">Be-</HYPH1><LE/>
+<HYPH2>schluss</HYPH2> bekunden, diese Wege der Depression zu verlassen. Ich habe<LE/>
+damit an eine Wunde ger&#xFC;hrt. Aber es ist die tiefste Ueberzeugung,<LE/>
+welche ich in sieben Jahren der Schriftstellerei erworben habe &#x2014; meine<LE/>
+Neigung zu moralischen Werthungen ist daran theilweise schuld &#x2014; dass<LE/>
+die Pers&#xF6;nlichkeit eines Schriftstellers unzertrennlich ist von seinen<LE/>
+B&#xFC;chern, so dass es keine noch so gl&#xE4;nzende Intelligenz gibt, welche<LE/>
+nicht zusammenbrechen musste ohne die entsprechende Gr&#xF6;sse der<LE/>
+privaten Eigenschaften, ohne die unaufh&#xF6;rliche Veredlung des <HYPH1 cont="verborgenen">ver-</HYPH1><LE/>
+<HYPH2>borgenen</HYPH2>, privaten Menschen. Diese letztere Arbeit ist in meinen Augen<LE/>
+der Beweis der ersteren, so dass ein Werk niemals die Entschuldigung<LE/>
+f&#xFC;r die Charakterarmuth seines Verfassers sein kann. Kein wirkliches<LE/>
+Kunstwerk besteht in meinen Augen ausserhalb dieser Bedingungen,<LE/>
+wenigstens gegenw&#xE4;rtig haben die Spielereien der Talente, so geistreich<LE/>
+sie sein m&#xF6;gen, aufgeh&#xF6;rt mich zu bewegen. Ein Gedanke von Milton,<LE/>
+der mir nicht willk&#xFC;rlich schien, wird mir jetzt ganz klar: &#xBB;Der wahre<LE/>
+Poet achtet darauf, dass sein Leben seine beste Dichtung sei!&#xAB; Der<LE/>
+Mensch soll das lebende Symbol seiner Grunds&#xE4;tze sein. Wir aber<LE/>
+haben daran uns gew&#xF6;hnt, unseren Grunds&#xE4;tzen sehr viel schuldig zu<LE/>
+bleiben und im Nothfall ein paar ironisch fatalistische Entschuldigungen<LE/>
+zu stammeln. Der Fehler liegt darin, dass wir Alles nur mit <SPC>Worten</SPC><LE/>
+bezahlen, dass wir nicht <SPC>leben</SPC> k&#xF6;nnen und uns sehr verschmitzt <HYPH1 cont="betr&#xFC;gen">be-</HYPH1></P>
+</PAGE>

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0405.xml</PREV>
+<NEXT>WR-03-02-17_n0407.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 406</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: BLAUBART UND ARIANE.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_00914" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00911']"/>
+<P parID="04679"><SPK>MELISANDE</SPK>:</P>
+<P parID="04680"><TAB/>Du auch, Du bist blass <SYMBOL type="3dots"/> Sieh&#x2019; mich nicht an <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00911" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00914']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00915" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00912']"/>
+<P parID="04681"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04682"><TAB/>Dein Kleid ist zerlumpt, man sieht Dich hindurch <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00912" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00915']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00916" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00913']"/>
+<P parID="04683"><SPK>MELISANDE</SPK>:</P>
+<P parID="04684"><TAB/>Deins auch. Deine blossen Br&#xFC;ste theilen Dein Haar <SYMBOL type="3dots"/> Sieh&#x2019; mich<LE/>
+nicht an <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00913" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00916']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00917" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00914']"/>
+<P parID="04685"><SPK>BELLANG&#xC8;RE</SPK>:</P>
+<P parID="04686"><TAB/>Wie lang Eure Haare sind! <SYMBOL type="2dots"/></P>
+<DIV_END divEndID="deID_2434_00914" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00917']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00918" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00915']"/>
+<P parID="04687"><SPK>YGRAINE</SPK>:</P>
+<P parID="04688"><TAB/>Und unsere Gesichter &#x2014; wie blass! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00915" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00918']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00919" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00916']"/>
+<P parID="04689"><SPK>BELLANG&#xC8;RE</SPK>:</P>
+<P parID="04690"><TAB/>Und unsere H&#xE4;nde &#x2014; wie durchsichtig! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00916" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00919']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00920" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00917']"/>
+<P parID="04691"><SPK>MELISANDE</SPK>:</P>
+<P parID="04692"><TAB/>Alladine schluchzt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00917" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00920']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00921" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00918']"/>
+<P parID="04693"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04694"><TAB/>Ich umarme sie, ich k&#xFC;sse sie! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00918" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00921']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00922" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00919']"/>
+<P parID="04695"><SPK>ARIANE</SPK>:</P>
+<P parID="04696"><TAB/>Ja <SYMBOL type="3dots"/> ja <SYMBOL type="3dots"/> k&#xFC;sst Euch, umarmt Euch! Seht Euch noch nicht an.<LE/>
+Kommt, glaubt nicht, das Licht wolle Euch betr&#xFC;ben <SYMBOL type="3dots"/> Die Kerker sind<LE/>
+ge&#xF6;ffnet. Man sieht bis auf den Grund. Tausend Strahlen tanzen auf den Stufen,<LE/>
+und auf dem stillen Wasser liegt ein Sonnenfleck <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00919" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00922']"/>
+<P parID="04697"><SD>(Sie steigt schnell herab und l&#xE4;uft nach dem Eingang des Kerkers.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00923" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00920']"/>
+<P parID="04698"><SPK>S&#xC9;LYSETTE</SPK><LE/>
+<SD>(folgt ihr und zieht die andern Frauen nach)</SD>:</P>
+<P parID="04699"><TAB/>Ja, ja, kommt, tanzen wir auch, tanzen wir dem Lichte zu Ehren <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00920" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00923']"/>
+<P parID="04700"><SD>(Sie tanzen und singen eine Weile in rasender Freude im Sonnenlicht, das sich bis<LE/>
+zur Th&#xFC;r ergiesst, und eilen dann hinaus.)</SD></P>
+<P parID="04701"><SD>GESANG UND TANZ:</SD></P>
+<DIV_START cat="song" divStartID="dsID_2434_00924" endPtr="WR-03-02-17_n0406.xml#//DIV_END[@divEndID='deID_2434_00921']"/>
+<LG parID="04702"><L>Die f&#xFC;nf M&#xE4;dchen von Orlam&#xFC;nde,</L>
+<L>Als die Fee war todt,</L>
+<L>Die f&#xFC;nf M&#xE4;dchen von Orlam&#xFC;nde</L>
+<L>Fanden Th&#xFC;r und Morgenroth! <SYMBOL type="3dots"/></L></LG>
+<DIV_END divEndID="deID_2434_00921" startPtr="WR-03-02-17_n0406.xml#//DIV_START[@divStartID='dsID_2434_00924']"/>
+<DIV_END divEndID="deID_2434_00922" startPtr="WR-03-02-17_n0399.xml#//DIV_START[@divStartID='dsID_2434_00832']"/>
+<SEPARATOR type="hr"/>
+<FT type="pn" num="406" c_text="&#x2014; 406 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-04_n0139.xml</PREV>
+<NEXT>WR-01-01-04_n0141.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 140</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">140</LTEXT><CTEXT>RAPPAPORT.</CTEXT></HD>
+<LG parID="00982"><L>Sein Haupt, das gl&#xFC;hnde, sie umschlossen h&#xE4;lt &#x2014;</L>
+<L>Zu seiner Seele ward</L>
+<L>ihr Selbsterkennen.</L></LG>
+<DIV_END divEndID="deID_2397_00205" startPtr="WR-01-01-04_n0139.xml#//DIV_START[@divStartID='dsID_2397_00207']"/>
+<DIV_START type="verse" divStartID="dsID_2397_00208" endPtr="WR-01-01-04_n0140.xml#//DIV_END[@divEndID='deID_2397_00206']"/>
+<TITLE titleID="tiID_2397_00075"><TITLEPART>VENEDIG.</TITLEPART></TITLE>
+<TITLE titleID="tiID_2397_00076"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="00983"><L><IN>Manche</IN> schreiten im Lichte <SYMBOL type="3dots"/> doch um dich her</L>
+<L>D&#xE4;mmernd gr&#xFC;nliche Schimmer</L>
+<L>den Pfad erhellen <SYMBOL type="3dots"/></L></LG>
+<LG parID="00984"><L>Aus vergessenen G&#xE4;rten schw&#xFC;l und schwer</L>
+<L>Ziehen die D&#xFC;fte,</L>
+<L>die welken Bl&#xFC;then entschwellen.</L></LG>
+<LG parID="00985"><L>L&#xE4;ngst gestorben ragt die Stadt aus dem Meer,</L>
+<L>Weisse Pal&#xE4;ste</L>
+<L>umklagt von den wiegenden Wellen. &#x2014;</L></LG>
+<LG parID="00986"><L>Wie auf dem Feste der Masken gehst du einher,</L>
+<L>Wenn das Horn erdr&#xF6;hnt</L>
+<L>und die Geigen gellen <SYMBOL type="3dots"/></L></LG>
+<TITLE titleID="tiID_2397_00077"><TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="00987"><L><IN>In</IN> der Tiefe brausen die Wasser; doch oben</L>
+<L>Gleitet die Barke, die schlanke,</L>
+<L>im weissen Licht <SYMBOL type="3dots"/></L></LG>
+<LG parID="00988"><L>Nicht die St&#xFC;rme, die nachts um die Ufer toben,</L>
+<L>Die versunkenen Dome,</L>
+<L>du kennst sie nicht.</L></LG>
+<LG parID="00989"><L>L&#xE4;ngst ist aller Wille zum Kampf zerstoben,</L>
+<L>Kaum ein Laut,</L>
+<L>der die fluthende Stille durchbricht &#x2014;</L></LG>
+<LG parID="00990"><L>Aus deiner Tiefen smaragdenem Glanz gewoben,</L>
+<L>Ragt in steinernen Rhythmen</L>
+<L>das Gedicht <SYMBOL type="3dots"/></L></LG>
+<DIV_END divEndID="deID_2397_00206" startPtr="WR-01-01-04_n0140.xml#//DIV_START[@divStartID='dsID_2397_00208']"/>
+<DIV_END divEndID="deID_2397_00207" startPtr="WR-01-01-04_n0139.xml#//DIV_START[@divStartID='dsID_2397_00206']"/>
+</PAGE>

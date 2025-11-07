@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-23_n0537.xml</PREV>
+<NEXT>WR-03-02-23_n0539.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 23, S. 538</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: GEDICHTE IN PROSA.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2434_01160" endPtr="WR-03-02-23_n0538.xml#//DIV_END[@divEndID='deID_2434_01158']"/>
+<TITLE titleID="tiID_2434_00267"><TITLEPART>TAUCHERGLOCKE.</TITLEPART></TITLE>
+<LG parID="05935"><L>O Taucher, der Du stets unter die Glocke gebannt bist,</L>
+<L>in dieses Meer von ewig warmem Glas;</L>
+<L>ein ganzes unbewegliches Leben beim Schlag der gr&#xFC;nen Pendel.</L>
+<L>Und die vielen fremden Wesen, die man durch die W&#xE4;nde sieht!</L>
+<L>Aber jede Ber&#xFC;hrung mit ihnen ist mir f&#xFC;r immer unm&#xF6;glich &#x2014;</L>
+<L>und draussen im klaren Wasser herrscht so reges Leben.</L></LG>
+<LG parID="05936"><L>Achtung! Der Schatten grosser Segel gleitet &#xFC;ber die Dahlien der unterseeischen W&#xE4;lder;</L>
+<L>und ich bin f&#xFC;r einige Zeit im Schatten der Wale, die gegen den Pol ziehn.</L></LG>
+<LG parID="05937"><L>Jetzt stossen die Andern gewiss mit den schneebedeckten Schiffen vom Hafen ab,</L>
+<L>denn es lag noch Schnee mitten in den Juliwiesen.</L>
+<L>Sie schwimmen durch das gr&#xFC;ne Wasser der Meerbucht;</L>
+<L>sie treten zu Mittag in dunkle Grotten;</L>
+<L>und die Brisen der offenen See ziehn &#xFC;ber die Decke der Schiffe.</L></LG>
+<LG parID="05938"><L>Achtung! Das sind die gl&#xFC;henden Zungen des Golfstroms;</L>
+<L>begegnet ihren K&#xFC;ssen mit dem Schild der Zur&#xFC;ckhaltung!</L>
+<L>Man hat keinen Schnee mehr auf die Stirn der Fieberkranken gelegt;</L>
+<L>die Kranken haben ein Freudenfeuer entz&#xFC;ndet</L>
+<L>und werfen mit vollen H&#xE4;nden gr&#xFC;ne Lilien in die Flammen.</L></LG>
+<LG parID="05939"><L>Lehnt Eure Stirn an die wenigst heissen W&#xE4;nde,</L>
+<L>erwartet den Mond auf dem Gipfel der Glocke</L>
+<L>und schliesst Eure Augen vor den W&#xE4;ldern von blauen Asphodelen und violetten</L>
+<L>Albuminen, bleibt taub den Lockungen des lauwarmen Wassers.</L></LG>
+<LG parID="05940"><L>Trocknet Eurem erm&#xFC;deten Begehren den Schweiss;</L>
+<L>geht zuerst zu Denen, die einer Ohnmacht nahe sind:</L>
+<L>sie sind, wie wenn sie die Brautnacht in einem Keller feiern wollten;</L>
+<L>sie sind, wie wenn sie zu Mittag in einen unterirdischen Gang tr&#xE4;ten, der mit</L>
+<L>Lampen beleuchtet ist;</L>
+<L>sie durchziehn, zum Festzug geordnet, eine Landschaft, die der Kindheit einer Waise gleicht.</L></LG>
+<LG parID="05941"><L>Geht dann zu Denen, die dem Tode nahe sind:</L>
+<L>sie sind wie Jungfrauen, die von einem langen Spaziergang an einem heissen <HYPH1 cont="Sonnenfasttag">Sonnen=</HYPH1></L>
+<L><HYPH2>fasttag</HYPH2> zur&#xFC;ckkehren;</L>
+<L>sie sind bleich wie Kranke, die leise den Regen rauschen h&#xF6;ren auf die G&#xE4;rten des</L>
+<L>Hospitals;</L>
+<L>sie sind wie &#xDC;berlebende, die auf dem Schlachtfeld fr&#xFC;hst&#xFC;cken;</L>
+<L>sie sind wie Gefangene, die bemerken, dass ihre W&#xE4;chter sich im Flusse baden,</L>
+<L>und die das Gras m&#xE4;hen h&#xF6;ren im Garten des Gef&#xE4;ngnisses.</L></LG>
+<DIV_END divEndID="deID_2434_01158" startPtr="WR-03-02-23_n0538.xml#//DIV_START[@divStartID='dsID_2434_01160']"/>
+<SEPARATOR type="undefined"/>
+<FT type="pn" num="538" c_text="&#x2014; 538 &#x2014;"/>
+</PAGE>

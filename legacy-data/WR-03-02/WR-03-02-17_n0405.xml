@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0404.xml</PREV>
+<NEXT>WR-03-02-17_n0406.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 405</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: BLAUBART UND ARIANE.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_00895" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00892']"/>
+<P parID="04641"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04642"><TAB/>Ich sehe das Meer <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00892" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00895']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00896" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00893']"/>
+<P parID="04643"><SPK>MELISANDE</SPK>:</P>
+<P parID="04644"><TAB/>Und ich, ich sehe den Himmel. <SD>(Sie legt den Arm auf die Augen.)</SD> Nein,<LE/>
+nein, ich kann nicht, ich kann nicht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00893" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00896']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00897" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00894']"/>
+<P parID="04645"><SPK>ARIANE</SPK>:</P>
+<P parID="04646"><TAB/>Meine Augen beruhigen sich unter meinen H&#xE4;nden <SYMBOL type="3dots"/> Wo sind wir?</P>
+<DIV_END divEndID="deID_2434_00894" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00897']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00898" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00895']"/>
+<P parID="04647"><SPK>BELLANG&#xC8;RE</SPK>:</P>
+<P parID="04648"><TAB/>Ich will nur die B&#xE4;ume sehen, wo sind sie?</P>
+<DIV_END divEndID="deID_2434_00895" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00898']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00899" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00896']"/>
+<P parID="04649"><SPK>YGRAINE</SPK>:</P>
+<P parID="04650"><TAB/>Oh, wie gr&#xFC;n ist das Land! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00896" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00899']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00900" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00897']"/>
+<P parID="04651"><SPK>ARIANE</SPK>:</P>
+<P parID="04652"><TAB/>Wir sind an den W&#xE4;nden des Felsens.</P>
+<DIV_END divEndID="deID_2434_00897" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00900']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00901" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00898']"/>
+<P parID="04653"><SPK>YGRAINE</SPK>:</P>
+<P parID="04654"><TAB/>Da sind Gitterstangen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00898" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00901']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00902" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00899']"/>
+<P parID="04655"><SPK>MELISANDE</SPK>:</P>
+<P parID="04656"><TAB/>Das Dorf dort unten <SYMBOL type="3dots"/> Seht Ihr das Dorf?</P>
+<DIV_END divEndID="deID_2434_00899" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00902']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00903" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00900']"/>
+<P parID="04657"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04658"><TAB/>Wo sind die Menschen?</P>
+<DIV_END divEndID="deID_2434_00900" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00903']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00904" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00901']"/>
+<P parID="04659"><SPK>MELISANDE</SPK>:</P>
+<P parID="04660"><TAB/>Da unten, da unten, ein Bauer! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00901" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00904']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00905" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00902']"/>
+<P parID="04661"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04662"><TAB/>Er hat uns gesehen, er blickt herauf<SYMBOL type="3dots"/> Ich will ihm ein Zeichen machen<LE/>
+<SD>(sie schwenkt ihr langes Haar)</SD>. Er hat meine Haare gesehen. Er nimmt seinen<LE/>
+Hut ab. Er bekreuzigt sich <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00902" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00905']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00906" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00903']"/>
+<P parID="04663"><SPK>MELISANDE</SPK>:</P>
+<P parID="04664"><TAB/>Eine Glocke! Eine Glocke! <SYMBOL type="3dots"/> <SD>(Sie z&#xE4;hlt die Schl&#xE4;ge)</SD> Sieben, acht, neun <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00903" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00906']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00907" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00904']"/>
+<P parID="04665"><SPK>BELLANG&#xC8;RE</SPK>:</P>
+<P parID="04666"><TAB/>Zehn, elf, zw&#xF6;lf <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00904" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00907']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00908" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00905']"/>
+<P parID="04667"><SPK>MELISANDE</SPK>:</P>
+<P parID="04668"><TAB/>Es ist Mittag.</P>
+<DIV_END divEndID="deID_2434_00905" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00908']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00909" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00906']"/>
+<P parID="04669"><SPK>YGRAINE</SPK>:</P>
+<P parID="04670"><TAB/>Wer singt dort so?</P>
+<DIV_END divEndID="deID_2434_00906" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00909']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00910" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00907']"/>
+<P parID="04671"><SPK>MELISANDE</SPK>:</P>
+<P parID="04672"><TAB/>Aber es sind die V&#xF6;gel <SYMBOL type="3dots"/> Siehst Du sie nicht? Sie sitzen da zu<LE/>
+Tausenden in den grossen Pappeln <SYMBOL type="3dots"/> den Fluss entlang <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00907" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00910']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00911" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00908']"/>
+<P parID="04673"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04674"><TAB/>Alladine <SYMBOL type="3dots"/> Ein Segel! <SYMBOL type="3dots"/> Wo ist sie? Alladine! Ich muss sie k&#xFC;ssen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00908" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00911']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00912" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00909']"/>
+<P parID="04675"><SPK>MELISANDE</SPK>:</P>
+<P parID="04676"><TAB/>Alladine ist hier und ich k&#xFC;sse sie.</P>
+<DIV_END divEndID="deID_2434_00909" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00912']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00913" endPtr="WR-03-02-17_n0405.xml#//DIV_END[@divEndID='deID_2434_00910']"/>
+<P parID="04677"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04678"><TAB/>Oh, Du bist blass, Melisande <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00910" startPtr="WR-03-02-17_n0405.xml#//DIV_START[@divStartID='dsID_2434_00913']"/>
+<FT type="pn" num="405" c_text="&#x2014; 405 &#x2014;"/>
+</PAGE>

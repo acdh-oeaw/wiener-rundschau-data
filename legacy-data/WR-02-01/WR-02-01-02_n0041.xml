@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-01_n0040.xml</PREV>
+<NEXT>WR-02-01-02_n0042.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 2, S. 41</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00037" endPtr="WR-02-01-02_n0080.xml#//DIV_END[@divEndID='deID_2432_00055']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00038" endPtr="WR-02-01-02_n0041.xml#//DIV_END[@divEndID='deID_2432_00037']"/>
+<P parID="00196"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00197"><B><DATE>1. <SPC>DECEMBER</SPC> 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00037" startPtr="WR-02-01-02_n0041.xml#//DIV_START[@divStartID='dsID_2432_00038']"/>
+<DIV_START divStartID="dsID_2432_00039" endPtr="WR-02-01-02_n0046.xml#//DIV_END[@divEndID='deID_2432_00038']"/>
+<TITLE titleID="tiID_2432_00024"><TITLEPART type="main">IN DER CHRISTNACHT.</TITLEPART><LE/>
+<TITLEPART type="desc">Nach <SOURCE><C>Anton Tschechow</C></SOURCE></TITLEPART> <TITLEPART type="bystmt">von <AUCTOR><C>W. Henckel</C></AUCTOR> (M&#xFC;nchen).</TITLEPART></TITLE>
+<P parID="00198"><TAB/>Eine bleiche, junge Frau stand am Meeresufer und blickte in die<LE/>
+Ferne. Dicht vor ihr war eine alte, mit einem einseitigen, morschen<LE/>
+Gel&#xE4;nder versehene Treppe, die ans Meer hinabf&#xFC;hrte.</P>
+<P parID="00199"><TAB/>Die Frau richtete ihre Blicke auf die in Finsterniss geh&#xFC;llte, weite<LE/>
+Fl&#xE4;che. Ein str&#xF6;mender Regen verbarg den ganzen Horizont.</P>
+<P parID="00200"><TAB/>&#xBB;Was mag wohl jetzt dort vorgehen?&#xAB; dachte die junge Frau<LE/>
+und h&#xFC;llte sich fr&#xF6;stelnd in ihr durchn&#xE4;sstes Pelzchen und in ihren<LE/>
+Shawl.</P>
+<P parID="00201"><TAB/>Dort, in jener undurchdringlichen Finsterniss, weit entfernt vom<LE/>
+Ufer, musste sich jetzt ihr Mann, der Gutsbesitzer Litwinow, mit seinen<LE/>
+Fischern befinden. Wenn der Sturm der letzten Tage sie nicht im<LE/>
+Schnee begraben hat, so werden sie wohl jetzt dem Lande zueilen.<LE/>
+Das Meer steigt, und das Eis muss bald brechen; einem solchen Sturm<LE/>
+kann es nicht lange widerstehen. Ob wohl ihre plumpen Fischerschlitten<LE/>
+das Ufer erreichen, bevor man das Heulen der aus dem Winterschlaf<LE/>
+erwachenden See vernimmt?</P>
+<P parID="00202"><TAB/>Die junge Frau m&#xF6;chte gern dort hinabsteigen; aber das <HYPH1 cont="Gel&#xE4;nder">Ge-</HYPH1><LE/>
+<HYPH2>l&#xE4;nder</HYPH2> ist wackelig, nass und schl&#xFC;pfrig, sie kann sich nicht fest darauf<LE/>
+st&#xFC;tzen. Endlich hockt sie nieder, h&#xE4;lt sich an den kalten, schmutzigen<LE/>
+Stufen fest und kriecht so r&#xFC;ckw&#xE4;rts hinab. Der Sturmwind weht sie<LE/>
+fast hinunter, er reisst ihren Pelz auf, und die feuchte K&#xE4;lte dringt bis<LE/>
+zu ihrer Brust.</P>
+<P parID="00203"><TAB/>&#xBB;Heiliger Nicolaus! nimmt denn diese verw&#xFC;nschte Treppe gar<LE/>
+kein Ende!&#xAB; fl&#xFC;sterte das junge Weib, sich hinabtastend. Neunzig steile<LE/>
+Stufen waren es, die sie da hinunterkriechen musste. Die Treppe<LE/>
+&#xE4;chzte und konnte jeden Augenblick zusammenbrechen.</P>
+<P parID="00204"><TAB/>Nach endlosen zehn Minuten war die junge Frau unten, hart am<LE/>
+Meere. Der Sturmwind heulte hier noch &#xE4;rger als dort oben, und der<LE/>
+Regen floss in Str&#xF6;men.</P>
+</PAGE>

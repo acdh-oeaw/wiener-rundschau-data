@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-00_i0006.xml</PREV>
+<NEXT>WR-02-01-00_i0008.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Inhalt S. 7</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS></ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>INHALTS-VERZEICHNIS.</CTEXT></HD>
+<TABLE parID="00006">
+<ROW ciID="0168"><CELL><EMPTY/>
+</CELL><CELL><B>Nr.</B>
+</CELL><CELL>Seite
+</CELL></ROW>
+<ROW ciID="0169"><CELL><SPC>Whitman</SPC>, Walt, Wie ich ein Buch schrieb <SYMBOL type="dots"/>
+</CELL><CELL><B>11</B>
+</CELL><CELL>426
+</CELL></ROW>
+<ROW ciID="0170"><CELL><DITTO cont="Whitman," rend="&#xBB;"/> <DITTO cont="Walt," rend="&#xBB;"/> Aus den Aufzeichnungen &#xFC;ber den amerikanischen<LE/>
+B&#xFC;rgerkrieg (<DATERANGE>1861&#x2014;64</DATERANGE>) <SYMBOL type="dots"/>
+</CELL><CELL><B>19</B><LE/>
+<B>21</B>
+</CELL><CELL>718,<LE/>
+813
+</CELL></ROW>
+<ROW ciID="0171"><CELL><SPC>Wilhelm</SPC>, Paul, Die &#xBB;Jugend&#xAB; &#x2014; und kein Ende <SYMBOL type="dots"/>
+</CELL><CELL><B>1</B>
+</CELL><CELL>31
+</CELL></ROW>
+<ROW ciID="0172"><CELL><SPC>Wille</SPC>, Bruno, Lebensmusik <SYMBOL type="dots"/>
+</CELL><CELL><B>8</B>
+</CELL><CELL>303
+</CELL></ROW>
+<ROW ciID="0173"><CELL><DITTO cont="Wille," rend="&#xBB;"/> <DITTO cont="Bruno," rend="&#xBB;"/> Es war einmal <SYMBOL type="dots"/>
+</CELL><CELL><B>9</B>
+</CELL><CELL>338
+</CELL></ROW>
+<ROW ciID="0174"><CELL><DITTO cont="Wille," rend="&#xBB;"/> <DITTO cont="Bruno," rend="&#xBB;"/> Die Waldseelen <SYMBOL type="dots"/>
+</CELL><CELL><B>12</B>
+</CELL><CELL>449
+</CELL></ROW>
+<ROW ciID="0175"><CELL><SPC>Wolff</SPC>, Ludwig, Aus Leipzig <SYMBOL type="dots"/>
+</CELL><CELL><B>9</B>
+</CELL><CELL>347
+</CELL></ROW>
+<ROW ciID="0176"><CELL><DITTO cont="Wolff," rend="&#xBB;"/> <DITTO cont="Ludwig," rend="&#xBB;"/> Die Mondscheinsonate <SYMBOL type="dots"/>
+</CELL><CELL><B>24</B>
+</CELL><CELL>905
+</CELL></ROW>
+</TABLE>
+<SEPARATOR type="hr"/>
+<TITLE titleID="tiID_2432_00002"><TITLEPART>NOTIZEN.</TITLEPART></TITLE>
+<TABLE parID="00007">
+<ROW ciID="0177"><CELL colspan="2"><TITLE titleID="tiID_2432_00003"><TITLEPART><B>Theater.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0178"><CELL>Burgtheater
+</CELL><CELL>Nr. <B>1</B>, S. 33, Nr. <B>2</B>, S. 78, Nr. <B>7</B>, S. 277, Nr. <B>10</B>, S. 398, Nr. <B>12</B>, S. 478<LE/>
+Nr. <B>14</B>, S. 588, Nr. <B>15</B>, S. 595, Nr. <B>16</B>, S. 637, Nr. <B>22</B>, S. 862, Nr. <B>23</B>, S. 901,<LE/>
+Nr. <B>24</B>, S. 944
+</CELL></ROW>
+<ROW ciID="0179"><CELL>Operntheater <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>6</B>, S. 236, Nr. <B>8</B>, S. 317, Nr. <B>22</B>, S. 861
+</CELL></ROW>
+<ROW ciID="0180"><CELL>Deutsches Volkstheater <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>2</B>, S. 78, Nr. <B>3</B>, S. 117, Nr. <B>4</B>, S. 158, Nr. <B>6</B>, S. 236<LE/>
+Nr. <B>8</B>, S. 318, Nr. <B>20</B>, S. 783, Nr. <B>22</B>, S. 862, 863, Nr. <B>23</B>, S. 902, Nr. <B>24</B>, S. 944
+</CELL></ROW>
+<ROW ciID="0181"><CELL>Raimund-Theater <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>9</B>, S. 357, Nr. <B>20</B>, S. 783
+</CELL></ROW>
+<ROW ciID="0182"><CELL>Carltheater
+</CELL><CELL>Nr. <B>1</B>, S. 38, Nr. <B>7</B>, S. 277, Nr. <B>12</B>, S. 478, Nr. <B>15</B>, S. 595, Nr. <B>22</B>, S. 862
+</CELL></ROW>
+<ROW ciID="0183"><CELL>Arnau&#x2019;sche Theaterschule <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>6</B>, S. 237
+</CELL></ROW>
+<ROW ciID="0184"><CELL>Directionswechsel im Burgtheater <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>6</B>, S. 237
+</CELL></ROW>
+<ROW ciID="0185"><CELL>Anl&#xE4;sslich des Gastspieles der Yvette Guilbert <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>8</B>, S. 319
+</CELL></ROW>
+<ROW ciID="0186"><CELL>Helene Hartmann <SYMBOL type="died"/> <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>9</B>, S. 357
+</CELL></ROW>
+<ROW ciID="0187"><CELL>Marie Geistinger <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>12</B>, S. 479
+</CELL></ROW>
+<ROW ciID="0188"><CELL>Die Neugestaltung der Schauspielschule am Conservatorium <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>16</B>, S. 637
+</CELL></ROW>
+<ROW ciID="0189"><CELL>Wiener Freie B&#xFC;hne <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>18</B>, S. 712
+</CELL></ROW>
+<ROW ciID="0190"><CELL>Die Censur <SYMBOL type="dots"/>
+</CELL><CELL>Nr. <B>20</B>, S. 783
+</CELL></ROW>
+<ROW ciID="0191"><CELL colspan="2"><TITLE titleID="tiID_2432_00004"><TITLEPART><B>B&#xFC;cher.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0192"><CELL colspan="2"><SPC>Bauer</SPC>, &#xBB;An Paul Schlenther&#xAB; Nr. <B>8</B>, S. 320; <SPC>B&#xF6;lsche</SPC>, &#xBB;Das Liebesleben in<LE/>
+der Natur&#xAB; Nr. <B>22</B>, S. 864; <SPC>Bruns</SPC>, &#xBB;Aus meinem Blute&#xAB; Nr. <B>23</B>, S. 903; <SPC><HYPH1 cont="Cantacuz&#xE8;ne">Canta-</HYPH1><LE/>
+<HYPH2>cuz&#xE8;ne</HYPH2></SPC>, <LANG iso="fr">&#xBB;La steppe&#xAB;</LANG> Nr. <B>4</B>, S. 158; <SPC>Christomanos</SPC>, &#xBB;Die graue Frau&#xAB; Nr. <B>18</B>,<LE/>
+S. 710; <SPC>Fischer</SPC> &amp; <SPC>Franke</SPC>, &#xBB;Bibliothek f&#xFC;r B&#xFC;cherliebhaber&#xAB;, Nr. <B>4</B>, S. 159,<LE/>
+<SPC>Garborg</SPC>, &#xBB;Paulus&#xAB; Nr. <B>22</B>, S. 864; <SPC>Graf</SPC>, &#xBB;Deutsche Musik im <DATERANGE>19. Jahrhundert</DATERANGE>&#xAB;<LE/>
+Nr. <B>16</B>, S. 639; <SPC>Guth</SPC>, &#xBB;Draussen im Leben&#xAB; Nr. <B>9</B>, S. 358; <SPC>Hardt</SPC>, &#xBB;Priester<LE/>
+des Todes&#xAB; Nr. <B>19</B>, S. 747; <SPC>Herzfeld</SPC>, &#xBB;Die skandinavische Literatur und ihre<LE/>
+Tendenzen nebst anderen Essays&#xAB; Nr. <B>11</B>, S. 438; <SPC>K&#xE4;mmel</SPC>, &#xBB;Der Werdegang<LE/>
+des deutschen Volkes&#xAB; Nr. <B>15</B>, S. 598; <SPC>Key</SPC>, &#xBB;Missbrauchte Frauenkraft&#xAB; Nr. <B>15</B>,<LE/>
+S. 596; <SPC>Levetzows</SPC> &#xBB;Neueste Dichtungen&#xAB; Nr. <B>3</B>, S. 117; <SPC>Lie</SPC>, &#xBB;Troll&#xAB; Nr. <B>7</B>,<LE/>
+S. 280; <SPC>Maeterlinck</SPC>, <LANG iso="fr">&#xBB;La sagesse et la destin&#xE9;e&#xAB;</LANG> Nr. <B>21</B>, S. 824; <SPC>M&#xF6;ller</SPC>,<LE/>
+&#xBB;Todtentanz&#xAB; Nr. <B>19</B>, S. 747; <SPC>M&#xF6;rner</SPC>, &#xBB;Allerh&#xF6;chst Plaisir&#xAB; Nr. <B>17</B>, S. 676;<LE/>
+<SPC>Pr&#xE9;vost</SPC>, &#xBB;Eine Pariser Ehe&#xAB; <ADD>Nr.</ADD><B>12</B><ADD>,</ADD> 480; <SPC>Przybyszewski</SPC>, &#xBB;&#xDC;ber Bord&#xAB; Nr. <B>4</B>,
+</CELL></ROW>
+</TABLE>
+</PAGE>

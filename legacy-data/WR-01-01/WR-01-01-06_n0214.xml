@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-06_n0213.xml</PREV>
+<NEXT>WR-01-01-06_n0215.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 214</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>2</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">214</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<P part="final" parID="01678">Ich liess &#xFC;berall im Lande und bis auf das Meer hinaus<LE/>
+nach ihm suchen. Man fand ihn nicht. So hoffte ich <HYPH1 cont="wenigstens">wenig-</HYPH1><LE/>
+<HYPH2>stens</HYPH2> diejenigen zu retten, die er, ohne es zu wissen,<LE/>
+hatte leiden lassen, denn er war immer der weichste der<LE/>
+M&#xE4;nner und der beste der V&#xE4;ter, aber ich glaube, auch<LE/>
+daf&#xFC;r zu sp&#xE4;t gekommen zu sein. Ich weiss nicht, was<LE/>
+vorgefallen ist. Sie haben bisher nicht gesprochen. Als sie<LE/>
+das Klirren des Eisens h&#xF6;rten und pl&#xF6;tzlich das Licht wieder<LE/>
+sahen, glaubten sie ohne Zweifel, dass mein Vater die <HYPH1 cont="Henkersfrist">Henkers-</HYPH1><LE/>
+<HYPH2>frist</HYPH2> bedauerte, die er ihnen gew&#xE4;hrt hatte, und dass man<LE/>
+komme, ihnen den Tod zu bringen, oder sie glitten aus, als<LE/>
+sie auf dem Felsen zur&#xFC;ckwichen, welcher den See &#xFC;berragt,<LE/>
+und fielen aus Versehen hinab. Aber das Wasser ist nicht<LE/>
+tief an jener Stelle, und es gelang uns ohne M&#xFC;he, sie zu<LE/>
+retten. Ihr allein k&#xF6;nnt jetzt das Uebrige thun <SYMBOL type="3dots"/> <SD>(Palomides&#x2019;<LE/>
+Schwestern haben sich gen&#xE4;hert.)</SD></P>
+<DIV_END divEndID="deID_2397_00352" startPtr="WR-01-01-06_n0213.xml#//DIV_START[@divStartID='dsID_2397_00355']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00356" endPtr="WR-01-01-06_n0214.xml#//DIV_END[@divEndID='deID_2397_00353']"/>
+<P parID="01679"><SPK><SPC>Der Arzt</SPC></SPK>.</P>
+<P parID="01680"><TAB/>Sie leiden Beide an demselben Uebel, und zwar an<LE/>
+einem Uebel, das ich nicht kenne. Aber es bleibt mir wenig<LE/>
+Hoffnung. Sie werden sich in den unterirdischen Gew&#xE4;ssern<LE/>
+erk&#xE4;ltet haben; oder diese Gew&#xE4;sser sind wohl vergiftet.<LE/>
+Man fand darin den zersetzten Leichnam von Alladinens<LE/>
+Lamm. Ich komme diesen Abend wieder. Einstweilen <HYPH1 cont="bed&#xFC;rfen">be-</HYPH1><LE/>
+<HYPH2>d&#xFC;rfen</HYPH2> sie der Ruhe <SYMBOL type="3dots"/> Die Lebensfluth ebbt in ihren<LE/>
+Herzen <SYMBOL type="3dots"/> Betretet ihre Zimmer nicht und sprecht nicht<LE/>
+zu ihnen, denn das geringste Wort kann ihnen bei ihrer<LE/>
+Schw&#xE4;che den Tod bringen <SYMBOL type="3dots"/> Es w&#xE4;re nothwendig, dass<LE/>
+sie dahin gelangten, einander zu vergessen. <SD>(Geht fort.)</SD></P>
+<DIV_END divEndID="deID_2397_00353" startPtr="WR-01-01-06_n0214.xml#//DIV_START[@divStartID='dsID_2397_00356']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00357" endPtr="WR-01-01-06_n0214.xml#//DIV_END[@divEndID='deID_2397_00354']"/>
+<P parID="01681"><SPK><SPC>Eine von Palomides</SPC>&#x2019; <SPC>Schwestern</SPC></SPK>.</P>
+<P parID="01682"><TAB/>Ich sehe, er wird sterben <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00354" startPtr="WR-01-01-06_n0214.xml#//DIV_START[@divStartID='dsID_2397_00357']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00358" endPtr="WR-01-01-06_n0214.xml#//DIV_END[@divEndID='deID_2397_00355']"/>
+<P parID="01683"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="01684"><TAB/>Nein, nein <SYMBOL type="3dots"/> weint nicht <SYMBOL type="3dots"/> in seinem Alter stirbt<LE/>
+man nicht so leicht <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00355" startPtr="WR-01-01-06_n0214.xml#//DIV_START[@divStartID='dsID_2397_00358']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00359" endPtr="WR-01-01-06_n0214.xml#//DIV_END[@divEndID='deID_2397_00356']"/>
+<P parID="01685"><SPK><SPC>Eine andere Schwester</SPC></SPK>.</P>
+<P parID="01686"><TAB/>Aber warum war Euer Vater gegen meinen armen<LE/>
+Bruder ohne Grund so erz&#xFC;rnt?</P>
+<DIV_END divEndID="deID_2397_00356" startPtr="WR-01-01-06_n0214.xml#//DIV_START[@divStartID='dsID_2397_00359']"/>
+</PAGE>

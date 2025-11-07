@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0413.xml</PREV>
+<NEXT>WR-03-02-17_n0415.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 414</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: BLAUBART UND ARIANE.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2434_01030" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01027']"/>
+<P parID="04923"><SPK>MELISANDE</SPK><LE/>
+<SD>(reicht ihr das andre Messer)</SD>:</P>
+<P parID="04924"><TAB/>Hier ist das andere.</P>
+<DIV_END divEndID="deID_2434_01027" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01030']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01031" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01028']"/>
+<P parID="04925"><SPK>ARIANE</SPK>:</P>
+<P parID="04926"><TAB/>Danke.</P>
+<DIV_END divEndID="deID_2434_01028" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01031']"/>
+<P parID="04927"><SD>(Sie schneidet die letzten Stricke durch. Tonloses Schweigen, in dem man die Herzen<LE/>
+pochen h&#xF6;rt. Als Blaubart sich frei f&#xFC;hlt, setzt er sich langsam aufrecht, streckt<LE/>
+seine eingeschn&#xFC;rten Arme aus, bewegt die Arme, blickt alle Anwesenden aufmerksam<LE/>
+an, ohne zu sprechen, steht dann auf und lehnt sich unbeweglich an die Wand,<LE/>
+seine wunde Hand betrachtend.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_01032" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01029']"/>
+<P parID="04928"><SPK>ARIANE</SPK><LE/>
+<SD>(tritt auf ihn zu)</SD>:</P>
+<P parID="04929"><TAB/>Lebe wohl! <SD>(Sie gibt ihm einen Kuss auf die Stirn. Blaubart macht <HYPH1 cont="unwillk&#xFC;rlich">unwill-</HYPH1><LE/>
+<HYPH2>k&#xFC;rlich</HYPH2> eine Bewegung, als wollte er sie zur&#xFC;ckhalten. Sie macht sich sanft los und<LE/>
+schreitet der Th&#xFC;r zu, von der Amme gefolgt.)</SD></P>
+<DIV_END divEndID="deID_2434_01029" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01032']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01033" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01030']"/>
+<P parID="04930"><SPK>S&#xC9;LYSETTE</SPK><LE/>
+<SD>(st&#xFC;rzt hinter ihr her und h&#xE4;lt sie zur&#xFC;ck)</SD>:</P>
+<P parID="04931"><TAB/>Ariane, Ariane, wo gehst Du hin? <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01030" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01033']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01034" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01031']"/>
+<P parID="04932"><SPK>ARIANE</SPK>:</P>
+<P parID="04933"><TAB/>Weit von hier <SYMBOL type="3dots"/> wo man meiner noch harrt. Begleitest Du mich,<LE/>
+S&#xE9;lysette? <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01031" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01034']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01035" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01032']"/>
+<P parID="04934"><SPK>S&#xC9;LYSETTE</SPK>:</P>
+<P parID="04935"><TAB/>Wann kommst Du wieder?</P>
+<DIV_END divEndID="deID_2434_01032" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01035']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01036" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01033']"/>
+<P parID="04936"><SPK>ARIANE</SPK>:</P>
+<P parID="04937"><TAB/>Ich komme nie wieder.</P>
+<DIV_END divEndID="deID_2434_01033" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01036']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01037" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01034']"/>
+<P parID="04938"><SPK>MELISANDE</SPK>:</P>
+<P parID="04939"><TAB/>Ariane! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01034" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01037']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01038" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01035']"/>
+<P parID="04940"><SPK>ARIANE</SPK>:</P>
+<P parID="04941"><TAB/>Begleitest Du mich, Melisande? <SD>(Melisande blickt abwechselnd auf Blaubart<LE/>
+und Ariane und antwortet nicht.)</SD> Sieh, das Thor ist offen und die Fluren sind<LE/>
+blau <SYMBOL type="3dots"/> Kommst Du nicht, Ygraine? <SD>(Ygraine wendet nicht einmal das Haupt.)</SD><LE/>
+Der Mond und die Sterne leuchten auf allen Strassen. Kommst Du, Bellang&#xE8;re?</P>
+<DIV_END divEndID="deID_2434_01035" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01038']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01039" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01036']"/>
+<P parID="04942"><SPK>BELLANG&#xC8;RE</SPK><LE/>
+<SD>(kalt)</SD>:</P>
+<P parID="04943"><TAB/>Nein!</P>
+<DIV_END divEndID="deID_2434_01036" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01039']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_01040" endPtr="WR-03-02-17_n0414.xml#//DIV_END[@divEndID='deID_2434_01037']"/>
+<P parID="04944"><SPK>ARIANE</SPK>:</P>
+<P parID="04945"><TAB/>Soll ich allein gehen, Alladine? <SD>(Bei diesen Worten eilt Alladine auf sie zu,<LE/>
+wirft sich ihr an die Brust und h&#xE4;lt sie in krampfhaftem Schluchzen lange und<LE/>
+fiebernd umschlungen.)</SD> Bleib&#x2019; Du auch, Alladine <SYMBOL type="3dots"/> Lebt wohl, seid gl&#xFC;cklich <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_01037" startPtr="WR-03-02-17_n0414.xml#//DIV_START[@divStartID='dsID_2434_01040']"/>
+<P parID="04946"><SD>(Sie geht schnell, von der Amme gefolgt. Die Frauen blicken erst sie, dann Blaubart<LE/>
+an, der langsam den Kopf hebt. Bellang&#xE8;re und Ygraine zucken die Achseln und gehen,<LE/>
+die Th&#xFC;re zu schliessen. Schweigen. Der Vorhang f&#xE4;llt.)</SD></P>
+<DIV_END divEndID="deID_2434_01038" startPtr="WR-03-02-17_n0407.xml#//DIV_START[@divStartID='dsID_2434_00925']"/>
+<P parID="04947">ENDE.</P>
+<FT type="pn" num="414" c_text="&#x2014; 414 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-09_n0110.xml</PREV>
+<NEXT>WR-04-09_n0112.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 9, S. 111</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>GUNDOLF: STEFAN GEORGE, DER TEPPICH DES LEBENS.</CTEXT></HD>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2436_00211" endPtr="WR-04-09_n0111.xml#//DIV_END[@divEndID='deID_2436_00209']"/>
+<LG parID="01905"><L>Wir die als f&#xFC;rsten w&#xE4;hlen und verschm&#xE4;hn</L>
+<L>Und welten heben aus den alten angeln</L>
+<L>Wir sollen siech und todesm&#xFC;de sp&#xE4;hn</L>
+<L>Und denken dass des h&#xF6;chsten wir ermangeln &#x2014;</L></LG>
+<LG parID="01906"><L>Dass wir der Liebe treuste priester wol</L>
+<L>Sie suchen m&#xFC;ssen in verh&#xFC;lltem jammern</L>
+<L>Die augen weit von wilden feuern hohl &#x2014;</L>
+<L>Und wenn wir endlich unser gut umklammern</L></LG>
+<LG parID="01907"><L>Dass es verehrt gekr&#xF6;nt genossen kaum</L>
+<L>Den sinnen wieder fl&#xFC;chtet fahl und m&#xFC;rbe <SYMBOL type="2dots"/></L>
+<L>All unsre g&#xF6;tter schalten nur und schaum!</L>
+<L>&#xBB;Ich wei&#xDF; dass euer herz verblutend st&#xFC;rbe</L></LG>
+<LG parID="01908"><L>Wenn ich den spruch nicht kennte der es stillt:</L>
+<L>Da jedes bild vor dem ihr fleht und fliehet</L>
+<L>Durch euch so gross ist und durch euch so gilt <SYMBOL type="2dots"/></L>
+<L>Beweinet nicht zu sehr was ihr im liehet!&#xAB;</L></LG>
+<DIV_END divEndID="deID_2436_00209" startPtr="WR-04-09_n0111.xml#//DIV_START[@divStartID='dsID_2436_00211']"/>
+<SEPARATOR type="hr"/>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2436_00212" endPtr="WR-04-09_n0111.xml#//DIV_END[@divEndID='deID_2436_00210']"/>
+<LG parID="01909"><L>So werd ich immer harren und verschmachten</L>
+<L>Die Sonne steigt noch. Meine fahrt wird schlimm.</L>
+<L>&#xBB;Gepeinigt w&#xE4;rest du von gleichem trachten</L>
+<L>Auch wenn ich heut dir sagte: komm und nimm!</L></LG>
+<LG parID="01910"><L>Denn du gedeihst in k&#xE4;mpfen die dir ziemen</L>
+<L>Du weisst dass stets ein linder balsam fliesst</L>
+<L>Von meinem munde auf die blutigen Striemen</L>
+<L>Doch ist hier niemand der sie dauernd schliesst.&#xAB;</L></LG>
+<LG parID="01911"><L>Und die verehrend an mein knie getastet</L>
+<L>Und die ich lenke mit dem fingerzeig</L>
+<L>Und deren haupt an meiner brust gerastet?</L>
+<L>&#xBB;Die j&#xFC;nger lieben doch sind schwach und feig.&#xAB;</L></LG>
+<LG parID="01912"><L>So ring ich bis ans end allein? so weil ich</L>
+<L>Niemals versenkt im arm der treue? sprich</L>
+<L>&#xBB;Du machst dass ich vor mitleid zittre. Freilich</L>
+<L>Ist keiner der dir bleibt: nur du und ich.&#xAB;</L></LG>
+<DIV_END divEndID="deID_2436_00210" startPtr="WR-04-09_n0111.xml#//DIV_START[@divStartID='dsID_2436_00212']"/>
+<TABLE parID="01913"><ROW ciID="0463"><CELL>
+<P part="initial" parID="01914"><TAB/>Wenn das Vorspiel Leben und L&#xF6;sung<LE/>
+des Einzelnen zum Gegenstand hat, so<LE/>
+ist der Inhalt des &#xBB;Teppichs&#xAB; (des <HYPH1 cont="eigentlich">eigent-</HYPH1><LE/>
+<HYPH2>lich</HYPH2> beherrschenden Werks der drei <HYPH1 cont="Gedichtkreise">Gedicht-</HYPH1><LE/>
+<HYPH2>kreise</HYPH2>) die Entstehung der <HYPH1 cont="Menschheits-Cultur">Menschheits-</HYPH1><LE/>
+<HYPH2>Cultur</HYPH2> unter dem Gesichtspunkte der<LE/>
+Deutschen. Wir verstehen dabei unter<LE/>
+Cultur die v&#xF6;llige Freiheit und Sicherheit<LE/>
+der einem Volke gem&#xE4;&#xDF;en <HYPH1 cont="Lebens&#xE4;usserungen">Lebens&#xE4;usse-</HYPH1><LE/>
+<HYPH2>rungen</HYPH2> (am Einzelnen heisst es &#xBB;Stil&#xAB;),</P>
+</CELL><CELL>
+<P part="final" parID="01915">unter Entwicklung zur Cultur den Drang<LE/>
+aus ungem&#xE4;&#xDF;en &#xE4;u&#xDF;eren oder inneren<LE/>
+Zust&#xE4;nden. An seinen einzelnen Typen<LE/>
+wird das Ganze deutlich: so gestaltet der<LE/>
+&#xBB;Teppich&#xAB; diese einzelnen selbst als <HYPH1 cont="k&#xFC;nstlerische">k&#xFC;nst-</HYPH1><LE/>
+<HYPH2>lerische</HYPH2> Gebilde und stellt aus vielen<LE/>
+Einzelentwicklungen, welche ineinander<LE/>
+&#xFC;bergreifen, die Gesammtentwicklung dar.</P>
+<P parID="01916"><TAB/>Ein poetisches Geleitwort, fast <HYPH1 cont="programmatisch">pro-</HYPH1><LE/>
+<HYPH2>grammatisch</HYPH2>, er&#xF6;ffnet das Ganze.</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="111" c_text="&#x2014; 111 &#x2014;"/>
+</PAGE>

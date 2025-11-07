@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0205.xml</PREV>
+<NEXT>WR-04-12_n0207.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 206</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2436_00604" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00601']"/>
+<P parID="02872"><TAB/><SPK>HERODES</SPK>: Du h&#xF6;rst, was deine Tochter sagt. Sie will f&#xFC;r mich tanzen. Du<LE/>
+thust recht, wenn du f&#xFC;r mich tanzest, Salome. Und wenn du f&#xFC;r mich getanzt<LE/>
+hast, vergiss nicht, von mir zu begehren, was zu begehren dir in den Sinn kommen<LE/>
+mag. Alles, was du verlangst, werde ich dir geben, und w&#xE4;re es die H&#xE4;lfte meines<LE/>
+K&#xF6;nigreichs. Ich habe es geschworen &#x2014; oder nicht?</P>
+<DIV_END divEndID="deID_2436_00601" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00604']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00605" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00602']"/>
+<P parID="02873"><TAB/><SPK>SALOME</SPK>: Du hast es geschworen, Tetrarch!</P>
+<DIV_END divEndID="deID_2436_00602" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00605']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00606" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00603']"/>
+<P parID="02874"><TAB/><SPK>HERODES</SPK>: Und ich habe immer mein Wort gehalten. Ich bin keiner von<LE/>
+Denen, die ihre Eide brechen. Ich verstehe mich nicht aufs L&#xFC;gen. Ich bin der<LE/>
+Sclave meiner Worte, und mein Wort ist das Wort eines K&#xF6;nigs. Der K&#xF6;nig von<LE/>
+Cappadocien trug immer L&#xFC;gen im Mund, aber er ist kein echter K&#xF6;nig. Er ist ein<LE/>
+Wicht. Er schuldet mir auch Geld, das er nicht heimzahlt. Er hat sogar meine<LE/>
+Gesandten beleidigt. Er hat Worte gesprochen, die kr&#xE4;nkend waren. Aber C&#xE4;sar<LE/>
+wird ihn ans Kreuz schlagen lassen, wenn er nach Rom kommt. Ich wei&#xDF;, C&#xE4;sar<LE/>
+wird ihn kreuzigen lassen. Und wenn er ihn nicht kreuzigen l&#xE4;sst, wird er doch<LE/>
+sterben und von den W&#xFC;rmern gefressen werden. Der Prophet hat es prophezeit.<LE/>
+Nun! Warum z&#xF6;gerst du, Salome?</P>
+<DIV_END divEndID="deID_2436_00603" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00606']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00607" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00604']"/>
+<P parID="02875"><TAB/><SPK>SALOME</SPK>: Ich warte, bis meine Sclavinnen mir Salben und die sieben Schleier<LE/>
+bringen und die Sandalen von meinen F&#xFC;&#xDF;en l&#xF6;sen.</P>
+<DIV_END divEndID="deID_2436_00604" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00607']"/>
+<P parID="02876"><SD>(<SPK>SCLAVEN</SPK> bringen Salben und die sieben Schleier und nehmen Salome die Sandalen ab.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_00608" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00605']"/>
+<P parID="02877"><TAB/><SPK>HERODES</SPK>: Ah, du wirst mit nackten F&#xFC;&#xDF;en tanzen! &#x2019;s ist gut! &#x2019;s ist gut!<LE/>
+Deine kleinen F&#xFC;&#xDF;e werden wie wei&#xDF;e Tauben sein. Sie werden wie kleine wei&#xDF;e<LE/>
+Blumen sein, die auf B&#xE4;umen tanzen <SYMBOL type="3dots"/> Nein, nein, sie wird auf Blut tanzen!<LE/>
+Da auf dem Boden ist Blut vergossen! Sie soll nicht auf Blut tanzen! Es w&#xE4;re ein<LE/>
+b&#xF6;ses Zeichen.</P>
+<DIV_END divEndID="deID_2436_00605" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00608']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00609" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00606']"/>
+<P parID="02878"><TAB/><SPK>HERODIAS</SPK>: Was k&#xFC;mmert es dich, ob sie auf Blut tanzt? Du hast tief genug<LE/>
+darin gewatet <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2436_00606" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00609']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00610" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00607']"/>
+<P parID="02879"><TAB/><SPK>HERODES</SPK>: Was k&#xFC;mmert es mich? Ah, sieh&#x2019; den Mond an! Er ist roth<LE/>
+geworden. Er ist roth geworden wie Blut. Ah, der Prophet hat wahr prophezeit. Er<LE/>
+prophezeite, dass der Mond wie Blut werden w&#xFC;rde. Hat er das nicht prophezeit? Ihr<LE/>
+alle habt geh&#xF6;rt, wie er es prophezeite. Und jetzt ist der Mond wie Blut geworden.<LE/>
+Seht ihr es nicht?</P>
+<DIV_END divEndID="deID_2436_00607" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00610']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00611" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00608']"/>
+<P parID="02880"><TAB/><SPK>HERODIAS</SPK>: O ja, ich sehe es gut, und die Sterne fallen wie unreife Feigen,<LE/>
+nicht? Und die Sonne wird finster wie ein schwarzes Tuch, und die K&#xF6;nige der<LE/>
+Erde erzittern. Das wenigstens kann man sehen. Darin wenigstens hat der Prophet<LE/>
+Recht behalten mit seinem Wort, denn f&#xFC;rwahr, die K&#xF6;nige der Erde zittern <SYMBOL type="3dots"/><LE/>
+Wir wollen hineingehen. Du bist krank. Sie werden in Rom sagen, dass du verr&#xFC;ckt<LE/>
+bist. Wir wollen hineingehen, sage ich.</P>
+<DIV_END divEndID="deID_2436_00608" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00611']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00612" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00609']"/>
+<P parID="02881"><TAB/><SPK>DIE STIMME DES JOCHANAAN</SPK>: Wer ist Der, der von Edom kommt, wer<LE/>
+ist Der, der von Bozra kommt, dessen Kleid mit Purpur gef&#xE4;rbt ist, der in der<LE/>
+Sch&#xF6;nheit seiner Gew&#xE4;nder leuchtet, der m&#xE4;chtig in seiner Gr&#xF6;&#xDF;e wandelt? Warum<LE/>
+ist dein Kleid mit Scharlach gefleckt?</P>
+<DIV_END divEndID="deID_2436_00609" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00612']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00613" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00610']"/>
+<P parID="02882"><TAB/><SPK>HERODIAS</SPK>: Wir wollen hineingehen. Die Stimme dieses Menschen macht<LE/>
+mich wahnsinnig. Ich will nicht haben, dass meine Tochter tanze, w&#xE4;hrend er <HYPH1 cont="fortw&#xE4;hrend">fort-</HYPH1><LE/>
+<HYPH2>w&#xE4;hrend</HYPH2> dazwischenschreit. Ich will nicht, dass sie tanze, w&#xE4;hrend du sie auf solche<LE/>
+Art ansiehst. Mit einem Wort, ich will nicht haben, dass sie tanze.</P>
+<DIV_END divEndID="deID_2436_00610" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00613']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00614" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00611']"/>
+<P parID="02883"><TAB/><SPK>HERODES</SPK>: Steh&#x2019; nicht auf, mein Weib, meine K&#xF6;nigin, es wird dir nichts<LE/>
+helfen. Ich gehe nicht hinein, bevor sie nicht getanzt hat. Tanze, Salome, tanze<LE/>
+f&#xFC;r mich!</P>
+<DIV_END divEndID="deID_2436_00611" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00614']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00615" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00612']"/>
+<P parID="02884"><TAB/><SPK>HERODIAS</SPK>: Tanze nicht, meine Tochter!</P>
+<DIV_END divEndID="deID_2436_00612" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00615']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00616" endPtr="WR-04-12_n0206.xml#//DIV_END[@divEndID='deID_2436_00613']"/>
+<P parID="02885"><TAB/><SPK>SALOME</SPK>: Ich bin bereit, Tetrarch.</P>
+<DIV_END divEndID="deID_2436_00613" startPtr="WR-04-12_n0206.xml#//DIV_START[@divStartID='dsID_2436_00616']"/>
+<P parID="02886"><SD>(<SPK>SALOME</SPK> <SPC>tanzt den Tanz der sieben Schleier</SPC>.)</SD></P>
+<FT type="pn" num="206" c_text="&#x2014; 206 &#x2014;"/>
+</PAGE>

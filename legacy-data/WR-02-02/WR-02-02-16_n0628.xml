@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-16_n0627.xml</PREV>
+<NEXT>WR-02-02-16_n0629.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 16, S. 628</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>7</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2433_00179" endPtr="WR-02-02-16_n0629.xml#//DIV_END[@divEndID='deID_2433_00180']"/>
+<TITLE titleID="tiID_2433_00056"><TITLEPART><SPC>RIESENGEBIRGE</SPC>.</TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2433_00180" endPtr="WR-02-02-16_n0628.xml#//DIV_END[@divEndID='deID_2433_00178']"/>
+<TITLE titleID="tiID_2433_00057"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="00978"><L>Du tratest oft im Traum zu mir,</L>
+<L>Viel Leid und N&#xE4;chte trennten mich</L>
+<L>Von Deinem Frieden.</L>
+<L>O wenn es hienieden</L>
+<L>Sehnsucht gibt,</L>
+<L>So war sie bei Dir.</L></LG>
+<LG parID="00979"><L>Und blick&#x2019; ich heute</L>
+<L>Hinaus auf der Berge</L>
+<L>M&#xE4;chtige Ruhe,</L>
+<L>In der Th&#xE4;ler</L>
+<L>Bl&#xFC;hendes Gl&#xFC;ck,</L>
+<L>So wendet der Blick</L>
+<L>Sich dennoch in mich selbst zur&#xFC;ck.</L></LG>
+<LG parID="00980"><L>Wenn alle sich einen</L>
+<L>Dir Liebe zu bringen,</L>
+<L>Das ruh&#x2019;los st&#xFC;rmende Herz</L>
+<L>In Schlaf zu singen &#x2014;</L>
+<L>Wie kannst Du noch weinen?</L></LG>
+<DIV_END divEndID="deID_2433_00178" startPtr="WR-02-02-16_n0628.xml#//DIV_START[@divStartID='dsID_2433_00180']"/>
+</PAGE>

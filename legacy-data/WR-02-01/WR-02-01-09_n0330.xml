@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-09_n0329.xml</PREV>
+<NEXT>WR-02-01-09_n0331.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 330</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">330</LTEXT><CTEXT>HOFMANNSTHAL.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2432_00509" endPtr="WR-02-01-09_n0330.xml#//DIV_END[@divEndID='deID_2432_00507']"/>
+<P parID="02329"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02330"><L>Centauren seh&#x2019; ich einen nahen, J&#xFC;ngling noch,</L>
+<L>Ein sch&#xF6;ner Gott mir scheinend, wenn auch halb ein Thier,</L>
+<L>Und aus dem Hain, entlang das Ufer, traben her.</L></LG>
+<DIV_END divEndID="deID_2432_00507" startPtr="WR-02-01-09_n0330.xml#//DIV_START[@divStartID='dsID_2432_00509']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00510" endPtr="WR-02-01-09_n0330.xml#//DIV_END[@divEndID='deID_2432_00508']"/>
+<P parID="02331"><SPK><SPC>Der Centaur</SPC></SPK>.<LE/>
+<SD>(Einen Speer in der Hand, den er dem Schmied hinh&#xE4;lt.)</SD></P>
+<LG parID="02332"><L>Find&#x2019; ich dem stumpfgeword&#x2019;nen Speere Heilung hier</L>
+<L>Und neue Spitze der geschwung&#x2019;nen Wucht? Verk&#xFC;nd&#x2019;!</L></LG>
+<DIV_END divEndID="deID_2432_00508" startPtr="WR-02-01-09_n0330.xml#//DIV_START[@divStartID='dsID_2432_00510']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00511" endPtr="WR-02-01-09_n0330.xml#//DIV_END[@divEndID='deID_2432_00509']"/>
+<P parID="02333"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="02334"><L>Ob deinesgleichen auch, dich selber sah ich nie.</L></LG>
+<DIV_END divEndID="deID_2432_00509" startPtr="WR-02-01-09_n0330.xml#//DIV_START[@divStartID='dsID_2432_00511']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00512" endPtr="WR-02-01-09_n0330.xml#//DIV_END[@divEndID='deID_2432_00510']"/>
+<P parID="02335"><SPK><SPC>Der Centaur</SPC></SPK>.</P>
+<LG parID="02336"><L>Zum erstenmale lockten mir den Lauf</L>
+<L>Nach Eu&#x2019;rem Dorf Bed&#xFC;rfniss, das du kennst</L></LG>
+<DIV_END divEndID="deID_2432_00510" startPtr="WR-02-01-09_n0330.xml#//DIV_START[@divStartID='dsID_2432_00512']"/>.
+<DIV_START cat="speech" divStartID="dsID_2432_00513" endPtr="WR-02-01-09_n0330.xml#//DIV_END[@divEndID='deID_2432_00511']"/>
+<P parID="02337"><SPK><SPC>Der Schmied</SPC></SPK>.</P>
+<LG parID="02338"><L>Ihm soll</L>
+<L>In Kurzem abgeholfen sein. Indess erz&#xE4;hlst</L>
+<L>Du, wenn du dir den Dank der Frau verdienen willst,</L>
+<L>Von fremden Wundern, die du wohl geseh&#x2019;n, wovon</L>
+<L>Hieher nicht Kunde dringt, wenn nicht ein Wunder kommt.</L></LG>
+<DIV_END divEndID="deID_2432_00511" startPtr="WR-02-01-09_n0330.xml#//DIV_START[@divStartID='dsID_2432_00513']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00514" endPtr="WR-02-01-09_n0330.xml#//DIV_END[@divEndID='deID_2432_00512']"/>
+<P parID="02339"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02340"><L>Ich reiche dir zuerst den vollen Schlauch: Er ist</L>
+<L>Mit k&#xFC;hlem, s&#xE4;uerlichem Apfelwein gef&#xFC;llt;</L>
+<L>Denn And&#x2019;rer ist uns nicht. Das n&#xE4;chste D&#xFC;rsten still&#x2019;</L>
+<L>Wohl etwa weit von hier aus bess&#x2019;rer Schale dir</L>
+<L>Mit heisserm Safte eine sch&#xF6;n&#x2019;re Frau als ich.</L></LG>
+<DIV_END divEndID="deID_2432_00512" startPtr="WR-02-01-09_n0330.xml#//DIV_START[@divStartID='dsID_2432_00514']"/>
+<P parID="02341"><SD>(Sie hat den Wein ans dem Schlauch in eine irdene Trinkschale gegossen, die er<LE/>
+langsam schl&#xFC;rft.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2432_00515" endPtr="WR-02-01-09_n0330.xml#//DIV_END[@divEndID='deID_2432_00513']"/>
+<P parID="02342"><SPK><SPC>Der Centaur</SPC></SPK>.</P>
+<LG parID="02343"><L>Die allgemeinen Strassen zog ich nicht und mied</L>
+<L>Der Hafenpl&#xE4;tze viel vermengendes Gew&#xFC;hl,</L>
+<L>Wo Einer leicht von Schiffern bunte M&#xE4;r&#x2019; erf&#xE4;hrt.</L>
+<L>Die &#xF6;den Haiden w&#xE4;hlte ich zum Tagesweg,</L>
+<L>Flamingos nur und schwarze Stiere st&#xF6;rend auf,</L>
+<L>Und stampfte Nachts das Haidekraut dahin im Duft,</L>
+<L>Das hyacinth&#x2019;ne Dunkel &#xFC;ber mir.</L>
+<L>Zuweilen kam ich wandernd einem Hain vorbei,</L>
+<L>Wo sich zu fl&#xFC;chtig eigensinn&#x2019;ger Lust gewillt,</L>
+<L>Aus einem Schw&#xE4;rme von Najaden eine mir</L>
+<L>F&#xFC;r eine Strecke Wegs gesellte, die ich dann</L>
+<L>An einen jungen Satyr wiederum verlor,</L>
+<L>Der syrinxblasend, lockend wo am Wege sass.</L></LG>
+<DIV_END divEndID="deID_2432_00513" startPtr="WR-02-01-09_n0330.xml#//DIV_START[@divStartID='dsID_2432_00515']"/>
+</PAGE>

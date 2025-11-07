@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-02_n0041.xml</PREV>
+<NEXT>WR-01-01-02_n0043.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 42</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">42</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<P part="final" parID="00236">die sie vorstellen, und ich vermag ihre Stimmen zu <HYPH1 cont="unterscheiden">unter-</HYPH1><LE/>
+<HYPH2>scheiden</HYPH2> <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00061" startPtr="WR-01-01-02_n0041.xml#//DIV_START[@divStartID='dsID_2397_00065']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00066" endPtr="WR-01-01-02_n0042.xml#//DIV_END[@divEndID='deID_2397_00062']"/>
+<P parID="00237"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00238"><TAB/>Ich weiss es <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00062" startPtr="WR-01-01-02_n0042.xml#//DIV_START[@divStartID='dsID_2397_00066']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00067" endPtr="WR-01-01-02_n0042.xml#//DIV_END[@divEndID='deID_2397_00063']"/>
+<P parID="00239"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00240"><TAB/>Verzeiht, ich wiederhole zuweilen ein und dasselbe, mein<LE/>
+Ged&#xE4;chtniss ist nicht mehr so treu <SYMBOL type="3dots"/> Es ist nicht das Alter;<LE/>
+ich bin noch kein Greis, dem Himmel sei Dank, doch K&#xF6;nige<LE/>
+haben tausend Sorgen. Palomides hat mir seine Erlebnisse<LE/>
+erz&#xE4;hlt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00063" startPtr="WR-01-01-02_n0042.xml#//DIV_START[@divStartID='dsID_2397_00067']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00068" endPtr="WR-01-01-02_n0042.xml#//DIV_END[@divEndID='deID_2397_00064']"/>
+<P parID="00241"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00242"><TAB/>Ah!</P>
+<DIV_END divEndID="deID_2397_00064" startPtr="WR-01-01-02_n0042.xml#//DIV_START[@divStartID='dsID_2397_00068']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00069" endPtr="WR-01-01-02_n0042.xml#//DIV_END[@divEndID='deID_2397_00065']"/>
+<P parID="00243"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00244"><TAB/>Er hat nicht das gethan, was er thun sollte; die jungen<LE/>
+Leute haben keine Willenskraft mehr. &#x2014; Ich wundere mich<LE/>
+&#xFC;ber ihn. Unter Tausenden hatte ich ihn f&#xFC;r meine Tochter<LE/>
+gew&#xE4;hlt. Sie bedurfte einer ebenso tiefen Seele wie die ihre. &#x2014;<LE/>
+Er hat nichts gethan, was nicht entschuldbar w&#xE4;re, aber ich<LE/>
+hatte mehr erhofft <SYMBOL type="3dots"/> Was denkst du von ihm?</P>
+<DIV_END divEndID="deID_2397_00065" startPtr="WR-01-01-02_n0042.xml#//DIV_START[@divStartID='dsID_2397_00069']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00070" endPtr="WR-01-01-02_n0042.xml#//DIV_END[@divEndID='deID_2397_00066']"/>
+<P parID="00245"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00246"><TAB/>Von wem?</P>
+<DIV_END divEndID="deID_2397_00066" startPtr="WR-01-01-02_n0042.xml#//DIV_START[@divStartID='dsID_2397_00070']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00071" endPtr="WR-01-01-02_n0042.xml#//DIV_END[@divEndID='deID_2397_00067']"/>
+<P parID="00247"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00248"><TAB/>Von Palomides.</P>
+<DIV_END divEndID="deID_2397_00067" startPtr="WR-01-01-02_n0042.xml#//DIV_START[@divStartID='dsID_2397_00071']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00072" endPtr="WR-01-01-02_n0042.xml#//DIV_END[@divEndID='deID_2397_00068']"/>
+<P parID="00249"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00250"><TAB/>Ich habe ihn nur einen Abend gesehen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00068" startPtr="WR-01-01-02_n0042.xml#//DIV_START[@divStartID='dsID_2397_00072']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00073" endPtr="WR-01-01-02_n0043.xml#//DIV_END[@divEndID='deID_2397_00069']"/>
+<P parID="00251"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P part="initial" parID="00252"><TAB/>Ich wundere mich &#xFC;ber ihn. &#x2014; Alles ist ihm bisher<LE/>
+gelungen. Was er begann, vollendete er, ohne etwas zu sagen.<LE/>
+M&#xFC;helos entrann er der Gefahr, w&#xE4;hrend Andere keine Th&#xFC;re<LE/>
+&#xF6;ffnen k&#xF6;nnen, ohne den Tod dahinter zu finden. &#x2014; Er war<LE/>
+einer von denen, die die Ereignisse auf den Knien zu erwarten<LE/>
+scheinen. Aber seit einiger Zeit ist irgend etwas gebrochen.<LE/>
+Man k&#xF6;nnte glauben, er habe nicht mehr denselben Stern, und<LE/>
+jeder Schritt, den er thut, entferne ihn von sich selbst. &#x2014; Ich<LE/>
+weiss nicht, was es ist. &#x2014; Er scheint nichts davon zu sehen,<LE/>
+aber Fremde k&#xF6;nnen es bemerken <SYMBOL type="3dots"/> Doch sprechen wir von<LE/>
+etwas Anderem; da bricht die Nacht herein, l&#xE4;ngs der Mauern</P>
+</PAGE>

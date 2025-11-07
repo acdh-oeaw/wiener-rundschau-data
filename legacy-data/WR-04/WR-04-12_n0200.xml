@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0199.xml</PREV>
+<NEXT>WR-04-12_n0201.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 200</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2436_00470" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00467']"/>
+<P parID="02736"><TAB/><SPK>HERODES</SPK>: Schenkt mir Wein ein. <SD>(Es wird Wein gebracht.)</SD> Salome, komm&#x2019;,<LE/>
+trink&#x2019; Wein mit mir. Ich habe hier einen k&#xF6;stlichen Wein. C&#xE4;sar hat ihn mir selbst<LE/>
+geschickt. Tauche deine kleinen rothen Lippen hinein, dann will ich den Becher leeren.</P>
+<DIV_END divEndID="deID_2436_00467" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00470']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00471" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00468']"/>
+<P parID="02737"><TAB/><SPK>SALOME</SPK>: Ich bin nicht durstig, Tetrarch.</P>
+<DIV_END divEndID="deID_2436_00468" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00471']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00472" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00469']"/>
+<P parID="02738"><TAB/><SPK>HERODES</SPK>: H&#xF6;rst du, wie sie mir antwortet, diese deine Tochter?</P>
+<DIV_END divEndID="deID_2436_00469" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00472']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00473" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00470']"/>
+<P parID="02739"><TAB/><SPK>HERODIAS</SPK>: Sie hat recht. Warum stierst du sie immer an?</P>
+<DIV_END divEndID="deID_2436_00470" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00473']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00474" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00471']"/>
+<P parID="02740"><TAB/><SPK>HERODES</SPK>: Bringt reife Fr&#xFC;chte. <SD>(Es werden Fr&#xFC;chte gebracht.)</SD> Salome, komm&#x2019;,<LE/>
+iss mit mir von diesen Fr&#xFC;chten. Ich sehe den Abdruck deiner kleinen Z&#xE4;hne in<LE/>
+einer Frucht so gern. Bei&#xDF; nur ein wenig von dieser Frucht hier ab, dann will ich<LE/>
+essen, was &#xFC;brig ist.</P>
+<DIV_END divEndID="deID_2436_00471" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00474']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00475" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00472']"/>
+<P parID="02741"><TAB/><SPK>SALOME</SPK>: Ich bin nicht hungrig, Tetrarch.</P>
+<DIV_END divEndID="deID_2436_00472" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00475']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00476" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00473']"/>
+<P parID="02742"><TAB/><SPK>HERODES</SPK> <SD>(zu Herodias)</SD>: Du siehst, wie du diese deine Tochter erzogen hast.</P>
+<DIV_END divEndID="deID_2436_00473" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00476']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00477" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00474']"/>
+<P parID="02743"><TAB/><SPK>HERODIAS</SPK>: Meine Tochter und ich stammen aus k&#xF6;niglichem Blut. Du aber,<LE/>
+wei&#xDF;t du, dein Vater war Kameeltreiber! Dein Vater war ein Dieb und ein<LE/>
+R&#xE4;uber obendrein!</P>
+<DIV_END divEndID="deID_2436_00474" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00477']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00478" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00475']"/>
+<P parID="02744"><TAB/><SPK>HERODES</SPK>: Du l&#xFC;gst!</P>
+<DIV_END divEndID="deID_2436_00475" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00478']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00479" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00476']"/>
+<P parID="02745"><TAB/><SPK>HERODIAS</SPK>: Du wei&#xDF;t wohl, dass es wahr ist.</P>
+<DIV_END divEndID="deID_2436_00476" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00479']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00480" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00477']"/>
+<P parID="02746"><TAB/><SPK>HERODES</SPK>: Salome, komm&#x2019;, setz&#x2019; dich zu mir. Du sollst auf dem Thron<LE/>
+deiner Mutter sitzen.</P>
+<DIV_END divEndID="deID_2436_00477" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00480']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00481" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00478']"/>
+<P parID="02747"><TAB/><SPK>SALOME</SPK>: Ich bin nicht m&#xFC;de, Tetrarch.</P>
+<DIV_END divEndID="deID_2436_00478" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00481']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00482" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00479']"/>
+<P parID="02748"><TAB/><SPK>HERODIAS</SPK>: Du siehst, wie sie dich achtet.</P>
+<DIV_END divEndID="deID_2436_00479" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00482']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00483" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00480']"/>
+<P parID="02749"><TAB/><SPK>HERODES</SPK>: Bringt mir &#x2014; Was w&#xFC;nsche ich denn? Ich hab&#x2019; es vergessen.<LE/>
+Ah! Ah! Ich erinnere mich.</P>
+<DIV_END divEndID="deID_2436_00480" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00483']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00484" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00481']"/>
+<P parID="02750"><TAB/><SPK>DIE STIMME DES JOCHANAAN</SPK>: Siehe, die Zeit ist gekommen! Was ich<LE/>
+vorhersagte, ist eingetroffen. Der Tag, von dem ich sprach, ist da.</P>
+<DIV_END divEndID="deID_2436_00481" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00484']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00485" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00482']"/>
+<P parID="02751"><TAB/><SPK>HERODIAS</SPK>: Hei&#xDF;&#x2019; ihn schweigen. Ich will seine Stimme nicht h&#xF6;ren. Dieser<LE/>
+Mensch beschimpft mich fortw&#xE4;hrend.</P>
+<DIV_END divEndID="deID_2436_00482" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00485']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00486" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00483']"/>
+<P parID="02752"><TAB/><SPK>HERODES</SPK>: Er hat nichts gegen dich gesagt. &#xDC;berdies ist er ein sehr gro&#xDF;er<LE/>
+Prophet.</P>
+<DIV_END divEndID="deID_2436_00483" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00486']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00487" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00484']"/>
+<P parID="02753"><TAB/><SPK>HERODIAS</SPK>: Ich glaube nicht an Propheten. Kann jemand sagen, was sich<LE/>
+in Zukunft ereignen wird? Niemand wei&#xDF; das. Auch beschimpft er mich fortw&#xE4;hrend.<LE/>
+Aber ich glaube, du hast Angst vor ihm. Ich wei&#xDF; wohl, dass du Angst vor ihm hast.</P>
+<DIV_END divEndID="deID_2436_00484" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00487']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00488" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00485']"/>
+<P parID="02754"><TAB/><SPK>HERODES</SPK>: Ich habe keine Angst vor ihm. Ich habe vor niemandem Angst.</P>
+<DIV_END divEndID="deID_2436_00485" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00488']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00489" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00486']"/>
+<P parID="02755"><TAB/><SPK>HERODIAS</SPK>: Ich sage dir, du hast Angst vor ihm. Wenn du keine Angst vor<LE/>
+ihm hast, warum lieferst du ihn nicht den Juden aus, die seit sechs Monaten nach<LE/>
+ihm schreien?</P>
+<DIV_END divEndID="deID_2436_00486" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00489']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00490" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00487']"/>
+<P parID="02756"><TAB/><SPK>EIN JUDE</SPK>: Wahrhaftig, Herr, es w&#xE4;re besser, ihn in unsere H&#xE4;nde zu geben.</P>
+<DIV_END divEndID="deID_2436_00487" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00490']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00491" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00488']"/>
+<P parID="02757"><TAB/><SPK>HERODES</SPK>: Genug davon. Ich habe euch meine Antwort schon gegeben. Ich<LE/>
+werde ihn nicht in eure H&#xE4;nde geben. Er ist ein heiliger Mann. Er ist ein Mann,<LE/>
+der Gott geschaut hat.</P>
+<DIV_END divEndID="deID_2436_00488" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00491']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00492" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00489']"/>
+<P parID="02758"><TAB/><SPK>EIN JUDE</SPK>: Das kann nicht sein. Seit dem Propheten Elias hat niemand Gott<LE/>
+gesehen. Er war der letzte, der Gott von Angesicht zu Angesicht geschaut hat.<LE/>
+In unseren Tagen zeigt Gott sich nicht. Gott verbirgt sich. Darum ist gro&#xDF;es &#xDC;bel<LE/>
+&#xFC;ber das Land gekommen.</P>
+<DIV_END divEndID="deID_2436_00489" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00492']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00493" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00490']"/>
+<P parID="02759"><TAB/><SPK>EIN ANDERER JUDE</SPK>: In Wahrheit wei&#xDF; niemand, ob Elias in der That<LE/>
+Gott gesehen hat. M&#xF6;glicherweise war es nur der Schatten Gottes, was er sah.</P>
+<DIV_END divEndID="deID_2436_00490" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00493']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00494" endPtr="WR-04-12_n0200.xml#//DIV_END[@divEndID='deID_2436_00491']"/>
+<P parID="02760"><TAB/><SPK>EIN DRITTER JUDE</SPK>: Gott ist zu keiner Zeit verborgen. Er zeigt sich zu<LE/>
+allen Zeiten und an allen Orten. Gott ist in dem Schlimmen ebenso wie in dem Guten.</P>
+<DIV_END divEndID="deID_2436_00491" startPtr="WR-04-12_n0200.xml#//DIV_START[@divStartID='dsID_2436_00494']"/>
+<FT type="pn" num="200" c_text="&#x2014; 200 &#x2014;"/>
+</PAGE>

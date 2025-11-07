@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0091.xml</PREV>
+<NEXT>WR-01-01-03_n0093.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 92</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">92</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<P part="final" parID="00626"><SYMBOL type="3dots"/> H&#xF6;rt ihr? Es ist mein Vater <SYMBOL type="3dots"/> <SD>(Man h&#xF6;rt in der Ferne singen.)</SD><LE/>
+Verbergt euch hinter den Pfeilern <SYMBOL type="3dots"/> Er will nicht, dass<LE/>
+irgend Jemand &#xFC;ber diesen Gang geht. <SD>(Sie verbergen sich. <HYPH1 cont="Ablamore">Abla-</HYPH1><LE/>
+<HYPH2>more</HYPH2> tritt ein, indem er einen Bund grosser Schl&#xFC;ssel sch&#xFC;ttelt.)</SD></P>
+<DIV_END divEndID="deID_2397_00146" startPtr="WR-01-01-03_n0091.xml#//DIV_START[@divStartID='dsID_2397_00150']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00151" endPtr="WR-01-01-03_n0092.xml#//DIV_END[@divEndID='deID_2397_00147']"/>
+<P parID="00627"><SPK><SPC>Ablamore</SPC></SPK> <SD>(singt)</SD>.</P>
+<LG parID="00628"><L>Drei goldene Schl&#xFC;ssel das Ungl&#xFC;ck hat &#x2014;</L>
+<L>Befreite die K&#xF6;nigin nicht &#x2014;</L>
+<L>Drei goldene Schl&#xFC;ssel das Ungl&#xFC;ck hat &#x2014;</L>
+<L>Fahrt hin und folgt dem Gesicht.</L></LG>
+<DIV_END divEndID="deID_2397_00147" startPtr="WR-01-01-03_n0092.xml#//DIV_START[@divStartID='dsID_2397_00151']"/>
+<P parID="00629"><SD>(Er l&#xE4;sst sich &#xFC;berw&#xE4;ltigt auf eine Bank neben der Th&#xFC;re von Alladinens Gemach<LE/>
+nieder, singt noch eine Weile halblaut vor sich hin und schl&#xE4;ft alsbald mit <HYPH1 cont="herabh&#xE4;ngenden">herab-</HYPH1><LE/>
+<HYPH2>h&#xE4;ngenden</HYPH2> Armen und zur&#xFC;ckgefallenem Haupte ein.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00152" endPtr="WR-01-01-03_n0092.xml#//DIV_END[@divEndID='deID_2397_00148']"/>
+<P parID="00630"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00631"><TAB/>Kommt, kommt; macht keinen L&#xE4;rm. Er ist auf der<LE/>
+Bank eingeschlafen. Oh! mein armer alter Vater! Wie sein<LE/>
+Haar w&#xE4;hrend dieser Tage erbleicht ist! Er ist so schwach,<LE/>
+er ist so ungl&#xFC;cklich, dass selbst der Schlaf ihn nicht mehr<LE/>
+beschwichtigen kann. Drei volle Tage sind es nun her, dass<LE/>
+ich sein Antlitz nicht mehr anzublicken gewagt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00148" startPtr="WR-01-01-03_n0092.xml#//DIV_START[@divStartID='dsID_2397_00152']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00153" endPtr="WR-01-01-03_n0092.xml#//DIV_END[@divEndID='deID_2397_00149']"/>
+<P parID="00632"><SPK><SPC>Eine von Palomidens Schwestern</SPC></SPK>.</P>
+<P parID="00633"><TAB/>Er schl&#xE4;ft tief <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00149" startPtr="WR-01-01-03_n0092.xml#//DIV_START[@divStartID='dsID_2397_00153']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00154" endPtr="WR-01-01-03_n0092.xml#//DIV_END[@divEndID='deID_2397_00150']"/>
+<P parID="00634"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00635"><TAB/>Er schl&#xE4;ft tief, doch man sieht, dass seine Seele niemals<LE/>
+Ruhe findet <SYMBOL type="3dots"/> Die Sonne kommt und qu&#xE4;lt seine Augen<LE/>
+<SYMBOL type="3dots"/> Ich will seinen Mantel &#xFC;ber sein Angesicht breiten <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00150" startPtr="WR-01-01-03_n0092.xml#//DIV_START[@divStartID='dsID_2397_00154']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00155" endPtr="WR-01-01-03_n0092.xml#//DIV_END[@divEndID='deID_2397_00151']"/>
+<P parID="00636"><SPK><SPC>Eine andere Schwester</SPC></SPK>.</P>
+<P parID="00637"><TAB/>Nein, nein; r&#xFC;hrt ihn nicht an <SYMBOL type="3dots"/> er k&#xF6;nnte aus dem<LE/>
+Schlaf auffahren <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00151" startPtr="WR-01-01-03_n0092.xml#//DIV_START[@divStartID='dsID_2397_00155']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00156" endPtr="WR-01-01-03_n0092.xml#//DIV_END[@divEndID='deID_2397_00152']"/>
+<P parID="00638"><SPK><SPC>Astolaine</SPC></SPK>.</P>
+<P parID="00639"><TAB/>Es n&#xE4;hert sich Jemand auf dem Gange. Kommt, kommt,<LE/>
+stellt euch vor ihn <SYMBOL type="3dots"/> Verbergt ihn <SYMBOL type="3dots"/> In diesem Zustande<LE/>
+soll ihn kein Fremder sehen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00152" startPtr="WR-01-01-03_n0092.xml#//DIV_START[@divStartID='dsID_2397_00156']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00157" endPtr="WR-01-01-03_n0092.xml#//DIV_END[@divEndID='deID_2397_00153']"/>
+<P parID="00640"><SPK><SPC>Eine von Palomidens Schwestern</SPC></SPK>.</P>
+<P parID="00641"><TAB/>Es ist Palomides <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00153" startPtr="WR-01-01-03_n0092.xml#//DIV_START[@divStartID='dsID_2397_00157']"/>
+</PAGE>

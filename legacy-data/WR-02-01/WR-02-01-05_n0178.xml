@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-05_n0177.xml</PREV>
+<NEXT>WR-02-01-05_n0179.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 5, S. 178</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2432_00252" endPtr="WR-02-01-05_n0179.xml#//DIV_END[@divEndID='deID_2432_00251']"/>
+<TITLE titleID="tiID_2432_00064"><TITLEPART type="main">DAS FEST DER WITWE.</TITLEPART><LE/>
+<TITLEPART type="bystmt">(Aus <SOURCE><LANG iso="en">&#xBB;Barrack-Room-Ballads&#xAB;</LANG></SOURCE></TITLEPART> <TITLEPART type="bystmt">von <AUCTOR><C>Rudyard Kipling</C></AUCTOR>.)</TITLEPART><LE/>
+<TITLEPART type="desc">Uebersetzt von <AUCTOR type="translator"><C>Otto Sachs</C></AUCTOR>.</TITLEPART></TITLE>
+<LG parID="01254"><L>Wo war&#x2019;t ihr denn so lange fort?</L>
+<L>Johnnie, Johnnie!</L>
+<L>&#xBB;Bei einem Festmahl mit Jenen dort!&#xAB;</L>
+<L>Johnnie, lieb&#x2019; Johnnie, aha!</L>
+<L>&#xBB;Sie luden uns aus dem Casernenraum,</L>
+<L>Gott weiss, wohin; an der W&#xFC;ste Saum,</L>
+<L>Und &#x2014; refusiren kann man kaum &#x2014;&#xAB;</L>
+<L>Und die Witwe gab ein Gastmahl.</L>
+<L>(<SPC>Horn</SPC>: Ta-rara-ra-ra-rara!)</L></LG>
+<LG parID="01255"><L>Was kriegtet ihr denn? Verfluchtes Gl&#xFC;ck!</L>
+<L>Johnnie, Johnnie!</L>
+<L>&#xBB;Gestandenes Wasser, wie Tinte so dick!</L>
+<L>Johnnie, lieb&#x2019; Johnnie, aha!</L>
+<L>Das Rindfleisch, das lagerte schon drei Jahr&#x2019;,</L>
+<L>Wie Kautschuk z&#xE4;he das Hammelfleisch war &#x2014;</L>
+<L>Und ein H&#xFC;hnchen &#x2014; &#x201A;fing&#x2018; der Sergeant sogar &#x2014;&#xAB;</L>
+<L>Als die Witwe gab ein Gastmahl.</L></LG>
+<LG parID="01256"><L>Wie wurde denn nun das Diner servirt?</L>
+<L>Johnnie, Johnnie!</L>
+<L>Besteck haben selbst wir mit uns gef&#xFC;hrt,</L>
+<L>Johnnie, lieb&#x2019; Johnnie, aha!</L>
+<L>Da schnitt man und schabte und s&#xE4;gte entzwei,</L>
+<L>Und fetzte und kratzte und drehte dabei,</L>
+<L>Und war man dann fertig, so war&#x2019;s &#x2014; Schweinerei &#x2014;&#xAB;</L>
+<L>Als die Witwe gab ein Gastmahl..</L></LG>
+</PAGE>

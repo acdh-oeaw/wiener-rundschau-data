@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-17_n0328.xml</PREV>
+<NEXT>WR-05-17_n0330.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 17, S. 329</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>16</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>9</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ACHELIS: WILHELM WUNDT.</CTEXT></HD>
+<TABLE parID="07810"><ROW ciID="1244"><CELL>
+<DIV_START cat="speech" divStartID="dsID_2436_01398" endPtr="WR-05-17_n0329.xml#//DIV_END[@divEndID='deID_2436_01396']"/>
+<P parID="07811"><SPK>CHOR</SPK>.</P>
+<LG parID="07812"><L>Wer weckt dich zum Licht</L>
+<L>Und wird dir&#x2019;s verk&#xFC;nden,</L>
+<L>Wenn der Tag anbricht</L>
+<L>In allen Gr&#xFC;nden,</L>
+<L>Und die V&#xF6;lker zu einem Stamm sich</L>
+<L>verb&#xFC;nden?</L></LG>
+<DIV_END divEndID="deID_2436_01396" startPtr="WR-05-17_n0329.xml#//DIV_START[@divStartID='dsID_2436_01398']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01399" endPtr="WR-05-17_n0329.xml#//DIV_END[@divEndID='deID_2436_01397']"/>
+<P parID="07813"><SPK>MELEAGER</SPK>.</P>
+<LG parID="07814"><L>Dass die Winde mich trieben</L>
+<L>Und mich Wellen verschl&#xE4;ngen</L>
+<L>Im Wirbelstieben</L>
+<L>Der Meeresengen,</L>
+<L>Wo mich Meerg&#xF6;tter in den Schlummer</L>
+<L>s&#xE4;ngen!</L></LG>
+<DIV_END divEndID="deID_2436_01397" startPtr="WR-05-17_n0329.xml#//DIV_START[@divStartID='dsID_2436_01399']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01400" endPtr="WR-05-17_n0329.xml#//DIV_END[@divEndID='deID_2436_01398']"/>
+<P parID="07815"><SPK>CHOR</SPK>.</P>
+<LG parID="07816"><L>Die G&#xF6;tter sind gn&#xE4;dig</L>
+<L>Dem, den sie bezwangen.</L>
+<L>Der Qualen ledig,</L>
+<L>Wird dich Ruhe umfangen;</L>
+<L>Doch was wird dir f&#xFC;r das Leben, das</L>
+<L>s&#xFC;&#xDF;e Leben, das vergangen?</L></LG>
+<DIV_END divEndID="deID_2436_01398" startPtr="WR-05-17_n0329.xml#//DIV_START[@divStartID='dsID_2436_01400']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01401" endPtr="WR-05-17_n0329.xml#//DIV_END[@divEndID='deID_2436_01399']"/>
+<P parID="07817"><SPK>MELEAGER</SPK>.</P>
+<LG part="initial" parID="07818"><L>Nicht das Leben, das schafft</L>
+<L>In Fleisch und in Bein,</L></LG>
+</CELL><CELL>
+<LG part="final" parID="07819"><L>Nur die ruhende Kraft,</L>
+<L>Das verborgene Sein</L>
+<L>Im Thau auf den Gr&#xE4;sern und im</L>
+<L>Gestein.</L></LG>
+<DIV_END divEndID="deID_2436_01399" startPtr="WR-05-17_n0329.xml#//DIV_START[@divStartID='dsID_2436_01401']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01402" endPtr="WR-05-17_n0329.xml#//DIV_END[@divEndID='deID_2436_01400']"/>
+<P parID="07820"><SPK>CHOR</SPK>.</P>
+<LG parID="07821"><L>Du warst m&#xE4;chtig und gro&#xDF;</L>
+<L>Und kehrst nun zum Staub.</L>
+<L>Dein Blut in den Erdenscho&#xDF;,</L>
+<L>Deine Glieder zu Gras und Laub,</L>
+<L>Und deine Seele den gierigen G&#xF6;ttern</L>
+<L>zum Raub?</L></LG>
+<DIV_END divEndID="deID_2436_01400" startPtr="WR-05-17_n0329.xml#//DIV_START[@divStartID='dsID_2436_01402']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01403" endPtr="WR-05-17_n0329.xml#//DIV_END[@divEndID='deID_2436_01401']"/>
+<P parID="07822"><SPK>MELEAGER</SPK>.</P>
+<LG parID="07823"><L>Die Jahre sind l&#xFC;stern,</L>
+<L>Jeder Tag voll Begehr.</L>
+<L>Die G&#xF6;tter umd&#xFC;stern</L>
+<L>Sich mehr und mehr;</L>
+<L>Und wer setzte sich ihrem Ingrimm</L>
+<L>zur Wehr!</L></LG>
+<DIV_END divEndID="deID_2436_01401" startPtr="WR-05-17_n0329.xml#//DIV_START[@divStartID='dsID_2436_01403']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_01404" endPtr="WR-05-17_n0329.xml#//DIV_END[@divEndID='deID_2436_01402']"/>
+<P parID="07824"><SPK>CHOR</SPK>.</P>
+<LG parID="07825"><L>Die G&#xF6;tter verwalten</L>
+<L>Die menschlichen Sch&#xE4;tze.</L>
+<L>Sie weben die Falten</L>
+<L>Und spinnen die Netze</L>
+<L>Des Schicksals, dass der Mensch sich</L>
+<L>verh&#xFC;lle vor ihrem Gesetze.</L></LG>
+<DIV_END divEndID="deID_2436_01402" startPtr="WR-05-17_n0329.xml#//DIV_START[@divStartID='dsID_2436_01404']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2436_01403" startPtr="WR-05-17_n0327.xml#//DIV_START[@divStartID='dsID_2436_01376']"/>
+<SEPARATOR num="8" type="undefined"/>
+<DIV_START divStartID="dsID_2436_01405" endPtr="WR-05-17_n0333.xml#//DIV_END[@divEndID='deID_2436_01404']"/>
+<TITLE titleID="tiID_2436_00367"><TITLEPART type="main"><SPC>WILHELM WUNDT</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>TH. ACHELIS</AUCTOR> (Bremen).</TITLEPART></TITLE>
+<TABLE parID="07826"><ROW ciID="1245"><CELL>
+<P part="initial" parID="07827"><TAB/>In der wissenschaftlichen Welt ist das<LE/>
+Erscheinen eines neuen Werkes von<LE/>
+W. Wundt immer ein Ereignis. Jeder<LE/>
+wei&#xDF;, dass er es mit gediegener Forschung<LE/>
+zu thun hat, die noch dazu den Vorzug<LE/>
+hat (was f&#xFC;r weite Kreise unserer <HYPH1 cont="Gelehrten">Ge-</HYPH1><LE/>
+<HYPH2>lehrten</HYPH2> besonders hervorgehoben zu werden<LE/>
+verdient), lesbar zu sein. Hier finden wir<LE/>
+nicht die leidige Angew&#xF6;hnung, mit fremden,<LE/>
+kaum Eingeweihten verst&#xE4;ndlichen <HYPH1 cont="Kunstausdr&#xFC;cken">Kunst-</HYPH1><LE/>
+<HYPH2>ausdr&#xFC;cken</HYPH2> zu prahlen, anderseits &#x2014; Gott<LE/>
+sei Dank &#x2014; ebenfalls nicht die bedenkliche<LE/>
+Tendenz Nietzsches und seiner Sch&#xFC;ler,<LE/>
+statt durch eine objective sachliche Pr&#xFC;fung<LE/>
+des Thatbestandes uns durch eine <HYPH1 cont="blendende">blen-</HYPH1><LE/>
+<HYPH2>dende</HYPH2>, fascinierende Rhetorik zu bestechen.<LE/>
+Endlich die wohlthuende Ruhe und <HYPH1 cont="Vornehmheit">Vor-</HYPH1></P>
+</CELL><CELL>
+<P part="medial" parID="07828"><HYPH2>nehmheit</HYPH2> einer v&#xF6;llig vorurtheilslosen,<LE/>
+jedenfalls nie pers&#xF6;nlichen Polemik. So<LE/>
+ist es kein Wunder, wenn die Schriften<LE/>
+dieses vorz&#xFC;glichen Denkers eine steigende<LE/>
+Verbreitung erfahren, welche sich weit<LE/>
+&#xFC;ber die eigentlichen fachm&#xE4;nnischen Kreise<LE/>
+hinaus erstreckt; vollzieht sich doch in<LE/>
+ihm, an seiner Person die so lang ersehnte<LE/>
+organische Verkn&#xFC;pfung zwischen den<LE/>
+beiden ma&#xDF;gebenden Factoren unserer<LE/>
+Weltanschauung, zwischen Philosophie und<LE/>
+Naturwissenschaft. So darf auch wohl das<LE/>
+gro&#xDF;e Unternehmen, dessen erster Theil<LE/>
+jetzt vorliegt (<SPC>V&#xF6;lker-Psychologie</SPC>,<LE/>
+eine Untersuchung der <HYPH1 cont="Entwicklungsgesetze">Entwicklungs-</HYPH1><LE/>
+<HYPH2>gesetze</HYPH2> von Sprache, Mythos und Sitte.<LE/>
+Erster Band: Die Sprache, 1. und 2. Theil.</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="329" c_text="&#x2014; 329 &#x2014;"/>
+</PAGE>

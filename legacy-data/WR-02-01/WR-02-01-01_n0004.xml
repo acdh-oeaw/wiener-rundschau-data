@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-01_n0003.xml</PREV>
+<NEXT>WR-02-01-01_n0005.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 4</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">4</LTEXT><CTEXT>FUCHS.</CTEXT></HD>
+<LG part="final" parID="00031"><L>Und schon fidelt es drauss auf erleuchtetem Plan</L>
+<L>Und tritt und schl&#xFC;rfet im Tanze,</L>
+<L>Da prasselt der Wimpel, da schw&#xE4;hlet der Span,</L>
+<L>Da l&#xE4;chelt die Jungfer im Kranze.</L>
+<L>Vom beb&#xE4;nderten Baume gebreitet zum Kreis,</L>
+<L>Auf beflitterten Schn&#xFC;ren gezogen,</L>
+<L>Schwingt K&#xFC;rbis, Hagebutten und Mais</L>
+<L>Mit Aepfeln und Blumen im Bogen.</L>
+<L>Die Holde f&#xFC;hrt des Knaben Arm,</L>
+<L>Die Str&#xE4;ubende zu biegen,</L>
+<L>Er dr&#xE4;ngt sie aus dem tollen Schwarm</L>
+<L>Mit K&#xFC;ssen und mit Schmiegen.</L>
+<L>Ihr Kosen gl&#xFC;ht von Scham und Dank,</L>
+<L>Er tr&#xE4;gt sie in die Grotte,</L>
+<L>Der G&#xFC;rtel springt von H&#xFC;ften blank,</L>
+<L>Er pranget gleich dem Gotte.</L></LG>
+<DIV_END divEndID="deID_2432_00011" startPtr="WR-02-01-01_n0003.xml#//DIV_START[@divStartID='dsID_2432_00014']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00015" endPtr="WR-02-01-01_n0004.xml#//DIV_END[@divEndID='deID_2432_00012']"/>
+<P parID="00032"><SPK>Der Vater mit dem S&#xE4;nger</SPK> <SD>anbetend</SD>.</P>
+<LG parID="00033"><L>Der du Reiz und Kraft gepaaret,</L>
+<L>Der du alle Samen s&#xE4;st,</L>
+<L>Der du der Heerden Stamm geschaaret,</L>
+<L>Der du Brut und Keime bl&#xE4;hst,</L>
+<L>Der du lind im Lenze stammelst,</L>
+<L>Rauschend dich im Regen regst,</L>
+<L>Die Gestirne stet versammelst,</L>
+<L>Um dein Herze warm bewegst,</L>
+<L>Der du Blut und Bl&#xFC;te letzest,</L>
+<L>Br&#xFC;sten volle Tr&#xE4;nke giessest,</L>
+<L>Der du hoch die Sonnen setzest,</L>
+<L>Verschwiegnen Schooss mit Lust erschliessest:</L>
+<L>Allbewegend rollt dein Ruf;</L>
+<L>Vor dir beben unsre Glieder,</L>
+<L>Vor dir danken unsre Lieder,</L>
+<L>Die dem Sohn dein Odem schuf,</L>
+<L>Deine Wiederkunft zu k&#xFC;nden.</L>
+<L>Wir bringen Guss und Opfer dar:</L>
+<L>Des Lebens Lichter zu entz&#xFC;nden,</L>
+<L>Wandelst du uns Jahr um Jahr.</L></LG>
+<DIV_END divEndID="deID_2432_00012" startPtr="WR-02-01-01_n0004.xml#//DIV_START[@divStartID='dsID_2432_00015']"/>
+<DIV_END divEndID="deID_2432_00013" startPtr="WR-02-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2432_00007']"/>
+</PAGE>

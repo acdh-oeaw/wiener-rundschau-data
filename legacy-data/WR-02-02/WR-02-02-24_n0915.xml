@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-24_n0914.xml</PREV>
+<NEXT>WR-02-02-24_n0916.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 915</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>DIE MONDSCHEINSONATE.</CTEXT><RTEXT type="pn">915</RTEXT></HD>
+<DIV_START cat="scene" divStartID="dsID_2433_00593" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00609']"/>
+<TITLE titleID="tiID_2433_00179"><TITLEPART>12. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="02520"><SD>Grete. Stransky.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2433_00594" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00590']"/>
+<P parID="02521"><TAB/><SPK><SPC>Stransky</SPC></SPK> <SD>(kommt verlegen herein und sagt leise)</SD>. Fr&#xE4;ulein Grete.</P>
+<DIV_END divEndID="deID_2433_00590" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00594']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00595" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00591']"/>
+<P parID="02522"><TAB/><SPK><SPC>Grete</SPC></SPK>. Herr Stransky.</P>
+<DIV_END divEndID="deID_2433_00591" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00595']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00596" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00592']"/>
+<P parID="02523"><TAB/><SPK><SPC>Stransky</SPC></SPK>. Sie werden das alles wahrscheinlich komisch finden<LE/>
+und mir auch nicht glauben, wenn ich Ihnen sage, dass Sie mir immer<LE/>
+theuer gewesen sind. Sehen Sie, wenn ich bisher stets um Ihr Fr&#xE4;ulein<LE/>
+Schwester war, so hatte das seinen Grund, weil Sie sich mir immer<LE/>
+fernhielten, mich kalt und gleichgiltig behandelten.</P>
+<DIV_END divEndID="deID_2433_00592" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00596']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00597" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00593']"/>
+<P parID="02524"><TAB/><SPK><SPC>Grete</SPC></SPK>. Aber nein, Herr Stransky.</P>
+<DIV_END divEndID="deID_2433_00593" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00597']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00598" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00594']"/>
+<P parID="02525"><TAB/><SPK><SPC>Stransky</SPC></SPK>. O ja, es war so. Fr&#xE4;ulein Rosa war immer so <HYPH1 cont="freundlich">freund-</HYPH1><LE/>
+<HYPH2>lich</HYPH2> zu mir, dass ich sie zu lieben glaubte. Aber, sehen Sie, vorhin,<LE/>
+als ich das endgiltige Wort sprach, da fiel es wie ein Schleier von<LE/>
+meinen Augen.</P>
+<DIV_END divEndID="deID_2433_00594" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00598']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00599" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00595']"/>
+<P parID="02526"><TAB/><SPK><SPC>Grete</SPC></SPK>. O, Herr Stransky!</P>
+<DIV_END divEndID="deID_2433_00595" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00599']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00600" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00596']"/>
+<P parID="02527"><TAB/><SPK><SPC>Stransky</SPC></SPK>. Sie werden mir nat&#xFC;rlich nicht glauben.</P>
+<DIV_END divEndID="deID_2433_00596" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00600']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00601" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00597']"/>
+<P parID="02528"><TAB/><SPK><SPC>Grete</SPC></SPK> <SD>(leise)</SD>. O doch, Herr Stransky.</P>
+<DIV_END divEndID="deID_2433_00597" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00601']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00602" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00598']"/>
+<P parID="02529"><TAB/><SPK><SPC>Stransky</SPC></SPK>. Ich danke ihnen, Fr&#xE4;ulein Grete, ich danke Ihnen.<LE/>
+Und wenn ich Sie noch in dieser Stunde bitte, die alten Irrth&#xFC;mer<LE/>
+zu vergessen und die meine zu werden, auf welche Antwort darf ich<LE/>
+hoffen?</P>
+<DIV_END divEndID="deID_2433_00598" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00602']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00603" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00599']"/>
+<P parID="02530"><TAB/><SPK><SPC>Grete</SPC></SPK> <SD>(zitternd)</SD>. Ja, Herr Stransky.</P>
+<DIV_END divEndID="deID_2433_00599" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00603']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00604" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00600']"/>
+<P parID="02531"><TAB/><SPK><SPC>Stransky</SPC></SPK> <SD>(ihr die Hand k&#xFC;ssend)</SD>. Ich f&#xFC;hle mich ganz gedehm&#xFC;thigt<LE/>
+durch Ihre grosse G&#xFC;te, Fr&#xE4;ulein Grete. Wie soll ich Ihnen danken? <SYMBOL type="3dots"/><LE/>
+Warum lachen Sie, Fr&#xE4;ulein Grete?</P>
+<DIV_END divEndID="deID_2433_00600" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00604']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00605" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00601']"/>
+<P parID="02532"><TAB/><SPK><SPC>Grete</SPC></SPK>. O nein, ich lache doch nicht.</P>
+<DIV_END divEndID="deID_2433_00601" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00605']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00606" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00602']"/>
+<P parID="02533"><TAB/><SPK><SPC>Stransky</SPC></SPK> <SD>(feurig)</SD>. Wenn ich Ihnen nur sagen k&#xF6;nnte, wie <HYPH1 cont="unbeschreiblich">un-</HYPH1><LE/>
+<HYPH2>beschreiblich</HYPH2> gl&#xFC;cklich ich bin. Aber das k&#xF6;nnen Worte nicht. Das<LE/>
+k&#xF6;nnte die Musik &#x2014;</P>
+<DIV_END divEndID="deID_2433_00602" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00606']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00607" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00603']"/>
+<P parID="02534"><TAB/><SPK><SPC>Grete</SPC></SPK>. Sie lieben die Musik?</P>
+<DIV_END divEndID="deID_2433_00603" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00607']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00608" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00604']"/>
+<P parID="02535"><TAB/><SPK><SPC>Stransky</SPC></SPK>. O leidenschaftlich. Spielen Sie auch Clavier?</P>
+<DIV_END divEndID="deID_2433_00604" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00608']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00609" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00605']"/>
+<P parID="02536"><TAB/><SPK><SPC>Grete</SPC></SPK>. Ja, Herr Armin.</P>
+<DIV_END divEndID="deID_2433_00605" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00609']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00610" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00606']"/>
+<P parID="02537"><TAB/><SPK><SPC>Stransky</SPC></SPK>. Wenn Sie mir etwas vorspielen wollten &#x2014;</P>
+<DIV_END divEndID="deID_2433_00606" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00610']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00611" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00607']"/>
+<P parID="02538"><TAB/><SPK><SPC>Grete</SPC></SPK> <SD>(einfach)</SD>. Gerne. Was w&#xFC;nschen Sie?</P>
+<DIV_END divEndID="deID_2433_00607" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00611']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00612" endPtr="WR-02-02-24_n0915.xml#//DIV_END[@divEndID='deID_2433_00608']"/>
+<P parID="02539"><TAB/><SPK><SPC>Stransky</SPC></SPK>. Irgend etwas Classisches, wenn ich bitten darf. <SD>(<HYPH1 cont="Hinwerfend">Hin-</HYPH1><LE/>
+<HYPH2>werfend</HYPH2>.)</SD> Vielleicht die Mondscheinsonate von Beethoven.</P>
+<DIV_END divEndID="deID_2433_00608" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00612']"/>
+<P parID="02540"><SD>(Grete geht mit kleinen, m&#xFC;den Schritten zum Clavier, setzt sich nieder und<LE/>
+blickt eine Weile leer auf das aufgeschlagene Notenblatt. Dann l&#xE4;chelt sie<LE/>
+resigniert und beginnt einen langsamen, nicht zu bekannten Walzer zu spielen.<LE/>
+Stransky setzt sich erleichtert auf einen Stuhl und wischt sich mit dem <HYPH1 cont="Taschentuch">Taschen-</HYPH1><LE/>
+<HYPH2>tuch</HYPH2> den Schweiss von der Stirne.)</SD></P>
+<DIV_END divEndID="deID_2433_00609" startPtr="WR-02-02-24_n0915.xml#//DIV_START[@divStartID='dsID_2433_00593']"/>
+<P parID="02541"><SD>Der Vorhang f&#xE4;llt langsam.</SD></P>
+<DIV_END divEndID="deID_2433_00610" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00330']"/>
+<DIV_END divEndID="deID_2433_00611" startPtr="WR-02-02-24_n0905.xml#//DIV_START[@divStartID='dsID_2433_00328']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

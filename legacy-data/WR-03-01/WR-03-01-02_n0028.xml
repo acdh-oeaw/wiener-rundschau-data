@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-02_n0027.xml</PREV>
+<NEXT>WR-03-01-02_n0029.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 2, S. 28</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>STRINDBERG: DIE SCHL&#xDC;SSEL DES HIMMELREICHS.</CTEXT></HD>
+<TABLE parID="00508"><ROW ciID="0307"><CELL>
+<DIV_START cat="speech" divStartID="dsID_2434_00161" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00157']"/>
+<P parID="00509"><TAB/><SPK><SPC>Der Schmied</SPC></SPK>. Du bist feig, Petrus!</P>
+<DIV_END divEndID="deID_2434_00157" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00161']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00162" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00158']"/>
+<P parID="00510"><TAB/><SPK><SPC>St. Peter</SPC></SPK>. Wenn man das so nennen<LE/>
+will, sich an die Gesetze und Verordnungen<LE/>
+zu halten.</P>
+<DIV_END divEndID="deID_2434_00158" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00162']"/>
+<DIV_END divEndID="deID_2434_00159" startPtr="WR-03-01-02_n0027.xml#//DIV_START[@divStartID='dsID_2434_00155']"/>
+<DIV_START cat="scene" divStartID="dsID_2434_00163" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00166']"/>
+<TITLE titleID="tiID_2434_00021"><TITLEPART>Vierte Scene.</TITLEPART></TITLE>
+<P parID="00511"><SD><B>Die Vorigen. Don Quixote</B> (zu Pferde kommt<LE/>
+durch das grosse Thor hereingeritten. Er ist<LE/>
+mit der traditionellen R&#xFC;stung bekleidet, doch<LE/>
+stark beleibt).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00164" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00160']"/>
+<P parID="00512"><TAB/><SPK><SPC>Liebhaberin</SPC></SPK>. Komm fort von hier,<LE/>
+Geliebter, ehe mehr Leute kommen! &#x2014;<LE/>
+Ach, da ist ja dieser abscheuliche Don<LE/>
+Quixote. <SD>(Sie zieht den Schleier vors Gesicht.)</SD></P>
+<DIV_END divEndID="deID_2434_00160" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00164']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00165" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00161']"/>
+<P parID="00513"><TAB/><SPK><SPC>Don Quixote</SPC></SPK>. Guten Tag, liebe<LE/>
+Leutchen!</P>
+<DIV_END divEndID="deID_2434_00161" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00165']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00166" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00162']"/>
+<P parID="00514"><TAB/><SPK><SPC>Der Schmied</SPC></SPK>. Wen sucht Ihr, mit<LE/>
+Verlaub?</P>
+<DIV_END divEndID="deID_2434_00162" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00166']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00167" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00163']"/>
+<P parID="00515"><TAB/><SPK><SPC>Don Quixote</SPC></SPK>. Ich bin der Ritter Don<LE/>
+Quixote de la Mancha, und von Romeo<LE/>
+und Julia zu ihrer silbernen Hochzeit, hier<LE/>
+im Gasthause &#xBB;Zum goldenen Ross&#xAB; <HYPH1 cont="eingeladen">ein-</HYPH1><LE/>
+<HYPH2>geladen</HYPH2>. Bin ich etwa fehl gegangen?</P>
+<DIV_END divEndID="deID_2434_00163" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00167']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00168" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00164']"/>
+<P parID="00516"><TAB/><SPK><SPC>Der Schmied</SPC></SPK>. Das Gasthaus ist <HYPH1 cont="allerdings">aller-</HYPH1><LE/>
+<HYPH2>dings</HYPH2> das erste, ob aber Romeo und Julia<LE/>
+hier ihre silberne Hochzeit feiern sollen,<LE/>
+dar&#xFC;ber kann ich keine Auskunft geben,<LE/>
+um so weniger, als ich in den <HYPH1 cont="Geschichtsb&#xFC;chern">Geschichts-</HYPH1><LE/>
+<HYPH2>b&#xFC;chern</HYPH2> nirgend eine Andeutung gefunden,<LE/>
+dass die beiden jungen Leutchen sich <HYPH1 cont="bekamen">be-</HYPH1><LE/>
+<HYPH2>kamen</HYPH2>.</P>
+<DIV_END divEndID="deID_2434_00164" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00168']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00169" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00165']"/>
+<P parID="00517"><TAB/><SPK><SPC>Don Quixote</SPC></SPK> <SD>(sitzt ab)</SD>. In den <HYPH1 cont="Geschichtsb&#xFC;chern">Ge-</HYPH1><LE/>
+<HYPH2>schichtsb&#xFC;chern</HYPH2>! Sprecht mir nur von<LE/>
+diesen nicht! Was haben sie nicht alles<LE/>
+&#xFC;ber mich zusammengelogen! &#x2014; Komm<LE/>
+her, Sancho Panza!</P>
+<DIV_END divEndID="deID_2434_00165" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00169']"/>
+<DIV_END divEndID="deID_2434_00166" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00163']"/>
+<DIV_START cat="scene" divStartID="dsID_2434_00170" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00179']"/>
+<TITLE titleID="tiID_2434_00022"><TITLEPART>F&#xFC;nfte Scene.</TITLEPART></TITLE>
+<P parID="00518"><SD><B>Die Vorigen. Sancho Panza</B> (mager wie ein<LE/>
+Jockey, fasst Don Quixotes Pferd am Z&#xFC;gel,<LE/>
+um es in den Stall zu f&#xFC;hren).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00171" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00167']"/>
+<P parID="00519"><TAB/><SPK><SPC>Sancho</SPC></SPK>. Zu Befehl, gestrenger Ritter!</P>
+<DIV_END divEndID="deID_2434_00167" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00171']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00172" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00168']"/>
+<P parID="00520"><TAB/><SPK><SPC>Don Quixote</SPC></SPK>. F&#xFC;hr mein Vollblut<LE/>
+in den Stall und gib ihm Hafer!</P>
+<DIV_END divEndID="deID_2434_00168" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00172']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00173" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00169']"/>
+<P parID="00521"><TAB/><SPK><SPC>Der Schmied</SPC></SPK>. Mir scheint, so mager<LE/>
+Sancho Panza geworden, so fett ist jetzt<LE/>
+Rosinante.</P>
+<DIV_END divEndID="deID_2434_00169" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00173']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00174" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00170']"/>
+<P parID="00522"><TAB/><SPK><SPC>Don Quixote</SPC></SPK>. Die Zeiten &#xE4;ndern sich<LE/>
+und wir mit ihnen. Selbst ich habe vom<LE/>
+Leben gelernt, meine Vernunft zu Rathe<LE/>
+gezogen und mich zum klugen Mann <HYPH1 cont="entwickelt">ent-</HYPH1><LE/>
+<HYPH2>wickelt</HYPH2>! O, ich bin jetzt verteufelt klug.</P>
+<DIV_END divEndID="deID_2434_00170" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00174']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00175" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00171']"/>
+<P part="initial" parID="00523"><TAB/><SPK><SPC>Der Schmied</SPC></SPK>. Sollten, Herr Ritter,<LE/>
+sich sozusagen auch einer bestimmten <HYPH1 cont="Laufbahn">Lauf-</HYPH1><LE/>
+<HYPH2>bahn</HYPH2> zugewendet haben und in die engen</P>
+</CELL><CELL>
+<P part="final" parID="00524">Verh&#xE4;ltnisse des b&#xFC;rgerlichen Lebens <HYPH1 cont="eingetreten">einge-</HYPH1><LE/>
+<HYPH2>treten</HYPH2> sein?</P>
+<DIV_END divEndID="deID_2434_00171" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00175']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00176" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00172']"/>
+<P parID="00525"><TAB/><SPK><SPC>Don Quixote</SPC></SPK>. Ich z&#xFC;chte Traber und<LE/>
+besuche Pferdem&#xE4;rkte. &#x2014; Darf ich Sie mit<LE/>
+einer Adresse versehen?</P>
+<DIV_END divEndID="deID_2434_00172" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00176']"/>
+<P parID="00526"><SD>(Reicht St. Peter einen Prospect, der ihm <HYPH1 cont="dagegen">da-</HYPH1><LE/>
+<HYPH2>gegen</HYPH2> ein Tract&#xE4;tchen einh&#xE4;ndigt.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00177" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00173']"/>
+<P parID="00527"><TAB/><SPK><SPC>St. Peter</SPC></SPK>. Vielen Dank, Ritter, aber<LE/>
+meine Pferde brauchen nie gewechselt zu<LE/>
+werden.</P>
+<DIV_END divEndID="deID_2434_00173" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00177']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00178" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00174']"/>
+<P parID="00528"><TAB/><SPK><SPC>Don Quixote</SPC></SPK>. Was sind das f&#xFC;r<LE/>
+Pferde?</P>
+<DIV_END divEndID="deID_2434_00174" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00178']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00179" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00175']"/>
+<P parID="00529"><TAB/><SPK><SPC>St. Peter</SPC></SPK>. Apostelpferde!</P>
+<DIV_END divEndID="deID_2434_00175" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00179']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00180" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00176']"/>
+<P parID="00530"><TAB/><SPK><SPC>Don Quixote</SPC></SPK>. Haha, alter Spassvogel!<LE/>
+L&#xE4;sst sich mit diesen Rappen gut auf und<LE/>
+davon reiten?</P>
+<DIV_END divEndID="deID_2434_00176" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00180']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00181" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00177']"/>
+<P parID="00531"><TAB/><SPK><SPC>St. Peter</SPC></SPK> <SD>(verletzt)</SD>. Jedenfalls vor <HYPH1 cont="Windm&#xFC;hlfl&#xFC;geln">Wind-</HYPH1><LE/>
+<HYPH2>m&#xFC;hlfl&#xFC;geln</HYPH2>.</P>
+<DIV_END divEndID="deID_2434_00177" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00181']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00182" endPtr="WR-03-01-02_n0028.xml#//DIV_END[@divEndID='deID_2434_00178']"/>
+<P parID="00532"><TAB/><SPK><SPC>Don Quixote</SPC></SPK>. Pfui, sch&#xE4;mt Euch!</P>
+<DIV_END divEndID="deID_2434_00178" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00182']"/>
+<DIV_END divEndID="deID_2434_00179" startPtr="WR-03-01-02_n0028.xml#//DIV_START[@divStartID='dsID_2434_00170']"/>
+<DIV_START cat="scene" divStartID="dsID_2434_00183" endPtr="WR-03-01-02_n0029.xml#//DIV_END[@divEndID='deID_2434_00183']"/>
+<TITLE titleID="tiID_2434_00023"><TITLEPART>Sechste Scene.</TITLEPART></TITLE>
+<P parID="00533"><SD><B>Die Vorigen.</B> (Der Hochzeitszug aus dem<LE/>
+Brunnen hervor. Zuerst Musikanten. Hierauf)<LE/>
+<B>Montecchi</B> (und) <B>Capulet</B> (Arm in Arm. Sodann<LE/>
+die Brautf&#xFC;hrer und Brautf&#xFC;hrerinnen, n&#xE4;mlich)<LE/>
+Hamlet (und) <B>Ophelia; Othello</B> (und) <B><HYPH1 cont="Desdemona">Desde-</HYPH1><LE/>
+<HYPH2>mona</HYPH2>;</B> Ritter <B>Blaubart</B> (und seine Gattin)<LE/>
+Lady <B>Macbeth</B>; (endlich) <B>Romeo</B> (und) <B>Julia</B><LE/>
+(ziemlich hoch bei Jahren, mit f&#xFC;nf, theils <HYPH1 cont="erwachsenen">er-</HYPH1><LE/>
+<HYPH2>wachsenen</HYPH2>, theils halb erwachsenen Kindern).<LE/>
+Volk. <B>Der Wirt</B> (auf der Vortreppe postiert,<LE/>
+empf&#xE4;ngt den Hochzeitszug).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00184" endPtr="WR-03-01-02_n0029.xml#//DIV_END[@divEndID='deID_2434_00180']"/>
+<P parID="00534"><TAB/><SPK><SPC>Don Quixote</SPC></SPK>. Dazu erkoren bei dieser<LE/>
+silbernen Hochzeit die Honneurs zu machen,<LE/>
+heisse ich die G&#xE4;ste im Namen des <HYPH1 cont="Brautpaares">Braut-</HYPH1><LE/>
+<HYPH2>paares</HYPH2> willkommen. Ihr, alter Montecchi,<LE/>
+und Ihr Capulet, es freut mich, Euch nach<LE/>
+so vielj&#xE4;hriger Feindschaft, deren einstige<LE/>
+Solidit&#xE4;t sich nur mit der Festigkeit Eurer<LE/>
+jetzigen Freundschaft vergleichen l&#xE4;sst, Arm<LE/>
+in Arm zu sehen; wenngleich nicht <HYPH1 cont="verschwiegen">ver-</HYPH1><LE/>
+<HYPH2>schwiegen</HYPH2> werden kann, dass die <HYPH1 cont="Freundschaft">Freund-</HYPH1><LE/>
+<HYPH2>schaft</HYPH2> der beiden alten Seidenfirmen <HYPH1 cont="Montecchi">Mon-</HYPH1><LE/>
+<HYPH2>tecchi</HYPH2> und Capulet in Verona, sich eigentlich<LE/>
+von dem Mail&#xE4;nder dreiprocentigen <HYPH1 cont="Anlehen">An-</HYPH1><LE/>
+<HYPH2>lehen</HYPH2> herdatiert.</P>
+<P part="initial" parID="00535"><TAB/>Es ist mir ferner eine theure Pflicht,<LE/>
+die Anwesenheit des Brautpaares, des Herrn<LE/>
+Romeo, Chef des Hauses Romeo S&#xF6;hne<LE/>
+und seiner vielgeliebten Gattin Julia zu<LE/>
+constatieren. Ich m&#xF6;chte dieses Wiedersehen<LE/>
+gewiss zu keinem schmerzlichen gestalten,<LE/>
+noch einen Misston in ein so angenehmes<LE/>
+Familienfest bringen, kann aber gleichwohl,<LE/>
+wenn ich die beiden taubstummen Kinder</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="28" c_text="&#x2014; 28 &#x2014;"/>
+</PAGE>

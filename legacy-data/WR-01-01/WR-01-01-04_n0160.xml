@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-04_n0159.xml</PREV>
+<NEXT>WR-01-01-05_n0161.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 160</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">160</LTEXT><CTEXT>KRITIK.</CTEXT></HD>
+<TABLE parID="01071"><ROW ciID="0130"><CELL>
+<P part="final" parID="01072">schickt, wenn man sich beleidigt<LE/>
+f&#xFC;hlt, seine Zeugen. Der in Rede<LE/>
+stehende Herr hat keinen dieser<LE/>
+beiden Wege betreten, sondern es<LE/>
+vorgezogen, die Sache in <HYPH1 cont="Kirchweihmanier">Kirch-</HYPH1><LE/>
+<HYPH2>weihmanier</HYPH2> durch eine th&#xE4;tliche<LE/>
+Attaque auf einen Ahnungslosen<LE/>
+auszutragen. Warum dieser Herr<LE/>
+den ersten Weg nicht eingeschlagen<LE/>
+hat, ist mir, wie oben schon <HYPH1 cont="angedeutet">an-</HYPH1><LE/>
+<HYPH2>gedeutet</HYPH2>, vollst&#xE4;ndig klar. Welche<LE/>
+Gr&#xFC;nde haben ihn nun von dem<LE/>
+zweiten Wege abgehalten?</P>
+<P part="initial" parID="01073"><TAB/>Man kann ein <SPC>principieller</SPC><LE/>
+Gegner des Duells sein, oder man<LE/>
+hat verschiedenartige Veranlassung,<LE/>
+es zu vermeiden, sei es nun aus<LE/>
+Mangel an Muth &#x2014; das <HYPH1 cont="k&#xF6;rperliche">k&#xF6;rper-</HYPH1><LE/>
+<HYPH2>liche</HYPH2> Kraft&#xFC;bergewicht des Einen<LE/>
+kann ja m&#xF6;glicherweise durch die<LE/>
+gr&#xF6;ssere Gewandtheit des Anderen</P>
+</CELL><CELL>
+<P part="final" parID="01074">paralysirt werden &#x2014; sei es, weil<LE/>
+man auf Grund einer bewegten <HYPH1 cont="Vergangenheit">Ver-</HYPH1><LE/>
+<HYPH2>gangenheit</HYPH2> den Spruch eines <HYPH1 cont="Ehrengerichtes">Ehren-</HYPH1><LE/>
+<HYPH2>gerichtes</HYPH2> f&#xFC;rchtet. Offenbar ist<LE/>
+dieser Herr ein <SPC>principieller</SPC><LE/>
+Gegner des Duells <SYMBOL type="3dots"/></P>
+<P parID="01075"><TAB/>Die Art, wie er dieser <HYPH1 cont="Gegnerschaft">Gegner-</HYPH1><LE/>
+<HYPH2>schaft</HYPH2> Ausdruck gab, die <HYPH1 cont="Anwendung">Anwen-</HYPH1><LE/>
+<HYPH2>dung</HYPH2> der Brachialgewalt, verdient<LE/>
+in jedem Falle die unbedingte <HYPH1 cont="Verurtheilung">Ver-</HYPH1><LE/>
+<HYPH2>urtheilung</HYPH2>, die sie in allen Kreisen<LE/>
+der Gesellschaft erfahren hat.</P>
+<P parID="01076"><TAB/>Ich spreche im Namen Vieler,<LE/>
+geehrte Redaction, wenn ich Sie<LE/>
+bitte, vorstehenden Zeilen in Ihrem<LE/>
+gesch&#xE4;tzten Blatte freundlichst Raum<LE/>
+geben zu wollen. Mit vorz&#xFC;glicher<LE/>
+Hochachtung</P>
+<P parID="01077"><AUCTOR><I>Otto Werneck</I></AUCTOR>,<LE/>
+Wien, IX. Eisengasse 15.</P>
+<P parID="01078">Am <DATE>22. December 1896</DATE>.</P>
+<DIV_END divEndID="deID_2397_00220" startPtr="WR-01-01-04_n0159.xml#//DIV_START[@divStartID='dsID_2397_00223']"/>
+<DIV_END divEndID="deID_2397_00221" startPtr="WR-01-01-04_n0159.xml#//DIV_START[@divStartID='dsID_2397_00222']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2397_00222" startPtr="WR-01-01-04_n0158.xml#//DIV_START[@divStartID='dsID_2397_00218']"/>
+<SEPARATOR type="hr"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2397_00224" endPtr="WR-01-01-04_n0160.xml#//DIV_END[@divEndID='deID_2397_00223']"/>
+<P parID="01079">Herausgeber und verantwortlicher Redacteur: <SPC>Rudolf Strauss</SPC>.</P>
+<P parID="01080">Ch. Reisser &amp; M. Werthner, Wien.</P>
+<DIV_END divEndID="deID_2397_00223" startPtr="WR-01-01-04_n0160.xml#//DIV_START[@divStartID='dsID_2397_00224']"/>
+<DIV_END divEndID="deID_2397_00224" startPtr="WR-01-01-04_n0121.xml#//DIV_START[@divStartID='dsID_2397_00200']"/>
+</PAGE>

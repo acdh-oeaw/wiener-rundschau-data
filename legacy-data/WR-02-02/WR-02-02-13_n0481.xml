@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV></PREV>
+<NEXT>WR-02-02-13_n0482.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 13, S. 481</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2433_00000" endPtr="WR-02-02-13_n0520.xml#//DIV_END[@divEndID='deID_2433_00021']"/>
+<DIV_START cat="masthead" divStartID="dsID_2433_00001" endPtr="WR-02-02-13_n0481.xml#//DIV_END[@divEndID='deID_2433_00000']"/>
+<P parID="00000"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00001"><B><DATE>15. <SPC>MAI</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2433_00000" startPtr="WR-02-02-13_n0481.xml#//DIV_START[@divStartID='dsID_2433_00001']"/>
+<DIV_START divStartID="dsID_2433_00002" endPtr="WR-02-02-13_n0491.xml#//DIV_END[@divEndID='deID_2433_00001']"/>
+<TITLE titleID="tiID_2433_00000"><TITLEPART type="main">EIN BESUCH BEI JOHANNES BRAHMS.</TITLEPART><LE/>
+<TITLEPART type="desc">Eine Reiseerinnerung von <AUCTOR><C>Wilhelm Behrend</C></AUCTOR>.</TITLEPART></TITLE>
+<P parID="00002"><TAB/>Nachdem Johannes Brahms gestorben ist, glaube ich, dass ich<LE/>
+einige Erinnerungen von einer Studienreise in Deutschland am <DATERANGE>Ende<LE/>
+des Jahres 1895</DATERANGE> der Oeffentlichkeit &#xFC;bergeben darf.</P>
+<P parID="00003"><TAB/>Es war um die Weihnachtszeit, als ich Wien besuchte. Damals lebten<LE/>
+dort zwei ausgezeichnete K&#xFC;nstler: Anton <SPC>Bruckner</SPC> und Johannes<LE/>
+<SPC>Brahms</SPC>. Ihre Namen erf&#xFC;llten das Wiener Musikleben mit einem<LE/>
+Glanze, der &#xFC;ber die Grenzen der alten Musikstadt weit hinausstrahlte.<LE/>
+Nun sind Beide todt, und es ist um Vieles dunkler geworden in der<LE/>
+Wiener Musikwelt.</P>
+<P part="initial" parID="00004"><TAB/>Dass Bruckners Tage damals gez&#xE4;hlt waren, dar&#xFC;ber konnte ich<LE/>
+nach dem, was ich von ihm und seinem traurigen Dasein h&#xF6;rte, nicht<LE/>
+im Zweifel sein; aber dass Brahms so bald einer t&#xF6;dtlichen Krankheit<LE/>
+erliegen sollte, ahnte damals wohl Niemand. Ich sah Brahms als<LE/>
+gesunden, lebenskr&#xE4;ftigen Mann, der sich k&#xF6;rperlich sehr wohl zu<LE/>
+befinden schien und gerade von seinen Pl&#xE4;nen sprach, nach Berlin zu<LE/>
+gehen, um ein paar Concerte zu dirigiren, bei denen sein Liebling<LE/>
+d&#x2019;Albert mehrere seiner grossen Compositionen spielen sollte. Und doch<LE/>
+hat Brahms bereits damals den Todesstempel getragen, unsichtbar f&#xFC;r<LE/>
+Andere, ja er selbst ahnte wohl nichts davon. Denn nur wenige Monate<LE/>
+sp&#xE4;ter kam die Krankheit zum Ausbruche, die scheinbar durch seine<LE/>
+&#xFC;berst&#xFC;rzte Reise zum Todtenbette der Frau seines Meisters und<LE/>
+Freundes, Clara Schumann, hervorgerufen wurde. Die Schaffenskraft<LE/>
+war bereits zuvor vermindert, nun blieb ihm nur ein trauriger <HYPH1 cont="Zeitraum">Zeit-</HYPH1><LE/>
+<HYPH2>raum</HYPH2> von kaum einem Jahre, in dem er mehr und mehr hinsiechte;<LE/>
+die kr&#xE4;ftige, beh&#xE4;bige Gestalt beugte sich und magerte in beunruhigender<LE/>
+Weise ab. Dennoch suchte er immer seinen Muth aufrecht zu erhalten,<LE/>
+wie Hanslick, sein guter, allzu guter Freund, sp&#xE4;ter erz&#xE4;hlte, und ein<LE/>
+aufmunterndes Wort von den Freunden, oder mehr noch von den</P>
+</PAGE>

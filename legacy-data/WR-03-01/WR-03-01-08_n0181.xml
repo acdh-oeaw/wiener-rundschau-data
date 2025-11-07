@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-08_n0180.xml</PREV>
+<NEXT>WR-03-01-08_n0182.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 8, S. 181</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="performance" divStartID="dsID_2434_00541" endPtr="WR-03-01-08_n0183.xml#//DIV_END[@divEndID='deID_2434_00560']"/>
+<TITLE titleID="tiID_2434_00099"><TITLEPART type="main"><SPC>KNABE UND HERRIN</SPC>.*</TITLEPART><LE/>
+<TITLEPART type="desc">(Gegenreden in der D&#xE4;mmerung.)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>RICHARD SCHAUKAL</AUCTOR> (Br&#xFC;nn).</TITLEPART></TITLE>
+<DIV_START cat="speech" divStartID="dsID_2434_00542" endPtr="WR-03-01-08_n0181.xml#//DIV_END[@divEndID='deID_2434_00540']"/>
+<P parID="02418"><SPK><SPC>Der Knabe</SPC></SPK>.</P>
+<LG parID="02419"><L>Lange sehnt&#x2019; ich die gl&#xFC;ckliche Stunde herbei,</L>
+<L>Die mir vom harrenden Herzen die Fesseln l&#xF6;ste,</L>
+<L>Die meinen bebenden Worten gestattete, laut zu sein.</L></LG>
+<DIV_END divEndID="deID_2434_00540" startPtr="WR-03-01-08_n0181.xml#//DIV_START[@divStartID='dsID_2434_00542']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00543" endPtr="WR-03-01-08_n0181.xml#//DIV_END[@divEndID='deID_2434_00541']"/>
+<P parID="02420"><SPK><SPC>Die Frau</SPC></SPK>.</P>
+<LG parID="02421"><L>Sprich mir von Deiner Kunst, die mich selig erstaunen macht,</L>
+<L>Die meine tr&#xE4;gen Gedanken ins Blaue tr&#xE4;gt,</L>
+<L>Wo die kommenden Winde sind und die flatternden Lerchen.</L>
+<L>Wenn Du mit schlanken Fingern z&#xE4;rtlich die Laute r&#xFC;hrst,</L>
+<L>Wenn Dein erblassender Mund jene traurigen Weisen sagt,</L>
+<L>Bin ich die Frau nicht mehr, die, gereift, vor dem Herbste bangt,</L>
+<L>Bin ich das M&#xE4;dchen von einst, das mit ahnendem scheuem Schritt</L>
+<L>Still und err&#xF6;thend durch summende Wiesen gieng</L>
+<L>Und unterm rauschenden Walddach vor seinen W&#xFC;nschen erschrak.</L></LG>
+<DIV_END divEndID="deID_2434_00541" startPtr="WR-03-01-08_n0181.xml#//DIV_START[@divStartID='dsID_2434_00543']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00544" endPtr="WR-03-01-08_n0181.xml#//DIV_END[@divEndID='deID_2434_00542']"/>
+<P parID="02422"><SPK><SPC>Der Knabe</SPC></SPK>.<LE/>
+<SD>(Er hat das Kinn in die Hand gest&#xFC;tzt und sieht traurig zu ihr auf, zu deren F&#xFC;ssen er sitzt.)</SD></P>
+<LG parID="02423"><L>Nicht von der Kunst der Saiten und meines Gesanges</L>
+<L>Wollte ich reden. Ihr macht mich immer so traurig.</L></LG>
+<DIV_END divEndID="deID_2434_00542" startPtr="WR-03-01-08_n0181.xml#//DIV_START[@divStartID='dsID_2434_00544']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00545" endPtr="WR-03-01-08_n0181.xml#//DIV_END[@divEndID='deID_2434_00543']"/>
+<P parID="02424"><SPK><SPC>Die Frau</SPC></SPK>.<LE/>
+<SD>(Sie streicht ihm leise das blonde weiche Haar aus der Stirne.)</SD></P>
+<LG parID="02425"><L>Mach ich Dich traurig? Warum? Bem&#xFC;h&#x2019; ich mich doch um Dich,</L>
+<L>Bin ich die erste doch stets, der all Deine Lieder ert&#xF6;nen,</L>
+<L>Der sich Dein sehnendes Herz innig und trauend erschliesst.</L></LG>
+<DIV_END divEndID="deID_2434_00543" startPtr="WR-03-01-08_n0181.xml#//DIV_START[@divStartID='dsID_2434_00545']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00546" endPtr="WR-03-01-08_n0181.xml#//DIV_END[@divEndID='deID_2434_00544']"/>
+<P parID="02426"><SPK><SPC>Der Knabe</SPC></SPK>.</P>
+<LG parID="02427"><L>Nimmer noch habt Ihr mein Herz, das zitternde, w&#xE4;rmend gehalten,</L>
+<L>Wie Ihr den Vogel einst hieltet, den nestentfall&#x2019;nen, verwaisten;</L>
+<L>Eure k&#xFC;hle Hand auf meinem Scheitel betr&#xFC;bt mich.</L></LG>
+<DIV_END divEndID="deID_2434_00544" startPtr="WR-03-01-08_n0181.xml#//DIV_START[@divStartID='dsID_2434_00546']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00547" endPtr="WR-03-01-08_n0181.xml#//DIV_END[@divEndID='deID_2434_00545']"/>
+<P parID="02428"><SPK><SPC>Die Frau</SPC></SPK>.<LE/>
+<SD>(Sie hat die Arme &#xFC;ber den Knien herabh&#xE4;ngend und sitzt vorgebeugt, wie besorgt.)</SD></P>
+<LG parID="02429"><L>Fehlt Dir die Sorge, die m&#xFC;tterliche, die fragende?</L></LG>
+<DIV_END divEndID="deID_2434_00545" startPtr="WR-03-01-08_n0181.xml#//DIV_START[@divStartID='dsID_2434_00547']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00548" endPtr="WR-03-01-08_n0181.xml#//DIV_END[@divEndID='deID_2434_00546']"/>
+<P parID="02430"><SPK><SPC>Der Knabe</SPC></SPK>.</P>
+<LG parID="02431"><L>Ob mir die Mutter auch fehlt in Stunden herben Alleinseins,</L>
+<L>Nicht von der Mutter zu reden, erhob ich die flehende Stimme.</L>
+<L>O, Ihr verschm&#xE4;ht meine Liebe, verweiset mich l&#xE4;chelnd und ruhig!</L>
+<L>Nie in Eure N&#xE4;chte noch drang wie ein Rufen mein Dasein.</L></LG>
+<DIV_END divEndID="deID_2434_00546" startPtr="WR-03-01-08_n0181.xml#//DIV_START[@divStartID='dsID_2434_00548']"/>
+<FN>
+<P parID="02432"><TAB/>* Aus dem demn&#xE4;chst erscheinenden neuen Bande Verse: &#xBB;Tristia&#xAB;.</P>
+</FN>
+<FT type="pn" num="181" c_text="&#x2014; 181 &#x2014;"/>
+</PAGE>

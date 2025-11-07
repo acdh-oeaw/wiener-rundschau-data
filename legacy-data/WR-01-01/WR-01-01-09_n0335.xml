@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-09_n0334.xml</PREV>
+<NEXT>WR-01-01-09_n0336.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 9, S. 335</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00469" endPtr="WR-01-01-09_n0336.xml#//DIV_END[@divEndID='deID_2397_00482']"/>
+<TITLE titleID="tiID_2397_00136"><TITLEPART type="main">KUNST.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Oskar Wilde</C></AUCTOR> (London).</TITLEPART></TITLE>
+<DIV_START divStartID="dsID_2397_00470" endPtr="WR-01-01-09_n0335.xml#//DIV_END[@divEndID='deID_2397_00468']"/>
+<P parID="02487"><TAB/>Der sch&#xF6;nen Dinge Sch&#xF6;pfer ist der K&#xFC;nstler.</P>
+<P parID="02488"><TAB/>Sich selbst zu offenbaren und den K&#xFC;nstler zu verbergen,<LE/>
+ist Zweck der Kunst.</P>
+<DIV_END divEndID="deID_2397_00468" startPtr="WR-01-01-09_n0335.xml#//DIV_START[@divStartID='dsID_2397_00470']"/>
+<SEPARATOR type="asterismDown"/>
+<DIV_START divStartID="dsID_2397_00471" endPtr="WR-01-01-09_n0335.xml#//DIV_END[@divEndID='deID_2397_00469']"/>
+<P parID="02489"><TAB/>Kritiker ist der, der seinen Eindruck vom Sch&#xF6;nen in<LE/>
+neuer Form oder neuer Technik wiedergeben kann.</P>
+<DIV_END divEndID="deID_2397_00469" startPtr="WR-01-01-09_n0335.xml#//DIV_START[@divStartID='dsID_2397_00471']"/>
+<SEPARATOR type="asterismDown"/>
+<DIV_START divStartID="dsID_2397_00472" endPtr="WR-01-01-09_n0335.xml#//DIV_END[@divEndID='deID_2397_00470']"/>
+<P parID="02490"><TAB/>Die h&#xF6;chste wie die niedrigste Kritik ist eine Art<LE/>
+Selbstbekenntnis. Die Leute, die in der Kunst niedrige<LE/>
+Gedanken finden, sind verderbt und wirken unerfreulich. Die<LE/>
+Leute, die in der Kunst hohe, sch&#xF6;ne Gedanken finden, sind<LE/>
+gebildet. F&#xFC;r sie gibt es Hoffnung. &#x2014; Die Auserlesenen sind<LE/>
+die, welchen die Kunst eitel Sch&#xF6;nheit ist.</P>
+<DIV_END divEndID="deID_2397_00470" startPtr="WR-01-01-09_n0335.xml#//DIV_START[@divStartID='dsID_2397_00472']"/>
+<SEPARATOR type="asterismDown"/>
+<DIV_START divStartID="dsID_2397_00473" endPtr="WR-01-01-09_n0335.xml#//DIV_END[@divEndID='deID_2397_00471']"/>
+<P parID="02491"><TAB/>B&#xFC;cher sind weder moralisch noch unmoralisch; sie sind<LE/>
+gut geschrieben oder schlecht geschrieben. Ein Drittes gibt<LE/>
+es nicht.</P>
+<DIV_END divEndID="deID_2397_00471" startPtr="WR-01-01-09_n0335.xml#//DIV_START[@divStartID='dsID_2397_00473']"/>
+<SEPARATOR type="asterismDown"/>
+<DIV_START divStartID="dsID_2397_00474" endPtr="WR-01-01-09_n0335.xml#//DIV_END[@divEndID='deID_2397_00472']"/>
+<P parID="02492"><TAB/>Das Missfallen des <DATERANGE>XIX. Jahrhunderts</DATERANGE> am <SPC>Realismus</SPC><LE/>
+gleicht der Wuth Caliban&#x2019;s, der sein eigenes Gesicht im<LE/>
+Spiegel erblickt.</P>
+<P parID="02493"><TAB/>Das Missfallen des <DATERANGE>XIX. Jahrhunderts</DATERANGE> an der <SPC>Romantik</SPC><LE/>
+gleicht dem Caliban, der w&#xFC;thet, weil er sich <SPC>nicht</SPC> im<LE/>
+Spiegel sieht.</P>
+<DIV_END divEndID="deID_2397_00472" startPtr="WR-01-01-09_n0335.xml#//DIV_START[@divStartID='dsID_2397_00474']"/>
+<SEPARATOR type="asterismDown"/>
+<DIV_START divStartID="dsID_2397_00475" endPtr="WR-01-01-09_n0335.xml#//DIV_END[@divEndID='deID_2397_00473']"/>
+<P parID="02494"><TAB/>Das moralische Leben eines Menschen ist ein Theil des<LE/>
+k&#xFC;nstlerisch Darzustellenden; aber die Moral der Kunst<LE/>
+besteht in der vollkommenen Beherrschung eines <HYPH1 cont="unvollkommenen">unvoll-</HYPH1><LE/>
+<HYPH2>kommenen</HYPH2> Mittels.</P>
+<DIV_END divEndID="deID_2397_00473" startPtr="WR-01-01-09_n0335.xml#//DIV_START[@divStartID='dsID_2397_00475']"/>
+</PAGE>

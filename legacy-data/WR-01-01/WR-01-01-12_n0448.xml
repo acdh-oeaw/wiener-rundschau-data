@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-12_n0447.xml</PREV>
+<NEXT>WR-01-01-12_n0449.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 448</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00554" endPtr="WR-01-01-12_n0451.xml#//DIV_END[@divEndID='deID_2397_00559']"/>
+<TITLE titleID="tiID_2397_00174"><TITLEPART type="main">DIE SIEBEN BRUNNEN.*)</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C><SPC>Gabriele</SPC> d&#x2019;<SPC>Annunzio</SPC></C></AUCTOR> (Rom).</TITLEPART><LE/>
+<TITLEPART type="desc">Deutsch von <AUCTOR type="translator"><C>Eugen Guglia</C></AUCTOR>.</TITLEPART></TITLE>
+<DIV_START cat="epigraph" divStartID="dsID_2397_00555" endPtr="WR-01-01-12_n0448.xml#//DIV_END[@divEndID='deID_2397_00553']"/>
+<P parID="03144"><TAB/>&#xBB;Eine holde Mischung von Schatten<LE/>
+und Licht liegt auf den Gesichtern<LE/>
+derer, die an den Th&#xFC;ren von jenen<LE/>
+Wohnungen sitzen, welche dunkel<LE/>
+sind.&#xAB;</P>
+<P parID="03145"><I><AUCTOR>Leonardo da Vinci</AUCTOR>.</I></P>
+<DIV_END divEndID="deID_2397_00553" startPtr="WR-01-01-12_n0448.xml#//DIV_START[@divStartID='dsID_2397_00555']"/>
+<TITLE titleID="tiID_2397_00175"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<P parID="03146"><TAB/>Riesige Pinien erhoben sich mit ihren geraden zweiglosen St&#xE4;mmen<LE/>
+wie Mastb&#xE4;ume von grossen Schiffen in gleichen Zwischenr&#xE4;umen l&#xE4;ngs<LE/>
+der Mauer und beschatteten den Garten mit ihrem dichten, hohen<LE/>
+Bl&#xE4;tterschirm. Und zwischen Stamm und Stamm wie zwischen S&#xE4;ulen<LE/>
+waren Nischen in die Felswand geh&#xF6;hlt, darin standen nackte <HYPH1 cont="Steinbilder">Stein-</HYPH1><LE/>
+<HYPH2>bilder</HYPH2>, erstarrte Visionen der Vergangenheit. Und wiederum in gleichen<LE/>
+Abst&#xE4;nden von einander rauschten die sieben Brunnen des Gartens;<LE/>
+am Rande ihrer runden Becken sassen Marmorg&#xF6;tter, st&#xFC;tzten sich auf<LE/>
+die Urnen, aus denen das Wasser floss, und schauten sich in dessen<LE/>
+Spiegel. Ein jeder von den Brunnen war von einem Tempeldach <HYPH1 cont="&#xFC;berdeckt">&#xFC;ber-</HYPH1><LE/>
+<HYPH2>deckt</HYPH2>, auf dessen Fries eine Inschrift eingegraben war. Das Gr&#xFC;n der<LE/>
+hohen Myrte &#xFC;berzog das Alles, unterbrochen nur von den weissen,<LE/>
+stillsinnenden Gestalten. Und das feuchte Erdreich war ganz bedeckt<LE/>
+von Gras und Moos wie von einem Teppich, der unsere Schritte lautlos<LE/>
+machte und die L&#xFC;ste des Geheimnisses erh&#xF6;hte.</P>
+<P parID="03147"><TAB/>&#xBB;K&#xF6;nnt ihr diese Verse hier lesen?&#xAB; sagte Violante und deutete<LE/>
+auf eine der verwitterten Inschriften &#xFC;ber den Brunnen. &#xBB;Ich wusste<LE/>
+einmal, was sie sagen wollen <SYMBOL type="4dots"/>&#xAB;</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2397_00556" endPtr="WR-01-01-12_n0448.xml#//DIV_END[@divEndID='deID_2397_00554']"/>
+<LG parID="03148"><LANG iso="la"><L>Praecipitate moras, volucres cingatis ut horas.</L>
+<L>Nectite formosas, mollia serta, rosas.</L></LANG></LG>
+<DIV_END divEndID="deID_2397_00554" startPtr="WR-01-01-12_n0448.xml#//DIV_START[@divStartID='dsID_2397_00556']"/>
+<P parID="03149"><TAB/>&#xBB;Eilt euch, windet zu Kr&#xE4;nzen die holden Rosen, bekr&#xE4;nzt mit<LE/>
+ihnen die fl&#xFC;chtigen Stunden.&#xAB;</P>
+<P part="initial" parID="03150"><TAB/>Es war, durch den Reim gemildert, die uralte Ermahnung, die<LE/>
+durch Jahrhunderte die Menschen zu den Freuden des kurzen Lebens<LE/>
+aufgerufen, die auf den Lippen der Liebenden so viel K&#xFC;sse entflammt<LE/>
+und bei fr&#xF6;hlichem Mahl so viele Becher gef&#xFC;llt hat. Es war die alte<LE/>
+woll&#xFC;stige Melodie, von einem M&#xF6;nch in mittelalterlicher Zelle variirt,</P>
+<HR/>
+<FN>
+<P parID="03151"><TAB/>*) Aus <LANG iso="it">&#xBB;Le Vergini della Rocce&#xAB;</LANG>, G. d&#x2019;Annunzio&#x2019;s neuestem, deutsch noch<LE/>
+nicht erschienenem Roman (Mailand <DATE>1896</DATE>), auf den wir durch dieses prachtvolle<LE/>
+Bruchst&#xFC;ck unsere Leser ganz besonders aufmerksam machen m&#xF6;chten.</P>
+</FN>
+</PAGE>

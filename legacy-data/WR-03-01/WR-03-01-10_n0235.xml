@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-10_n0234.xml</PREV>
+<NEXT>WR-03-01-10_n0236.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 10, S. 235</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2434_00608" endPtr="WR-03-01-10_n0235.xml#//DIV_END[@divEndID='deID_2434_00607']"/>
+<TITLE titleID="tiID_2434_00120"><TITLEPART><SPC>ZUR NACHT</SPC>.</TITLEPART></TITLE>
+<LG parID="03057"><L>Auf den bl&#xFC;henden Kastanienzweigen</L>
+<L>Liegt das mittern&#xE4;cht&#x2019;ge grosse Schweigen.</L></LG>
+<LG parID="03058"><L>Und der Tag mit allen seinen Stunden</L>
+<L>Hat zur Ewigkeit zur&#xFC;ckgefunden.</L></LG>
+<LG parID="03059"><L>Und die Zeit entrollt die finstern Falten</L>
+<L>Ihres Mantels, den die Sterne halten.</L></LG>
+<LG parID="03060"><L>&#xBB;Sag, was hast Du, Heilige, geborgen?</L>
+<L>&#xBB;Sind es Seligkeiten? Sind es Sorgen?&#xAB;</L></LG>
+<LG parID="03061"><L>Doch sie schweigt und wandert in die Weiten &#x2014;</L>
+<L>Jeder Schritt wird zu Vergangenheiten <SYMBOL type="3dots"/></L></LG>
+<LG parID="03062"><L>Aber es erwacht wie s&#xFC;sses Reden,</L>
+<L>Wie Geheimes aus verschlossnem Eden;</L></LG>
+<LG parID="03063"><L>Aus den bl&#xFC;henden Kastanienzweigen</L>
+<L>Weht der Wind hinweg das grosse Schweigen;</L></LG>
+<LG parID="03064"><L>Und er redet: &#xBB;Die da bl&#xFC;hn und leben,</L>
+<L>&#xBB;Sollen sich dem Gegenw&#xE4;rt&#x2019;gen geben.</L></LG>
+<LG parID="03065"><L>&#xBB;Und die Flammen, die in Seelen gl&#xFC;hen,</L>
+<L>&#xBB;Sollen nicht verlodern, nicht verspr&#xFC;hen;</L></LG>
+<LG parID="03066"><L>&#xBB;Folgen sollen sie dem Lebenswerben:</L>
+<L>&#xBB;Denn im <SPC>Unterlassen</SPC> liegt das <SPC>Sterben</SPC>!&#xAB;</L></LG>
+<P parID="03067">Strassburg. <AUCTOR>ALBERTA von PUTTKAMER</AUCTOR>.</P>
+<DIV_END divEndID="deID_2434_00607" startPtr="WR-03-01-10_n0235.xml#//DIV_START[@divStartID='dsID_2434_00608']"/>
+<SEPARATOR type="hr"/>
+<FT type="pn" num="235" c_text="&#x2014; 235 &#x2014;"/>
+</PAGE>

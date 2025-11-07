@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0193.xml</PREV>
+<NEXT>WR-04-12_n0195.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 194</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2436_00348" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00345']"/>
+<P parID="02608"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Der Prophet, Prinzessin.</P>
+<DIV_END divEndID="deID_2436_00345" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00348']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00349" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00346']"/>
+<P parID="02609"><TAB/><SPK>SALOME</SPK>: Ach, der Prophet! Der, vor dem der Tetrarch Angst hat?</P>
+<DIV_END divEndID="deID_2436_00346" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00349']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00350" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00347']"/>
+<P parID="02610"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Wir wissen davon nichts, Prinzessin. Es war der Prophet<LE/>
+Jochanaan, der gerufen hat.</P>
+<DIV_END divEndID="deID_2436_00347" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00350']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00351" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00348']"/>
+<P parID="02611"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Beliebt es Euch, dass ich Eure S&#xE4;nfte holen lasse,<LE/>
+Prinzessin? Die Nacht ist sch&#xF6;n im Garten.</P>
+<DIV_END divEndID="deID_2436_00348" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00351']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00352" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00349']"/>
+<P parID="02612"><TAB/><SPK>SALOME</SPK>: Er sagt schreckliche Dinge &#xFC;ber meine Mutter, nicht wahr?</P>
+<DIV_END divEndID="deID_2436_00349" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00352']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00353" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00350']"/>
+<P parID="02613"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Wir verstehen nie, was er sagt, Prinzessin.</P>
+<DIV_END divEndID="deID_2436_00350" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00353']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00354" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00351']"/>
+<P parID="02614"><TAB/><SPK>SALOME</SPK>: Ja, er sagt schreckliche Dinge &#xFC;ber sie.</P>
+<DIV_END divEndID="deID_2436_00351" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00354']"/>
+<P parID="02615"><SD>(Ein <SPK>SCLAVE</SPK> tritt ein.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_00355" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00352']"/>
+<P parID="02616"><TAB/><SPK>DER SCLAVE</SPK>: Prinzessin, der Tetrarch ersucht Euch, wieder zum Fest <HYPH1 cont="hineinzugehen">hinein-</HYPH1><LE/>
+<HYPH2>zugehen</HYPH2>.</P>
+<DIV_END divEndID="deID_2436_00352" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00355']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00356" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00353']"/>
+<P parID="02617"><TAB/><SPK>SALOME</SPK>: Ich will nicht hineingehen.</P>
+<DIV_END divEndID="deID_2436_00353" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00356']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00357" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00354']"/>
+<P parID="02618"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Verzeihung, Prinzessin, aber wenn Ihr nicht <HYPH1 cont="hineingeht">hinein-</HYPH1><LE/>
+<HYPH2>geht</HYPH2>, kann Schlimmes geschehen.</P>
+<DIV_END divEndID="deID_2436_00354" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00357']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00358" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00355']"/>
+<P parID="02619"><TAB/><SPK>SALOME</SPK>: Ist dieser Prophet ein alter Mann?</P>
+<DIV_END divEndID="deID_2436_00355" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00358']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00359" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00356']"/>
+<P parID="02620"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Prinzessin, es w&#xE4;re besser, hineinzugehen. Gestattet,<LE/>
+dass ich Euch f&#xFC;hre.</P>
+<DIV_END divEndID="deID_2436_00356" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00359']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00360" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00357']"/>
+<P parID="02621"><TAB/><SPK>SALOME</SPK>: Ist der Prophet ein alter Mann?</P>
+<DIV_END divEndID="deID_2436_00357" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00360']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00361" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00358']"/>
+<P parID="02622"><TAB/><SPK>ERSTER SOLDAT</SPK>: Nein, Prinzessin, er ist ganz jung.</P>
+<DIV_END divEndID="deID_2436_00358" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00361']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00362" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00359']"/>
+<P parID="02623"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Man kann es nicht sicher wissen. Welche sagen, es sei Elias.</P>
+<DIV_END divEndID="deID_2436_00359" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00362']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00363" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00360']"/>
+<P parID="02624"><TAB/><SPK>SALOME</SPK>: Wer ist Elias?</P>
+<DIV_END divEndID="deID_2436_00360" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00363']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00364" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00361']"/>
+<P parID="02625"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Ein Prophet dieses Landes aus vergangenen Tagen,<LE/>
+Prinzessin.</P>
+<DIV_END divEndID="deID_2436_00361" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00364']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00365" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00362']"/>
+<P parID="02626"><TAB/><SPK>DER SCLAVE</SPK>: Welche Antwort soll ich dem Tetrarchen von der Prinzessin bringen?</P>
+<DIV_END divEndID="deID_2436_00362" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00365']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00366" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00363']"/>
+<P parID="02627"><TAB/><SPK>DIE STIMME DES JOCHANAAN</SPK>: Jauchze nicht, du Land Pal&#xE4;stina, weil<LE/>
+der Stab Dessen, der dich schlug, zerbrochen ist. Denn aus dem Samen der Schlange<LE/>
+wird ein Basilisk kommen, und seine Brut wird die V&#xF6;gel verschlingen.</P>
+<DIV_END divEndID="deID_2436_00363" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00366']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00367" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00364']"/>
+<P parID="02628"><TAB/><SPK>SALOME</SPK>: Welch seltsame Stimme! Ich m&#xF6;chte mit ihm sprechen.</P>
+<DIV_END divEndID="deID_2436_00364" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00367']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00368" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00365']"/>
+<P parID="02629"><TAB/><SPK>ERSTER SOLDAT</SPK>: Ich f&#xFC;rchte, das kann nicht sein, Prinzessin. Der Tetrarch<LE/>
+duldet nicht, dass irgendwer mit ihm spricht. Er hat selbst dem Hohepriester <HYPH1 cont="verboten">ver-</HYPH1><LE/>
+<HYPH2>boten</HYPH2>, mit ihm zu sprechen.</P>
+<DIV_END divEndID="deID_2436_00365" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00368']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00369" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00366']"/>
+<P parID="02630"><TAB/><SPK>SALOME</SPK>: Ich w&#xFC;nsche mit ihm zu sprechen.</P>
+<DIV_END divEndID="deID_2436_00366" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00369']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00370" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00367']"/>
+<P parID="02631"><TAB/><SPK>ERSTER SOLDAT</SPK>: Es ist unm&#xF6;glich, Prinzessin.</P>
+<DIV_END divEndID="deID_2436_00367" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00370']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00371" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00368']"/>
+<P parID="02632"><TAB/><SPK>SALOME</SPK>: Ich will mit ihm sprechen.</P>
+<DIV_END divEndID="deID_2436_00368" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00371']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00372" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00369']"/>
+<P parID="02633"><TAB/><SPK>DER JUNGE SYRIER</SPK>: W&#xE4;re es nicht besser, wieder zum Bankett zu gehen?</P>
+<DIV_END divEndID="deID_2436_00369" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00372']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00373" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00370']"/>
+<P parID="02634"><TAB/><SPK>SALOME</SPK>: Bringt diesen Propheten heraus.</P>
+<DIV_END divEndID="deID_2436_00370" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00373']"/>
+<P parID="02635"><SD>(Der <SPK>SCLAVE</SPK> geht ab.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_00374" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00371']"/>
+<P parID="02636"><TAB/><SPK>ERSTER SOLDAT</SPK>: Wir d&#xFC;rfen nicht, Prinzessin.</P>
+<DIV_END divEndID="deID_2436_00371" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00374']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00375" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00372']"/>
+<P parID="02637"><TAB/><SPK>SALOME</SPK> <SD>(tritt an die Cisterne heran und blickt hinunter)</SD>: Wie schwarz es da<LE/>
+drunten ist! Es muss schrecklich sein, in so einer schwarzen H&#xF6;hle zu leben. Es ist<LE/>
+wie eine Gruft <SYMBOL type="3dots"/> <SD>(Zu den Soldaten):</SD> Habt ihr nicht geh&#xF6;rt? Bringt den Propheten<LE/>
+heraus. Ich m&#xF6;chte ihn sehen.</P>
+<DIV_END divEndID="deID_2436_00372" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00375']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00376" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00373']"/>
+<P parID="02638"><TAB/><SPK>ZWEITER SOLDAT</SPK>: Prinzessin, ich bitte Euch, verlangt das nicht von uns.</P>
+<DIV_END divEndID="deID_2436_00373" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00376']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00377" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00374']"/>
+<P parID="02639"><TAB/><SPK>SALOME</SPK>: Ich soll wohl warten, bis es euch beliebt?</P>
+<DIV_END divEndID="deID_2436_00374" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00377']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00378" endPtr="WR-04-12_n0194.xml#//DIV_END[@divEndID='deID_2436_00375']"/>
+<P parID="02640"><TAB/><SPK>ERSTER SOLDAT</SPK>: Prinzessin, unser Leben geh&#xF6;rt Euch, aber wir k&#xF6;nnen<LE/>
+nicht thun, was Ihr von uns begehrt. Und Ihr solltet das wirklich von uns nicht<LE/>
+verlangen.</P>
+<DIV_END divEndID="deID_2436_00375" startPtr="WR-04-12_n0194.xml#//DIV_START[@divStartID='dsID_2436_00378']"/>
+<FT type="pn" num="194" c_text="&#x2014; 194 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-17_n0396.xml</PREV>
+<NEXT>WR-03-02-17_n0398.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 397</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>MAETERLINCK: BLAUBART UND ARIANE.</CTEXT></HD>
+<P part="final" parID="04474"><SD part="final">Erd-Innern ein erstickter, &#xE4;usserst ferner, kaum vernehmlicher Klagegesang. Ariane<LE/>
+zittert, h&#xE4;lt mitten in einer dankbaren Geberde wie erstarrt inne, senkt das Haupt<LE/>
+und horcht.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00817" endPtr="WR-03-02-17_n0397.xml#//DIV_END[@divEndID='deID_2434_00814']"/>
+<P parID="04475"><SPK>BLAUBART</SPK><LE/>
+<SD>(schrickt anfangs zusammen und stampft dann zornig mit dem Fuss auf den Boden,<LE/>
+dann tritt er auf Ariane zu und sagt ihr mit schallender Stimme, wie um den<LE/>
+unterirdischen Gesang zu &#xFC;berschreien)</SD>:</P>
+<P parID="04476"><TAB/>Ihr seid sch&#xF6;n, Ariane! <SYMBOL type="3dots"/> Setzt auch noch dieses Smaragddiadem auf<LE/>
+und hier <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00814" startPtr="WR-03-02-17_n0397.xml#//DIV_START[@divStartID='dsID_2434_00817']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00818" endPtr="WR-03-02-17_n0397.xml#//DIV_END[@divEndID='deID_2434_00815']"/>
+<P parID="04477"><SPK>ARIANE</SPK><LE/>
+<SD>(gebieterisch)</SD>:</P>
+<P parID="04478"><TAB/>Schweigt!</P>
+<DIV_END divEndID="deID_2434_00815" startPtr="WR-03-02-17_n0397.xml#//DIV_START[@divStartID='dsID_2434_00818']"/>
+<P parID="04479"><SD>GESANG<LE/>
+(kaum h&#xF6;rbar):</SD></P>
+<DIV_START cat="song" divStartID="dsID_2434_00819" endPtr="WR-03-02-17_n0397.xml#//DIV_END[@divEndID='deID_2434_00816']"/>
+<LG parID="04480"><L>Die f&#xFC;nf M&#xE4;dchen von Orlam&#xFC;nde,</L>
+<L>Als die Fee war todt,</L>
+<L>Die f&#xFC;nf M&#xE4;dchen von Orlam&#xFC;nde</L>
+<L>Suchten nach der Th&#xFC;r in Noth.</L></LG>
+<DIV_END divEndID="deID_2434_00816" startPtr="WR-03-02-17_n0397.xml#//DIV_START[@divStartID='dsID_2434_00819']"/>
+<P parID="04481"><SD>(Der Gesang verstummt. Schweigen.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2434_00820" endPtr="WR-03-02-17_n0397.xml#//DIV_END[@divEndID='deID_2434_00817']"/>
+<P parID="04482"><SPK>ARIANE</SPK>:</P>
+<P parID="04483"><TAB/>Was war das?</P>
+<DIV_END divEndID="deID_2434_00817" startPtr="WR-03-02-17_n0397.xml#//DIV_START[@divStartID='dsID_2434_00820']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00821" endPtr="WR-03-02-17_n0397.xml#//DIV_END[@divEndID='deID_2434_00818']"/>
+<P parID="04484"><SPK>BLAUBART</SPK>:</P>
+<P parID="04485"><TAB/>Ich weiss nicht <SYMBOL type="3dots"/> Es war unten, draussen, im Felde <SYMBOL type="3dots"/> Vielleicht<LE/>
+ein vor&#xFC;berziehender Sch&#xE4;fer, oder die Weiber aus dem Dorfe, die im <HYPH1 cont="Schlosshof">Schloss-</HYPH1><LE/>
+<HYPH2>hof</HYPH2> Wasser sch&#xF6;pfen <SYMBOL type="3dots"/> Sie kommen immer gegen Abend, wenn der Mond<LE/>
+scheint, und <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00818" startPtr="WR-03-02-17_n0397.xml#//DIV_START[@divStartID='dsID_2434_00821']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00822" endPtr="WR-03-02-17_n0397.xml#//DIV_END[@divEndID='deID_2434_00819']"/>
+<P parID="04486"><SPK>ARIANE</SPK><LE/>
+<SD>(traurig)</SD>:</P>
+<P parID="04487"><TAB/>Ich weiss, was es war <SYMBOL type="3dots"/> (Sie legt Schleier und Geschmeide wieder ab und<LE/>
+thut sie in die Lade zur&#xFC;ck.) Geh zur&#xFC;ck in dein Gef&#xE4;ngnis, sch&#xF6;ner, <HYPH1 cont="schimmernder">schimmern-</HYPH1><LE/>
+<HYPH2>der</HYPH2> Schleier, den ich befreien wollte, und ihr leuchtende Geschmeide und Perlen,<LE/>
+die ihr zum Licht erwachtet; auch ihr Diamanten und Amethysten, die ihr<LE/>
+Sonne und offene Th&#xFC;ren liebt, &#x2014; zur&#xFC;ck in eure Finsternis! Solange andere<LE/>
+gefangen sind, hat eure Stunde noch nicht geschlagen, aber sie wird <HYPH1 cont="vielleicht">viel-</HYPH1><LE/>
+<HYPH2>leicht</HYPH2> bald schlagen <SYMBOL type="3dots"/> (Sie n&#xE4;hert sich Blaubart und umschlingt ihn furchtsam<LE/>
+mit einschmeichelnder Geberde.) Verzeiht Ihr nicht? F&#xFC;hlt Ihr keine Reue? Es<LE/>
+waren f&#xFC;nf, sagt man, die Euch geliebt h&#xE4;tten, wenn Ihr nur gewollt h&#xE4;ttet;<LE/>
+und mehr als Eine muss sehr sch&#xF6;n gewesen sein, und mehr als Eine ist es<LE/>
+noch, des bin ich sicher, trotz diesem Dunkel, in das Ihr sie versenkt <SYMBOL type="3dots"/><LE/>
+Worauf wartet Ihr? Was haben sie Euch gethan? Ich weiss nicht, was sie<LE/>
+gelitten haben, aber ich weiss wohl, dass sie hier gefangen sind <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2434_00819" startPtr="WR-03-02-17_n0397.xml#//DIV_START[@divStartID='dsID_2434_00822']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00823" endPtr="WR-03-02-17_n0397.xml#//DIV_END[@divEndID='deID_2434_00820']"/>
+<P parID="04488"><SPK>BLAUBART</SPK><LE/>
+<SD>(sucht sich ihrer Umarmung zu entwinden und st&#xF6;sst sie w&#xFC;thend von sich)</SD>:</P>
+<P parID="04489"><TAB/>Was wollt Ihr damit sagen?</P>
+<DIV_END divEndID="deID_2434_00820" startPtr="WR-03-02-17_n0397.xml#//DIV_START[@divStartID='dsID_2434_00823']"/>
+<DIV_START cat="speech" divStartID="dsID_2434_00824" endPtr="WR-03-02-17_n0398.xml#//DIV_END[@divEndID='deID_2434_00821']"/>
+<P parID="04490"><SPK>ARIANE</SPK><LE/>
+<SD>(h&#xE4;lt ihn noch fester umschlungen)</SD>:</P>
+<P part="initial" parID="04491"><TAB/>Nein, nein, versucht meinen Armen nicht zu entkommen; Ihr seht ja, ich<LE/>
+weiss alles <SYMBOL type="3dots"/> Ich bin gekommen, <SPC>weil</SPC> ich alles wusste, und als ich Euch</P>
+<FT type="pn" num="397" c_text="&#x2014; 397 &#x2014;"/>
+</PAGE>

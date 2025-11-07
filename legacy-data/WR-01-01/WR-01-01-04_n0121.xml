@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0120.xml</PREV>
+<NEXT>WR-01-01-04_n0122.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 121</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2397_00200" endPtr="WR-01-01-04_n0160.xml#//DIV_END[@divEndID='deID_2397_00224']"/>
+<DIV_START cat="masthead" divStartID="dsID_2397_00201" endPtr="WR-01-01-04_n0121.xml#//DIV_END[@divEndID='deID_2397_00200']"/>
+<P parID="00839"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00840"><B><DATE>1. <SPC>JANUAR</SPC>, 1897</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2397_00200" startPtr="WR-01-01-04_n0121.xml#//DIV_START[@divStartID='dsID_2397_00201']"/>
+<DIV_START divStartID="dsID_2397_00202" endPtr="WR-01-01-04_n0126.xml#//DIV_END[@divEndID='deID_2397_00201']"/>
+<TITLE titleID="tiID_2397_00066"><TITLEPART type="main"><SPC>DER BOBOK</SPC>.</TITLEPART><LE/>
+<TITLEPART>Memoiren einer Person.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Feodor Michailowitsch Dostojewsky</C></AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Deutsch von <AUCTOR type="translator"><C>Nina Hofmann</C></AUCTOR>.</TITLEPART></TITLE>
+<P parID="00841"><TAB/>Da sagt mir Semjon Ardaljonowitsch vorgestern pl&#xF6;tzlich: &#xBB;Ja,<LE/>
+wirst du jemals n&#xFC;chtern sein, Iwan Iwanytsch? Sag&#x2019; mir das, um aller<LE/>
+Barmherzigkeit willen!&#xAB;</P>
+<P parID="00842"><TAB/>Ein seltsames Verlangen! Ich bin nicht beleidigt, bin ein sanfter<LE/>
+Mensch, aber da hat man mich gar zum Narren gemacht. Da hat ein<LE/>
+Maler mein Portr&#xE4;t gemalt, so zuf&#xE4;llig. &#xBB;Bist ja doch auch ein Literat,&#xAB;<LE/>
+sagte er. Ich bin ihm gesessen; er hat es richtig ausgestellt. Nun<LE/>
+lese ich: &#xBB;Tretet n&#xE4;her, seht Euch dieses krankhafte, dem Wahnsinn<LE/>
+nahe Gesicht an.&#xAB; Mag ja sein, aber warum denn das so grad <HYPH1 cont="ausdr&#xFC;cken">aus-</HYPH1><LE/>
+<HYPH2>dr&#xFC;cken</HYPH2>? Das Gedruckte soll immer edel sein, Ideale braucht man,<LE/>
+hier aber <SYMBOL type="3dots"/></P>
+<P parID="00843"><TAB/>Sag&#x2019;s wenigstens auf Umwegen, dazu hast du ja den Styl. Aber<LE/>
+nein, auf Umwegen will er&#x2019;s einmal nicht. Jetzt verschwindet der Humor,<LE/>
+der gute Styl, und Schimpfworte gelten f&#xFC;r Witze. Ich bin nicht <HYPH1 cont="beleidigt">be-</HYPH1><LE/>
+<HYPH2>leidigt</HYPH2>, bin, weiss Gott, kein solcher Literat, um verr&#xFC;ckt zu werden.<LE/>
+Eine Erz&#xE4;hlung habe ich geschrieben, man hat sie nicht gedruckt &#x2014;<LE/>
+ein Feuilleton, sie haben es zur&#xFC;ckgewiesen. Solcher Feuilletons habe ich<LE/>
+viele in verschiedene Redactionen getragen, &#xFC;berall hat man sie <HYPH1 cont="abgelehnt">ab-</HYPH1><LE/>
+<HYPH2>gelehnt</HYPH2>. &#xBB;Sie haben kein Salz,&#xAB; sagt man.</P>
+<P parID="00844"><TAB/>&#xBB;Was denn f&#xFC;r Salz?&#xAB; fragte ich spottend &#x2014; &#xBB;attisches?&#xAB;</P>
+<P part="initial" parID="00845"><TAB/>Nicht einmal verstanden hat er&#x2019;s. Meistens &#xFC;bersetze ich f&#xFC;r die<LE/>
+Buchh&#xE4;ndler Sachen aus dem Franz&#xF6;sischen. Auch Ank&#xFC;ndigungen<LE/>
+schreibe ich f&#xFC;r die Kaufleute: &#xBB;Eine Rarit&#xE4;t!&#xAB; &#xBB;R&#xF6;thlicher Thee&#xAB; &#x2014;<LE/>
+sage ich &#x2014; &#xBB;aus den eigenen Plantagen.&#xAB; Auf diese Anpreisung ist<LE/>
+Seiner Excellenz dem seligen Peter Matweitsch ein grosser Gusto <HYPH1 cont="gekommen">ge-</HYPH1><LE/>
+<HYPH2>kommen</HYPH2>. Auf Bestellung des Buchh&#xE4;ndlers schrieb ich &#xBB;die Kunst gef&#xE4;llt<LE/>
+den Damen&#xAB;. Solcher B&#xFC;chelchen habe ich in meinem Leben sechs</P>
+</PAGE>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-16_n0628.xml</PREV>
+<NEXT>WR-02-02-16_n0630.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 16, S. 629</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>7</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>RIESENGEBIRGE.</CTEXT><RTEXT type="pn">629</RTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2433_00181" endPtr="WR-02-02-16_n0629.xml#//DIV_END[@divEndID='deID_2433_00179']"/>
+<TITLE titleID="tiID_2433_00058"><TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="00981"><L>Alles ist Dir treu geblieben,</L>
+<L>Treu die G&#xFC;te der Natur,</L>
+<L>Und dieselben G&#xF6;tter lieben</L>
+<L>Noch die alte junge Flur.</L></LG>
+<LG parID="00982"><L>Meine Blicke suchen schweigend</L>
+<L>Deine grosse Weitenruh&#x2019;,</L>
+<L>Wenden sich in Demuth neigend</L>
+<L>Deinen milden F&#xFC;ssen zu.</L></LG>
+<LG parID="00983"><L>Hab&#x2019; Geduld mit Deinem Kinde,</L>
+<L>Kehr&#x2019; ich reuig bei Dir ein &#x2014;</L>
+<L>Wenn ich Dich noch ganz empfinde,</L>
+<L>Werd&#x2019; ich Deiner w&#xFC;rdig sein.</L></LG>
+<P parID="00984">Berlin. <DATE>1892</DATE>. <AUCTOR>GEORG HIRSCHFELD</AUCTOR>.</P>
+<DIV_END divEndID="deID_2433_00179" startPtr="WR-02-02-16_n0629.xml#//DIV_START[@divStartID='dsID_2433_00181']"/>
+<DIV_END divEndID="deID_2433_00180" startPtr="WR-02-02-16_n0628.xml#//DIV_START[@divStartID='dsID_2433_00179']"/>
+</PAGE>

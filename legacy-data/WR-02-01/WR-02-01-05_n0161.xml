@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-04_n0160.xml</PREV>
+<NEXT>WR-02-01-05_n0162.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 5, S. 161</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00248" endPtr="WR-02-01-05_n0200.xml#//DIV_END[@divEndID='deID_2432_00263']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00249" endPtr="WR-02-01-05_n0161.xml#//DIV_END[@divEndID='deID_2432_00248']"/>
+<P parID="00984"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00985"><B><DATE>15. <SPC>JANUAR</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00248" startPtr="WR-02-01-05_n0161.xml#//DIV_START[@divStartID='dsID_2432_00249']"/>
+<DIV_START divStartID="dsID_2432_00250" endPtr="WR-02-01-05_n0170.xml#//DIV_END[@divEndID='deID_2432_00249']"/>
+<TITLE titleID="tiID_2432_00062"><TITLEPART type="main">K&#xDC;NSTLERHERZEN.</TITLEPART><LE/>
+<TITLEPART type="desc">Erz&#xE4;hlung von <AUCTOR><C>Holger Drachmann</C></AUCTOR>.<LE/>
+Autorisirte Uebertragung aus dem D&#xE4;nischen von <AUCTOR type="translator"><C>Carl K&#xFC;chler</C></AUCTOR>.</TITLEPART></TITLE>
+<P parID="00986"><SPC>Erster Brief</SPC>.</P>
+<P parID="00987">Lieber Morten!</P>
+<P parID="00988"><TAB/>Nur vierzehn Tage, und <SYMBOL type="3dots"/>!</P>
+<P parID="00989"><TAB/>Nein, ich will Dir meinen Bericht in chronologischer Reihenfolge<LE/>
+geben. Du wirst dann selbst am Schlusse einen &#xE4;hnlichen Ausruf<LE/>
+w&#xE4;hlen k&#xF6;nnen, wie ich ihn &#xFC;ber den Anfang gesetzt haben w&#xFC;rde.</P>
+<P parID="00990"><TAB/>Es regnet ununterbrochen. Es hat vom allerersten Tage ab, dass<LE/>
+wir hier einzogen, best&#xE4;ndig geregnet. Und das war vorgestern. Nun<LE/>
+kannst Du die Tage selbst z&#xE4;hlen.</P>
+<P parID="00991"><TAB/>Wir fuhren in offenem Wagen von der Eisenbahnstation hierher<LE/>
+und waren, da wir einen miserablen Wagen, einen miserablen Weg<LE/>
+und miserable Pferde hatten, bei unserer Ankunft selbstverst&#xE4;ndlich<LE/>
+durch und durch geweicht.</P>
+<P parID="00992"><TAB/>Im Anfange versuchten Heinrich und ich es mit einer kleinen<LE/>
+Unterhaltung, um bei guter Laune zu bleiben. Wir suchten einander<LE/>
+mit jenen kurzen Ausrufen zu tr&#xF6;sten, von denen man glaubt, der<LE/>
+Andere solle mehr Zutrauen dazu haben, als man selbst besitzt; z. B.:<LE/>
+Ich glaube doch, es f&#xE4;ngt an, sich ein bischen aufzukl&#xE4;ren: Sieh einmal,<LE/>
+dort &#xFC;ber dem Walde; &#xFC;ber dem Heuschober; dort draussen im Felde,<LE/>
+rechts! u. s. w.</P>
+<P parID="00993"><TAB/>Ach, wir entdeckten nur gar zu bald Einer des Anderen <HYPH1 cont="Langweiligkeit">Lang-</HYPH1><LE/>
+<HYPH2>weiligkeit</HYPH2>!</P>
+<P parID="00994"><TAB/>Nichts macht die Menschen so scharfsinnig wie <HYPH1 cont="gemeinschaftliches">gemeinschaft-</HYPH1><LE/>
+<HYPH2>liches</HYPH2> Elend. Aus welchem Grunde man eigentlich bei weitem mehr <HYPH1 cont="Intelligenz">In-</HYPH1><LE/>
+<HYPH2>telligenz</HYPH2> in der Welt erwarten sollte, als man durchschnittlich in ihr findet.</P>
+<P parID="00995"><TAB/>Dann kam das n&#xE4;chste Stadium, wo wir in stummem Schweigen<LE/>
+unsere Regenschirme zuklappten, da wir die Bemerkung machten, dass<LE/>
+wir einander viel n&#xE4;sser machten, wenn wir sie auf hatten, als wenn<LE/>
+sie zusammengeklappt neben uns lagen.</P>
+<P part="initial" parID="00996"><TAB/>Wir versanken nach und nach in eine schlaffe Gleichgiltigkeit.<LE/>
+Derselben voraus ging indessen ein gewisses Schaudern, als wir merkten,</P>
+</PAGE>

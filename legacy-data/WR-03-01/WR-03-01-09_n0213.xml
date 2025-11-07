@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-09_n0212.xml</PREV>
+<NEXT>WR-03-01-09_n0214.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 9, S. 213</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2434_00583" endPtr="WR-03-01-09_n0218.xml#//DIV_END[@divEndID='deID_2434_00585']"/>
+<TITLE titleID="tiID_2434_00111"><TITLEPART type="main"><SPC>KUNST UND MORAL</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>JOHN RUSKIN</AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">&#xDC;bertragen von <AUCTOR type="translator">WILHELM SCH&#xD6;LERMANN</AUCTOR>.</TITLEPART></TITLE>
+<TABLE parID="02806"><ROW ciID="0515"><CELL>
+<DIV_START author="(other)" divStartID="dsID_2434_00584" endPtr="WR-03-01-09_n0213.xml#//DIV_END[@divEndID='deID_2434_00583']"/>
+<P parID="02807"><TAB/>Die Werke des grossen englischen<LE/>
+Kritikers und National&#xF6;konomen sind erst<LE/>
+zum kleinsten Theil ins Deutsche <HYPH1 cont="&#xFC;bertragen">&#xFC;ber-</HYPH1><LE/>
+<HYPH2>tragen</HYPH2> worden. Aber wir haben ein Recht,<LE/>
+ihres tiefen k&#xFC;nstlerischen und ethischen<LE/>
+Gehaltes theilhaftig zu werden. Sie haben<LE/>
+in England die Autorit&#xE4;t der <HYPH1 cont="Manchesterschule">Manchester-</HYPH1><LE/>
+<HYPH2>schule</HYPH2> zum erstenmal von Grund auf<LE/>
+ersch&#xFC;ttert. Ihre kolossale Verbreitung*<LE/>
+hat die Culturstufe Englands mehr <HYPH1 cont="gehoben">ge-</HYPH1><LE/>
+<HYPH2>hoben</HYPH2>, als irgend ein anderes <HYPH1 cont="Lebenswerk">Lebens-</HYPH1><LE/>
+<HYPH2>werk</HYPH2> eines <SPC>einzelnen</SPC> Menschen.</P>
+<P parID="02808"><TAB/>Seine ersten Aufs&#xE4;tze wurden in der<LE/>
+Zeitschrift <LANG iso="en">&#xBB;The Cornhill Magazine&#xAB;</LANG> <HYPH1 cont="ver&#xF6;ffentlicht">ver-</HYPH1><LE/>
+<HYPH2>&#xF6;ffentlicht</HYPH2>, erregten aber einen solchen<LE/>
+Sturm wildester Anfeindung in der <HYPH1 cont="gesammten">ge-</HYPH1><LE/>
+<HYPH2>sammten</HYPH2> englischen Presse, dass der<LE/>
+Verleger der Zeitschrift sich weigerte,<LE/>
+nach dem vierten Artikel einen weiteren<LE/>
+zu bringen! Demgegen&#xFC;ber trat Thomas<LE/>
+Carlyle so ziemlich als Einziger f&#xFC;r Ruskin<LE/>
+ein. Die drastischen Worte, mit denen<LE/>
+er den Autor in einem Brief ermunterte,<LE/>
+m&#xF6;gen hier Platz finden, da sie f&#xFC;r beide<LE/>
+M&#xE4;nner charakteristisch sind und zugleich<LE/>
+ein Zeitstimmungsbild geben von den<LE/>
+heissen Schlachten, die damals <HYPH1 cont="ausgefochten">ausge-</HYPH1><LE/>
+<HYPH2>fochten</HYPH2> wurden auf national-&#xF6;konomischem<LE/>
+Gebiete. Carlyle schrieb:</P>
+<DIV_START author="(other)" divStartID="dsID_2434_00585" endPtr="WR-03-01-09_n0213.xml#//DIV_END[@divEndID='deID_2434_00582']"/>
+<P part="initial" parID="02809"><TAB/>&#xBB;Ich las Ihre Artikel mit Wohllust,<LE/>
+mit Jauchzen und oftmals mit hellem<LE/>
+Gel&#xE4;chter und <LANG type="mixed">Bravissimo-Rufen</LANG>. Ein solches<LE/>
+Ding pl&#xF6;tzlich an einem Tag in eine halbe<LE/>
+Million vernagelter britischer Hirnkasten<LE/>
+hineingeschleudert, wird viel Gutes thun.<LE/>
+Ich bewundere an vielen Stellen die <HYPH1 cont="luchs&#xE4;ugige">luchs-</HYPH1><LE/>
+<HYPH2>&#xE4;ugige</HYPH2> Sch&#xE4;rfe Ihrer Logik, die gl&#xFC;hende<LE/>
+Beisszange, mit der Sie gewisse <HYPH1 cont="geschwollene">ge-</HYPH1><LE/>
+<HYPH2>schwollene</HYPH2> Backen und aufgeblasene<LE/>
+W&#xE4;nste anpacken. Verharren Sie die</P>
+</CELL><CELL>
+<P part="final" parID="02810">n&#xE4;chsten sieben Jahre bei dieser Arbeit,<LE/>
+und erzielen Sie dabei den gleichen <HYPH1 cont="Erfolg">Er-</HYPH1><LE/>
+<HYPH2>folg</HYPH2>, wie in der Malerei. Inzwischen freut<LE/>
+es mich, dass ich mich von nun an in<LE/>
+einer Minorit&#xE4;t von zwei Stimmen <HYPH1 cont="befinde">be-</HYPH1><LE/>
+<HYPH2>finde</HYPH2>.&#xAB;</P>
+<DIV_END divEndID="deID_2434_00582" startPtr="WR-03-01-09_n0213.xml#//DIV_START[@divStartID='dsID_2434_00585']"/>
+<P parID="02811"><TAB/>Die hier auszugsweise wiedergegebenen<LE/>
+Gedanken sind in Form von Vorlesungen<LE/>
+an der Universit&#xE4;t Oxford vor einer <HYPH1 cont="Zuh&#xF6;rerschaft">Zu-</HYPH1><LE/>
+<HYPH2>h&#xF6;rerschaft</HYPH2> von Studenten und Laien<LE/>
+gegeben worden zu einer Zeit (<DATE>1870</DATE>),<LE/>
+als kein H&#xF6;rsaal gross genug war, um<LE/>
+die Zuh&#xF6;rer zu fassen. Denn Ruskin war<LE/>
+kein Prediger in der W&#xFC;ste. Durch den<LE/>
+prophetischen Ernst und die heilige <HYPH1 cont="&#xDC;berzeugung">&#xDC;ber-</HYPH1><LE/>
+<HYPH2>zeugung</HYPH2> seiner Rede zog er die Menschen<LE/>
+an. Er wollte keine Fachk&#xFC;nstler <HYPH1 cont="heranbilden">heran-</HYPH1><LE/>
+<HYPH2>bilden</HYPH2>, sondern Menschen, welche Natur<LE/>
+und Leben nicht nur wissenschaftlich <HYPH1 cont="analytisch">ana-</HYPH1><LE/>
+<HYPH2>lytisch</HYPH2>, sondern mit der Empfindung,<LE/>
+ethisch und &#xE4;sthetisch, aufnehmen und<LE/>
+durchdringen k&#xF6;nnen. In seinem Vorwort<LE/>
+zur Gesammtausgabe dieser Vortr&#xE4;ge<LE/>
+(<LANG iso="en">&#xBB;Lectures on Art&#xAB;</LANG>) sagt er selbst:</P>
+<DIV_END divEndID="deID_2434_00583" startPtr="WR-03-01-09_n0213.xml#//DIV_START[@divStartID='dsID_2434_00584']"/>
+<P parID="02812"><TAB/>&#xBB;Sie sind der wichtigste Theil meiner<LE/>
+literarischen Arbeiten, mit ungehemmter<LE/>
+Kraft und unter dem g&#xFC;nstigsten <HYPH1 cont="Zusammenwirken">Zu-</HYPH1><LE/>
+<HYPH2>sammenwirken</HYPH2> &#xE4;usserer Umst&#xE4;nde <HYPH1 cont="durchgef&#xFC;hrt">durch-</HYPH1><LE/>
+<HYPH2>gef&#xFC;hrt</HYPH2>. Sie wurden geschrieben und <HYPH1 cont="vorgetragen">vor-</HYPH1><LE/>
+<HYPH2>getragen</HYPH2>, als noch meine Mutter lebte,<LE/>
+deren innigste Antheilnahme an allen<LE/>
+meinen Bestrebungen mich st&#xE4;rkte, <HYPH1 cont="w&#xE4;hrend">w&#xE4;h-</HYPH1><LE/>
+<HYPH2>rend</HYPH2> meine Freunde unentwegtes <HYPH1 cont="Vertrauen">Ver-</HYPH1><LE/>
+<HYPH2>trauen</HYPH2> in mich setzten und die Richtung<LE/>
+und Tragweite meiner Unternehmungen<LE/>
+geeignet schien zur &#xDC;bernahme h&#xF6;herer<LE/>
+Verantwortung und ernsterer Aufgaben,<LE/>
+als die eines wissbegierigen Touristen<LE/>
+oder gelegentlichen Lehrers und <HYPH1 cont="Sch&#xF6;nredners">Sch&#xF6;n-</HYPH1><LE/>
+<HYPH2>redners</HYPH2>.</P>
+</CELL></ROW></TABLE>
+<FN>
+<P parID="02813"><TAB/>* Bis zum Jahre <DATE>1893</DATE> waren von Ruskins Werken &#xFC;ber 300.000 Exemplare gebundener<LE/>
+B&#xFC;cher (die Brosch&#xFC;ren nicht mitgerechnet) verkauft, zum Theil sehr kostspielige Ausgaben.<LE/>
+Die ersten Auflagen von <LANG iso="en">&#xBB;<SPC>Modern Painters</SPC>&#xAB;</LANG> erreichten beim Wiederverkauf manchmal<LE/>
+Preise von 40&#x2014;50 Pfund Sterling <SYMBOL type="equals"/> 500&#x2014;600 Gulden pro St&#xFC;ck. Gl&#xFC;ckliches England!</P>
+</FN>
+<FT type="pn" num="213" c_text="&#x2014; 213 &#x2014;"/>
+</PAGE>

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-23_n0903.xml</PREV>
+<NEXT>WR-02-02-24_n0905.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 23, S. 904</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>10</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">904</LTEXT><CTEXT>NOTIZEN.</CTEXT></HD>
+<TABLE parID="02240"><ROW ciID="0034"><CELL>
+<P part="medial" parID="02241"><HYPH2>spricht</HYPH2>. Er redet gut und <HYPH1 cont="verst&#xE4;ndig">ver-</HYPH1><LE/>
+<HYPH2>st&#xE4;ndig</HYPH2> <SYMBOL type="4dots"/> Herr Wirth erinnert<LE/>
+<SPC>etwas</SPC> an Nhil. Freilich wird er<LE/>
+sich vieles abgew&#xF6;hnen m&#xFC;ssen <SYMBOL type="4dots"/><LE/>
+Auch Herr Jensen macht einen<LE/>
+guten Eindruck. Die Rolle sagt<LE/>
+nicht viel, aber man m&#xFC;sste glauben,<LE/>
+dass der junge Schauspieler <SPC>etwas</SPC><LE/>
+kann <SYMBOL type="4dots"/> Die <SPC>etwas</SPC> saloppe Art<LE/>
+wird ihm die Wiener Umgebung <HYPH1 cont="abschleifen">ab-</HYPH1><LE/>
+<HYPH2>schleifen</HYPH2>. Sonst hielt sich noch<LE/>
+Herr Burg gut. Vom zweiten Acte<LE/>
+ab wurde er wohl <SPC>etwas</SPC> zu leger,<LE/>
+aber er pointirte so nett, dass man</P>
+</CELL><CELL>
+<P part="final" parID="02242">dar&#xFC;ber weggehen konnte.&#xAB; Etwas<LE/>
+vielsagend, dieses Citat. <AUCTOR><I>st gr.</I></AUCTOR></P>
+<DIV_END divEndID="deID_2433_00320" startPtr="WR-02-02-23_n0903.xml#//DIV_START[@divStartID='dsID_2433_00323']"/>
+<SEPARATOR type="hr"/>
+<DIV_START author="(other)" divStartID="dsID_2433_00324" endPtr="WR-02-02-23_n0904.xml#//DIV_END[@divEndID='deID_2433_00321']"/>
+<P parID="02243"><TAB/>Von unserem Mitarbeiter Dr.<LE/>
+Eugen Heinrich <SPC>Schmitt</SPC> ist<LE/>
+soeben ein neues Werk &#xFC;ber<LE/>
+Friedrich Nietzsche (bei Alfred<LE/>
+Janssen, Leipzig) erschienen. &#x2014;<LE/>
+Ebenso erscheint von unserem<LE/>
+Mitarbeiter Max <SPC>Messer</SPC> im<LE/>
+Laufe des <DATE>n&#xE4;chsten Monats</DATE> (bei<LE/>
+Hermann Haacke, Leipzig) ein<LE/>
+Band bisher ungedruckter, <HYPH1 cont="zusammenh&#xE4;ngender">zu-</HYPH1><LE/>
+<HYPH2>sammenh&#xE4;ngender</HYPH2> Essays.</P>
+<DIV_END divEndID="deID_2433_00321" startPtr="WR-02-02-23_n0904.xml#//DIV_START[@divStartID='dsID_2433_00324']"/>
+<DIV_END divEndID="deID_2433_00322" startPtr="WR-02-02-23_n0901.xml#//DIV_START[@divStartID='dsID_2433_00317']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2433_00323" startPtr="WR-02-02-23_n0865.xml#//DIV_START[@divStartID='dsID_2433_00308']"/>
+<SEPARATOR type="hr"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2433_00325" endPtr="WR-02-02-23_n0904.xml#//DIV_END[@divEndID='deID_2433_00324']"/>
+<P parID="02244">Herausgeber: <SPC>Gustav Schoenaich</SPC>, <SPC>Felix Rappaport</SPC>.</P>
+<P parID="02245">Verantwortlicher Redacteur: <SPC>Gustav Schoenaich</SPC>.</P>
+<P parID="02246">K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortlich A. Rimrich.)</P>
+<DIV_END divEndID="deID_2433_00324" startPtr="WR-02-02-23_n0904.xml#//DIV_START[@divStartID='dsID_2433_00325']"/>
+<DIV_END divEndID="deID_2433_00325" startPtr="WR-02-02-17_n0641.xml#//DIV_START[@divStartID='dsID_2433_00192']"/>
+</PAGE>

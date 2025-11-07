@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-01_n0009.xml</PREV>
+<NEXT>WR-04-01_n0011.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 1, S. 10</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ROSSETTI: FUENF SONETTE.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2436_00010" endPtr="WR-04-01_n0010.xml#//DIV_END[@divEndID='deID_2436_00008']" titleID="tiID_2436_00008"/>
+<TITLE titleID="tiID_2436_00008" parDivStartID="dsID_2436_00010"><TITLEPART>GEBURT DER LIEBE.</TITLEPART></TITLE>
+<LG parID="00111"><L>Wie eine Mutter selig, deren Schooss</L>
+<L>Die Frucht, die er gehegt, endlich gebar,</L>
+<L>War meine Herrin, als sie ganz gewahr</L>
+<L>Der Liebe wurde, die sie lang umschloss.</L></LG>
+<LG parID="00112"><L>Von ihrem Blut gen&#xE4;hrt &#x2014; gieriger Spross &#x2014;</L>
+<L>Ihr Sein gef&#xE4;hrdend, selber in Gefahr,</L>
+<L>Wuchs sie und regte sie sich unsichtbar</L>
+<L>Und riss zuletzt sich aus der Enge los.</L></LG>
+<LG parID="00113"><L>Nunmehr, zu voller Kraft entfaltet, w&#xE4;hlt</L>
+<L>Sie Zeit und Ort f&#xFC;r unsern Bund und schm&#xFC;ckt</L>
+<L>Mit eigner Hand das Lager, das uns eint &#x2014;</L></LG>
+<LG parID="00114"><L>Bis wir dereinst, zwei Schatten, noch verm&#xE4;hlt,</L>
+<L>Ihr wiederum entgleiten und, entr&#xFC;ckt,</L>
+<L>Uns noch ein Strahl aus ihrem Kranz bescheint.</L></LG>
+<DIV_END divEndID="deID_2436_00008" startPtr="WR-04-01_n0010.xml#//DIV_START[@divStartID='dsID_2436_00010']"/>
+<SEPARATOR num="3" type="undefined"/>
+<DIV_START type="verse" divStartID="dsID_2436_00011" endPtr="WR-04-01_n0010.xml#//DIV_END[@divEndID='deID_2436_00009']" titleID="tiID_2436_00009"/>
+<TITLE titleID="tiID_2436_00009" parDivStartID="dsID_2436_00011"><TITLEPART>HOCHZEITSSCHLAF.</TITLEPART></TITLE>
+<LG parID="00115"><L>Zuletzt l&#xE4;sst Mund von Mund mit s&#xFC;sser Pein.</L>
+<L>Und wie der Regen, wenn er inne h&#xE4;lt,</L>
+<L>In j&#xE4;hen Einzeltropfen niederf&#xE4;llt,</L>
+<L>So schl&#xE4;gt nun stockend jedes Herz allein.</L></LG>
+<LG parID="00116"><L>Doch bleiben sie, die also sich entzwei&#x2019;n &#x2014;</L>
+<L>Ermattend, schon von Lechzen neu geschwellt &#x2014;</L>
+<L>Leib gegen Leib, eng wie zuvor gesellt,</L>
+<L>Als h&#xE4;tten beide einen Stamm gemein.</L></LG>
+<LG parID="00117"><L>Schlaf taucht sie tiefer als in Traumesruh</L>
+<L>Und h&#xE4;lt sie schwer in seiner Flut versenkt.</L>
+<L>Dann sacht, auf D&#xE4;mmerglanz, vom tag versprengt,</L></LG>
+<LG parID="00118"><L>Schwimmen die Seelen dem Erwachen zu,</L>
+<L>Bis Er &#x2014; in fremde Wunder noch entr&#xFC;ckt &#x2014;</L>
+<L>Sie findet, seliger von Ihr entz&#xFC;ckt.</L></LG>
+<DIV_END divEndID="deID_2436_00009" startPtr="WR-04-01_n0010.xml#//DIV_START[@divStartID='dsID_2436_00011']"/>
+<SEPARATOR num="3" type="undefined"/>
+<FT type="pn" num="10" c_text="&#x2014; 10 &#x2014;"/>
+</PAGE>

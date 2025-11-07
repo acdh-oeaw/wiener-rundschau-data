@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-24_n0907.xml</PREV>
+<NEXT>WR-02-02-24_n0909.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 908</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">908</LTEXT><CTEXT>WOLFF.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2433_00402" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00398']"/>
+<P parID="02324"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Nein, der Mensch ist schrecklich vorsichtig. Mir<LE/>
+scheint, er traut der Mitgift nicht.</P>
+<DIV_END divEndID="deID_2433_00398" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00402']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00403" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00399']"/>
+<P parID="02325"><TAB/><SPK><SPC>Isidor</SPC></SPK>. Das glaub&#x2019; ich wieder nicht. Er wird sich ja erkundigt<LE/>
+haben, bevor er hergekommen ist.</P>
+<DIV_END divEndID="deID_2433_00399" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00403']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00404" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00400']"/>
+<P parID="02326"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Und warum spricht er dann nicht?</P>
+<DIV_END divEndID="deID_2433_00400" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00404']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00405" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00401']"/>
+<P parID="02327"><TAB/><SPK><SPC>Isidor</SPC></SPK>. Er ist so ein unentschlossener Mensch. Er m&#xF6;cht&#x2019; und<LE/>
+m&#xF6;chte wieder nicht.</P>
+<DIV_END divEndID="deID_2433_00401" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00405']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00406" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00402']"/>
+<P parID="02328"><TAB/><SPK><SPC>Grete</SPC></SPK>. Bist Du denn anders?</P>
+<DIV_END divEndID="deID_2433_00402" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00406']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00407" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00403']"/>
+<P parID="02329"><TAB/><SPK><SPC>Isidor</SPC></SPK>. Ich bin ein gedr&#xFC;ckter und geschlagener Mensch.</P>
+<DIV_END divEndID="deID_2433_00403" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00407']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00408" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00404']"/>
+<P parID="02330"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Du solltest eigentlich auch heiraten.</P>
+<DIV_END divEndID="deID_2433_00404" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00408']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00409" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00405']"/>
+<P parID="02331"><TAB/><SPK><SPC>Isidor</SPC></SPK>. Mit Vergn&#xFC;gen. Aber wen?</P>
+<DIV_END divEndID="deID_2433_00405" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00409']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00410" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00406']"/>
+<P parID="02332"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Weisst Du wirklich niemanden?</P>
+<DIV_END divEndID="deID_2433_00406" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00410']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00411" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00407']"/>
+<P parID="02333"><TAB/><SPK><SPC>Isidor</SPC></SPK>. Ist das Dein Ernst, Tante?</P>
+<DIV_END divEndID="deID_2433_00407" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00411']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00412" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00408']"/>
+<P parID="02334"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Warum nicht?</P>
+<DIV_END divEndID="deID_2433_00408" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00412']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00413" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00409']"/>
+<P parID="02335"><TAB/><SPK><SPC>Isidor</SPC></SPK> <SD>(f&#xE4;llt parodierend vor Grete auf das Knie)</SD>. Grete, ich liebe Dich.</P>
+<DIV_END divEndID="deID_2433_00409" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00413']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00414" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00410']"/>
+<P parID="02336"><TAB/><SPK><SPC>Grete</SPC></SPK> <SD>(unwillig)</SD>. H&#xF6;r&#x2019; mit den dummen Witzen auf.</P>
+<DIV_END divEndID="deID_2433_00410" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00414']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00415" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00411']"/>
+<P parID="02337"><TAB/><SPK><SPC>Isidor</SPC></SPK> <SD>(aufstehend)</SD>. Wo ist da der Witz? Das kommt in den<LE/>
+traurigsten Trauerspielen vor.</P>
+<DIV_END divEndID="deID_2433_00411" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00415']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00416" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00412']"/>
+<P parID="02338"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Das N&#xE4;here kennst Du ja &#x2014;</P>
+<DIV_END divEndID="deID_2433_00412" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00416']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00417" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00413']"/>
+<P parID="02339"><TAB/><SPK><SPC>Isidor</SPC></SPK> <SD>(unterbrechend)</SD>. Die Sache ist gemacht, Tante. <SD>(K&#xFC;sst ihr<LE/>
+die Hand. Frau Klein blickt triumphierend zu Rosa.)</SD></P>
+<DIV_END divEndID="deID_2433_00413" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00417']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00418" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00414']"/>
+<P parID="02340"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Geh&#x2019; jetzt in das andere Zimmer, damit Dich der<LE/>
+Armin nicht sieht.</P>
+<DIV_END divEndID="deID_2433_00414" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00418']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00419" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00415']"/>
+<P parID="02341"><TAB/><SPK><SPC>Isidor</SPC></SPK>. Warum soll er mich nicht sehen?</P>
+<DIV_END divEndID="deID_2433_00415" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00419']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00420" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00416']"/>
+<P parID="02342"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Du bist ein Kind. Er soll mit Deiner Verlobung<LE/>
+&#xFC;berrascht werden.</P>
+<DIV_END divEndID="deID_2433_00416" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00420']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00421" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00417']"/>
+<P parID="02343"><TAB/><SPK><SPC>Isidor</SPC></SPK>. Ach so. &#xDC;brigens, ich bin wirklich sehr dumm.</P>
+<DIV_END divEndID="deID_2433_00417" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00421']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00422" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00418']"/>
+<P parID="02344"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. So geh&#x2019; schon.</P>
+<DIV_END divEndID="deID_2433_00418" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00422']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00423" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00419']"/>
+<P parID="02345"><TAB/><SPK><SPC>Lisi</SPC></SPK> <SD>(kommt herein)</SD>. Der Herr Stransky ist da.</P>
+<DIV_END divEndID="deID_2433_00419" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00423']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00424" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00420']"/>
+<P parID="02346"><TAB/><SPK><SPC>Grete</SPC></SPK> <SD>(Isidor in das andere Zimmer dr&#xE4;ngend)</SD>. So geh&#x2019; doch.<LE/>
+<SD>(Isidor ab.)</SD></P>
+<DIV_END divEndID="deID_2433_00420" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00424']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00425" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00421']"/>
+<P parID="02347"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Ich lasse bitten. <SD>(Zu Rosa.)</SD> Setz&#x2019; Dich nieder und<LE/>
+nimm ein Buch in die Hand.</P>
+<DIV_END divEndID="deID_2433_00421" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00425']"/>
+<DIV_END divEndID="deID_2433_00422" startPtr="WR-02-02-24_n0907.xml#//DIV_START[@divStartID='dsID_2433_00389']"/>
+<DIV_START cat="scene" divStartID="dsID_2433_00426" endPtr="WR-02-02-24_n0909.xml#//DIV_END[@divEndID='deID_2433_00441']"/>
+<TITLE titleID="tiID_2433_00172"><TITLEPART>5. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="02348"><SD>Frau Klein. Grete. Rosa. Stransky. (Mitte der Dreissig, ein wenig linkisch).</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2433_00427" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00423']"/>
+<P parID="02349"><TAB/><SPK><SPC>Stransky</SPC></SPK>. Ich k&#xFC;sse die Hand, gn&#xE4;dige Frau. Guten Abend,<LE/>
+meine Damen. <SD>(Begr&#xFC;ssung.)</SD></P>
+<DIV_END divEndID="deID_2433_00423" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00427']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00428" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00424']"/>
+<P parID="02350"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Sie sind p&#xFC;nktlich wie ein K&#xF6;nig.</P>
+<DIV_END divEndID="deID_2433_00424" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00428']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00429" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00425']"/>
+<P parID="02351"><TAB/><SPK><SPC>Stransky</SPC></SPK>. Wenn ich hier nicht p&#xFC;nktlich sein sollte!</P>
+<DIV_END divEndID="deID_2433_00425" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00429']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00430" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00426']"/>
+<P parID="02352"><TAB/><SPK><SPC>Rosa</SPC></SPK> <SD>(theilnahmsvoll)</SD>. Was macht die Frau Mama?</P>
+<DIV_END divEndID="deID_2433_00426" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00430']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00431" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00427']"/>
+<P parID="02353"><TAB/><SPK><SPC>Stransky</SPC></SPK>. Sie sind zu freundlich, Fr&#xE4;ulein Rosa. Der Mama<LE/>
+geht&#x2019;s nicht am besten. Der Winter ist sehr schlimm f&#xFC;r sie.</P>
+<DIV_END divEndID="deID_2433_00427" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00431']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00432" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00428']"/>
+<P parID="02354"><TAB/><SPK><SPC>Frau Klein</SPC></SPK> <SD>(tiefsinnig)</SD>. Ja, jeder hat sein Kreuz.</P>
+<DIV_END divEndID="deID_2433_00428" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00432']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00433" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00429']"/>
+<P parID="02355"><TAB/><SPK><SPC>Stransky</SPC></SPK>. Was will man machen?</P>
+<DIV_END divEndID="deID_2433_00429" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00433']"/>
+<DIV_START cat="speech" divStartID="dsID_2433_00434" endPtr="WR-02-02-24_n0908.xml#//DIV_END[@divEndID='deID_2433_00430']"/>
+<P parID="02356"><TAB/><SPK><SPC>Frau Klein</SPC></SPK>. Und wie geht das Gesch&#xE4;ft?</P>
+<DIV_END divEndID="deID_2433_00430" startPtr="WR-02-02-24_n0908.xml#//DIV_START[@divStartID='dsID_2433_00434']"/>
+</PAGE>

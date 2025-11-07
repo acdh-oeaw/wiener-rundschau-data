@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-12_n0194.xml</PREV>
+<NEXT>WR-04-12_n0196.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 12, S. 195</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>WILDE: SALOME.</CTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2436_00379" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00376']"/>
+<P parID="02641"><TAB/><SPK>SALOME</SPK> <SD>(einen Blick auf den jungen Syrier werfend)</SD>: Ah!</P>
+<DIV_END divEndID="deID_2436_00376" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00379']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00380" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00377']"/>
+<P parID="02642"><TAB/><SPK>DER PAGE DER HERODIAS</SPK>: O, was wird geschehen? Ich wei&#xDF;, es wird<LE/>
+Schreckliches geschehen.</P>
+<DIV_END divEndID="deID_2436_00377" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00380']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00381" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00378']"/>
+<P parID="02643"><TAB/><SPK>SALOME</SPK> <SD>(tritt an den jungen Syrier heran)</SD>: Du wirst das f&#xFC;r mich thun, <HYPH1 cont="Narraboth">Narra-</HYPH1><LE/>
+<HYPH2>both</HYPH2>, nicht wahr? Du wirst das f&#xFC;r mich thun. Ich war dir immer gewogen. Du<LE/>
+wirst es f&#xFC;r mich thun. Ich m&#xF6;chte ihn blo&#xDF; sehen, diesen seltsamen Propheten. Die<LE/>
+Leute haben soviel von ihm gesprochen. Ich habe den Tetrarchen oft von ihm sprechen<LE/>
+h&#xF6;ren. Ich glaube, der Tetrarch hat Angst vor ihm. Hast du auch Angst vor ihm,<LE/>
+Narraboth, du auch?</P>
+<DIV_END divEndID="deID_2436_00378" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00381']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00382" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00379']"/>
+<P parID="02644"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Ich f&#xFC;rchte ihn nicht, Prinzessin; ich f&#xFC;rchte niemanden.<LE/>
+Aber der Tetrarch hat es ausdr&#xFC;cklich verboten, dass irgendwer den Deckel zu<LE/>
+diesem Brunnen aufhebt.</P>
+<DIV_END divEndID="deID_2436_00379" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00382']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00383" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00380']"/>
+<P parID="02645"><TAB/><SPK>SALOME</SPK>: Du wirst das f&#xFC;r mich thun, Narraboth, und wenn ich morgen in<LE/>
+meiner S&#xE4;nfte an dem Thorweg, wo die G&#xF6;tzenbildh&#xE4;ndler stehen, vorbeikomme,<LE/>
+werde ich eine kleine Blume f&#xFC;r dich fallen lassen, ein kleines, gr&#xFC;nes Bl&#xFC;mchen.</P>
+<DIV_END divEndID="deID_2436_00380" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00383']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00384" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00381']"/>
+<P parID="02646"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Prinzessin, ich kann nicht, ich kann nicht.</P>
+<DIV_END divEndID="deID_2436_00381" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00384']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00385" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00382']"/>
+<P parID="02647"><TAB/><SPK>SALOME</SPK> <SD>(l&#xE4;chelnd)</SD>: Du wirst das f&#xFC;r mich thun, Narraboth. Du wei&#xDF;t, dass<LE/>
+du das f&#xFC;r mich thun wirst. Und morgen fr&#xFC;h, wenn ich in meiner S&#xE4;nfte an der<LE/>
+Br&#xFC;cke vorbeikomme, wo man G&#xF6;tzenbilder kauft, werde ich unter den <HYPH1 cont="Musselinschleiern">Musselin-</HYPH1><LE/>
+<HYPH2>schleiern</HYPH2> dir einen Blick zuwerfen, Narraboth, ich werde dich ansehen, kann sein,<LE/>
+ich werde dir zul&#xE4;cheln. Sieh&#x2019; mich an, Narraboth, sieh&#x2019; mich an. Ah! wie gut du<LE/>
+wei&#xDF;t, dass du thun wirst, um was ich dich bitte! Wie du es wei&#xDF;t <SYMBOL type="4dots"/> Ich<LE/>
+wei&#xDF;, du wirst das thun.</P>
+<DIV_END divEndID="deID_2436_00382" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00385']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00386" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00383']"/>
+<P parID="02648"><TAB/><SPK>DER JUNGE SYRIER</SPK> <SD>(gibt dem dritten Soldaten ein Zeichen)</SD>: Lass&#x2019; den <HYPH1 cont="Propheten">Pro-</HYPH1><LE/>
+<HYPH2>pheten</HYPH2> herauskommen <SYMBOL type="4dots"/> Die Prinzessin Salome w&#xFC;nscht ihn zu sehen.</P>
+<DIV_END divEndID="deID_2436_00383" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00386']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00387" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00384']"/>
+<P parID="02649"><TAB/><SPK>SALOME</SPK>: Ah!</P>
+<DIV_END divEndID="deID_2436_00384" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00387']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00388" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00385']"/>
+<P parID="02650"><TAB/><SPK>DER PAGE DER HERODIAS</SPK>: O, wie seltsam der Mond aussieht! Wie die<LE/>
+Hand einer todten Frau, die das Laken &#xFC;ber sich ziehen will.</P>
+<DIV_END divEndID="deID_2436_00385" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00388']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00389" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00386']"/>
+<P parID="02651"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Ja, aber seltsam! Wie eine kleine Prinzessin, mit<LE/>
+Augen wie Bernstein-Augen. Durch die Wolken von Musselin l&#xE4;chelt das Gesicht<LE/>
+hervor wie eine kleine Prinzessin.</P>
+<DIV_END divEndID="deID_2436_00386" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00389']"/>
+<P parID="02652"><SD>(<SPK>DER PROPHET</SPK> kommt aus der Cisterne. Salome sieht ihn an und weicht langsam zur&#xFC;ck.)</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2436_00390" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00387']"/>
+<P parID="02653"><TAB/><SPK>JOCHANAAN</SPK>: Wo ist er, dessen S&#xFC;ndenbecher jetzt voll ist? Wo ist er, der<LE/>
+eines Tages im Angesichte alles Volkes in einem Silbermantel sterben wird? Hei&#xDF;t<LE/>
+ihn herkommen, auf dass er die Stimme Dessen h&#xF6;re, der in den W&#xFC;sten und in<LE/>
+den H&#xE4;usern der K&#xF6;nige gek&#xFC;ndet hat.</P>
+<DIV_END divEndID="deID_2436_00387" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00390']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00391" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00388']"/>
+<P parID="02654"><TAB/><SPK>SALOME</SPK>: Von wem spricht er?</P>
+<DIV_END divEndID="deID_2436_00388" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00391']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00392" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00389']"/>
+<P parID="02655"><TAB/><SPK>DER JUNGE SYRIER</SPK>: Niemand kann es sagen, Prinzessin.</P>
+<DIV_END divEndID="deID_2436_00389" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00392']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00393" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00390']"/>
+<P parID="02656"><TAB/><SPK>JOCHANAAN</SPK>: Wo ist sie, die vor den gemalten M&#xE4;nnerbildern gestanden hat,<LE/>
+vor den buntgemalten Bildern der Chald&#xE4;er, die sich hingab der Lust ihrer Augen<LE/>
+und Gesandte ins Land der Chald&#xE4;er schickte?</P>
+<DIV_END divEndID="deID_2436_00390" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00393']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00394" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00391']"/>
+<P parID="02657"><TAB/><SPK>SALOME</SPK>: Er spricht von meiner Mutter.</P>
+<DIV_END divEndID="deID_2436_00391" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00394']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00395" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00392']"/>
+<P parID="02658"><TAB/><SPK>DER JUNGE SYRIER</SPK>: O nein, Prinzessin.</P>
+<DIV_END divEndID="deID_2436_00392" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00395']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00396" endPtr="WR-04-12_n0195.xml#//DIV_END[@divEndID='deID_2436_00393']"/>
+<P parID="02659"><TAB/><SPK>SALOME</SPK>: Ja, er spricht von meiner Mutter.</P>
+<DIV_END divEndID="deID_2436_00393" startPtr="WR-04-12_n0195.xml#//DIV_START[@divStartID='dsID_2436_00396']"/>
+<DIV_START cat="speech" divStartID="dsID_2436_00397" endPtr="WR-04-12_n0196.xml#//DIV_END[@divEndID='deID_2436_00394']"/>
+<P part="initial" parID="02660"><TAB/><SPK>JOCHANAAN</SPK>: Wo ist sie, die sich den Hauptleuten Assyriens gab, mit ihren<LE/>
+Wehrgeh&#xE4;ngen und bunten Kronen auf dem Kopf? Wo ist sie, die sich den jungen<LE/>
+M&#xE4;nnern der Egypter gegeben hat, die in feinem Leinen und Hyacinthgesteinen<LE/>
+prangen, deren Schilde von Gold sind und die Helme von Silber und die Leiber wie<LE/>
+von Riesen? Geht, hei&#xDF;t sie aufstehen von dem Bett ihrer Greuel, vom Bett ihrer<LE/>
+Blutschande, auf dass sie die Worte Dessen vernehme, der dem Herrn die Wege</P>
+<FT type="pn" num="195" c_text="&#x2014; 195 &#x2014;"/>
+</PAGE>

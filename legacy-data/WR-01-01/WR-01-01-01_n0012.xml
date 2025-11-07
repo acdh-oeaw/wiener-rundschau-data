@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-01_n0011.xml</PREV>
+<NEXT>WR-01-01-01_n0013.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 12</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">12</LTEXT><CTEXT>HOFMANNSTHAL.</CTEXT></HD>
+<LG parID="00099"><L>Das Salb&#xF6;l aus den H&#xE4;nden</L>
+<L>Der todten alten Frau</L>
+<L>Lass l&#xE4;chelnd ihn verschwenden</L>
+<L>An Adler, Lamm und Pfau:</L>
+<L>Er l&#xE4;chelt der Gef&#xE4;hrten, &#x2014;</L>
+<L>Die schwebend unbeschwerten</L>
+<L>Abgr&#xFC;nde und die G&#xE4;rten</L>
+<L>Des Lebens tragen ihn!</L></LG>
+<DIV_END divEndID="deID_2397_00034" startPtr="WR-01-01-01_n0011.xml#//DIV_START[@divStartID='dsID_2397_00036']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00037" endPtr="WR-01-01-01_n0012.xml#//DIV_END[@divEndID='deID_2397_00035']"/>
+<TITLE titleID="tiID_2397_00015"><TITLEPART type="enum">II.</TITLEPART><LE/>
+<TITLEPART type="main">GUTE STUNDE.</TITLEPART></TITLE>
+<LG parID="00100"><L><IN>Hier</IN> lieg ich, mich d&#xFC;nkt es der Gipfel der Welt,</L>
+<L>Hier hab ich kein Haus, und hier hab ich kein Zelt!</L></LG>
+<LG parID="00101"><L>Die Wege der Menschen sind um mich her,</L>
+<L>Hinauf zu den Bergen und nieder zum Meer:</L></LG>
+<LG parID="00102"><L>Sie tragen die Waare, die ihnen gef&#xE4;llt,</L>
+<L>Unwissend, dass jede mein Leben enth&#xE4;lt.</L></LG>
+<LG parID="00103"><L>Sie bringen in Schwingen aus Binsen und Gras</L>
+<L>Die Fr&#xFC;chte, von denen ich lange nicht ass:</L></LG>
+<LG parID="00104"><L>Die Feige erkenn&#x2019; ich, nun sp&#xFC;r ich den Ort,</L>
+<L>Doch lebte der lange Vergessene fort!</L></LG>
+<LG parID="00105"><L>Und war mir das Leben, das sch&#xF6;ne, entwandt,</L>
+<L>Es hielt sich im Meer und es hielt sich im Land!</L></LG>
+<DIV_END divEndID="deID_2397_00035" startPtr="WR-01-01-01_n0012.xml#//DIV_START[@divStartID='dsID_2397_00037']"/>
+<P parID="00106">Wien. <AUCTOR><C>Hugo v. Hofmannsthal</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00036" startPtr="WR-01-01-01_n0011.xml#//DIV_START[@divStartID='dsID_2397_00035']"/>
+</PAGE>

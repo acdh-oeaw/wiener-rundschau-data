@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-08_n0188.xml</PREV>
+<NEXT>WR-05-09_n0190.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 9, S. 189</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>16</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2436_01288" endPtr="WR-05-09_n0204.xml#//DIV_END[@divEndID='deID_2436_01301']"/>
+<DIV_START cat="masthead" divStartID="dsID_2436_01289" endPtr="WR-05-09_n0189.xml#//DIV_END[@divEndID='deID_2436_01288']"/>
+<P parID="06759"><B>WIENER<LE/>
+RUNDSCHAU</B></P>
+<P parID="06760"><B>HERAUSGEGEBEN VON FELIX RAPPAPORT</B></P>
+<TABLE parID="06761"><ROW ciID="1092"><CELL>
+<P parID="06762"><DATE><B>1. MAI 1901</B></DATE></P>
+</CELL><CELL>
+<P parID="06763"><B>V. JAHRGANG, N<SUP>R.</SUP> 9</B></P>
+</CELL></ROW></TABLE>
+<HR/>
+<DIV_END divEndID="deID_2436_01288" startPtr="WR-05-09_n0189.xml#//DIV_START[@divStartID='dsID_2436_01289']"/>
+<DIV_START divStartID="dsID_2436_01290" endPtr="WR-05-09_n0190.xml#//DIV_END[@divEndID='deID_2436_01289']"/>
+<TITLE titleID="tiID_2436_00326"><TITLEPART>GUSTAV TH. FECHNER.<LE/>
+(<DATE>1801</DATE>.)</TITLEPART></TITLE>
+<TABLE parID="06764"><ROW ciID="1093"><CELL>
+<P part="initial" parID="06765"><TAB/><AUCTOR>r.</AUCTOR> Fechners besondere Bedeutung<LE/>
+scheint nicht sowohl in den positiven<LE/>
+Ergebnissen seiner Forschung, als in<LE/>
+der Art seiner Mittel zu beruhen; er<LE/>
+fand mehr, als er gesucht hatte; das<LE/>
+Bewusstsein im Makrokosmos suchend,<LE/>
+gelangte er zu einer allgemein giltigen<LE/>
+Schlussweise vom Bewusstseinstr&#xE4;ger<LE/>
+auf das Bewusstsein, dem <HYPH1 cont="Analogieschluss">Analogie-</HYPH1><LE/>
+<HYPH2>schluss</HYPH2>, und zu dessen Begr&#xFC;ndung<LE/>
+in seinem psycho-physischen System.<LE/>
+Dieses Gesetz von der psycho-physischen<LE/>
+Coordination, die allgemeine <HYPH1 cont="Zuordnung">Zuord-</HYPH1><LE/>
+<HYPH2>nung</HYPH2> der Empfindung zu einer <HYPH1 cont="&#xE4;quivalenten">&#xE4;qui-</HYPH1><LE/>
+<HYPH2>valenten</HYPH2> (k&#xF6;rperlichen) Ver&#xE4;nderung des<LE/>
+Empfindungstr&#xE4;gers aussprechend, hat<LE/>
+nicht nur die Entwickelung der <HYPH1 cont="Psychologie">Psy-</HYPH1><LE/>
+<HYPH2>chologie</HYPH2>, sondern auch die der <HYPH1 cont="Erkenntnistheorie">Er-</HYPH1><LE/>
+<HYPH2>kenntnistheorie</HYPH2> in andere Bahnen <HYPH1 cont="gelenkt">ge-</HYPH1><LE/>
+<HYPH2>lenkt</HYPH2>. Unter der Form der l&#xFC;ckenlosen<LE/>
+Continuit&#xE4;t als des formalen Ausdruckes<LE/>
+f&#xFC;r den Parallelismus erscheinend, st&#xFC;tzt<LE/>
+es die fr&#xFC;her zweifelhafte <HYPH1 cont="Schellingsche">Schelling-</HYPH1><LE/>
+<HYPH2>sche</HYPH2> Identit&#xE4;ts-Ansicht. Es bildet einen<LE/>
+Schlusstein in der Entwicklungskette<LE/>
+der fortgesetzten Befreiungsversuche<LE/>
+des Geistes von der <HYPH1 cont="Causalit&#xE4;tskategorie">Causalit&#xE4;tskate-</HYPH1></P>
+</CELL><CELL>
+<P part="final" parID="06766"><HYPH2>gorie</HYPH2>, das ist der Geschichte des Geistes<LE/>
+&#xFC;berhaupt. Dieser Gegensatz zwischen<LE/>
+den Meisten, welche ausschlie&#xDF;lich <HYPH1 cont="zeitlich">zeit-</HYPH1><LE/>
+<HYPH2>lich</HYPH2> durch die Formen der Motivation,<LE/>
+und Denjenigen, welche zeitlos, <HYPH1 cont="parallelistisch">paral-</HYPH1><LE/>
+<HYPH2>lelistisch</HYPH2> empfinden, ist die Axe aller<LE/>
+Culturgeschichte. Der <HYPH1 cont="Experimental-Ausdruck">Experimental-</HYPH1><LE/>
+<HYPH2>Ausdruck</HYPH2> dieses Erkennens der <HYPH1 cont="Beziehungen">Be-</HYPH1><LE/>
+<HYPH2>ziehungen</HYPH2> zwischen den Polen der <HYPH1 cont="Empfindung">Em-</HYPH1><LE/>
+<HYPH2>pfindung</HYPH2> hat die Grundlage der heutigen<LE/>
+Entwicklung gelegt; diese <HYPH1 cont="Erkenntnism&#xF6;glichkeit">Erkenntnis-</HYPH1><LE/>
+<HYPH2>m&#xF6;glichkeit</HYPH2> durch die Analogie bildet<LE/>
+eben das Wesen der &#xBB;modernen&#xAB; <HYPH1 cont="Denkart">Denk-</HYPH1><LE/>
+<HYPH2>art</HYPH2>, was hier zur Aufkl&#xE4;rung denen<LE/>
+gegen&#xFC;ber angemerkt sei, welche diesen<LE/>
+Ausdruck, f&#xFC;r und wider, fortgesetzt<LE/>
+missverstehen und missbrauchen.</P>
+<P part="initial" parID="06767"><TAB/>Obwohl den indischen Quellen fremd,<LE/>
+hat Fechner einige ihrer S&#xE4;tze <HYPH1 cont="ungef&#xE4;hr">unge-</HYPH1><LE/>
+<HYPH2>f&#xE4;hr</HYPH2> gleichartig nacherdacht, z. B. den<LE/>
+&#xBB;Thatenleib&#xAB; (Karma); als Nachfolger<LE/>
+Swedenborgs erscheint er in seiner<LE/>
+&#xBB;Anatomie der Engel&#xAB;, welche die<LE/>
+radiale Tendenz der Natur auf <HYPH1 cont="spirituelleren">spiri-</HYPH1><LE/>
+<HYPH2>tuelleren</HYPH2> Sph&#xE4;ren findet. Er ist endlich<LE/>
+der Letzte in jener Reihe <HYPH1 cont="transcendentaler">transcenden-</HYPH1><LE/>
+<HYPH2>taler</HYPH2> Physiker, von Kepler &#xFC;ber den</P>
+</CELL></ROW></TABLE>
+<FT type="pn" num="189" c_text="&#x2014; 189 &#x2014;"/>
+</PAGE>

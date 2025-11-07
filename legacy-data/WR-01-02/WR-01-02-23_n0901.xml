@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-23_n0900.xml</PREV>
+<NEXT>WR-01-02-23_n0902.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 23, S. 901</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>10</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2398_00296" endPtr="WR-01-02-23_n0904.xml#//DIV_END[@divEndID='deID_2398_00300']"/>
+<TITLE titleID="tiID_2398_00138"><TITLEPART type="repeated"><SPC>NOTIZEN</SPC>.</TITLEPART></TITLE>
+<TABLE parID="02440"><ROW ciID="0163"><CELL>
+<DIV_START divStartID="dsID_2398_00297" endPtr="WR-01-02-23_n0901.xml#//DIV_END[@divEndID='deID_2398_00295']"/>
+<P parID="02441"><TAB/><C>Deutsches Volkstheater</C>.<LE/>
+&#xBB;<SPC>Annas Traum</SPC>.&#xAB; Volksst&#xFC;ck von<LE/>
+Adolf L&#x2019;Arronge.</P>
+<P parID="02442"><TAB/>Es gibt St&#xFC;cke, die schon der<LE/>
+Schauspieler wegen nicht gegeben<LE/>
+werden sollten. Sie sind so tief<LE/>
+verlogen und gef&#xE4;lscht, dass sie<LE/>
+dem Wesen jedes Mimen die<LE/>
+bitterste Gefahr bedeuten. Zu diesen<LE/>
+St&#xFC;cken z&#xE4;hlt auch &#xBB;Annas Traum&#xAB;,<LE/>
+ein &#xF6;des Machwerk, das alle <HYPH1 cont="Corruptionen">Cor-</HYPH1><LE/>
+<HYPH2>ruptionen</HYPH2> einer heuchlerischen <HYPH1 cont="Sentimentalit&#xE4;t">Sen-</HYPH1><LE/>
+<HYPH2>timentalit&#xE4;t</HYPH2>, alle Flecken einer <HYPH1 cont="verrosteten">ver-</HYPH1><LE/>
+<HYPH2>rosteten</HYPH2> Technik, alle <HYPH1 cont="Trockenheiten">Trocken-</HYPH1><LE/>
+<HYPH2>heiten</HYPH2> einer verstaubten <HYPH1 cont="Kaufmannsseele">Kaufmanns-</HYPH1><LE/>
+<HYPH2>seele</HYPH2> bietet <SYMBOL type="3dots"/> Hat dieses Werk<LE/>
+Herrn Bukovics gefallen? Ich hoffe:<LE/>
+Nein! Vielleicht besitzt er doch<LE/>
+die F&#xE4;higkeit, ein schlechtes St&#xFC;ck<LE/>
+als solches zu erkennen, und<LE/>
+nur die weitre Einsicht mangelt<LE/>
+ihm, es dann auch nicht zu geben.<LE/>
+Aber sehr wahrscheinlich oder sehr<LE/>
+bedeutsam f&#xFC;r sein Ansehn ist<LE/>
+diese feine <DOUBT sug="Scheidung">Scheiung</DOUBT> nicht.</P>
+<P parID="02443"><AUCTOR><I>R. St.</I></AUCTOR></P>
+<DIV_END divEndID="deID_2398_00295" startPtr="WR-01-02-23_n0901.xml#//DIV_START[@divStartID='dsID_2398_00297']"/>
+<DIV_START divStartID="dsID_2398_00298" endPtr="WR-01-02-23_n0902.xml#//DIV_END[@divEndID='deID_2398_00296']"/>
+<P parID="02444"><TAB/><C>K. K. Hofoper</C>. &#xBB;<SPC>Dalibor</SPC>.&#xAB;<LE/>
+Oper in drei Acten von J. Wenzig.<LE/>
+Musik von Friedrich Smetana.</P>
+<P part="initial" parID="02445"><TAB/>Herr Mahler h&#xE4;lt mehr als uns<LE/>
+Director Jahn je versprochen. Von<LE/>
+der richtigen Erkenntniss <HYPH1 cont="ausgehend">aus-</HYPH1><LE/>
+<HYPH2>gehend</HYPH2>, dass das <DATE>Vorjahr</DATE> mit seinen<LE/>
+schlaffen Leistungen f&#xFC;r unsere<LE/>
+Oper ein Jahr der tiefen Trauer<LE/>
+war, liess uns gleich sein <HYPH1 cont="Antrittsprogramm">Antritts-</HYPH1><LE/>
+<HYPH2>programm</HYPH2> auf eine entschiedene<LE/>
+Wendung zum Besseren hoffen.<LE/>
+Die Neueinstudirung des &#xBB;<HYPH1 cont="Nibelungencyklus">Nibe-</HYPH1><LE/>
+<HYPH2>lungencyklus</HYPH2>&#xAB;, &#xBB;Figaro&#xAB; und des</P>
+</CELL><CELL>
+<P part="final" parID="02446">Lortzing&#x2019;schen &#xBB;Czar und <HYPH1 cont="Zimmermann">Zimmer-</HYPH1><LE/>
+<HYPH2>mann</HYPH2>&#xAB; waren den Worten rasch<LE/>
+gefolgte Thaten, und durch die<LE/>
+Auff&#xFC;hrung des &#xBB;Dalibor&#xAB; ist das<LE/>
+Unrecht theilweise wieder <HYPH1 cont="gutgemacht">gut-</HYPH1><LE/>
+<HYPH2>gemacht</HYPH2>, welches Smetana durch<LE/>
+die Repertoireabsetzung seines <HYPH1 cont="reifsten">reif-</HYPH1><LE/>
+<HYPH2>sten</HYPH2> Werkes &#xBB;Das Geheimniss&#xAB; <HYPH1 cont="zugef&#xFC;gt">zu-</HYPH1><LE/>
+<HYPH2>gef&#xFC;gt</HYPH2> worden ist.</P>
+<P part="initial" parID="02447"><TAB/>Ein fl&#xFC;chtiger Einblick in die<LE/>
+Partitur zeigt uns sofort alle <HYPH1 cont="Eigenheiten">Eigen-</HYPH1><LE/>
+<HYPH2>heiten</HYPH2> des Componisten, die uns<LE/>
+bereits bekannt und lieb geworden<LE/>
+sind; allerdings geh&#xF6;rt das obstinate<LE/>
+Festhalten mancher Motive und<LE/>
+der allzu h&#xE4;ufige Gebrauch von<LE/>
+Sequenzen nicht hiezu. Wenn<LE/>
+&#xBB;Dalibor&#xAB; auch die musikalische<LE/>
+Einheit des obgenannten <HYPH1 cont="Meisterwerkes">Meister-</HYPH1><LE/>
+<HYPH2>werkes</HYPH2> und die reiche Erfindung<LE/>
+der &#xBB;Verkauften Braut&#xAB; abgeht, so<LE/>
+finden wir daf&#xFC;r einen bei Smetana<LE/>
+neuen, romantisch-ritterlichen Zug,<LE/>
+der zwar manchmal ans <HYPH1 cont="Sentimentale">Sentimen-</HYPH1><LE/>
+<HYPH2>tale</HYPH2> streift, aber dem Werke eine<LE/>
+ganz aparte Stimmung verleiht;<LE/>
+wir erinnern nur an den <HYPH1 cont="eigenth&#xFC;mlichen">eigen-</HYPH1><LE/>
+<HYPH2>th&#xFC;mlichen</HYPH2> Reiz der Trompeten-<LE/>
+und Paukenstellen zu Beginn der<LE/>
+Oper und an das heroische, <HYPH1 cont="leitmotivisch">leit-</HYPH1><LE/>
+<HYPH2>motivisch</HYPH2> verwendete <HYPH1 cont="Dalibor-Thema">Dalibor-</HYPH1><LE/>
+<HYPH2>Thema</HYPH2>. Von ebenso viel <HYPH1 cont="musikalischem">musikali-</HYPH1><LE/>
+<HYPH2>schem</HYPH2> Geschmack als grosser<LE/>
+B&#xFC;hnenkenntniss zeugen das im<LE/>
+Aufbau an das Rheingoldvorspiel<LE/>
+gemahnende Entr&#xE9;e des K&#xF6;nigs,<LE/>
+die ergreifende Anklage der Milada<LE/>
+und das herrliche Liebesduett des<LE/>
+zweiten Actes, w&#xE4;hrend das als<LE/>
+Zdenko-Motiv gedachte zweite</P>
+</CELL></ROW></TABLE>
+</PAGE>

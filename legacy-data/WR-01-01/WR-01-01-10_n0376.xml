@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-10_n0375.xml</PREV>
+<NEXT>WR-01-01-10_n0377.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 10, S. 376</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00504" endPtr="WR-01-01-10_n0376.xml#//DIV_END[@divEndID='deID_2397_00503']"/>
+<TITLE titleID="tiID_2397_00145"><TITLEPART>&#xDC;BERG&#xC4;NGE.</TITLEPART></TITLE>
+<TITLE titleID="tiID_2397_00146"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="02743"><L><IN>Drei</IN> Fackeln an des Parkes Gitter brannten,</L>
+<L>Darin er schritt in weissem Seidenkleid;</L>
+<L>Die Stimmen nahten die nur ihm gesandten,</L>
+<L>Durch das Gew&#xF6;lb der grossen Dunkelheit.</L></LG>
+<LG parID="02744"><L>Die Stille wuchs wie ein verhalt&#x2019;nes Schrein,</L>
+<L>Pest zog und Irrsinn durch die Abendstunde;</L>
+<L>Die B&#xFC;sserin aus Holz und Elfenbein</L>
+<L>Zeigt auf der Brust ihm ihre offne Wunde<SYMBOL type="4dots"/></L></LG>
+<TITLE titleID="tiID_2397_00147"><TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="02745"><L>Gleich vielen Strahlen die auf rundem Stahl</L>
+<L>Die Helle wecken, wehts ihm von der Erde;</L>
+<L>Uralter V&#xF6;lker Herrschaft und Verfall</L>
+<L>Klingt ihm im Blut und wird ihm zur Geberde.</L></LG>
+<LG parID="02746"><L>Was in den Fernen aufw&#xE4;chst und verdorrt,</L>
+<L>Umschwebt ihn aus dem Neigen der Syringen.</L>
+<L>Die Zeiten die gewesen weckt sein Wort,</L>
+<L>Ihr Duften kreist um ihn ihm t&#xF6;nt ihr Klingen.</L></LG>
+<LG parID="02747"><L>Das Leuchten das auf allen Dingen ruht,</L>
+<L>Macht ihm zur Wahrheit, was die Andern tr&#xE4;umen;</L>
+<L>In seiner Seele schl&#xE4;gt die kalte Gluth</L>
+<L>Der Wasser auf die aus den Schachten sch&#xE4;umen.</L></LG>
+<P parID="02748">Wien. <AUCTOR><C>Felix Rappaport</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00503" startPtr="WR-01-01-10_n0376.xml#//DIV_START[@divStartID='dsID_2397_00504']"/>
+</PAGE>

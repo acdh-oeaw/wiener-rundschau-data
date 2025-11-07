@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-02-23_n0560.xml</PREV>
+<NEXT>WR-03-02-24_n0562.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 2, Nr. 24, S. 561</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>336</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2434_01181" endPtr="WR-03-02-24_n0584.xml#//DIV_END[@divEndID='deID_2434_01203']"/>
+<DIV_START divStartID="dsID_2434_01182" endPtr="WR-03-02-24_n0563.xml#//DIV_END[@divEndID='deID_2434_01183']"/>
+<TITLE titleID="tiID_2434_00277"><TITLEPART type="bystmt"><AUCTOR><B>PAUL VERLAINE</B></AUCTOR></TITLEPART><LE/>
+<TITLEPART type="main"><B>ZWEI GEDICHTE</B></TITLEPART><LE/>
+<TITLEPART type="desc">DEUTSCH VON <HR emDashNum="6" type="doubleInline"/><LE/>
+<AUCTOR type="translator">HEDWIG LACHMANN</AUCTOR> <HR emDashNum="2" type="doubleInline"/></TITLEPART></TITLE>
+<IMG>
+<P parID="06109"><LANG iso="fr">A</LANG> PAUL VERLAINE</P>
+<SIGNATURE cont="FV"/><LE/>
+</IMG>
+</PAGE>

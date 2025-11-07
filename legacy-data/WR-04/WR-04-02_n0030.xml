@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-02_n0029.xml</PREV>
+<NEXT>WR-04-02_n0031.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 2, S. 30</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>CRANE: DREI GEDICHTE.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2436_00031" endPtr="WR-04-02_n0030.xml#//DIV_END[@divEndID='deID_2436_00029']" titleID="tiID_2436_00021"/>
+<TITLE titleID="tiID_2436_00021" parDivStartID="dsID_2436_00031"><TITLEPART type="main">SONETT.</TITLEPART><LE/>
+<TITLEPART type="dedication"><HR emDashNum="1" type="DoubleInline"/> MEINER FRAU. <HR emDashNum="1" type="DoubleInline"/></TITLEPART></TITLE>
+<LG parID="00246"><L>Die Garbe hier, in deren Schatten Du,</L>
+<L>Vor Mittagsglut gesch&#xFC;tzt, ruhn kannst mit mir,</L>
+<L>In deren Schatten all das Leben wir</L>
+<L>In Lichtern sehen, die vergehn im Nu,</L></LG>
+<LG parID="00247"><L>Bevor zu Reichen nie gest&#xF6;rter Ruh</L>
+<L>Die ZEIT entf&#xFC;hrt, was je wir hofften hier,</L>
+<L>Was je gejauchzt, gebebt in mir und Dir &#x2014;</L>
+<L>Der Sonne streckt, der Heimat, sie sich zu.</L></LG>
+<LG parID="00248"><L>Vielleicht verbirgt sie Blumen, die Dir hold</L>
+<L>Als Kranz beschatten k&#xF6;nnten Stirn und Brau,</L>
+<L>Dir, die mit mir des Morgens B&#xFC;rde trug?</L></LG>
+<LG parID="00249"><L>Wenn auch nicht Roth, doch passt der Liebe Blau</L>
+<L>Zum gelben Korn, und Deinen Namenszug</L>
+<L>Schrieb Liebe selbst auf dieses Blau in Gold.*</L></LG>
+<DIV_END divEndID="deID_2436_00029" startPtr="WR-04-02_n0030.xml#//DIV_START[@divStartID='dsID_2436_00031']"/>
+<SEPARATOR num="3" type="undefined"/>
+<P parID="00250">Deutsch von <AUCTOR type="translator">Otto Hauser</AUCTOR>.</P>
+<DIV_END divEndID="deID_2436_00030" startPtr="WR-04-02_n0029.xml#//DIV_START[@divStartID='dsID_2436_00028']"/>
+<SEPARATOR type="undefined"/>
+<FT type="pn" num="30" c_text="&#x2014; 30 &#x2014;"/>
+</PAGE>

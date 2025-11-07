@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0177.xml</PREV>
+<NEXT>WR-01-01-05_n0179.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 178</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">178</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<P part="final" parID="01322">in die H&#xE4;nde klatsche; und du zitterst nicht, wenn ich beim<LE/>
+Sprechen bis ins Innerste meines Herzens zittere <SYMBOL type="3dots"/> Die Binde!<LE/>
+Die Binde! <SYMBOL type="3dots"/> Ich will sehen! <SYMBOL type="3dots"/> Da, da, &#xFC;ber meinem<LE/>
+Haare! <SYMBOL type="3dots"/> <SD>(Sie reisst die Binde ab.)</SD> Oh! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00270" startPtr="WR-01-01-05_n0177.xml#//DIV_START[@divStartID='dsID_2397_00274']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00275" endPtr="WR-01-01-05_n0178.xml#//DIV_END[@divEndID='deID_2397_00271']"/>
+<P parID="01323"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01324"><TAB/>Kannst du sehen?</P>
+<DIV_END divEndID="deID_2397_00271" startPtr="WR-01-01-05_n0178.xml#//DIV_START[@divStartID='dsID_2397_00275']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00276" endPtr="WR-01-01-05_n0178.xml#//DIV_END[@divEndID='deID_2397_00272']"/>
+<P parID="01325"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01326"><TAB/>Ja <SYMBOL type="3dots"/> ich sehe nur dich <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00272" startPtr="WR-01-01-05_n0178.xml#//DIV_START[@divStartID='dsID_2397_00276']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00277" endPtr="WR-01-01-05_n0178.xml#//DIV_END[@divEndID='deID_2397_00273']"/>
+<P parID="01327"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01328"><TAB/>Was ist das, Alladine? Du k&#xFC;sst mich, als w&#xE4;rest du<LE/>
+wieder traurig <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00273" startPtr="WR-01-01-05_n0178.xml#//DIV_START[@divStartID='dsID_2397_00277']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00278" endPtr="WR-01-01-05_n0178.xml#//DIV_END[@divEndID='deID_2397_00274']"/>
+<P parID="01329"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01330"><TAB/>Wo sind wir?</P>
+<DIV_END divEndID="deID_2397_00274" startPtr="WR-01-01-05_n0178.xml#//DIV_START[@divStartID='dsID_2397_00278']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00279" endPtr="WR-01-01-05_n0178.xml#//DIV_END[@divEndID='deID_2397_00275']"/>
+<P parID="01331"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01332"><TAB/>Was fr&#xE4;gst du das so traurig?</P>
+<DIV_END divEndID="deID_2397_00275" startPtr="WR-01-01-05_n0178.xml#//DIV_START[@divStartID='dsID_2397_00279']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00280" endPtr="WR-01-01-05_n0178.xml#//DIV_END[@divEndID='deID_2397_00276']"/>
+<P parID="01333"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01334"><TAB/>Nein, ich bin nicht traurig; aber meine Augen &#xF6;ffnen<LE/>
+sich kaum <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00276" startPtr="WR-01-01-05_n0178.xml#//DIV_START[@divStartID='dsID_2397_00280']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00281" endPtr="WR-01-01-05_n0178.xml#//DIV_END[@divEndID='deID_2397_00277']"/>
+<P parID="01335"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="01336"><TAB/>Man k&#xF6;nnte glauben, deine Freude sei auf meine Lippen<LE/>
+gefallen wie ein Kind auf die Schwelle des Hauses <SYMBOL type="3dots"/><LE/>
+Kehr&#x2019; dich nicht um <SYMBOL type="3dots"/> Ich f&#xFC;rchte, du entfliehst, und ich<LE/>
+f&#xFC;rchte, zu tr&#xE4;umen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00277" startPtr="WR-01-01-05_n0178.xml#//DIV_START[@divStartID='dsID_2397_00281']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00282" endPtr="WR-01-01-05_n0178.xml#//DIV_END[@divEndID='deID_2397_00278']"/>
+<P parID="01337"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="01338"><TAB/>Wo sind wir?</P>
+<DIV_END divEndID="deID_2397_00278" startPtr="WR-01-01-05_n0178.xml#//DIV_START[@divStartID='dsID_2397_00282']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00283" endPtr="WR-01-01-05_n0179.xml#//DIV_END[@divEndID='deID_2397_00279']"/>
+<P parID="01339"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P part="initial" parID="01340"><TAB/>Wir sind in Grotten, die ich nie gesehen habe <SYMBOL type="3dots"/><LE/>
+Scheint es dir nicht, das Licht nimmt zu? &#x2014; Wie ich die<LE/>
+Augen ge&#xF6;ffnet habe, konnte ich nichts unterscheiden,<LE/>
+und jetzt enth&#xFC;llt sich allm&#xE4;lig Alles. Man hat mir oft von<LE/>
+den wunderbaren Grotten erz&#xE4;hlt, auf denen die Pal&#xE4;ste<LE/>
+Ablamorens erbaut sind. Dies m&#xFC;ssen sie sein. Niemand ist<LE/>
+da hinabgestiegen; und der K&#xF6;nig allein hat die Schl&#xFC;ssel.<LE/>
+Ich wusste, dass das Meer die tiefsten dieser Grotten &#xFC;berfluthet;</P>
+</PAGE>

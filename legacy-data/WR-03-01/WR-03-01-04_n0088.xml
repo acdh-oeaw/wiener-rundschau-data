@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-03-01-04_n0087.xml</PREV>
+<NEXT>WR-03-01-04_n0089.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 88</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>326</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1899</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2434_00436" endPtr="WR-03-01-04_n0089.xml#//DIV_END[@divEndID='deID_2434_00435']"/>
+<TITLE titleID="tiID_2434_00056"><TITLEPART type="main"><SPC>DIE BESIEGTEN</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>PAUL VERLAINE</AUCTOR>.</TITLEPART><LE/>
+<TITLEPART type="desc">Deutsch von <AUCTOR type="translator">MARGARET HONIGSBERG</AUCTOR>.</TITLEPART></TITLE>
+<TITLE titleID="tiID_2434_00057"><TITLEPART type="enum">I.</TITLEPART></TITLE>
+<LG parID="01283"><L>Das Leben siegt, das Ideal ist todt;</L>
+<L>Des Siegers trunknes Pferd sch&#xE4;umt in die Sielen</L>
+<L>Und wiehert in den Wind; sein Biss bedroht</L>
+<L>Die Br&#xFC;der noch, die doch in Ehren fielen.</L></LG>
+<LG parID="01284"><L>Wir, die das Schicksal &#xFC;berleben liess,</L>
+<L>Mit schwerem Haupt, verst&#xFC;mmelt, irren Blickes,</L>
+<L>Ehrlos, vernichtet, blutend, ungewiss,</L>
+<L>Wir gehn und klagen lautlos des Geschickes.</L></LG>
+<LG parID="01285"><L>Gehn, wie des Wegs, des Abends Zufall will,</L>
+<L>Den M&#xF6;rdern, Ehrvergessnen gleich, Gesellen</L>
+<L>Des Elends, obdachlos, verwaist und still</L>
+<L>Im Wald, des Tiefes Dunkel Flammen hellen.</L></LG>
+<LG parID="01286"><L>O da doch ganz erf&#xFC;llt ist unser Los,</L>
+<L>Die Hoffnung selbst am Ende ganz zerst&#xF6;ret,</L>
+<L>Die M&#xFC;h&#x2019; vergebens, w&#xE4;r&#x2019; sie riesengross,</L>
+<L>Da keiner Todtenfeier Glanz beth&#xF6;ret</L></LG>
+<LG parID="01287"><L>Da alle Glut, selbst unser Hass verloht:</L>
+<L>Zur Stunde, da es nun um uns will nachten,</L>
+<L>Bleibt nichts uns, als ein leiser, dunkler Tod,</L>
+<L>Wie&#x2019;s den Besiegten ziemt der grossen Schlachten.</L></LG>
+<TITLE titleID="tiID_2434_00058"><TITLEPART type="enum">II.</TITLEPART></TITLE>
+<LG parID="01288"><L>Ein schwaches Licht am Horizont erbebt.</L>
+<L>Ein eis&#x2019;ger Wind erhebt sich, der die Rosen</L>
+<L>Und Bl&#xFC;ten und des Waldes Laub belebt.</L>
+<L>Der Morgen! Alles weckt sein kaltes Kosen.</L></LG>
+<LG parID="01289"><L>Der Osten erst noch gelb wird rosig; golden blinkt</L>
+<L>Des Himmels Blau; der Sterne Glanz erbleicht;</L>
+<L>Es kr&#xE4;ht der W&#xE4;chter Hahn; die Wachtel singt</L>
+<L>Und steigt. Das Morgenroth. Die Nacht entweicht <SYMBOL type="3dots"/></L></LG>
+<LG parID="01290"><L>Die Sonne hebt sich leuchtend, es ist Morgen,</L>
+<L>Der Morgen, Freunde, dessen froher Strahl</L>
+<L>Den schweren Schlaf euch st&#xF6;rt und tief verborgen</L>
+<L>Im Wald der Thiere schaudervolles Mahl.</L></LG>
+<LG parID="01291"><L>O Wunder! Auch in unsern Herzen weckt</L>
+<L>Sein Strahl den Wunsch, das Leben und das Hassen,</L>
+<L>Tief unterm Panzer der die Brust bedeckt,</L>
+<L>Den Zorn und Stolz der alten guten Rassen.</L></LG>
+<LG parID="01292"><L>Vorw&#xE4;rts! Und auf! Vorw&#xE4;rts! Und auf! Und Muth!</L>
+<L>Genug der Schande und der Ruh&#x2019;, der tr&#xE4;gen.</L>
+<L>Zum Kampf, zum Kampf! Es lechzt das heisse Blut</L>
+<L>Zu rauchen von der Spitze blanker Degen.</L></LG>
+<SEPARATOR type="hr"/>
+<FT type="pn" num="88" c_text="&#x2014; 88 &#x2014;"/>
+</PAGE>

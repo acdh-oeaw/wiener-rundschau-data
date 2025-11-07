@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-02-16_n0610.xml</PREV>
+<NEXT>WR-01-02-16_n0612.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 2, Nr. 16, S. 611</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>470</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>7</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>DIE EICHE UND ICH.</CTEXT><RTEXT type="pn">611</RTEXT></HD>
+<P part="final" parID="00938">die Schelling und Fichte so gerne betonen. Wie es kommt, weiss ich<LE/>
+nicht, aber hier empfinde ich oft eine Gegenwart, in klaren Stimmungen<LE/>
+wird sie mir zur vollen Gewissheit, und weder Chemie noch <HYPH1 cont="Raisonnements">Raisonne-</HYPH1><LE/>
+<HYPH2>ments</HYPH2> noch Aesthetik werden die mindeste Aufkl&#xE4;rung hier&#xFC;ber geben.<LE/>
+W&#xE4;hrend der beiden vergangenen Sommer hat sie mir den kranken<LE/>
+Leib und die kranke Seele gest&#xE4;rkt und gen&#xE4;hrt wie nie zuvor. Hab&#x2019;<LE/>
+Dank, du unsichtbarer Arzt, f&#xFC;r deine geheimen s&#xFC;ssen Arzneien, f&#xFC;r<LE/>
+Tag und Nacht, dein Wasser, deine L&#xFC;fte, f&#xFC;r Ufer, Gras und B&#xE4;ume,<LE/>
+ja f&#xFC;r das Unkraut selbst.</P>
+<DIV_END divEndID="deID_2398_00121" startPtr="WR-01-02-16_n0610.xml#//DIV_START[@divStartID='dsID_2398_00122']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2398_00123" endPtr="WR-01-02-16_n0611.xml#//DIV_END[@divEndID='deID_2398_00122']"/>
+<TITLE titleID="tiID_2398_00054"><TITLEPART><SPC>DER SCHWIMMER</SPC>.</TITLEPART></TITLE>
+<LG parID="00939"><L><IN>Auf</IN> sturmbewegtem Meere rang</L>
+<L>Ein Schwimmer mit den gierigen Wellen,</L>
+<L>So oft er in die Tiefe sank,</L>
+<L>Hob ihn der Wogen wildes Schwellen.</L></LG>
+<LG parID="00940"><L>Aus seinem Auge stierte Qual,</L>
+<L>Umflort von Gischt und Schaumesfetzen,</L>
+<L>Irrt wie ein blutiger Sonnenstrahl</L>
+<L>Die Hoffnung &#xFC;ber das Entsetzen <SYMBOL type="4dots"/></L></LG>
+<LG parID="00941"><L>Er liess sich treiben, rang und hob</L>
+<L>Sich immer wieder aus den Wogen, &#x2014;</L>
+<L>Bis endlich ihn die Welle schob</L>
+<L>Auf eine K&#xFC;ste sturmentzogen <SYMBOL type="4dots"/></L></LG>
+<LG parID="00942"><L>Er sah noch, wie das Abendroth</L>
+<L>Sanft spielte &#xFC;ber Kies und Scherben,</L>
+<L>Wie ihm das Gl&#xFC;ck die Lippen bot &#x2014;</L>
+<L>Da musste der Ersch&#xF6;pfte sterben <SYMBOL type="4dots"/></L></LG>
+<P parID="00943">Berlin. <AUCTOR><C>Hans Benzmann</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2398_00122" startPtr="WR-01-02-16_n0611.xml#//DIV_START[@divStartID='dsID_2398_00123']"/>
+</PAGE>

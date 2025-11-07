@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-12_n0454.xml</PREV>
+<NEXT>WR-01-01-12_n0456.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 455</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>GEDICHTE IN PROSA.</CTEXT><RTEXT type="pn">455</RTEXT></HD>
+<P part="final" parID="03193">sich in schreiende und <ERR sug="schmerzliche">schmerzliehe</ERR> Gef&#xFC;hlszuckungen um.<LE/>
+Schon beginnt die Tiefe des Himmels mich zu erschrecken;<LE/>
+seine Klarheit h&#xF6;hnt mich; mich bet&#xE4;ubt die Gef&#xFC;hllosigkeit<LE/>
+aller Dinge, die Ruhe des Alls <SYMBOL type="3dots"/></P>
+<P parID="03194"><TAB/>Wer die Sch&#xF6;nheit sucht, findet das Leiden; und der<LE/>
+Versuch, die Geheimnisse der Natur zu erfassen, ist ein <HYPH1 cont="Zweikampf">Zwei-</HYPH1><LE/>
+<HYPH2>kampf</HYPH2>, in dem immer der K&#xFC;nstler unterliegt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00563" startPtr="WR-01-01-12_n0454.xml#//DIV_START[@divStartID='dsID_2397_00565']"/>
+<DIV_START divStartID="dsID_2397_00566" endPtr="WR-01-01-12_n0455.xml#//DIV_END[@divEndID='deID_2397_00564']"/>
+<TITLE titleID="tiID_2397_00182"><TITLEPART type="enum">IV.</TITLEPART> <TITLEPART type="main"><SPC>Rausch</SPC>.</TITLEPART></TITLE>
+<P parID="03195"><TAB/>Berauschet euch! Dies ist aller Fragen letzte L&#xF6;sung.<LE/>
+Auf dass ihr die furchtbare Last des Lebens nicht f&#xFC;hlt, die<LE/>
+eure Schultern zerdr&#xFC;ckt und euch zur Erde beugt: Geht<LE/>
+hin und berauschet euch!</P>
+<P parID="03196"><TAB/>Woran? Am Wein, an Gedichten, an Begeisterung &#x2014;<LE/>
+woran ihr wollt. Berauschet euch!</P>
+<P parID="03197"><TAB/>Und wenn ihr dann manchmal erwacht, auf den <HYPH1 cont="Teppichen">Tep-</HYPH1><LE/>
+<HYPH2>pichen</HYPH2> im Palaste, im gr&#xFC;nen Rasengrund eines <HYPH1 cont="Strassengrabens">Strassen-</HYPH1><LE/>
+<HYPH2>grabens</HYPH2>, in der Einsamkeit eures Zimmers, und der Rausch<LE/>
+ist verflogen: dann fragt den Wind, die Wogen, die Sterne,<LE/>
+fragt Alles was flieht, fragt Alles was seufzt, fragt, welche<LE/>
+Stunde es sei; und Wind, Wogen, Sterne, sie werden euch<LE/>
+antworten: Die Stunde ist da, sich zu berauschen.</P>
+<P parID="03198"><TAB/>Seid nicht die keuchenden Knechte des Lebens &#x2014;<LE/>
+berauschet euch!</P>
+<DIV_END divEndID="deID_2397_00564" startPtr="WR-01-01-12_n0455.xml#//DIV_START[@divStartID='dsID_2397_00566']"/>
+<P parID="03199"><AUCTOR type="translator"><I>F. R.</I></AUCTOR></P>
+<DIV_END divEndID="deID_2397_00565" startPtr="WR-01-01-12_n0453.xml#//DIV_START[@divStartID='dsID_2397_00562']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-00_i0005.xml</PREV>
+<NEXT>WR-01-01-01_n0001.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Inhalt S. 6</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS></ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>INHALTS-VERZEICHNISS.</CTEXT></HD>
+<TABLE parID="00005">
+<ROW ciID="0109"><CELL><EMPTY/>
+</CELL><CELL>Seite
+</CELL></ROW>
+<ROW ciID="0110"><CELL colspan="2"><TITLE titleID="tiID_2397_00006"><TITLEPART><B>Musik.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0111"><CELL>&#xBB;Christus&#xAB; <SYMBOL type="dots"/>
+</CELL><CELL>158
+</CELL></ROW>
+<ROW ciID="0112"><CELL>Concerte <SYMBOL type="dots"/>
+</CELL><CELL>318
+</CELL></ROW>
+<ROW ciID="0113"><CELL colspan="2"><TITLE titleID="tiID_2397_00007"><TITLEPART><B>Vortr&#xE4;ge.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0114"><CELL>Autorenabend <SYMBOL type="dots"/>
+</CELL><CELL>398
+</CELL></ROW>
+<ROW ciID="0115"><CELL>Rafael Faelberg <SYMBOL type="dots"/>
+</CELL><CELL>359
+</CELL></ROW>
+<ROW ciID="0116"><CELL colspan="2"><TITLE titleID="tiID_2397_00008"><TITLEPART><B>Diverses.</B></TITLEPART></TITLE>
+</CELL></ROW>
+<ROW ciID="0117"><CELL>Eingesendet <SYMBOL type="dots"/>
+</CELL><CELL>159
+</CELL></ROW>
+</TABLE>
+<DIV_END divEndID="deID_2397_00002" startPtr="WR-01-01-00_i0001.xml#//DIV_START[@divStartID='dsID_2397_00000']"/>
+<SEPARATOR type="hr"/>
+</PAGE>

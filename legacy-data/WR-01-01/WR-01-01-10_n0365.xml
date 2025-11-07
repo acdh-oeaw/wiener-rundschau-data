@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-10_n0364.xml</PREV>
+<NEXT>WR-01-01-10_n0366.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 10, S. 365</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00501" endPtr="WR-01-01-10_n0365.xml#//DIV_END[@divEndID='deID_2397_00500']"/>
+<TITLE titleID="tiID_2397_00143"><TITLEPART><SPC>HERBST</SPC>.</TITLEPART></TITLE>
+<LG parID="02646"><L><IN>Des</IN> Herbstes lange,</L>
+<L>Todesbange,</L>
+<L>Bittere Klagen</L>
+<L>In meinem alten,</L>
+<L>M&#xFC;den, kalten</L>
+<L>Herzen nagen<SYMBOL type="4dots"/></L></LG>
+<LG parID="02647"><L>Wie ist Alles so bleich</L>
+<L>Und todtengleich</L>
+<L>Im D&#xE4;mmerscheine!</L>
+<L>Da denk&#x2019; ich zur&#xFC;ck</L>
+<L>An altes Gl&#xFC;ck &#x2014;</L>
+<L>Und weine.</L></LG>
+<LG parID="02648"><L>Und mich treibt der Wind,</L>
+<L>Wo die Nebel sind,</L>
+<L>Durch das tr&#xFC;be Wetter</L>
+<L>Hin <SYMBOL type="4dots"/> und her <SYMBOL type="4dots"/></L>
+<L>Als triebe er</L>
+<L>Todte Bl&#xE4;tter<SYMBOL type="5dots"/></L></LG>
+<P parID="02649">Paris. <AUCTOR><C>Paul Verlaine</C></AUCTOR>.</P>
+<P parID="02650">Deutsch von <AUCTOR type="translator"><C>Robert M. Prechtl</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00500" startPtr="WR-01-01-10_n0365.xml#//DIV_START[@divStartID='dsID_2397_00501']"/>
+</PAGE>

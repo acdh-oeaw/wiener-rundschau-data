@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-09_n0359.xml</PREV>
+<NEXT>WR-02-01-10_n0361.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 360</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>3</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">360</LTEXT><CTEXT>NOTIZEN.</CTEXT></HD>
+<TABLE parID="02522"><ROW ciID="0233"><CELL>
+<P part="medial" parID="02523">Von demselben &#xBB;Phantasten&#xAB; r&#xFC;hrt<LE/>
+gewiss die ebenso plastische <HYPH1 cont="Wendung">Wen-</HYPH1><LE/>
+<HYPH2>dung</HYPH2> her: &#xBB;Was Bracco uns zum<LE/>
+Besten gibt, <SYMBOL type="3dots"/> ist ein <SPC>Eiertanz<LE/>
+um</SPC> (!) <SPC>Instinkte</SPC>!&#xAB; Oder: &#xBB;<SPC>In der<LE/>
+Narrenkappe</SPC>, die Bracco den<LE/>
+Frauen zu F&#xFC;ssen legt, <SPC>liegt sein<LE/>
+eigenes Herz</SPC>&#xAB; (pag. 152). In<LE/>
+den letzten Wochen wurde der<LE/>
+betreffende Journalist tief <HYPH1 cont="philosophisch">philo-</HYPH1><LE/>
+<HYPH2>sophisch</HYPH2>. Unl&#xE4;ngst constatirte er:<LE/>
+<DIV_START author="(other)" divStartID="dsID_2432_00550" endPtr="WR-02-01-09_n0360.xml#//DIV_END[@divEndID='deID_2432_00547']"/>
+<P parID="02524">&#xBB;Die Wahrheit des Lebens, das ist<LE/>
+das verschleierte Bild zu Sais&#xAB;</P>
+<DIV_END divEndID="deID_2432_00547" startPtr="WR-02-01-09_n0360.xml#//DIV_START[@divStartID='dsID_2432_00550']"/>
+(pag. 150). Eine Woche sp&#xE4;ter<LE/>
+fragte er in einem etwas unrichtigen,<LE/>
+aber recht eindringlichen Deutsch:<LE/>
+&#xBB;Ist nicht im Tiefsten jeder <HYPH1 cont="Gedanke">Ge-</HYPH1><LE/>
+<HYPH2>danke</HYPH2> immer ein Gef&#xFC;hl?&#xAB; (pag. 164).</P>
+</CELL><CELL>
+<P part="final" parID="02525">Was soll man dem Autor <HYPH1 cont="antworten">ant-</HYPH1><LE/>
+<HYPH2>worten</HYPH2>? Ist nicht im Tiefsten jeder<LE/>
+dieser Essayisten immer ein<LE/>
+Schmock?</P>
+<P parID="02526"><TAB/>P. S. Soeben fallen mir die<LE/>
+j&#xFC;ngsten zwei Hefte rechtzeitig<LE/>
+in die Hand. Im vorletzten Heft<LE/>
+liest man den fettgedruckten Satz<LE/>
+des wage=muthigen Philosophen:<LE/>
+&#xBB;Wir k&#xF6;nnen im Ballet nur <HYPH1 cont="begreifen">be(=)</HYPH1><LE/>
+<HYPH2>greifen</HYPH2>, was wir sehen&#xAB; (pag. 164) und<LE/>
+am <DATE>12. M&#xE4;rz</DATE> kann man auf Seite 184<LE/>
+lesen: &#xBB;Seine (Hervieu&#x2019;s) Menschen<LE/>
+reden <SPC>von</SPC> und (!) <SPC>gegen die</SPC><LE/>
+Paragraphen.&#xAB; Diese Exempel<LE/>
+sprechen auch &#xBB;von und gegen&#xAB;<LE/>
+den Autor.</P>
+<P parID="02527"><AUCTOR><I>st. gr.</I></AUCTOR></P>
+<DIV_END divEndID="deID_2432_00548" startPtr="WR-02-01-09_n0359.xml#//DIV_START[@divStartID='dsID_2432_00549']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2432_00549" startPtr="WR-02-01-09_n0357.xml#//DIV_START[@divStartID='dsID_2432_00543']"/>
+<SEPARATOR type="hr"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2432_00551" endPtr="WR-02-01-09_n0360.xml#//DIV_END[@divEndID='deID_2432_00550']"/>
+<P parID="02528">Herausgeber: <SPC>Gustav Schoenaich</SPC>, <SPC>Felix Rappaport</SPC>.</P>
+<P parID="02529">Verantwortlicher Redacteur: <SPC>Gustav Schoenaich</SPC>.</P>
+<P parID="02530">Ch. Reisser &amp; M. Werthner, Wien.</P>
+<DIV_END divEndID="deID_2432_00550" startPtr="WR-02-01-09_n0360.xml#//DIV_START[@divStartID='dsID_2432_00551']"/>
+<DIV_END divEndID="deID_2432_00551" startPtr="WR-02-01-09_n0321.xml#//DIV_START[@divStartID='dsID_2432_00500']"/>
+</PAGE>

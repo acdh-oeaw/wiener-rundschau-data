@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-11_n0440.xml</PREV>
+<NEXT>WR-02-01-12_n0442.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 441</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00589" endPtr="WR-02-01-12_n0480.xml#//DIV_END[@divEndID='deID_2432_00614']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00590" endPtr="WR-02-01-12_n0441.xml#//DIV_END[@divEndID='deID_2432_00589']"/>
+<P parID="02966"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02967"><B><DATE>1. <SPC>MAI</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00589" startPtr="WR-02-01-12_n0441.xml#//DIV_START[@divStartID='dsID_2432_00590']"/>
+<DIV_START divStartID="dsID_2432_00591" endPtr="WR-02-01-12_n0446.xml#//DIV_END[@divEndID='deID_2432_00590']"/>
+<TITLE titleID="tiID_2432_00141"><TITLEPART type="main">FRIEDRICH NIETZSCHE IN WEIMAR.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Philo vom Walde</C></AUCTOR> (Neisse).</TITLEPART></TITLE>
+<P parID="02968"><TAB/>Als er noch unter den geistig Lebenden weilte und mit <HYPH1 cont="titanenhafter">titanen-</HYPH1><LE/>
+<HYPH2>hafter</HYPH2> Kraft am Gesellschaftsbau des modernen Lebens r&#xFC;ttelte, da hat<LE/>
+man ihn todtgeschwiegen. Wie gl&#xFC;cklich h&#xE4;tte ihn damals die <HYPH1 cont="Anerkennung">Aner-</HYPH1><LE/>
+<HYPH2>kennung</HYPH2> einer einzigen befreundeten Seele gemacht! Aber alle hatten<LE/>
+sie sich von ihm losgesagt. Jetzt, wo er als geistig Todter daliegt und<LE/>
+auf nichts mehr antworten kann, wird sein Name unz&#xE4;hligemale <HYPH1 cont="genannt">ge-</HYPH1><LE/>
+<HYPH2>nannt</HYPH2>. Eine ganze Bibliothek ist bereits &#xFC;ber das Thema &#xBB;Friedrich<LE/>
+Nietzsche&#xAB; geschrieben worden, und wer eine kleine Ahnung davon<LE/>
+bekommen will, wie m&#xE4;chtig das moderne Kunstschaffen von ihm <HYPH1 cont="beeinflusst">be-</HYPH1><LE/>
+<HYPH2>einflusst</HYPH2> ist, der lese das soeben erschienene Buch: &#xBB;Der Uebermensch<LE/>
+in der Literatur&#xAB; von Leo Berg (M&#xFC;nchen, Albert Langen). Spasshaft<LE/>
+klingt es, wenn die Gegner behaupten: Nietzsche sei nur ein <HYPH1 cont="Modephilosoph">Mode-</HYPH1><LE/>
+<HYPH2>philosoph</HYPH2>, &#xFC;ber den bald kein Hahn mehr kr&#xE4;hen werde. Es muss wohl<LE/>
+eine Zeit kommen, wo sein Name nicht mehr durch den Mund eines<LE/>
+jeden Bildungsphilisters und Protzen entweiht wird &#x2014; aber kein <HYPH1 cont="Zeitensturm">Zeiten-</HYPH1><LE/>
+<HYPH2>sturm</HYPH2> kann die Spur seiner Erdentage je mehr ganz verwischen.</P>
+<P parID="02969"><TAB/>Gegenw&#xE4;rtig liebt man es, sich nicht nur mit dem Dichter und<LE/>
+Philosophen Nietzsche zu befassen, sondern auch allerlei <HYPH1 cont="Menschliches-Allzumenschliches">Menschliches-</HYPH1><LE/>
+<HYPH2>Allzumenschliches</HYPH2> in der Oeffentlichkeit breitzutreten, so dass jede feiner<LE/>
+organisirte Natur eine f&#xF6;rmliche Scham &#xFC;ber solche Piet&#xE4;tlosigkeit<LE/>
+empfindet. Wie bitter klang vor zwei Jahren die Klage der Mutter<LE/>
+Nietzsche&#x2019;s, als sie mir von der Unzartheit erz&#xE4;hlte, mit der sich die<LE/>
+lieben Naumburger an den Kranken herandr&#xE4;ngten, sobald man ihn<LE/>
+im Fahrstuhl ins Freie brachte, um ihn frische Luft geniessen zu lassen.<LE/>
+Und kurze Zeit vor ihrem Tode noch schrieb mir die leidensmuthige<LE/>
+Frau: &#xBB;Es mag nur Niemand den Zeitungsberichten glauben, wenn<LE/>
+Berichterstatter &#xFC;ber ihre Artikel &#x201A;Ein Besuch bei Friedrich Nietzsche&#x2018;<LE/>
+setzen und Unglaubliches erz&#xE4;hlen. Ahnen solch rohe Naturen doch<LE/>
+kaum, was ein Mutter- und ein Schwesterherz dabei empfinden!&#xAB;</P>
+<P part="initial" parID="02970"><TAB/>Die Sensationslust geht so weit, dass man vor anderthalb Jahren<LE/>
+eine Notiz in der Presse fand, wonach Friedrich Nietzsche als lustiger<LE/>
+Bergfex auf dem Hohentwiel gewesen sei und dort einen Aphorismus</P>
+</PAGE>

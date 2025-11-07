@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-10_n0384.xml</PREV>
+<NEXT>WR-01-01-10_n0386.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 10, S. 385</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>JUNGPOLNISCHE LYRIK.</CTEXT><RTEXT type="pn">385</RTEXT></HD>
+<LG parID="02784"><L>Er schritt ins Sonnengl&#xFC;hen</L>
+<L>In weisser Nebelh&#xFC;lle <SYMBOL type="3dots"/></L>
+<L>Und jene auf den Knien</L>
+<L>&#xBB;O, Christus!&#xAB; fl&#xFC;stert stille.</L></LG>
+<DIV_END divEndID="deID_2397_00505" startPtr="WR-01-01-10_n0384.xml#//DIV_START[@divStartID='dsID_2397_00507']"/>
+<SEPARATOR type="asterismDown"/>
+<P parID="02785"><TAB/>Anders Zeno Przesmycki (Miriam). Die Ruhe seiner Reflexion,<LE/>
+die Harmonie seines Wesens wird durch nichts ersch&#xFC;ttert, durch nichts<LE/>
+qualvoll aufgew&#xFC;hlt. Er lebt nur <SPC>f&#xFC;r</SPC> die Kunst und <SPC>durch</SPC> die Kunst;<LE/>
+von der <LANG iso="la">turris eburnea</LANG> der Eingeweihten schaut er auf das Treiben der<LE/>
+Welt herab, die ihn nichts angeht und die er nicht versteht.</P>
+<P parID="02786"><TAB/>Er ist zwar mehr geniessender Esthet als schaffendes Talent, mehr<LE/>
+ein mit feinster Empfindung begabter, nachbildender Geist als <HYPH1 cont="urspr&#xFC;nglicher">urspr&#xFC;ng-</HYPH1><LE/>
+<HYPH2>licher</HYPH2>, originell erfindender Poet, aber seine Bedeutung f&#xFC;r die <HYPH1 cont="jungpolnische">jung-</HYPH1><LE/>
+<HYPH2>polnische</HYPH2> Poesie ist gleichwohl eine ungemein grosse. Er war der<LE/>
+Bahnbrecher, der Prophet, der begeisterte Lehrer neuen Empfindens,<LE/>
+neuer Kunst.</P>
+<P parID="02787"><TAB/>Auf &#xE4;sthetischer Pilgerfahrt durchwanderte er die Literaturwellen,<LE/>
+von unbekannten Gestaden brachte er Kunde. Seine zahlreichen virtuosen<LE/>
+Uebersetzungen vermittelten vor Allem die Kenntniss der franz&#xF6;sischen<LE/>
+Parnassiens, Jungbelgiens, besonders Maeterlinck&#x2019;s; seine Essays wiesen<LE/>
+neue Wege und neue Ziele. So ward er F&#xFC;hrer der &#xBB;Moderne&#xAB; und ihr<LE/>
+heiss befehdeter Vork&#xE4;mpfer. Die ehrsamen Literaturbonzen sch&#xFC;ttelten<LE/>
+&#xFC;ber diese entartete unverst&#xE4;ndliche Kunst gar ernst und gewichtig<LE/>
+die K&#xF6;pfe.</P>
+<P parID="02788"><TAB/>Richtig charakterisirte ihn George Wallner in der <LANG iso="fr">&#xBB;Jeune <HYPH1 cont="Belgique">Bel-</HYPH1><LE/>
+<HYPH2>gique</HYPH2>&#xAB;</LANG> als einen <LANG iso="fr">&#xBB;romantique refroidi par un parnassien&#xAB;</LANG>. Die <HYPH1 cont="Gewandtheit">Gewandt-</HYPH1><LE/>
+<HYPH2>heit</HYPH2>, mit welcher der Dichter die schwierigsten artificiellen Versarten<LE/>
+meistert, die Vorliebe f&#xFC;r reiche und &#xFC;ppige Stylformen kennzeichnet<LE/>
+ihn in der That als Anh&#xE4;nger des Parnasses. Er liebt das Barock,<LE/>
+das Exotische der Sprache, den k&#xFC;nstlichen Faltenwurf des Ausdruckes,<LE/>
+den gl&#xE4;nzenden Schimmer des Wortes. Davon zeugen besonders seine<LE/>
+<LANG iso="fr">&#xBB;Rondeaux&#xAB;</LANG>, von denen hier eins folgt:</P>
+<DIV_START author="(other)" type="verse" divStartID="dsID_2397_00508" endPtr="WR-01-01-10_n0386.xml#//DIV_END[@divEndID='deID_2397_00506']"/>
+<TITLE titleID="tiID_2397_00151"><TITLEPART><SPC>Das Rondeau</SPC>.</TITLEPART></TITLE>
+<LG parID="02789"><L>Das Rondeau, ein Geschmeid&#x2019; aus gold&#x2019;nem Guss,</L>
+<L>Drin Edelsteine glitzern um die Wette!</L>
+<L>Mit reicher Strahlenpracht gl&#xE4;nzt es zum Gruss,</L>
+<L>Und glaube nicht, dass es den S&#xE4;nger kette,</L>
+<L>Dies holde Bild des heiter&#x2019;n Genius!</L></LG>
+<LG parID="02790"><L>Dem Diskos gleich in der Arena muss</L>
+<L>Der Reim entflieh&#x2019;n; er kehrt zur&#xFC;ck zur St&#xE4;tte,</L>
+<L>Er dr&#xE4;ngt sich auf, formt im Gedankenfluss</L>
+<L>Das Rondeau.</L></LG>
+</PAGE>

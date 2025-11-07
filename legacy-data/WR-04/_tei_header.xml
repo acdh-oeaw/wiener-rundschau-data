@@ -1,0 +1,74 @@
+<teiHeader>
+  <fileDesc>
+    <filename>magazines\Wiener_Rundschau\WR-04</filename>
+    <titleStmt>
+      <mainTitle>Wiener Rundschau</mainTitle>
+      <subTitle></subTitle>
+      <author><persName></persName></author>
+      <sponsor></sponsor>
+      <funder></funder>
+    </titleStmt>
+    <textClass></textClass>
+    <keyWords></keyWords>
+    <titleStmtLevel>periodical - Viennensia  - Fackel_relation -  C4_</titleStmtLevel>
+    <editionStmt>
+      <edition>4. Jg,   (Heft 1-24:  1.Jänner-31.December 1900)</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher></publisher>
+      <address></address>
+      <idno>2436</idno>
+      <availability></availability>
+      <date></date>
+    </publicationStmt>
+    <notesStmt>
+      <note>
+        <p></p>
+      </note>
+    </notesStmt>
+
+    <sourceDesc>
+      <biblStruct>
+        <monogr>
+          <author><persName></persName></author>
+          <mainTitle>Wiener Rundschau</mainTitle>
+          <subTitle></subTitle>
+          <edition></edition>
+          <editor>Herausgeber:  Felix Rappaport</editor>
+          <imprint>
+            <pubPlace>Wien</pubPlace>
+            <publisher>Verlag der "Wiener Rundschau"</publisher>
+            <printer>K.k. Hoftheater-Druckerei</printer>
+            <date>1900</date>
+          </imprint>
+          <extent><measure type="pagination"></measure></extent>
+          <extent><measure type="format">gr.8°</measure></extent>
+          <extent><measure type="areaType">18,7x12,7</measure></extent>
+        </monogr>
+        <idno></idno>
+      </biblStruct>
+    </sourceDesc>  
+  </fileDesc>
+
+  <encodingDesc>
+    <projectDesc></projectDesc>
+    <samplingDecl></samplingDecl>
+    <editorialDecl></editorialDecl>
+    <tagsDecl></tagsDecl>
+  </encodingDesc>
+
+  <profileDesc>
+      <langUsage></langUsage>
+      <textClass><keywords><term></term></keywords></textClass>
+  </profileDesc>
+
+  <revisionDesc ref="_progress_wiener_rundschau_04.xml">
+    <change>
+      <date></date>
+      <respStmt>
+        <name></name><resp></resp>
+      </respStmt>
+      <item></item>
+    </change>
+  </revisionDesc>
+</teiHeader>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-06_n0129.xml</PREV>
+<NEXT>WR-04-06_n0131.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 6, S. 130</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ROSSETTI: SONETTE.</CTEXT></HD>
+<LG parID="01186"><L>Da folgte ihm ein Zweiter und entbot</L>
+<L>Mich n&#xE4;her zu des Bannertr&#xE4;gers Stab.</L>
+<L>Und da ich zitternd mich dahin begab,</L></LG>
+<LG parID="01187"><L>Ber&#xFC;hrte er mit einem Finger sacht&#x2019;</L>
+<L>Den, der die Liebe war, und sprach: Hab&#x2019; Acht!</L>
+<L>Kein Odem ist in ihm &#x2014; Ich bin der Tod.</L></LG>
+<DIV_END divEndID="deID_2436_00113" startPtr="WR-04-06_n0129.xml#//DIV_START[@divStartID='dsID_2436_00115']"/>
+<SEPARATOR num="3" type="undefined"/>
+<DIV_START type="verse" divStartID="dsID_2436_00116" endPtr="WR-04-06_n0130.xml#//DIV_END[@divEndID='deID_2436_00114']" titleID="tiID_2436_00061"/>
+<TITLE titleID="tiID_2436_00061" parDivStartID="dsID_2436_00116"><TITLEPART>DAS KIRCHENPORTAL.</TITLEPART></TITLE>
+<LG parID="01188"><L>Vom Fusse sch&#xFC;tteln wir den Staub erst ab,</L>
+<L>Damit er nicht den schriftbedeckten Stein</L>
+<L>Befleckt, wo manches heilige Gebein</L>
+<L>Im Chorgang ruht, und Glaube weilt am Grab,</L></LG>
+<LG parID="01189"><L>Dem jeder Todte seinen Namen gab.</L>
+<L>Sichtbar Gebet will Malerkunst hier sein,</L>
+<L>Der Bildner meisselte in Stein es ein,</L>
+<L>Nun t&#xF6;nt es fort, die Ewigkeit hinab.</L></LG>
+<LG parID="01190"><L>Hier aussen sind die Glocken blosser Schlag;</L>
+<L>All seinen Sonnenschein der Nachmittag</L>
+<L>Legt schwer an das geschnitzte Kirchenthor;</L></LG>
+<LG parID="01191"><L>Doch innen findet, wer mit uns eingeht,</L>
+<L>Nur Schweigen, pl&#xF6;tzlich Dunkel, tief Gebet,</L>
+<L>Und rings um uns, gekr&#xF6;nt, ein Engelschor.</L></LG>
+<DIV_END divEndID="deID_2436_00114" startPtr="WR-04-06_n0130.xml#//DIV_START[@divStartID='dsID_2436_00116']"/>
+<DIV_END divEndID="deID_2436_00115" startPtr="WR-04-06_n0129.xml#//DIV_START[@divStartID='dsID_2436_00113']"/>
+<SEPARATOR num="8" type="undefined"/>
+<FT type="pn" num="130" c_text="&#x2014; 130 &#x2014;"/>
+</PAGE>

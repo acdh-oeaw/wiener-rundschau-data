@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-03_n0084.xml</PREV>
+<NEXT>WR-02-01-03_n0086.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 85</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>VISION.</CTEXT><RTEXT type="pn">85</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2432_00102" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00100']"/>
+<P parID="00528"><TAB/><SPK><SPC>Andreas</SPC></SPK>. Der Wind geht stark.</P>
+<DIV_END divEndID="deID_2432_00100" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00102']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00103" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00101']"/>
+<P parID="00529"><TAB/><SPK><SPC>Der Priester</SPC></SPK>. Es wird k&#xFC;hl, lasst uns ins Haus gehen.</P>
+<DIV_END divEndID="deID_2432_00101" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00103']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00104" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00102']"/>
+<P parID="00530"><TAB/><SPK><SPC>Maria</SPC></SPK>. O nein, nein, bleiben wir hier am Meeresstrande und<LE/>
+lasst uns warten.</P>
+<DIV_END divEndID="deID_2432_00102" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00104']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00105" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00103']"/>
+<P parID="00531"><TAB/><SPK><SPC>Der Priester</SPC></SPK>. Wir k&#xF6;nnen ja im Hause ebenso gut warten<LE/>
+wie hier.</P>
+<DIV_END divEndID="deID_2432_00103" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00105']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00106" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00104']"/>
+<P parID="00532"><TAB/><SPK><SPC>Maria</SPC></SPK>. Das wohl, aber hier sind wir ihnen n&#xE4;her. <SD>(Ein fremder<LE/>
+Schiffer mit einem Pack am R&#xFC;cken tritt auf.)</SD></P>
+<DIV_END divEndID="deID_2432_00104" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00106']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00107" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00105']"/>
+<P parID="00533"><TAB/><SPK><SPC>Fremder</SPC></SPK>. Guten Abend!</P>
+<DIV_END divEndID="deID_2432_00105" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00107']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00108" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00106']"/>
+<P parID="00534"><TAB/><SPK><SPC>Der Priester</SPC></SPK>. Seid gegr&#xFC;sst. Woher des Weges?</P>
+<DIV_END divEndID="deID_2432_00106" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00108']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00109" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00107']"/>
+<P parID="00535"><TAB/><SPK><SPC>Der Fremde</SPC></SPK>. Von fern her, ich gehe in die Heimat.</P>
+<DIV_END divEndID="deID_2432_00107" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00109']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00110" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00108']"/>
+<P parID="00536"><TAB/><SPK><SPC>Der Priester</SPC></SPK>. Ich sehe an Euerem Anzug, dass Ihr ein Schiffer<LE/>
+seid, ein Walfischj&#xE4;ger.</P>
+<DIV_END divEndID="deID_2432_00108" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00110']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00111" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00109']"/>
+<P parID="00537"><TAB/><SPK><SPC>Der Fremde</SPC></SPK>. Ja, mein Vater. Ich komme vom Norden her,<LE/>
+vom Walfischfang.</P>
+<DIV_END divEndID="deID_2432_00109" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00111']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00112" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00110']"/>
+<P parID="00538"><TAB/><SPK><SPC>Maria</SPC></SPK>. Vom Norden her? Seid Ihr nicht einem Schiff <HYPH1 cont="begegnet">be-</HYPH1><LE/>
+<HYPH2>gegnet</HYPH2>?</P>
+<DIV_END divEndID="deID_2432_00110" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00112']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00113" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00111']"/>
+<P parID="00539"><TAB/><SPK><SPC>Der Fremde</SPC></SPK>. Welches soll es gewesen sein?</P>
+<DIV_END divEndID="deID_2432_00111" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00113']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00114" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00112']"/>
+<P parID="00540"><TAB/><SPK><SPC>Maria</SPC></SPK>. Das &#xBB;Kreuz des S&#xFC;dens&#xAB;, es war auf dem Walfischfang&#x387;<LE/>
+Seid Ihr ihm nicht begegnet?</P>
+<DIV_END divEndID="deID_2432_00112" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00114']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00115" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00113']"/>
+<P parID="00541"><TAB/><SPK><SPC>Der Fremde</SPC></SPK>. Ich weiss es nicht, leicht m&#xF6;glich. Zahlreich sind<LE/>
+die Schiffe, die dort auf offener See kreuzen. Alle sind heimgekehrt,<LE/>
+vorzeitig kamen furchtbare St&#xFC;rme und Fr&#xF6;ste.</P>
+<DIV_END divEndID="deID_2432_00113" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00115']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00116" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00114']"/>
+<P parID="00542"><TAB/><SPK><SPC>Maria</SPC></SPK> <SD>(fieberhaft)</SD>. Aber eines nicht. Ihr habt es gesehen? Nicht<LE/>
+wahr?</P>
+<DIV_END divEndID="deID_2432_00114" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00116']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00117" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00115']"/>
+<P parID="00543"><TAB/><SPK><SPC>Der Fremde</SPC></SPK> <SD>(erstaunt)</SD>. Woher wisst Ihr, Jungfrau, dass ich es<LE/>
+gesehen? Ja, ein Schiff blieb zur&#xFC;ck. Wir sahen es von fern, im Eise<LE/>
+festgefroren. Ihm kann nicht mehr geholfen werden bis zum n&#xE4;chsten<LE/>
+Jahre. Inzwischen wird das Eis es zerdr&#xFC;cken und zermalmen. Es ist<LE/>
+das erste nicht <SYMBOL type="3dots"/> Wir selbst schwebten in grosser Gefahr <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2432_00115" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00117']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00118" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00116']"/>
+<P parID="00544"><TAB/><SPK><SPC>Maria</SPC></SPK> <SD>(mit schmerzlichem Fl&#xFC;stern)</SD>. Es war das &#xBB;Kreuz des<LE/>
+S&#xFC;dens&#xAB;.</P>
+<DIV_END divEndID="deID_2432_00116" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00118']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00119" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00117']"/>
+<P parID="00545"><TAB/><SPK><SPC>Der Fremde</SPC></SPK>. Ich habe einen weiten Weg bis nach Hause, ich<LE/>
+muss fort. Gott beh&#xFC;te euch. <SD>(Er entfernt sich gr&#xFC;ssend.)</SD></P>
+<DIV_END divEndID="deID_2432_00117" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00119']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00120" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00118']"/>
+<P parID="00546"><TAB/><SPK><SPC>Der Priester</SPC></SPK>. Gott beh&#xFC;te Euch.</P>
+<DIV_END divEndID="deID_2432_00118" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00120']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00121" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00119']"/>
+<P parID="00547"><TAB/><SPK><SPC>Maria</SPC></SPK>. Oheim, lieber Oheim, es war das &#xBB;Kreuz des S&#xFC;dens&#xAB;,<LE/>
+das Schiff unseres Gerhard.</P>
+<DIV_END divEndID="deID_2432_00119" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00121']"/>
+<DIV_START cat="speech" divStartID="dsID_2432_00122" endPtr="WR-02-01-03_n0085.xml#//DIV_END[@divEndID='deID_2432_00120']"/>
+<P parID="00548"><TAB/><SPK><SPC>Der Priester</SPC></SPK>. Das kann Niemand wissen, mein Kind. Wessen<LE/>
+das Schiff auch gewesen sein mag, man muss f&#xFC;r die Seelen der armen<LE/>
+Verungl&#xFC;ckten beten. Ob es das Schiff deines Bruders war, das kann<LE/>
+Niemand wissen. Der Fremde wusste ja nicht, was es f&#xFC;r ein Schiff<LE/>
+gewesen ist. Ich bin &#xFC;berzeugt, Gerhard kehrt zur&#xFC;ck. Der Sturm hat sie<LE/>
+vielleicht etwas vom Lande fortgetrieben.</P>
+<DIV_END divEndID="deID_2432_00120" startPtr="WR-02-01-03_n0085.xml#//DIV_START[@divStartID='dsID_2432_00122']"/>
+</PAGE>

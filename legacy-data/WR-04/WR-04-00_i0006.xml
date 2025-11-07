@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-00_i0005.xml</PREV>
+<NEXT>WR-04-01_n0001.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Inhalt S. 6</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS></ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>AUTOREN- UND INHALTS-VERZEICHNIS.</CTEXT></HD>
+<TITLE titleID="tiID_2436_00003"><TITLEPART>BILDER.</TITLEPART></TITLE>
+<TABLE parID="00015"><ROW ciID="0213"><CELL>
+<TABLE parID="00016">
+<ROW ciID="0214"><CELL><EMPTY/>
+</CELL><CELL>Nr. 
+</CELL><CELL>Seite
+</CELL></ROW>
+<ROW ciID="0215"><CELL><SPC>Beardsley</SPC>, Aubrey, Zwei <HYPH1 cont="Zeichnungen">Zeich-</HYPH1><LE/>
+<HYPH2>nungen</HYPH2> <SYMBOL type="dots"/>
+</CELL><CELL><B>12</B>
+</CELL><CELL>189
+</CELL></ROW>
+<ROW ciID="0216"><CELL><DITTO cont="Beardsley, Aubrey," rend="&#x2014;"/> <DITTO cont="Zwei Zeichnungen" rend="&#x2014; &#x2014; &#x2014;"/>
+</CELL><CELL><B>12</B>
+</CELL><CELL>211
+</CELL></ROW>
+<ROW ciID="0217"><CELL><SPC>Khnopff</SPC>, Fernand, Die Kaiserin <SYMBOL type="dots"/>
+</CELL><CELL><B>1</B> 
+</CELL><CELL>1
+</CELL></ROW>
+<ROW ciID="0218"><CELL><SPC>Moreau</SPC>, Gustave, <LANG iso="fr">Les Muses quittent<LE/>
+Apollon</LANG> <SYMBOL type="dots"/>
+</CELL><CELL><B>10</B> 
+</CELL><CELL>133
+</CELL></ROW>
+<ROW ciID="0219"><CELL><SPC>Toorop</SPC>, Jan, <LANG iso="en">O grave where is thy<LE/>
+Victory</LANG> <SYMBOL type="dots"/>
+</CELL><CELL><B>8</B> 
+</CELL><CELL>175
+</CELL></ROW>
+</TABLE>
+</CELL><CELL>
+<TABLE parID="00017">
+<ROW ciID="0220"><CELL><EMPTY/>
+</CELL><CELL>Nr.
+</CELL><CELL>Seite
+</CELL></ROW>
+<ROW ciID="0221"><CELL><SPC>Vallotton</SPC>, Felix, Richard Wagner
+</CELL><CELL><B>1</B> 
+</CELL><CELL>15
+</CELL></ROW>
+<ROW ciID="0222"><CELL><DITTO cont="Vallotton, Felix," rend="&#x2014;"/> &#x2014; &#x2014; &#x2014; Henrik Ibsen <SYMBOL type="dots"/>
+</CELL><CELL><B>11</B> 
+</CELL><CELL>173
+</CELL></ROW>
+<ROW ciID="0223"><CELL><DITTO cont="Vallotton, Felix" rend="&#x2014;"/> &#x2014; &#x2014; &#x2014; Maurice Maeterlinck
+</CELL><CELL><B>15</B>
+</CELL><CELL>257
+</CELL></ROW>
+<ROW ciID="0224"><CELL><SPC>Wenban</SPC>, Sion L., Landschaft <SYMBOL type="dots"/>
+</CELL><CELL><B>5</B> 
+</CELL><CELL>101
+</CELL></ROW>
+<ROW ciID="0225"><CELL>Portr&#xE4;t Dante Gabriel <SPC>Rossettis</SPC> <SYMBOL type="dots"/>
+</CELL><CELL><B>1</B> 
+</CELL><CELL>9
+</CELL></ROW>
+<ROW ciID="0226"><CELL>Portr&#xE4;t der Mrs. Annie <SPC>Besant</SPC> <SYMBOL type="dots"/>
+</CELL><CELL><B>11</B> 
+</CELL><CELL>247
+</CELL></ROW>
+</TABLE>
+</CELL></ROW></TABLE>
+<SEPARATOR num="8" type="undefined"/>
+<DIV_START cat="imprint" divStartID="dsID_2436_00003" endPtr="WR-04-00_i0006.xml#//DIV_END[@divEndID='deID_2436_00002']"/>
+<P parID="00018">K. k. Hoftheater-Druckerei, I., Wollzeile 17.</P>
+<DIV_END divEndID="deID_2436_00002" startPtr="WR-04-00_i0006.xml#//DIV_START[@divStartID='dsID_2436_00003']"/>
+<DIV_END divEndID="deID_2436_00003" startPtr="WR-04-00_i0001.xml#//DIV_START[@divStartID='dsID_2436_00000']"/>
+</PAGE>

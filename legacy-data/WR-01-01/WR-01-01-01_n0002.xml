@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-01_n0001.xml</PREV>
+<NEXT>WR-01-01-01_n0003.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 2</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>11</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">2</LTEXT><CTEXT>MAETERLINCK.</CTEXT></HD>
+<P part="final" parID="00013">lebe ich an ihrer Seite mit gesenkten Blicken <SYMBOL type="3dots"/> Es ist<LE/>
+traurig, zu sp&#xE4;t zu lieben <SYMBOL type="3dots"/> Frauen k&#xF6;nnen nicht begreifen,<LE/>
+dass die Jahre nicht die Herzen trennen. Man hatte mich<LE/>
+&#xBB;den weisen K&#xF6;nig&#xAB; genannt <SYMBOL type="3dots"/> Ich war weise, weil mir<LE/>
+bisher nichts widerfahren war <SYMBOL type="3dots"/> Es gibt Menschen, welche<LE/>
+die Ereignisse abzuwenden scheinen. Wo ich auch immer<LE/>
+erschien, es gen&#xFC;gte, dass nichts entstehen konnte. Ich hatte<LE/>
+es einst vermuthet <SYMBOL type="3dots"/> In meiner Jugendzeit hatte ich viele<LE/>
+Freunde, deren Gegenwart alle Abenteuer anzuziehen schien;<LE/>
+aber an dem Tage, da ich mit ihnen zog, den Freuden oder<LE/>
+den Schmerzen entgegen, kehrten sie mit leeren H&#xE4;nden<LE/>
+zur&#xFC;ck <SYMBOL type="3dots"/> Ich glaube, dass ich das Schicksal gel&#xE4;hmt habe;<LE/>
+und lange war ich eitel auf diese Gabe. Man lebte unter<LE/>
+meiner Herrschaft ruhig und sicher. Doch jetzt habe ich <HYPH1 cont="erkannt">er-</HYPH1><LE/>
+<HYPH2>kannt</HYPH2>, dass selbst das Ungl&#xFC;ck besser ist als der Schlaf, und<LE/>
+dass es ein Leben geben muss, th&#xE4;tiger und h&#xF6;her als die <HYPH1 cont="Erwartung">Er-</HYPH1><LE/>
+<HYPH2>wartung</HYPH2> <SYMBOL type="3dots"/> Man soll sehen, dass auch ich die Kraft habe,<LE/>
+wenn ich will, das Wasser zu erregen, das im Innern der<LE/>
+grossen Becken der Zukunft erstorben schien <SYMBOL type="3dots"/></P>
+<P parID="00014"><TAB/>Alladine, Alladine! <SYMBOL type="3dots"/> Ach! so ist sie sch&#xF6;n, mit den<LE/>
+Haaren, die auf die Blumen und das zahme Lamm <HYPH1 cont="herabfliessen">herab-</HYPH1><LE/>
+<HYPH2>fliessen</HYPH2>, und mit dem Munde, halb ge&#xF6;ffnet und frischer als<LE/>
+die Morgenr&#xF6;the <SYMBOL type="3dots"/> Ich will sie k&#xFC;ssen und meinen armen<LE/>
+weissen Bart zur&#xFC;ckhalten, so wird sie es vielleicht nicht<LE/>
+merken <SYMBOL type="2dots"/> <SD>(Er k&#xFC;sst sie.)</SD> &#x2014; Sie hat gel&#xE4;chelt <SYMBOL type="3dots"/> Soll ich sie<LE/>
+bedauern? F&#xFC;r einige Jahre, die sie mir schenkt, wird sie<LE/>
+eines Tages K&#xF6;nigin sein; und ich werde ein wenig Gutes<LE/>
+gethan haben, ehe ich scheide <SYMBOL type="3dots"/> Man wird staunen <SYMBOL type="3dots"/><LE/>
+Sie selbst weiss nichts <SYMBOL type="3dots"/> Ach! da f&#xE4;hrt sie pl&#xF6;tzlich aus<LE/>
+dem Schlaf empor <SYMBOL type="3dots"/> Woher kommst du, Alladine?</P>
+<DIV_END divEndID="deID_2397_00005" startPtr="WR-01-01-01_n0001.xml#//DIV_START[@divStartID='dsID_2397_00008']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00009" endPtr="WR-01-01-01_n0002.xml#//DIV_END[@divEndID='deID_2397_00006']"/>
+<P parID="00015"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00016"><TAB/>Ich habe einen b&#xF6;sen Traum gehabt <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00006" startPtr="WR-01-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2397_00009']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00010" endPtr="WR-01-01-01_n0002.xml#//DIV_END[@divEndID='deID_2397_00007']"/>
+<P parID="00017"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P parID="00018"><TAB/>Was hast du? Warum schaust du nach jener Seite?</P>
+<DIV_END divEndID="deID_2397_00007" startPtr="WR-01-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2397_00010']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00011" endPtr="WR-01-01-01_n0002.xml#//DIV_END[@divEndID='deID_2397_00008']"/>
+<P parID="00019"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00020"><TAB/>Es ist Jemand auf der Strasse vorbeigekommen.</P>
+<DIV_END divEndID="deID_2397_00008" startPtr="WR-01-01-01_n0002.xml#//DIV_START[@divStartID='dsID_2397_00011']"/>
+</PAGE>

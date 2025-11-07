@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-02_n0044.xml</PREV>
+<NEXT>WR-01-01-02_n0046.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 45</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ALLADINE UND PALOMIDES.</CTEXT><RTEXT type="pn">45</RTEXT></HD>
+<DIV_START cat="speech" divStartID="dsID_2397_00090" endPtr="WR-01-01-02_n0045.xml#//DIV_END[@divEndID='deID_2397_00086']"/>
+<P parID="00286"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00287"><TAB/>Werdet Ihr&#x2019;s retten?</P>
+<DIV_END divEndID="deID_2397_00086" startPtr="WR-01-01-02_n0045.xml#//DIV_START[@divStartID='dsID_2397_00090']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00091" endPtr="WR-01-01-02_n0045.xml#//DIV_END[@divEndID='deID_2397_00087']"/>
+<P parID="00288"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00289"><TAB/>Es retten? Aber seht doch, schon ist es im Trichter.<LE/>
+Noch einen Augenblick, und es verschwindet unter den <HYPH1 cont="Gew&#xF6;lben">Ge-</HYPH1><LE/>
+<HYPH2>w&#xF6;lben</HYPH2>, und Gott selbst wird es nie wiedersehen <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00087" startPtr="WR-01-01-02_n0045.xml#//DIV_START[@divStartID='dsID_2397_00091']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00092" endPtr="WR-01-01-02_n0045.xml#//DIV_END[@divEndID='deID_2397_00088']"/>
+<P parID="00290"><SPK><SPC>Alladine</SPC></SPK>.</P>
+<P parID="00291"><TAB/>Hinweg! Hinweg!</P>
+<DIV_END divEndID="deID_2397_00088" startPtr="WR-01-01-02_n0045.xml#//DIV_START[@divStartID='dsID_2397_00092']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00093" endPtr="WR-01-01-02_n0045.xml#//DIV_END[@divEndID='deID_2397_00089']"/>
+<P parID="00292"><SPK><SPC>Palomides</SPC></SPK>.</P>
+<P parID="00293"><TAB/>Was habt Ihr?</P>
+<DIV_END divEndID="deID_2397_00089" startPtr="WR-01-01-02_n0045.xml#//DIV_START[@divStartID='dsID_2397_00093']"/>
+<DIV_START cat="speech" divStartID="dsID_2397_00094" endPtr="WR-01-01-02_n0045.xml#//DIV_END[@divEndID='deID_2397_00090']"/>
+<SPK><SPC>Alladine</SPC></SPK>.<LE/>
+<P parID="00294"><TAB/>Hinweg! &#x2014; Ich will Euch nicht mehr sehen! <SYMBOL type="3dots"/></P>
+<DIV_END divEndID="deID_2397_00090" startPtr="WR-01-01-02_n0045.xml#//DIV_START[@divStartID='dsID_2397_00094']"/>
+<P parID="00295"><SD>(Ablamore tritt eilig auf, ergreift Alladine und zieht sie heftig mit sich fort,<LE/>
+ohne etwas zu sagen.)</SD></P>
+<DIV_END divEndID="deID_2397_00091" startPtr="WR-01-01-02_n0043.xml#//DIV_START[@divStartID='dsID_2397_00080']"/>
+<SEPARATOR type="hr"/>
+<DIV_START cat="scene" divStartID="dsID_2397_00095" endPtr="WR-01-01-02_n0047.xml#//DIV_END[@divEndID='deID_2397_00103']"/>
+<TITLE titleID="tiID_2397_00030"><TITLEPART>III. <SPC>Scene</SPC>.</TITLEPART></TITLE>
+<P parID="00296"><SD>Ein Gemach im Palaste.</SD></P>
+<P parID="00297"><SD><SPK><SPC>Ablamore</SPC></SPK> und <SPK><SPC>Alladine</SPC></SPK>.</SD></P>
+<DIV_START cat="speech" divStartID="dsID_2397_00096" endPtr="WR-01-01-02_n0046.xml#//DIV_END[@divEndID='deID_2397_00092']"/>
+<P parID="00298"><SPK><SPC>Ablamore</SPC></SPK>.</P>
+<P part="initial" parID="00299"><TAB/>Du siehst es, Alladine, meine H&#xE4;nde zittern nicht, mein<LE/>
+Herz schl&#xE4;gt wie das eines schlafenden Kindes, und niemals<LE/>
+hat Zorn meine Stimme erregt. Ich z&#xFC;rne Palomides nicht,<LE/>
+wenn auch Alles, was er thut, unentschuldbar erscheinen kann.<LE/>
+Und du, Aladine, wer k&#xF6;nnte dir z&#xFC;rnen? Du folgst Gesetzen,<LE/>
+die du nicht kennst, und du konntest nicht anders handeln.<LE/>
+Ich will mit dir nicht &#xFC;ber das sprechen, was sich vor einigen<LE/>
+Tagen l&#xE4;ngs der Gr&#xE4;ben des Palastes zugetragen, noch &#xFC;ber<LE/>
+all das, was mir den unerwarteten Tod des Lammes h&#xE4;tte <HYPH1 cont="enth&#xFC;llen">ent-</HYPH1><LE/>
+<HYPH2>h&#xFC;llen</HYPH2> k&#xF6;nnen, wenn ich den Wahrzeichen einen Augenblick<LE/>
+lang Glauben schenken wollte. Aber gestern Abend habe ich<LE/>
+den Kuss &#xFC;berrascht, den ihr euch unter Astolainens Fenster<LE/>
+gegeben habt. In diesem Augenblicke war ich mit ihr in ihrem<LE/>
+Zimmer. Sie hat eine Seele, die sich so sehr scheut, durch eine</P>
+</PAGE>

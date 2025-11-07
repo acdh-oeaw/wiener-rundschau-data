@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-16_n0640.xml</PREV>
+<NEXT>WR-02-02-17_n0642.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 17, S. 641</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>7</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2433_00192" endPtr="WR-02-02-23_n0904.xml#//DIV_END[@divEndID='deID_2433_00325']"/>
+<DIV_START cat="masthead" divStartID="dsID_2433_00193" endPtr="WR-02-02-17_n0641.xml#//DIV_END[@divEndID='deID_2433_00192']"/>
+<P parID="01026"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="01027"><B><DATE>15. <SPC>JULI</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2433_00192" startPtr="WR-02-02-17_n0641.xml#//DIV_START[@divStartID='dsID_2433_00193']"/>
+<DIV_START divStartID="dsID_2433_00194" endPtr="WR-02-02-17_n0642.xml#//DIV_END[@divEndID='deID_2433_00193']"/>
+<TITLE titleID="tiID_2433_00066"><TITLEPART><SPC>WIENER FREIE B&#xDC;HNE</SPC>.*)</TITLEPART></TITLE>
+<P parID="01028"><TAB/>Eine in anderen Grossst&#xE4;dten gl&#xE4;nzend erprobte Institution<LE/>
+darf in Wien nicht l&#xE4;nger fehlen.</P>
+<P parID="01029"><TAB/>In Berlin hat die langj&#xE4;hrige Th&#xE4;tigkeit der &#xBB;Freien B&#xFC;hne&#xAB;<LE/>
+niveauhebend gewirkt. Nicht zum mindesten ist es auf diese<LE/>
+zur&#xFC;ckzuf&#xFC;hren, dass dort ein Vorsprung auf dramatischem <HYPH1 cont="Gebiete">Ge-</HYPH1><LE/>
+<HYPH2>biete</HYPH2> erreicht wurde, w&#xE4;hrend bei uns noch immer instinctive<LE/>
+Angst vor Werken herrscht, die eine andere als die hergebrachte<LE/>
+Verk&#xF6;rperungsweise verlangen.</P>
+<P parID="01030"><TAB/>Kein Concurrenz-Unternehmen soll den Wiener Theatern<LE/>
+erstehen, sondern eine k&#xFC;nstlerische Hilfsaction f&#xFC;r sie alle <HYPH1 cont="eingeleitet">ein-</HYPH1><LE/>
+<HYPH2>geleitet</HYPH2> werden. Die Berliner Theater-Directoren haben den<LE/>
+Wert eines solchen Unternehmens sofort erfasst und <HYPH1 cont="unterst&#xFC;tzen">unter-</HYPH1><LE/>
+<HYPH2>st&#xFC;tzen</HYPH2> es wohlwollend. Es ist ihnen eine erw&#xFC;nschte <HYPH1 cont="Versuchsb&#xFC;hne">Versuchs-</HYPH1><LE/>
+<HYPH2>b&#xFC;hne</HYPH2>. Das Publicum str&#xF6;mt den Auff&#xFC;hrungen, welche dort<LE/>
+die &#xBB;Freie B&#xFC;hne&#xAB; von Zeit zu Zeit veranstaltet, reichlich zu und<LE/>
+wirkt mit, wenn es gilt, neuen Talenten den Weg zu ebnen.</P>
+<P parID="01031"><TAB/>Eine &#xBB;Wiener Freie B&#xFC;hne&#xAB; hat naturgem&#xE4;ss eine noch<LE/>
+gr&#xF6;ssere Aufgabe vor sich, als sie die Berliner zu erf&#xFC;llen hatte,<LE/>
+weil unsere B&#xFC;hnenzust&#xE4;nde k&#xFC;nstlerisch hart an die Grenze des<LE/>
+Verfalles gerathen sind.</P>
+<P part="initial" parID="01032"><TAB/>Zum Wesen der &#xBB;Freien B&#xFC;hne&#xAB; geh&#xF6;rt, dass sie Werke<LE/>
+von noch unbekannten Talenten vorf&#xFC;hre, f&#xFC;r welche den <HYPH1 cont="B&#xFC;hnenleitern">B&#xFC;hnen-</HYPH1></P>
+<HR/>
+<FN>
+<P parID="01033"><TAB/>*) Anmerkung der Redaction: Wir sind in der Lage mitzutheilen,<LE/>
+dass die Vorarbeiten f&#xFC;r die Schaffung einer &#xBB;Freien B&#xFC;hne&#xAB; in Wien im Zuge<LE/>
+sind und hoffentlich bald zu dem gew&#xFC;nschten Resultate f&#xFC;hren werden.</P>
+</FN>
+</PAGE>

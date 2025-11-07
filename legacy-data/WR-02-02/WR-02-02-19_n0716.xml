@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-19_n0715.xml</PREV>
+<NEXT>WR-02-02-19_n0717.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 19, S. 716</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>36</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>8</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2433_00225" endPtr="WR-02-02-19_n0717.xml#//DIV_END[@divEndID='deID_2433_00226']"/>
+<TITLE titleID="tiID_2433_00089"><TITLEPART>GEDICHTE VON <AUCTOR>RICHARD DEHMEL</AUCTOR>.<LE/>
+(Pankow bei Berlin.)</TITLEPART></TITLE>
+<SEPARATOR type="asterisk"/>
+<DIV_START type="verse" divStartID="dsID_2433_00226" endPtr="WR-02-02-19_n0716.xml#//DIV_END[@divEndID='deID_2433_00223']"/>
+<TITLE titleID="tiID_2433_00090"><TITLEPART>TRENNUNG.</TITLEPART></TITLE>
+<LG parID="01352"><L>Ich wollt Dir die Stirn k&#xFC;ssen</L>
+<L>und Dir sagen &#xBB;hab Dank!&#xAB;</L>
+<L>Aber da war ein Licht in Deinen Augen</L>
+<L>wie Morgenglut auf unerklommenen Bergw&#xE4;ldern,</L>
+<L>und da haben wir gehn m&#xFC;ssen,</L>
+<L>schweigend.</L></LG>
+<DIV_END divEndID="deID_2433_00223" startPtr="WR-02-02-19_n0716.xml#//DIV_START[@divStartID='dsID_2433_00226']"/>
+<SEPARATOR type="asterisk"/>
+<DIV_START type="verse" divStartID="dsID_2433_00227" endPtr="WR-02-02-19_n0716.xml#//DIV_END[@divEndID='deID_2433_00224']"/>
+<TITLE titleID="tiID_2433_00091"><TITLEPART>DER BR&#xC4;UTIGAM.</TITLEPART></TITLE>
+<LG parID="01353"><L>Mein tolles Herz,</L>
+<L>ich nehm dich in die H&#xE4;nde;</L>
+<L>nun dehn dich an ein sonnig fern Gel&#xE4;nde,</L>
+<L>da deckt man dich mit stillen Blumen zu.</L>
+<L>Da lauscht eine Mutter</L>
+<L>dem Ruf der Morgenglocken,</L>
+<L>und gl&#xE4;ttet einer Braut die wilden Locken,</L>
+<L>und bittet dich: gieb Ruh, gieb Ruh.</L></LG>
+<DIV_END divEndID="deID_2433_00224" startPtr="WR-02-02-19_n0716.xml#//DIV_START[@divStartID='dsID_2433_00227']"/>
+<SEPARATOR type="asterisk"/>
+</PAGE>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-03_n0119.xml</PREV>
+<NEXT>WR-02-01-04_n0121.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 120</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><LTEXT type="pn">120</LTEXT><CTEXT>NOTIZEN.</CTEXT></HD>
+<TABLE parID="00788"><ROW ciID="0211"><CELL>
+<P part="medial" parID="00789">das Bed&#xFC;rfnis, sich zu <HYPH1 cont="entschuldigen">entschuldi-</HYPH1><LE/>
+<HYPH2>gen</HYPH2>. &#xBB;Obgleich die Sache ja von<LE/>
+keiner weiteren Bedeutung ist als<LE/>
+f&#xFC;r mich selbst<SYMBOL type="2dots"/>&#xAB; &#x2014; Das sind die<LE/>
+Dinge, die den Gr&#xF6;nl&#xE4;nder an die<LE/>
+tiefste Seele gehn und uner&#xF6;rtert<LE/>
+verklingen. Wenn z. B. einer der<LE/>
+jungen Meerschiffer vom <HYPH1 cont="Kajakschwindel">Kajak-</HYPH1><LE/>
+<HYPH2>schwindel</HYPH2> befallen wird, und das<LE/>
+Treiben auf hoher See ein j&#xE4;hes<LE/>
+Ende hat, dann ahnt man hinter<LE/>
+den d&#xFC;rftigen Worten nur, welche</P>
+</CELL><CELL>
+<P part="final" parID="00790">F&#xFC;lle von Hoffnungen, ehrgeizigen<LE/>
+W&#xFC;nschen zerst&#xF6;rt wurde. &#x2014; Auch<LE/>
+heimlich tr&#xE4;umende K&#xF6;pfe sind<LE/>
+unter den Gr&#xF6;nl&#xE4;ndern, und nicht<LE/>
+bloss im Salon erbl&#xFC;ht die blaue<LE/>
+Blume. Ich w&#xFC;sste keinen <HYPH1 cont="Modernen">Moder-</HYPH1><LE/>
+<HYPH2>nen</HYPH2>, von dem die Kajakm&#xE4;nner<LE/>
+zulernen sollten, aber gar manchen<LE/>
+Modernen, der zu den <HYPH1 cont="Seehundsf&#xE4;ngern">Seehunds-</HYPH1><LE/>
+<HYPH2>f&#xE4;ngern</HYPH2> in die Lehre gehen kann.</P>
+<P parID="00791"><I>Wien. <AUCTOR>E. K.</AUCTOR></I></P>
+<DIV_END divEndID="deID_2432_00221" startPtr="WR-02-01-03_n0118.xml#//DIV_START[@divStartID='dsID_2432_00223']"/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2432_00222" startPtr="WR-02-01-03_n0117.xml#//DIV_START[@divStartID='dsID_2432_00219']"/>
+<SEPARATOR type="hr"/>
+<HR/>
+<DIV_START cat="imprint" divStartID="dsID_2432_00224" endPtr="WR-02-01-03_n0120.xml#//DIV_END[@divEndID='deID_2432_00223']"/>
+<P parID="00792">Herausgeber: <SPC>Gustav Schoenaich</SPC>, <SPC>Felix Rappaport</SPC>.</P>
+<P parID="00793">Verantwortlicher Redacteur: <SPC>Gustav Schoenaich</SPC>.</P>
+<P parID="00794">Ch. Reisser &amp; M. Werthner, Wien.</P>
+<DIV_END divEndID="deID_2432_00223" startPtr="WR-02-01-03_n0120.xml#//DIV_START[@divStartID='dsID_2432_00224']"/>
+<DIV_END divEndID="deID_2432_00224" startPtr="WR-02-01-03_n0081.xml#//DIV_START[@divStartID='dsID_2432_00056']"/>
+</PAGE>

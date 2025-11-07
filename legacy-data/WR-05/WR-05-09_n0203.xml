@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-05-09_n0202.xml</PREV>
+<NEXT>WR-05-09_n0204.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 5, Nr. 9, S. 203</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>360</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>16</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1901</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<CAPTION><P parID="06906"><AUCTOR>HENRY VANDEVELDE</AUCTOR></P></CAPTION>
+<TABLE parID="06907"><ROW ciID="1111"><CELL>
+<CAPTION><P parID="06908">Strassenkleid</P></CAPTION>
+<IMG/>
+</CELL><CELL>
+<CAPTION><P parID="06909"><LANG iso="en">tea-gown</LANG></P></CAPTION>
+<IMG/>
+</CELL></ROW></TABLE>
+<DIV_END divEndID="deID_2436_01296" startPtr="WR-05-09_n0202.xml#//DIV_START[@divStartID='dsID_2436_01297']"/>
+<FT type="pn" num="203" c_text="&#x2014; 203 &#x2014;"/>
+</PAGE>

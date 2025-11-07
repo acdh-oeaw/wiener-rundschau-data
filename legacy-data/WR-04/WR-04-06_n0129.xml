@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-06_n0128.xml</PREV>
+<NEXT>WR-04-06_n0130.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 6, S. 129</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>24</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2436_00113" endPtr="WR-04-06_n0130.xml#//DIV_END[@divEndID='deID_2436_00115']" titleID="tiID_2436_00058"/>
+<TITLE titleID="tiID_2436_00058" parDivStartID="dsID_2436_00113"><TITLEPART type="bystmt"><AUCTOR>DANTE GABRIEL ROSSETTI</AUCTOR></TITLEPART><LE/>
+<TITLEPART type="main">SONETTE: <HR emDashNum="10" type="DoubleInline"/></TITLEPART></TITLE>
+<DIV_START type="verse" divStartID="dsID_2436_00114" endPtr="WR-04-06_n0129.xml#//DIV_END[@divEndID='deID_2436_00112']" titleID="tiID_2436_00059"/>
+<TITLE titleID="tiID_2436_00059" parDivStartID="dsID_2436_00114"><TITLEPART>DER LIEBESBRIEF.</TITLEPART></TITLE>
+<LG parID="01180"><L>Von ihrer Hand erw&#xE4;rmt und ganz von ihr</L>
+<L>Durchathmet, da beim Schreiben sie sich dicht</L>
+<L>Zu dir herniederbog, und ihr Gesicht</L>
+<L>Allm&#xE4;hlich r&#xF6;ther gl&#xFC;hte &#xFC;ber dir:</L></LG>
+<LG parID="01181"><L>Von ihrem Sein erf&#xFC;lltes Blatt Papier &#x2014;</L>
+<L>An Stelle ihres Auges, das sonst licht</L>
+<L>Von dem Verschwiegenen des Innern spricht,</L>
+<L>Enth&#xFC;lle du nun ihre Seele mir!</L></LG>
+<LG parID="01182"><L>Gern h&#xE4;tt&#x2019; ich sie belauscht, wenn dann und wann</L>
+<L>Bei einem r&#xFC;ckhaltloseren Erguss</L>
+<L>Sie ihre Brust gen&#xE4;hert deinem Rand &#x2014;</L></LG>
+<LG parID="01183"><L>Wenn sie aufblickend in die Ferne sann</L>
+<L>Und dort im magischen Zusammenfluss</L>
+<L>Der Seelen ihrer Liebe Ausdruck fand.</L></LG>
+<DIV_END divEndID="deID_2436_00112" startPtr="WR-04-06_n0129.xml#//DIV_START[@divStartID='dsID_2436_00114']"/>
+<SEPARATOR num="3" type="undefined"/>
+<DIV_START type="verse" divStartID="dsID_2436_00115" endPtr="WR-04-06_n0130.xml#//DIV_END[@divEndID='deID_2436_00113']" titleID="tiID_2436_00060"/>
+<TITLE titleID="tiID_2436_00060" parDivStartID="dsID_2436_00115"><TITLEPART>TOD DER LIEBE.</TITLEPART></TITLE>
+<LG parID="01184"><L>Ein Bild erschien vor mir, vom Traum belebt,</L>
+<L>Das trug der Liebe Fl&#xFC;gel und Panier.</L>
+<L>Zart war der Stoff und ins Gespinst verwebt,</L>
+<L>Entseeltes Antlitz, Zug um Zug von dir.</L></LG>
+<LG parID="01185"><L>Wirres Get&#xF6;n, wie es sich im Revier</L>
+<L>Der Grenzen zwischen Tag und Nacht erhebt,</L>
+<L>Umbrauste mich und liess mich angstdurchbebt,</L>
+<L>Bet&#xE4;ubten Sinnes und die Augen stier.</L></LG>
+<FT type="pn" num="129" c_text="&#x2014; 129 &#x2014;"/>
+</PAGE>

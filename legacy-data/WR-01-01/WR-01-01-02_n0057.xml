@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-02_n0056.xml</PREV>
+<NEXT>WR-01-01-02_n0058.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 57</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00113" endPtr="WR-01-01-02_n0058.xml#//DIV_END[@divEndID='deID_2397_00114']"/>
+<TITLE titleID="tiID_2397_00035"><TITLEPART><SPC>GEDICHTE</SPC>.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00114" endPtr="WR-01-01-02_n0057.xml#//DIV_END[@divEndID='deID_2397_00112']"/>
+<TITLE titleID="tiID_2397_00036"><TITLEPART>HOLL&#xC4;NDISCHE LANDSCHAFT.</TITLEPART></TITLE>
+<LG parID="00398"><L><IN>Weit</IN> l&#xE4;uft das Land, unendlich weit und eben</L>
+<L>Im tiefen athemlosen Mittagschweigen.</L>
+<L>Erstorbne Felder; rings Gewitterreigen</L>
+<L>Am dunkelgrauen Horizonte schweben.</L></LG>
+<LG parID="00399"><L>Brausende Wasser; zarte Gr&#xE4;ser beben;</L>
+<L>Die schlanken Erlen ihre H&#xE4;upter neigen;</L>
+<L>Auf allem liegt es br&#xFC;tend bang und eigen,</L>
+<L>Wie k&#xFC;nftges Weinen, nahen Ungl&#xFC;cks Weben <SYMBOL type="3dots"/></L></LG>
+<LG parID="00400"><L>Dort unten nur, hart an dem Wasserringe,</L>
+<L>Raucht&#x2019;s aus dem Haus, durch Pappeln halb verborgen,</L>
+<L>Und eine M&#xFC;hle hebt die Riesenschwinge.</L></LG>
+<LG parID="00401"><L>Und in dem Gr&#xFC;n, das keine Grenzen findet,</L>
+<L>Nachtwandelnd, einsam, in Gedankensorgen &#x2014;</L>
+<L>Ein weisses Segel gleitet hin und schwindet <SYMBOL type="3dots"/></L></LG>
+<P parID="00402">Rom. <AUCTOR><C>Edmondo de Amicis</C></AUCTOR>.</P>
+<P parID="00403">Deutsch von <AUCTOR type="translator"><C>Paul Wertheimer</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00112" startPtr="WR-01-01-02_n0057.xml#//DIV_START[@divStartID='dsID_2397_00114']"/>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00115" endPtr="WR-01-01-02_n0058.xml#//DIV_END[@divEndID='deID_2397_00113']"/>
+<TITLE titleID="tiID_2397_00037"><TITLEPART>W&#xDC;NSCHE.</TITLEPART></TITLE>
+<LG parID="00404"><L><IN>Zwischen</IN> blonden, juwelengeschm&#xFC;ckten Frauen,</L>
+<L>Schlanken Gestalten in gl&#xE4;nzenden, reichen Seiden,</L>
+<L>M&#xF6;chte ich sitzen und Qualen des W&#xE4;hlens leiden,</L>
+<L>Wenn schmeichelnde Augen fragen unter den dunkeln Brauen.</L></LG>
+</PAGE>

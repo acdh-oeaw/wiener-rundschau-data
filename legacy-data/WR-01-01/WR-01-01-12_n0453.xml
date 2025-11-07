@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-12_n0452.xml</PREV>
+<NEXT>WR-01-01-12_n0454.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 453</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>5</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00562" endPtr="WR-01-01-12_n0455.xml#//DIV_END[@divEndID='deID_2397_00565']"/>
+<TITLE titleID="tiID_2397_00178"><TITLEPART type="main">GEDICHTE IN PROSA.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Charles Baudelaire</C></AUCTOR> (Paris).</TITLEPART></TITLE>
+<DIV_START divStartID="dsID_2397_00563" endPtr="WR-01-01-12_n0453.xml#//DIV_END[@divEndID='deID_2397_00561']"/>
+<TITLE titleID="tiID_2397_00179"><TITLEPART type="enum">I.</TITLEPART> <TITLEPART type="main"><SPC>Abendd&#xE4;mmern</SPC>.</TITLEPART></TITLE>
+<P parID="03178"><TAB/>Der Tag schwindet. Durch die Seelen der Menschen,<LE/>
+die unter der Last seiner Knechtschaft seufzten, zieht eine<LE/>
+grosse Stille; und ihre Gedanken nehmen allm&#xE4;lich die halben<LE/>
+und Ungewissen Farben der D&#xE4;mmerung an.</P>
+<P parID="03179"><TAB/>? erquickende Finsternisse der Nacht! Ihr verheisst<LE/>
+mir ein innerliches Fest, ihr bringt mir Befreiung von<LE/>
+dr&#xFC;ckender Angst. Das Funkeln der Sterne in der <HYPH1 cont="Einsamkeit">Einsam-</HYPH1><LE/>
+<HYPH2>keit</HYPH2> der Felder, das Licht der Laternen in den steinigen<LE/>
+Labyrinthen der grossen Stadt: mir bedeutet es das <HYPH1 cont="Feuerwerk">Feuer-</HYPH1><LE/>
+<HYPH2>werk</HYPH2>, das die Freiheit begr&#xFC;sst.</P>
+<P parID="03180"><TAB/>Die D&#xE4;mmerung ist so s&#xFC;ss und z&#xE4;rtlich <SYMBOL type="3dots"/> Die violetten<LE/>
+Lichter, die am Horizont das Sterben des Tages verk&#xFC;nden;<LE/>
+die Feuer in den Armleuchtern, die dunkelrothen Schein<LE/>
+durch den Abend werfen; und die schweren Wolken, die wie<LE/>
+Vorh&#xE4;nge eine unsichtbare Hand aus den Tiefen des Ostens<LE/>
+her&#xFC;berzieht: sie sind Sinnbilder der zusammengesetzten<LE/>
+Gef&#xFC;hlsvorg&#xE4;nge, die sich in den grossen Augenblicken des<LE/>
+Lebens in der Brust der Menschen abspielen.</P>
+<P parID="03181"><TAB/>Durch die Tiefen der Dunkelheit schimmern die <HYPH1 cont="K&#xF6;stlichkeiten">K&#xF6;stlich-</HYPH1><LE/>
+<HYPH2>keiten</HYPH2> vergangener Tage; und die Sterne, die sie durchgl&#xFC;hen,<LE/>
+glitzernd wie Gold und Perlen, sie deuten mir die <HYPH1 cont="Feuerzauber">Feuer-</HYPH1><LE/>
+<HYPH2>zauber</HYPH2> der Phantasie, die in riesigem Brande durch die<LE/>
+Finsternisse der Nacht lodert.</P>
+<DIV_END divEndID="deID_2397_00561" startPtr="WR-01-01-12_n0453.xml#//DIV_START[@divStartID='dsID_2397_00563']"/>
+<DIV_START divStartID="dsID_2397_00564" endPtr="WR-01-01-12_n0454.xml#//DIV_END[@divEndID='deID_2397_00562']"/>
+<TITLE titleID="tiID_2397_00180"><TITLEPART type="enum">II.</TITLEPART> <TITLEPART type="main"><SPC>Venus und der Narr</SPC>.</TITLEPART></TITLE>
+<P parID="03182"><TAB/>Der Tag ist voll der Wunder. Wie die Jugend, von<LE/>
+der Liebe geweckt, bl&#xFC;ht der weite Park unter dem Glutauge<LE/>
+der Sonne auf.</P>
+<P part="initial" parID="03183"><TAB/>Aber durch keinen Ton verr&#xE4;th sich die Ekstase<LE/>
+aller Dinge; die Wasserspiele selbst scheinen zu schlafen.</P>
+</PAGE>

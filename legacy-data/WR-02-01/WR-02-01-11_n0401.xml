@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-01-10_n0400.xml</PREV>
+<NEXT>WR-02-01-11_n0402.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 11, S. 401</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>488</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>4</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2432_00573" endPtr="WR-02-01-11_n0440.xml#//DIV_END[@divEndID='deID_2432_00588']"/>
+<DIV_START cat="masthead" divStartID="dsID_2432_00574" endPtr="WR-02-01-11_n0401.xml#//DIV_END[@divEndID='deID_2432_00573']"/>
+<P parID="02737"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="02738"><B><DATE>15. <SPC>APRIL</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2432_00573" startPtr="WR-02-01-11_n0401.xml#//DIV_START[@divStartID='dsID_2432_00574']"/>
+<DIV_START divStartID="dsID_2432_00575" endPtr="WR-02-01-11_n0405.xml#//DIV_END[@divEndID='deID_2432_00574']"/>
+<TITLE titleID="tiID_2432_00132"><TITLEPART type="main"><SPC>ERNEST LA JEUNESSE</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR><C>Henri Albert</C></AUCTOR> (Paris).</TITLEPART></TITLE>
+<P parID="02739"><TAB/>W&#xE4;hrend der erregten Tage, die wir bei Gelegenheit der letzten<LE/>
+Processe durchmachen mussten, schrien die Zeitungsverk&#xE4;ufer auf den<LE/>
+Strassen unter anderen auch ein illustrirtes Blatt aus. Es f&#xFC;hrte die<LE/>
+energische Exclamation <LANG iso="fr">&#xBB;<SPC>Ouste</SPC>!&#xAB;</LANG> als Ueberschrift und sollte auf das<LE/>
+anz&#xFC;gliche &#xBB;<SPC>Pst</SPC>!&#xAB; antworten, in dem Forain und Caran d&#x2019;Ache die<LE/>
+Thaten des Kriegsministeriums verherrlichten. Dort waren die Dinge<LE/>
+des Alltags von einem h&#xF6;heren Gesichtswinkel aus gesehen, und man<LE/>
+merkte gleich, dass man es mit Jemandem zu thun hatte, der es weder<LE/>
+mit der einen noch mit der anderen Partei halten wollte. Gleich auf<LE/>
+dem ersten Blatte war der Corse Napoleon abgebildet, der einen <HYPH1 cont="Polizisten">Poli-</HYPH1><LE/>
+<HYPH2>zisten</HYPH2> nach der Strasse der Staatsstreiche fragt, denn &#xBB;das ist die<LE/>
+Strasse, die nicht versperrt ist&#xAB;. Weiter war von einem Officier die<LE/>
+Rede: <LANG iso="fr"><ERR sug="&#xBB;">&#xAB;</ERR>le cerveau le plus ouvert de l&#x2019;arm&#xE9;e&#xAB;</LANG>, weil er auf den Kopf<LE/>
+gefallen war. Und so ging es weiter, Scherz, Satyre und Ironie wollten<LE/>
+kein Ende nehmen.</P>
+<P parID="02740"><TAB/>Der Text und die Zeichnungen r&#xFC;hrten aus derselben Feder her.<LE/>
+<LANG iso="fr">&#xBB;Texte et ic&#xF4;neries d&#x2019;Ernest La Jeunesse&#xAB;</LANG> hiess es auf dem <HYPH1 cont="Titelblatte">Titel-</HYPH1><LE/>
+<HYPH2>blatte</HYPH2>.</P>
+<P parID="02741"><TAB/>Wie alle Unternehmungen dieser Art hatte das Journal nur eine<LE/>
+ephemere Dauer. Aber es hatte von einer ganz eigenth&#xFC;mlichen <HYPH1 cont="Geistesrichtung">Geistes-</HYPH1><LE/>
+<HYPH2>richtung</HYPH2> ein Zeugniss abgegeben, und die Aufmerksamkeit wieder<LE/>
+einmal auf den in j&#xFC;ngster Zeit so viel umstrittenen, jungen Dichter<LE/>
+Ernest La Jeunesse gelenkt.</P>
+<P parID="02742"><TAB/>Und ich denke zur&#xFC;ck auf das seltsame Schicksal dieses <HYPH1 cont="sonderbaren">sonder-</HYPH1><LE/>
+<HYPH2>baren</HYPH2> Menschen, der sicher eines der eigent&#xFC;mlichsten Gew&#xE4;chse<LE/>
+unserer an merkw&#xFC;rdigen Ph&#xE4;nomenen so reichen zeitgen&#xF6;ssischen<LE/>
+Literatur ist.</P>
+<SEPARATOR type="asterismDown"/>
+</PAGE>

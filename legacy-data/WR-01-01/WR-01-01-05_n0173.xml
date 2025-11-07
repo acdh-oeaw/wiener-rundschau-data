@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-05_n0172.xml</PREV>
+<NEXT>WR-01-01-05_n0174.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 173</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>1</PUBL_MONTH><PUBL_YEAR>1897</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START type="verse" divStartID="dsID_2397_00231" endPtr="WR-01-01-05_n0173.xml#//DIV_END[@divEndID='deID_2397_00230']"/>
+<TITLE titleID="tiID_2397_00087"><TITLEPART>GOLGATHA.</TITLEPART></TITLE>
+<LG parID="01233"><L><IN>Des</IN> Tages Blut tr&#xE4;uft von den Bergen <SYMBOL type="3dots"/></L>
+<L><HR emDashNum="14" type="emDash"/></L>
+<L>Und leisen Schrittes naht die blinde Nacht &#x2014;</L>
+<L>Vom Thale steigt sie tastend auf zum Gipfel.</L>
+<L>Dann scheucht sie fort den letzten D&#xE4;mmerstrahl.</L></LG>
+<LG parID="01234"><L>Hochaufgerichtet steht auf Golgatha</L>
+<L>Das Kreuz und ragt gespenstisch in die Fernen &#x2014;</L>
+<L>Vom grauen Holze schimmert gelblich-weiss</L>
+<L>Wie Elfenbein der todte Gottesleib.</L>
+<L>Nur auf der Stirne blinken helle Tropfen</L>
+<L>Vom Todesschweiss <SYMBOL type="3dots"/> Mit k&#xFC;hlen, sanften Lippen</L>
+<L>K&#xFC;sst sie hinweg die Nacht, die bleiche Nonne.</L></LG>
+<LG parID="01235"><L>Dann hockt sie sich am Kreuzesende nieder</L>
+<L>Und weint und weint &#x2014; und ihre Thr&#xE4;nen fallen</L>
+<L>Auf welke Blumen, die vom Tage krank,</L>
+<L>Und d&#xFC;rre Gr&#xE4;ser, die Erl&#xF6;sung d&#xFC;rsten <SYMBOL type="3dots"/></L>
+<L>Aus ihres Mantels Laken huschen Engel</L>
+<L>Und richten auf die tiefgebeugten Halme,</L>
+<L>Die von der Menge Fuss zum Staub getreten.</L></LG>
+<LG parID="01236"><L>Vom Himmel hangen schwere Wolken nieder.</L>
+<L>Da schl&#xE4;gt die Nacht die blinden Augen auf,</L>
+<L>Und zitternd schwebt daraus ein Mondenstrahl</L>
+<L>Und flimmert um das todte Gotteshaupt</L>
+<L>Mit den violenblassen, herben Lippen</L>
+<L>Und den gebroch&#x2019;nen, schmerzenstiefen Augen.</L>
+<L>Doch wundersam &#x2014; die r&#xF6;thlich-gelben Haare</L>
+<L>Ergl&#xFC;hen leise, wie vom Licht entz&#xFC;ndet,</L>
+<L>Und eine Flamme lodert um das Haupt!</L></LG>
+<LG parID="01237"><L>Da senkt die Nacht den schwarzen Wolkenschleier,</L>
+<L>Der Strahl verlischt &#x2014; doch schimmernd steht das Kreuz &#x2014;</L>
+<L>Und wie Musik erklingen alle Weiten &#x2014;</L>
+<L>Ums Haupt des Todten flattern weisse Tauben,</L>
+<L>Und &#xF6;stlich wetterleuchtet das Gericht! <SYMBOL type="3dots"/></L></LG>
+<P parID="01238">Wien. <AUCTOR><C>Paul Wilhelm</C></AUCTOR>.</P>
+<DIV_END divEndID="deID_2397_00230" startPtr="WR-01-01-05_n0173.xml#//DIV_START[@divStartID='dsID_2397_00231']"/>
+</PAGE>

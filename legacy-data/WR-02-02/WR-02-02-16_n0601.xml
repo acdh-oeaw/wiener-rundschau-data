@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-02-02-15_n0600.xml</PREV>
+<NEXT>WR-02-02-16_n0602.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 16, S. 601</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>464</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>1</PUBL_DAY><PUBL_MONTH>7</PUBL_MONTH><PUBL_YEAR>1898</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START cat="issue" type="prose" divStartID="dsID_2433_00171" endPtr="WR-02-02-16_n0640.xml#//DIV_END[@divEndID='deID_2433_00191']"/>
+<DIV_START cat="masthead" divStartID="dsID_2433_00172" endPtr="WR-02-02-16_n0601.xml#//DIV_END[@divEndID='deID_2433_00171']"/>
+<P parID="00860"><IN>Wiener</IN> <IN>Rundschau</IN>.</P>
+<SEPARATOR type="hr"/>
+<P parID="00861"><B><DATE>1. <SPC>JULI</SPC> 1898</DATE>.</B></P>
+<SEPARATOR type="hr"/>
+<DIV_END divEndID="deID_2433_00171" startPtr="WR-02-02-16_n0601.xml#//DIV_START[@divStartID='dsID_2433_00172']"/>
+<DIV_START divStartID="dsID_2433_00173" endPtr="WR-02-02-16_n0615.xml#//DIV_END[@divEndID='deID_2433_00172']"/>
+<TITLE titleID="tiID_2433_00052"><TITLEPART type="main"><SPC>DIE MAIWIESE</SPC>.</TITLEPART><LE/>
+<TITLEPART type="bystmt">Von <AUCTOR>RICARDA HUCH</AUCTOR> (Wien).</TITLEPART></TITLE>
+<P parID="00862"><TAB/>Da ich jetzt, nach zehn Jahren der Verbannung, beim Begr&#xE4;bnis<LE/>
+des Prinzen Asche das alte Schloss wieder betrete, kommt mir die<LE/>
+vergangene Zeit ins Ged&#xE4;chtnis, und ich finde keine Ruhe vor den<LE/>
+Phantomen, die aus allen Winkeln zusammenfliessen und mir <HYPH1 cont="nachschleichen">nach-</HYPH1><LE/>
+<HYPH2>schleichen</HYPH2>. Die letzte Nacht, die ich in dem grossen Spiegelsaale <HYPH1 cont="zubrachte">zu-</HYPH1><LE/>
+<HYPH2>brachte</HYPH2>, wo die Leiche des Prinzen aufgebahrt stand, lag mir eine<LE/>
+liebliche, oder soll ich sagen traurige oder l&#xE4;cherliche Scene im Sinne,<LE/>
+ich spreche n&#xE4;mlich von der Maiwiese. Aus den Fenstern, die der<LE/>
+sommerlichen W&#xE4;rme wegen offen standen, konnte ich sie zu einem<LE/>
+grossen Theile &#xFC;berblicken, ich sah die Trauerbirke, unter der die kleine<LE/>
+Ulla lag und heimlich weinte, die Spitzen der schwarzen Cypressen,<LE/>
+da wo Prinz Asche und Reine zusammen philosophierten, und die<LE/>
+Kastanienallee, wo der arme Graf Leo steif in seinem Blute gefunden<LE/>
+wurde. Die gr&#xFC;ne Welt lag todtenstill eingeh&#xFC;llt in die reine Bl&#xE4;ue der<LE/>
+Mondnacht und mahnte mich an den Garten des Paradieses, nachdem<LE/>
+das erste Menschenpaar daraus vertrieben war. Anders sah der Park aus<LE/>
+an jenem Maitage, im Geflimmer der Seide, unter Fr&#xFC;chten und Blumen,<LE/>
+&#xFC;berwogt von einem &#xC4;thermeere seligen Gel&#xE4;chters, und fast m&#xF6;chte<LE/>
+ich es alles f&#xFC;r einen Traum halten, wenn nicht durch das <HYPH1 cont="Bl&#xE4;tterdickicht">Bl&#xE4;tter-</HYPH1><LE/>
+<HYPH2>dickicht</HYPH2> der genannten Allee die weisse Mauer des Findelhauses <HYPH1 cont="durchschiene">durch-</HYPH1><LE/>
+<HYPH2>schiene</HYPH2>, das jenen Aberwitz verewigt, zu dem ich selber Anlass <HYPH1 cont="gegeben">ge-</HYPH1><LE/>
+<HYPH2>geben</HYPH2> habe. Folgendermassen.</P>
+<P part="initial" parID="00863"><TAB/>Dass Prinz Asche &#x2014; f&#xFC;r mich n&#xE4;mlich blieb er immer, wie als<LE/>
+Kind, Prinz Asche &#x2014; die Weltverbesserungssucht an sich hatte, war<LE/>
+mir von jeher zuwider gewesen. Denn ich bin der Meinung, dass man<LE/>
+die Leute in ihrem Schlamme soll sitzen lassen, nicht gerade damit<LE/>
+sie darin ersticken, sondern damit sie sich selber herausarbeiten, wenn<LE/>
+es ihnen endlich &#xFC;bel geworden ist. Wem w&#xFC;rde es einfallen, Kr&#xF6;ten</P>
+</PAGE>

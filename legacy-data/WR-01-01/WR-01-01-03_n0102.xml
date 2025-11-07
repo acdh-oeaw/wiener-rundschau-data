@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-01-01-03_n0101.xml</PREV>
+<NEXT>WR-01-01-03_n0103.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 102</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>486</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>40</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY>15</PUBL_DAY><PUBL_MONTH>12</PUBL_MONTH><PUBL_YEAR>1896</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<DIV_START divStartID="dsID_2397_00189" endPtr="WR-01-01-03_n0103.xml#//DIV_END[@divEndID='deID_2397_00190']"/>
+<TITLE titleID="tiID_2397_00059"><TITLEPART><SPC>GEDICHTE</SPC>.</TITLEPART></TITLE>
+<SEPARATOR type="hr"/>
+<DIV_START type="verse" divStartID="dsID_2397_00190" endPtr="WR-01-01-03_n0103.xml#//DIV_END[@divEndID='deID_2397_00188']"/>
+<TITLE titleID="tiID_2397_00060"><TITLEPART>WIENER WALZER.*)</TITLEPART></TITLE>
+<LG parID="00778"><L><IN>Zwischen</IN> geputzten Herren und Damen,</L>
+<L>die durch Zufall zusammenkamen,</L>
+<L>wiegen zwei Menschen sich im Tanz,</L>
+<L>um sie klingt des Saales Glanz.</L>
+<L>Zitternd legt sich im Spiel der Kerzen</L>
+<L>sein dunkles in ihr schwarzes Haar,</L>
+<L>legt sich &#xFC;ber zwei zitternden Herzen</L>
+<L>an ihr Ohr sein Lippenpaar:</L></LG>
+<LG parID="00779"><L>Oh ja, wiege dich, lass dich f&#xFC;hren,</L>
+<L>und f&#xFC;hl&#x2019; es: Niemand darf uns trennen!</L>
+<L>Lass uns nichts als Uns noch sp&#xFC;ren,</L>
+<L>selig Seel&#x2019; in Seele brennen!</L>
+<L>Zehn Jahr&#x2019; lang glaubt&#x2019; ich, dass ich liebte,</L>
+<L>zu Hause sitzt mein blass Gemahl,</L>
+<L>sitzt und liebt mich, mir zur Qual,</L>
+<L>ahnt nicht, was in mir zerstiebte.</L>
+<L>Oh ja, wiege mich! Hingegeben</L>
+<L>bringt sie jetzt ihr Kind zur Ruh,</L>
+<L>ist auch mein Kind &#x2014; o mein Leben,</L>
+<L>oh ja, wiege mich, f&#xFC;hr&#x2019; mich du!</L></LG>
+<LG parID="00780"><L>Taumelnd dr&#xE4;ngt sich im Glanz der Kerzen</L>
+<L>sein wirres in ihr wirres Haar,</L>
+<L>dr&#xE4;ngt sich &#xFC;ber zwei taumelnden Herzen</L>
+<L>an sein Ohr ihr Lippenpaar:</L></LG>
+<LG part="initial" parID="00781"><L>Oh du, lass du! nit erz&#xE4;hlen!</L>
+<L>F&#xFC;hre mich sanfter! nit uns qu&#xE4;len!</L>
+<L>Du bist mir gut, ich bin dir gut.</L>
+<L>Hab doch auch die Seel&#x2019; voll Schmerzen,</L></LG>
+<HR/>
+<FN>
+<P parID="00782"><TAB/>*) Aus &#xBB;<SPC>Zwei Menschen</SPC>&#xAB;, einem demn&#xE4;chst erscheinenden &#xBB;<SPC>Roman<LE/>
+in Balladen</SPC>&#xAB;.</P>
+</FN>
+</PAGE>

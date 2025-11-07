@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="stand.xsl"?>
+<PAGE xml:space="preserve">
+<NAV_HEADER>
+<PREV>WR-04-01_n0010.xml</PREV>
+<NEXT>WR-04-01_n0012.xml</NEXT>
+<UP></UP>
+<DISP>Wiener Rundschau: Jg. 4, Nr. 1, S. 11</DISP>
+<DOC_CHAR_NUM></DOC_CHAR_NUM>
+<FOLDER_DOCS>552</FOLDER_DOCS>
+<FOLDER_DOCS_RN></FOLDER_DOCS_RN>
+<ISSUE_DOCS>28</ISSUE_DOCS>
+<PUBL_DATE><PUBL_DAY></PUBL_DAY><PUBL_MONTH></PUBL_MONTH><PUBL_YEAR>1900</PUBL_YEAR></PUBL_DATE>
+<NEXT_START/>
+<TEXT_START/>
+<ISSUE_PN></ISSUE_PN>
+</NAV_HEADER>
+<HD><CTEXT>ROSSETTT: FUENF SONETTE.</CTEXT></HD>
+<DIV_START type="verse" divStartID="dsID_2436_00012" endPtr="WR-04-01_n0011.xml#//DIV_END[@divEndID='deID_2436_00010']" titleID="tiID_2436_00010"/>
+<TITLE titleID="tiID_2436_00010" parDivStartID="dsID_2436_00012"><TITLEPART>SCHLAFLOSE TR&#xC4;UME.</TITLEPART></TITLE>
+<LG parID="00119"><L>Dunkel umg&#xFC;rtet, doch von Athem lind,</L>
+<L>Einzig von einem Flimmerstern entfacht;</L>
+<L>Sehns&#xFC;chtig wie des J&#xFC;nglings N&#xE4;chte sind,</L>
+<L>Der in vorahnender Begierde wacht,</L></LG>
+<LG parID="00120"><L>O schweigende und hoffnungslose Nacht!</L>
+<L>Dein Fl&#xFC;gel f&#xE4;chelt meine Augen blind</L>
+<L>Und streift mein Kissen wie ein leiser Wind</L>
+<L>Vom jenseitigen Gefilde deiner Macht.</L></LG>
+<LG parID="00121"><L>O dunkel und von Todesahnen schwer</L>
+<L>Bist du, wenn uns die Liebe ihre Hut</L>
+<L>In deinen Schatteng&#xE4;ngen nicht gew&#xE4;hrt.</L></LG>
+<LG parID="00122"><L>Einsame Nacht! F&#xFC;r immer nun verheert</L>
+<L>Von meiner ungest&#xFC;men Thr&#xE4;nenflut,</L>
+<L>Und mir wie eine W&#xFC;ste weit und leer!</L></LG>
+<DIV_END divEndID="deID_2436_00010" startPtr="WR-04-01_n0011.xml#//DIV_START[@divStartID='dsID_2436_00012']"/>
+<SEPARATOR num="3" type="undefined"/>
+<DIV_START type="verse" divStartID="dsID_2436_00013" endPtr="WR-04-01_n0011.xml#//DIV_END[@divEndID='deID_2436_00011']" titleID="tiID_2436_00011"/>
+<TITLE titleID="tiID_2436_00011" parDivStartID="dsID_2436_00013"><TITLEPART>HEIMLICHER ABSCHIED.</TITLEPART></TITLE>
+<LG parID="00123"><L>Da unsre Rede von der Wolkenart</L>
+<L>Und Sternenf&#xE4;hrte der Geschicke gieng,</L>
+<L>Suchte ihr Blick ein fernes Ziel und ward</L>
+<L>Umflorter, da ich ihn von ihr empfieng.</L></LG>
+<LG parID="00124"><L>Doch, eingedenk, wie kurz und wie gering</L>
+<L>Das Gl&#xFC;ck und mit ihm unsre ganze Fahrt,</L>
+<L>Gab, d&#xFC;rstender wie ich es sonst gewahrt,</L>
+<L>Sie mir die Lippen, als ich sie umfieng.</L></LG>
+<LG parID="00125"><L>So, wie wir auch gerungen, unsern Bund</L>
+<L>Von Schicksalswegen und =Beschluss abseits</L>
+<L>Einzig zu festigen durch unsern Schwur &#x2014;</L></LG>
+<LG parID="00126"><L>Ein Sternenwille wies uns unsre Spur,</L>
+<L>Und unsrer Liebe Denkmal sinkt bereits</L>
+<L>Im Thal der Schatten modernd in den Grund <SYMBOL type="2dots"/></L></LG>
+<DIV_END divEndID="deID_2436_00011" startPtr="WR-04-01_n0011.xml#//DIV_START[@divStartID='dsID_2436_00013']"/>
+<DIV_END divEndID="deID_2436_00012" startPtr="WR-04-01_n0009.xml#//DIV_START[@divStartID='dsID_2436_00008']"/>
+<SEPARATOR num="8" type="undefined"/>
+<FT type="pn" num="11" c_text="&#x2014; 11 &#x2014;"/>
+</PAGE>
