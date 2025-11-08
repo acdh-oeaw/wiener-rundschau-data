@@ -1,0 +1,11 @@
+[flake8]
+ignore = D203 W504 W503
+max-line-length = 120
+exclude =
+    */migrations,
+    manage.py
+    .venv/
+    .git,
+    build,
+    .venv/
+    appcreator/
