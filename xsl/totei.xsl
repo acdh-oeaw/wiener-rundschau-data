@@ -49,7 +49,7 @@
         <xsl:variable name="pubDate">
                 <xsl:value-of select="format-number($year, '0000')"/>-<xsl:value-of select="format-number($month, '00')"/>-<xsl:value-of select="$day"/>
         </xsl:variable>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{$fname}">
+        <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{$fname||'.xml'}">
             <xsl:if test=".//PREV/text()">
                 <xsl:attribute name="prev">
                     <xsl:value-of select=".//PREV"/>
