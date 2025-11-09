@@ -10,6 +10,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>legacy-data/WR-02-02/WR-02-02-13_n0499.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>WR-01-01</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>data/editions/WR-04-17_n0297.xml</String>
                                 </field>
                                 <field name="scenarioIds">

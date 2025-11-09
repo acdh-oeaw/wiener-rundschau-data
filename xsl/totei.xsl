@@ -356,9 +356,17 @@
     </xsl:template>
     
     <xsl:template match="HD">
-        <fw>
+        <fw type="hd">
             <xsl:apply-templates/>
         </fw>
+    </xsl:template>
+    
+    <xsl:template match="CTEXT">
+        <fw type="ctext"><xsl:apply-templates/></fw>
+    </xsl:template>
+    
+    <xsl:template match="HD/node()[@type='pn']">
+        <fw type="pn"><xsl:apply-templates/></fw>
     </xsl:template>
     
     <xsl:template match="TABLE/TITLE">
