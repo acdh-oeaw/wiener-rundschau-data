@@ -5,6 +5,8 @@ import shutil
 import lxml.etree as ET
 import pandas as pd
 from acdh_tei_pyutils.tei import TeiReader
+from tqdm import tqdm
+from utils import create_bibl_node, tei_dummy
 
 files = sorted(glob.glob("legacy-data/WR*/*_cis_*.xml"))
 indices_dir = os.path.join("data", "indices")
@@ -13,7 +15,7 @@ listbibl_path = os.path.join(indices_dir, "listbibl.xml")
 shutil.rmtree(indices_dir, ignore_errors=True)
 os.makedirs(indices_dir, exist_ok=True)
 
-
+print("creating listbibl.xml")
 data = []
 counter = 1
 for x in files:
@@ -69,89 +71,61 @@ df = df.merge(authors_df, on="author", how="left")
 df.to_csv("foo.csv", index=False)
 
 
-tei_dummy = """
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xml:id="listbibl.xml">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="a"></title>
-            <title level="j">Wiener Rundschau</title>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
-            </publisher>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <ab>born digital</ab>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body/>
-   </text>
-</TEI>
-"""  # noqa
-
-
 doc = TeiReader(tei_dummy)
 title = doc.any_xpath(".//tei:title[@level='a']")[0]
 title.text = "Textverzeichnis"
 body = doc.any_xpath(".//tei:body")[0]
 root_list = ET.SubElement(body, "{http://www.tei-c.org/ns/1.0}listBibl")
 for i, row in df.iterrows():
-    bibl_node = ET.SubElement(root_list, "{http://www.tei-c.org/ns/1.0}bibl")
-    bibl_node.attrib["{http://www.w3.org/XML/1998/namespace}id"] = row["text_id"]
-    title_node_a = ET.SubElement(
-        bibl_node, "{http://www.tei-c.org/ns/1.0}title", level="a"
-    )
-    title_node_a.text = row["title"]
-    title_node_j = ET.SubElement(
-        bibl_node, "{http://www.tei-c.org/ns/1.0}title", level="j"
-    )
-    if row.get("volume"):
-        volume_scope = ET.SubElement(
-            bibl_node, "{http://www.tei-c.org/ns/1.0}biblScope"
-        )
-        volume_scope.attrib["unit"] = "volume"
-        volume_scope.attrib["n"] = row["volume"]
-        volume_scope.text = str(int(row["volume"]))
-    if row.get("halbband") and pd.notna(row["halbband"]):
-        halbband_scope = ET.SubElement(
-            bibl_node, "{http://www.tei-c.org/ns/1.0}biblScope"
-        )
-        halbband_scope.attrib["unit"] = "halbband"
-        halbband_scope.attrib["n"] = row["halbband"]
-        halbband_scope.text = str(int(row["halbband"]))
-    if row.get("issue"):
-        issue_scope = ET.SubElement(bibl_node, "{http://www.tei-c.org/ns/1.0}biblScope")
-        issue_scope.attrib["unit"] = "issue"
-        issue_scope.attrib["n"] = row["issue"]
-        issue_scope.text = str(int(row["issue"]))
-    if row.get("start_page"):
-        bibl_scope = ET.SubElement(bibl_node, "{http://www.tei-c.org/ns/1.0}biblScope")
-        bibl_scope.attrib["unit"] = "page"
-        bibl_scope.attrib["from"] = row["start_page_number"]
-        if row.get("end_page"):
-            bibl_scope.attrib["to"] = row["end_page_number"]
-        idno = ET.SubElement(bibl_node, "{http://www.tei-c.org/ns/1.0}idno", type="fn")
-        idno.text = f"{row['start_page']}"
-    author_node = ET.SubElement(bibl_node, "{http://www.tei-c.org/ns/1.0}author")
-    author_node.attrib["ref"] = f"#{row['author_id']}"
-    author_node.text = row["author"]
-    title_parts = ["Wiener Rundschau"]
-    if row.get("volume"):
-        title_parts.append(f"Bd. {int(row['volume'])}")
-    if row.get("halbband") and pd.notna(row["halbband"]):
-        title_parts.append(f"Halbbd. {int(row['halbband'])}")
-    if row.get("issue"):
-        title_parts.append(f"Nr. {int(row['issue'])}")
-    title_node_j.text = ", ".join(title_parts)
+    bibl_node = create_bibl_node(row)
+    root_list.append(bibl_node)
 
-# Pretty print the XML with proper indentation
 ET.indent(doc.any_xpath(".")[0], space="   ")
 doc.tree_to_file(listbibl_path)
+
+print("Updating edition XML files...")
+listbibl_doc = TeiReader(listbibl_path)
+edition_files = sorted(glob.glob("data/editions/*/*.xml"))
+
+for edition_file in tqdm(edition_files, total=len(edition_files)):
+    filename = os.path.basename(edition_file)
+    page_id = filename.replace(".xml", "")
+
+    matching_text_ids = []
+    for i, row in df.iterrows():
+        start_page = row.get("start_page", "").replace(".xml", "")
+        end_page = row.get("end_page", "").replace(".xml", "")
+
+        if start_page:
+            if end_page and start_page <= page_id <= end_page:
+                matching_text_ids.append(row["text_id"])
+            elif not end_page and start_page == page_id:
+                matching_text_ids.append(row["text_id"])
+
+    if matching_text_ids:
+        try:
+            edition_doc = TeiReader(edition_file)
+            bibl_elements = edition_doc.any_xpath('.//tei:bibl[@n="current text"]')
+            if bibl_elements:
+                parent = bibl_elements[0].getparent()
+                for old_bibl in bibl_elements:
+                    parent.remove(old_bibl)
+
+                for text_id in matching_text_ids:
+                    source_bibl = listbibl_doc.any_xpath(
+                        f'.//tei:bibl[@xml:id="{text_id}"]'
+                    )[0]
+                    bibl_copy = ET.fromstring(ET.tostring(source_bibl))
+                    bibl_copy.attrib["n"] = "current text"
+                    bibl_copy.attrib["corresp"] = f"#{text_id}"
+                    bibl_copy.attrib.pop(
+                        "{http://www.w3.org/XML/1998/namespace}id", None
+                    )
+                    parent.append(bibl_copy)
+                ET.indent(edition_doc.any_xpath(".")[0], space="   ")
+                edition_doc.tree_to_file(edition_file)
+
+        except Exception as e:
+            print(f"Error processing {edition_file}: {e}")
+
+print(f"Updated {len(edition_files)} edition files.")
