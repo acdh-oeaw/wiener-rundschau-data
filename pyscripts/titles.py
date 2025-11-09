@@ -112,6 +112,21 @@ for edition_file in tqdm(edition_files, total=len(edition_files)):
                     parent.remove(old_bibl)
 
                 for text_id in matching_text_ids:
+                    text_idx = df[df["text_id"] == text_id].index[0]
+
+                    if text_idx > 0:
+                        prev_text_id = df.iloc[text_idx - 1]["text_id"]
+                        prev_bibl = listbibl_doc.any_xpath(
+                            f'.//tei:bibl[@xml:id="{prev_text_id}"]'
+                        )[0]
+                        prev_copy = ET.fromstring(ET.tostring(prev_bibl))
+                        prev_copy.attrib["n"] = "previous text"
+                        prev_copy.attrib["corresp"] = f"#{prev_text_id}"
+                        prev_copy.attrib.pop(
+                            "{http://www.w3.org/XML/1998/namespace}id", None
+                        )
+                        parent.append(prev_copy)
+
                     source_bibl = listbibl_doc.any_xpath(
                         f'.//tei:bibl[@xml:id="{text_id}"]'
                     )[0]
@@ -122,6 +137,20 @@ for edition_file in tqdm(edition_files, total=len(edition_files)):
                         "{http://www.w3.org/XML/1998/namespace}id", None
                     )
                     parent.append(bibl_copy)
+
+                    if text_idx < len(df) - 1:
+                        next_text_id = df.iloc[text_idx + 1]["text_id"]
+                        next_bibl = listbibl_doc.any_xpath(
+                            f'.//tei:bibl[@xml:id="{next_text_id}"]'
+                        )[0]
+                        next_copy = ET.fromstring(ET.tostring(next_bibl))
+                        next_copy.attrib["n"] = "next text"
+                        next_copy.attrib["corresp"] = f"#{next_text_id}"
+                        next_copy.attrib.pop(
+                            "{http://www.w3.org/XML/1998/namespace}id", None
+                        )
+                        parent.append(next_copy)
+
                 ET.indent(edition_doc.any_xpath(".")[0], space="   ")
                 edition_doc.tree_to_file(edition_file)
 
