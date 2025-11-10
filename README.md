@@ -1,13 +1,13 @@
 # wiener-rundschaut-data
 Data repo for Wiener Rundschau (1896–1901)
 
+## convert AAC/XML to TEI/XML
 
-## development
+This project uses Python (via [uv](https://docs.astral.sh/uv/)) and some Java.
 
 ```shell
 ./build.sh
 ```
-
 
 ## Licenses
 
