@@ -5,6 +5,7 @@ import lxml.etree as ET
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_xml_pyutils.xml import NSMAP
 from tqdm import tqdm
+from utils import format_citation
 
 files = glob.glob("data/editions/*/*.xml")
 
@@ -26,4 +27,8 @@ for x in tqdm(listbibl_doc.any_xpath(".//tei:bibl[@xml:id]")):
     bibl_date_node = ET.SubElement(x, "{http://www.tei-c.org/ns/1.0}date")
     bibl_date_node.attrib["when-iso"] = date
     bibl_date_node.text = date
+    citation = format_citation(x)
+    x.attrib["n"] = citation
+
+ET.indent(doc.any_xpath(".")[0], space="   ")
 listbibl_doc.tree_to_file(listbibl_file)

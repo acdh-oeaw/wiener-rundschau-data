@@ -7,7 +7,7 @@ uv run pyscripts/titles.py
 echo "########"
 
 echo "add dates to bibls"
-uv run uv run pyscripts/add_dates_to_bibls.pys
+uv run uv run pyscripts/add_dates_to_bibls.py
 echo "########"
 
 echo "create listperson.xml"
