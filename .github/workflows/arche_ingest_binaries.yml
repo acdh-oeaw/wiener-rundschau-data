@@ -18,7 +18,7 @@ jobs:
     - name: Install the latest version of uv
       uses: astral-sh/setup-uv@v7
     - name: create arche metadata
-      run: python arche/make_metadata.py
+      run: uv run arche/make_arche_rdf.py
     - name: run binaries import
       run: ./arche/arche__ingest_binaries.sh
     
