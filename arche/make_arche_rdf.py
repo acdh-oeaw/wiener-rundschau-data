@@ -18,7 +18,7 @@ ACDH = Namespace("https://vocabs.acdh.oeaw.ac.at/schema#")
 
 print("processing images")
 
-files_to_ingest = glob.glob("./images/*/*.tif")[50:55]
+files_to_ingest = glob.glob("./images/*/*.tif")
 
 for x in tqdm(files_to_ingest):
     f_name = os.path.basename(x)
@@ -60,7 +60,7 @@ for x in files_to_ingest:
 
 print("processing XMLs")
 
-files_to_ingest = glob.glob("./legacy-data/WR-*/WR-*.xml")[50:55]
+files_to_ingest = glob.glob("./legacy-data/WR-*/WR-*.xml")
 files_to_ingest = files_to_ingest + glob.glob("./legacy-data/WR-*/_cis_WR-*.xml")
 
 for x in tqdm(files_to_ingest):
