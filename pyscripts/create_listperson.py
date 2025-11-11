@@ -36,6 +36,8 @@ for x in listbibl_doc.any_xpath(".//tei:bibl[./tei:author/text()]"):
 title_node = doc.any_xpath(".//tei:title[@level='a']")[0]
 title_node.text = "Personenverzeichnis"
 
+doc.tree.attrib["{http://www.w3.org/XML/1998/namespace}id"] = "listperson.xml"
+
 body = doc.any_xpath(".//tei:body")[0]
 body = doc.any_xpath(".//tei:body")[0]
 root_list = ET.SubElement(body, "{http://www.tei-c.org/ns/1.0}listPerson")

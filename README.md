@@ -9,6 +9,12 @@ This project uses Python (via [uv](https://docs.astral.sh/uv/)) and some Java.
 ./build.sh
 ```
 
+## ARCHE
+
+```shell
+./arche/arche__ingest_md.sh`
+```
+
 ## Licenses
 
 The License of the data is to be decided
