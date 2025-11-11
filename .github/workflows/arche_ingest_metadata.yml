@@ -1,0 +1,29 @@
+name: ARCHE-Metadata-Ingest
+
+on:
+  workflow_dispatch
+
+jobs:
+  ingest_md:
+    name: Ingest Metadata into ARCHE
+    runs-on: ubuntu-latest
+    env:
+      ARCHE_USER: pandorfer
+      ARCHE_PASSWORD: ${{secrets.ARCHE_PASSWORD}}
+      ARCHE: https://arche-curation.acdh-dev.oeaw.ac.at/api
+      TOPCOLID: https://id.acdh.oeaw.ac.at/wiener-rundschau
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v5
+    - name: Install the latest version of uv
+      uses: astral-sh/setup-uv@v7
+    - name: create arche metadata
+      run: uv run arche/make_arche_rdf.py
+    - uses: actions/upload-artifact@v4
+      with:
+        name: arche-ttl
+        path: to_ingest/arche.ttl
+    - name: run metadata import
+      run: ./arche/arche__ingest_md.sh
+    
+    
