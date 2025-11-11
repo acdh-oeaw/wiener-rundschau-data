@@ -9,8 +9,8 @@
     acdh:hasDescription """Die Daten in dieser Sammlung stammen aus einem Projekt, das von einer Vorgängereinrichtung des Austrian Centre for Digital Humanities durchgeführt wurde. Die Sammlung enthält Scans der Wiener Schaubühne, einer Kulturzeitschrift, die von 1896 bis 1901 in Wien veröffentlicht wurde, sowie XML-kodierte Volltexte."""@de ;
     acdh:hasCoverageStartDate "1896-01-01"^^xsd:date ;
     acdh:hasCoverageEndDate "1901-01-31"^^xsd:date ;
-    acdh:hasTitle """Wiener Rudschau (Faksimiles)"""@de ;
-    acdh:hasTitle """Wiener Rundschau (Facsimiles)"""@en ;
+    acdh:hasTitle """Wiener Rundschau"""@de ;
+    acdh:hasTitle """Wiener Rundschau"""@en ;
     acdh:hasLifeCycleStatus <https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed> ;
     acdh:hasSubject "Faksimiles"@de ;
     acdh:hasSubject "Facsimiles"@en ;
@@ -34,9 +34,16 @@
     acdh:isPartOf <https://id.acdh.oeaw.ac.at/wiener-rundschau> .
 
 
+<https://id.acdh.oeaw.ac.at/wiener-rundschau/aac-xml> a acdh:Collection ;
+    acdh:hasTitle """XMLs"""@en ;
+    acdh:hasTitle """XMLs"""@de ;
+    acdh:hasDescription """This collection contains XMLs of the Wiener Rundschau."""@en ;
+    acdh:hasDescription """Diese Sammlung enthält XMLs der Wiener Rundschau."""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/wiener-rundschau> .
+
 <https://id.acdh.oeaw.ac.at/wiener-rundschau/title-image.jpg> a acdh:Resource ;
-    acdh:hasTitle """Titelbild zu: Wiener Rundschau (Faksimiles)"""@de ;
-    acdh:hasTitle """Title image for: Wiener Rundschau (Facsimiles)"""@en ;
+    acdh:hasTitle """Titelbild zu: Wiener Rundschau"""@de ;
+    acdh:hasTitle """Title image for: Wiener Rundschau"""@en ;
     acdh:isPartOf <https://id.acdh.oeaw.ac.at/wiener-rundschau> ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/image> ;
     acdh:isTitleImageOf <https://id.acdh.oeaw.ac.at/wiener-rundschau> ;
