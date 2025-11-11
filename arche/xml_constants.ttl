@@ -1,7 +1,6 @@
 @prefix acdh: <https://vocabs.acdh.oeaw.ac.at/schema#> .
 
-<https://foo/bar> acdh:hasCurator <https://d-nb.info/gnd/1043833846> ;
-    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+<https://foo/bar> acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
     acdh:hasContact <https://id.acdh.oeaw.ac.at/acdh> ;
     acdh:hasDepositor <https://id.acdh.oeaw.ac.at/acdh> ;
     acdh:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
