@@ -7,4 +7,4 @@ docker run --rm \
   --network="host" \
   --entrypoint arche-import-binary \
   acdhch/arche-ingest \
-  /data ${TOPCOLID}/ ${ARCHE} ${ARCHE_USER} ${ARCHE_PASSWORD} --concurrency 10 --skip not_exist binary_exist
+  /data ${TOPCOLID}/ ${ARCHE} ${ARCHE_USER} ${ARCHE_PASSWORD} --concurrency 10 --skip not_exist
