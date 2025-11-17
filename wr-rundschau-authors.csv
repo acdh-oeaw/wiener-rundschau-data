@@ -1,36 +1,36 @@
 id,name,Geburtsdatum,gnd
 wr-person-0001,"Maeterlinck, Maurice",1862-08-29,https://d-nb.info/gnd/118576089
-wr-person-0002,"Tchechow, Anton",,
+wr-person-0002,"Tchechow, Anton",1860-01-17,https://d-nb.info/gnd/118638289
 wr-person-0003,"Hofmannsthal, Hugo von",1874-02-01,https://d-nb.info/gnd/118552759
-wr-person-0004,"Altenberg, Peter",,
-wr-person-0005,"Rappaport, Felix",,
+wr-person-0004,"Altenberg, Peter",1859-03-09,https://d-nb.info/gnd/118502255
+wr-person-0005,"Rappaport, Felix",1874-11-17,https://d-nb.info/gnd/1046354299
 wr-person-0006,"Verlaine, Paul",1844-03-30,https://d-nb.info/gnd/118804219
 wr-person-0007,"Schik, Friedrich",1857,https://d-nb.info/gnd/11726413X
-wr-person-0008,"Kraus, Karl",,
-wr-person-0009,"Schäffer, Emil",,
-wr-person-0010,"Ssologub, Fjodor",,
+wr-person-0008,"Kraus, Karl",1874-04-28,https://d-nb.info/gnd/118566288
+wr-person-0009,"Schäffer, Emil",,https://d-nb.info/gnd/117099589
+wr-person-0010,"Ssologub, Fjodor",,https://d-nb.info/gnd/118615378
 wr-person-0011,"De Amicis, Edmondo",1846-10-21,https://d-nb.info/gnd/118679066
 wr-person-0012,"Schaukal, Richard von",1874-05-27,https://d-nb.info/gnd/118606662
 wr-person-0013,"Reibrach, Jean",1853-10-16,https://d-nb.info/gnd/1052850162
 wr-person-0014,"Strauss, Rudolf",,
-wr-person-0015,"Morgenstern, Christian",,
+wr-person-0015,"Morgenstern, Christian",,https://d-nb.info/gnd/11881169X
 wr-person-0016,"Janitschek, Maria",1859-07-23,https://d-nb.info/gnd/117078719
-wr-person-0017,"Evers, Franz",,
-wr-person-0018,"Dehmel, Richard",,
+wr-person-0017,"Evers, Franz",,https://d-nb.info/gnd/116611804
+wr-person-0018,"Dehmel, Richard",,https://d-nb.info/gnd/118679236
 wr-person-0019,"Chrēstomanos, Kōnstantinos",1867-08-01,https://d-nb.info/gnd/119098067
-wr-person-0020,"Elbogen, Friedrich",,
-wr-person-0021,"Dostojewsky, F. M.",,
-wr-person-0022,"Hirschfeld, Georg",,
+wr-person-0020,"Elbogen, Friedrich",,https://d-nb.info/gnd/1049479807
+wr-person-0021,"Dostojewsky, F. M.",,https://d-nb.info/gnd/118527053
+wr-person-0022,"Hirschfeld, Georg",,https://d-nb.info/gnd/101708122
 wr-person-0023,"Hango, Hermann",1861-05-16,https://d-nb.info/gnd/11645332X
-wr-person-0024,"Servaes, Franz",,
+wr-person-0024,"Servaes, Franz",,https://d-nb.info/gnd/117467979
 wr-person-0025,"Panizza, Oskar",1853-11-12,https://d-nb.info/gnd/118739131
-wr-person-0026,"Reuter, Gabriele",,
-wr-person-0027,"Schmitz, Oscar",,
-wr-person-0028,"Wilhelm, Paul",,
-wr-person-0029,"Weisengrün, Dr. Paul",,
+wr-person-0026,"Reuter, Gabriele",,https://d-nb.info/gnd/118744712
+wr-person-0027,"Schmitz, Oscar",,https://d-nb.info/gnd/119328267
+wr-person-0028,"Wilhelm, Paul",,https://d-nb.info/gnd/116259604
+wr-person-0029,"Weisengrün, Dr. Paul",,https://d-nb.info/gnd/1057673374
 wr-person-0030,"Barrès, Maurice",1862-08-19,https://d-nb.info/gnd/118506684
 wr-person-0031,"Saar, Ferdinand von",1833-09-30,https://d-nb.info/gnd/118604449
-wr-person-0032,"Morris, William",,
+wr-person-0032,"Morris, William",,https://d-nb.info/gnd/118584251
 wr-person-0033,"Stiglitz, Dr. Maximilian",,
 wr-person-0034,"Baudelaire, Charles",1821-04-09,https://d-nb.info/gnd/118507184
 wr-person-0035,"Neumann, Alfred",,
@@ -44,7 +44,7 @@ wr-person-0042,"Peladan, Sar Josephin",,
 wr-person-0043,"Fiamingo, Giuseppe",1875,https://d-nb.info/gnd/1228995540
 wr-person-0044,"Geijerstam, Gustaf af",1858-01-05,https://d-nb.info/gnd/115657061
 wr-person-0045,"Oestéren, Friedrich Werner van",1874-09-18,https://d-nb.info/gnd/117106860
-wr-person-0046,"Kobor, Thomas",,
+wr-person-0046,"Kobor, Thomas",,https://d-nb.info/gnd/1057704768
 wr-person-0047,"Feldegg, Victor",1874,https://d-nb.info/gnd/11643919X
 wr-person-0048,"Frommel, Gaston",1862,https://d-nb.info/gnd/1047604728
 wr-person-0049,"Fuchs, Georg",,
@@ -58,20 +58,20 @@ wr-person-0056,"Althof, Paul",1869,https://d-nb.info/gnd/1164385046
 wr-person-0057,"Menkes, Hermann",1873-07-15,https://d-nb.info/gnd/116882239
 wr-person-0058,"Necker, Moritz",1857-10-14,https://d-nb.info/gnd/116902965
 wr-person-0059,"Jacobsen, R.",,
-wr-person-0060,"Forsslund, Carl Erik",,
+wr-person-0060,"Forsslund, Carl Erik",,https://d-nb.info/gnd/119103672
 wr-person-0061,"D'Annunzio, Gabriele",1863-03-12,https://d-nb.info/gnd/118503243
 wr-person-0062,"Levetzow, Karl Michael von",1871-04-10,https://d-nb.info/gnd/116961961
 wr-person-0063,"Verhaeren, Emile",1855-05-21,https://d-nb.info/gnd/118768085
-wr-person-0064,"Tschechoff, Anton",,
+wr-person-0064,"Tschechoff, Anton",,https://d-nb.info/gnd/118638289
 wr-person-0065,"Samain, Albert",1858,https://d-nb.info/gnd/118794299
 wr-person-0066,"France, Anatole",1844-04-16,https://d-nb.info/gnd/118692445
 wr-person-0067,"Bodman, Emanuel von",1874-01-23,https://d-nb.info/gnd/118660497
 wr-person-0068,"Wilde, Oscar",1854-10-16,https://d-nb.info/gnd/118632779
-wr-person-0069,"Ferrero, Guglielmo, Prof.",,
+wr-person-0069,"Ferrero, Guglielmo, Prof.",,https://d-nb.info/gnd/118989162
 wr-person-0070,"Nansen, Peter",1861-01-20,https://d-nb.info/gnd/116882670
 wr-person-0071,"Schmitz, Oscar A. H.",1873-04-16,https://d-nb.info/gnd/119328267
-wr-person-0072,"Schaeffer, Emil",,
-wr-person-0073,"Basedow, Hans von",,
+wr-person-0072,"Schaeffer, Emil",,https://d-nb.info/gnd/117099589
+wr-person-0073,"Basedow, Hans von",,https://d-nb.info/gnd/116076267
 wr-person-0074,"Aho, Juhani",1861-09-11,https://d-nb.info/gnd/118846329
 wr-person-0075,"Messer, Max",,
 wr-person-0076,"Klossowski, Erich",1875-12-21,https://d-nb.info/gnd/116234903
@@ -81,7 +81,7 @@ wr-person-0079,"Auernheimer, Raoul",1876-04-15,https://d-nb.info/gnd/118505033
 wr-person-0080,"Zerboglio, Prof. Adolfo",,
 wr-person-0081,"Kürnberger, Ferdinand",1823-07-03,https://d-nb.info/gnd/118567764
 wr-person-0082,"Manheimer, Victor",1877-12-07,https://d-nb.info/gnd/119061015
-wr-person-0083,"Whitman, Walt",,
+wr-person-0083,"Whitman, Walt",,https://d-nb.info/gnd/118807153
 wr-person-0084,"Benzmann, Hans",1869-09-27,https://d-nb.info/gnd/119059355
 wr-person-0085,"Herzfeld, Marie",1855-03-20,https://d-nb.info/gnd/119543559
 wr-person-0086,"Kromer, Heinrich Ernst",1866-09-26,https://d-nb.info/gnd/116553146
@@ -111,7 +111,7 @@ wr-person-0109,"Karasek, Jiri",,
 wr-person-0110,"Vogüé, Melchior de",1829-10-18,https://d-nb.info/gnd/117468606
 wr-person-0111,"Robitsek, Vilma",,
 wr-person-0112,"Ferri, Prof. Enrico",,
-wr-person-0113,Dante,,
+wr-person-0113,Dante,,https://d-nb.info/gnd/118523708
 wr-person-0114,"Rilke, Rainer Maria",1875-12-04,https://d-nb.info/gnd/118601024
 wr-person-0115,"Zenker, Ernst Viktor",1865,https://d-nb.info/gnd/116979798
 wr-person-0116,"Garde, Arnold",1871,https://d-nb.info/gnd/11642270X
@@ -133,7 +133,7 @@ wr-person-0131,"Gemberg, Adine",1860-04-28,https://d-nb.info/gnd/116536624
 wr-person-0132,"Steinbach, Josef",,
 wr-person-0133,"Christen, Ada",1844-03-06,https://d-nb.info/gnd/119549263
 wr-person-0134,"Wengraf, Richard",,https://d-nb.info/gnd/126283451
-wr-person-0135,"Tschechow, Anton",,
+wr-person-0135,"Tschechow, Anton",,https://d-nb.info/gnd/118638289
 wr-person-0136,"Hello, Ernest",1828-11-04,https://d-nb.info/gnd/119205823
 wr-person-0137,"Stirner, Max",1806-10-25,https://d-nb.info/gnd/118618261
 wr-person-0138,"Wille, Bruno",1860-02-06,https://d-nb.info/gnd/11863318X
