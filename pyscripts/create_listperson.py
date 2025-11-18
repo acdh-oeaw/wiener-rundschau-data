@@ -25,6 +25,11 @@ for gnd_url, group in df.groupby("gnd"):
                 other_ids = [pid for pid in person_ids if pid != person_id]
                 sameas_lookup[person_id] = f"#{'|'.join(other_ids)}"
 
+df = pd.read_csv("merged-authors.csv")
+pmb_lookup = {}
+for i, row in df.iterrows():
+    pmb_lookup[row["id"]] = f"https://pmb.acdh.oeaw.ac.at/entity/{row['pmb_id']}/"
+
 files = glob.glob("data/editions/*/*.xml")
 
 lookup = {}
@@ -77,6 +82,11 @@ for key, value in lookup_dict.items():
         idno = ET.SubElement(person, "{http://www.tei-c.org/ns/1.0}idno")
         idno.attrib["type"] = "gnd"
         idno.text = gnd_lookup[person_id]
+
+    if person_id in pmb_lookup:
+        idno = ET.SubElement(person, "{http://www.tei-c.org/ns/1.0}idno")
+        idno.attrib["type"] = "pmb"
+        idno.text = pmb_lookup[person_id]
 
     list_bible = ET.SubElement(person, "{http://www.tei-c.org/ns/1.0}listBibl")
     for x in value["texts"]:
