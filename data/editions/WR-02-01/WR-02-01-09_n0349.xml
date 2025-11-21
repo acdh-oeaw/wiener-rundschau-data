@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0349.xml" prev="WR-02-01-09_n0348.xml" next="WR-02-01-09_n0350.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 349</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0349"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0381">
+                  <title level="a">Der moderne Schicksalsroman </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="343" to="346"/>
+                  <idno type="fn">WR-02-01-09_n0343.xml</idno>
+                  <author ref="#wr-person-0143">Hartwig, Th. J.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0382">
+                  <title level="a">Aus Leipzig </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="347" to="350"/>
+                  <idno type="fn">WR-02-01-09_n0347.xml</idno>
+                  <author ref="#wr-person-0144">Wolff, Ludwig</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0383">
+                  <title level="a">Ibsen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="351" to="352"/>
+                  <idno type="fn">WR-02-01-09_n0351.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 8</title>
+                  <idno>WR-02-01-08_n0281.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <idno>WR-02-01-10_n0361.xml</idno>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">AUS LEIPZIG.</fw>
+               <fw type="pn">349</fw>
+            </fw>
+            <p rend="no-intend">wissensbisse. Wenn unter diesen Einsendungen, die ungelesen zurück-<lb break="no"/>
+gehen müssen, einmal ein grosses, weltbedeutendes Werk wäre? Wenn<lb/>
+ich mir da unwiderruflich ein glänzendes Geschäft hätte entgehen<lb/>
+lassen? Und doch, ich kann mir nicht helfen. Wenn ich den gesammten<lb/>
+Einlauf prüfen lassen wollte, müsste ich mir zehn literarisch geschulte<lb/>
+Leute aufnehmen. Und das geht ja nicht. Ich mache freilich öfters<lb/>
+Stichproben in den Manuscripten der Ungekannten, doch was ist das?<lb/>
+Ein Tropfen im Meere.«</p>
+            <p>»So wie Sie gehen ja die meisten Herren Verleger vor, und<lb/>
+trotzdem ist die Ueberproduction so erschrecklich gross.«</p>
+            <p>»Daran krankt ja das ganze Verlagsgeschäft. Die anständigen<lb/>
+Verleger und die anständigen Schriftsteller müssten ein Cartell schliessen.<lb/>
+Die näheren Bedingungen und Formen schweben mir erst unklar vor<lb/>
+Augen, aber gegen die gewissen Verleger und die gewissen Auch-<lb break="no"/>
+Literaten müsste Stellung genommen werden. So ein Dichterling zahlt<lb/>
+die Druckkosten, womöglich auch noch eine separate Entschädigung,<lb/>
+und der Verleger deckt den Schund mit seinem Namen. Natürlich gibt<lb/>
+es immer Leute, die den Schwindel nicht kennen und unglückseliger-<lb break="no"/>
+weise so ein Buch kaufen. Und ich sage Ihnen, ein Mann aus dem<lb/>
+Mittelstande, der einmal so hereingefallen ist, gibt lange Zeit kein<lb/>
+Geld für Bücher aus.«</p>
+            <p>Das war ein Kehrbild.</p>
+            <p>Der dritte Mann, bei dem ich vorsprach, ist bekannt als wage-<lb break="no"/>
+rnuthiger Verleger der jungen Namenlosen, die vielleicht eines Tages<lb/>
+berühmt sein werden. Er ist ein sehr resignirter Herr, der viel Undank<lb/>
+erfahren hat. Auf diese Art ist es freilich nicht schwer, Philosoph zu<lb/>
+werden. Wenn er bei einem Anfänger ein bischen ursprüngliches Talent<lb/>
+entdeckt, so scheut er keine Kosten und gibt ihn heraus. Hat der<lb/>
+Debütant keinen Erfolg, so zahlt der Verleger darauf, hat der De-<lb break="no"/>
+bütant Erfolg, so geht er in den meisten Fällen mit seinem nächsten<lb/>
+Buche zu einem grösseren Verleger.</p>
+            <p>Dennoch gibt der gute Mann das undankbare Geschäft nicht<lb/>
+auf. Seine Feinde behaupten, er wäre ein Idealist. Aber ich will ihn<lb/>
+wahrhaftig nicht beleidigen. Immerhin darf ich seine strenge Ehren-<lb break="no"/>
+haftigkeit nicht unerwähnt lassen. Ein Buch, in dem er kein Talent<lb/>
+findet, würde er nicht um alles Geld in seinen Verlag nehmen.</p>
+            <p>Ich höre ihm gerne zu, wie er anspruchslos mit seiner ange-<lb break="no"/>
+nehmen, ein wenig belegten Stimme von seinen Erfahrungen und<lb/>
+Grundsätzen plaudert. Schliesslich fordert er mich auf, mit ihm in die<lb/>
+»Todtenkammer«, wie er es lächelnd nennt, zu gehen. Das ist ein<lb/>
+hohes, mächtiges Magazin, ganz angepfropft mit Büchern. Nachdenklich<lb/>
+gehe ich durch den unheimlichen Raum und lese neugierig die Bücher-<lb break="no"/>
+titel. Da sind bekannte und vergessene Namen, Gedichtsammlungen<lb/>
+aus verschollenen Frühlingen, bewegte Dramen aus fruchtlosen Revolu-<lb break="no"/>
+tionen und tändelnde Liebesgeschichten, die über Nacht ergraut sind.<lb/>
+Jetzt sind sie alle hier friedlich vereinigt und verleben ein würde-<lb break="no"/>
+loses Alter.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

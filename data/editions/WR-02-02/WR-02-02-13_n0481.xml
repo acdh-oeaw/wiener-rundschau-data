@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-13_n0481.xml" next="WR-02-02-13_n0482.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 13, S. 481</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0481"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-15">15 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0424">
+                  <title level="a">Sachs, »Von zwei Geschwistern«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="480" to="480"/>
+                  <idno type="fn">WR-02-01-12_n0480.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0425">
+                  <title level="a">Ein Besuch bei Johannes Brahms</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="481" to="491"/>
+                  <idno type="fn">WR-02-02-13_n0481.xml</idno>
+                  <author ref="#wr-person-0155">Behrend, Wilhelm</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0426">
+                  <title level="a">Die Herrin der Gärten </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="492" to="492"/>
+                  <idno type="fn">WR-02-02-13_n0492.xml</idno>
+                  <author ref="#wr-person-0156">Ubell, Hermann</author>
+               </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-02-01-12_n0441.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <idno>WR-02-02-14_n0521.xml</idno>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">MAI</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EIN BESUCH BEI JOHANNES BRAHMS.<lb/>
+Eine Reiseerinnerung von <rs type="person" key="">Wilhelm Behrend</rs>.</title>
+            </ab>
+            <p>Nachdem Johannes Brahms gestorben ist, glaube ich, dass ich<lb/>
+einige Erinnerungen von einer Studienreise in Deutschland am Ende<lb/>
+des Jahres 1895 der Oeffentlichkeit übergeben darf.</p>
+            <p>Es war um die Weihnachtszeit, als ich Wien besuchte. Damals lebten<lb/>
+dort zwei ausgezeichnete Künstler: Anton <hi rend="text-spaced">Bruckner</hi> und Johannes<lb/>
+               <hi rend="text-spaced">Brahms</hi>. Ihre Namen erfüllten das Wiener Musikleben mit einem<lb/>
+Glanze, der über die Grenzen der alten Musikstadt weit hinausstrahlte.<lb/>
+Nun sind Beide todt, und es ist um Vieles dunkler geworden in der<lb/>
+Wiener Musikwelt.</p>
+            <p>Dass Bruckners Tage damals gezählt waren, darüber konnte ich<lb/>
+nach dem, was ich von ihm und seinem traurigen Dasein hörte, nicht<lb/>
+im Zweifel sein; aber dass Brahms so bald einer tödtlichen Krankheit<lb/>
+erliegen sollte, ahnte damals wohl Niemand. Ich sah Brahms als<lb/>
+gesunden, lebenskräftigen Mann, der sich körperlich sehr wohl zu<lb/>
+befinden schien und gerade von seinen Plänen sprach, nach Berlin zu<lb/>
+gehen, um ein paar Concerte zu dirigiren, bei denen sein Liebling<lb/>
+d’Albert mehrere seiner grossen Compositionen spielen sollte. Und doch<lb/>
+hat Brahms bereits damals den Todesstempel getragen, unsichtbar für<lb/>
+Andere, ja er selbst ahnte wohl nichts davon. Denn nur wenige Monate<lb/>
+später kam die Krankheit zum Ausbruche, die scheinbar durch seine<lb/>
+überstürzte Reise zum Todtenbette der Frau seines Meisters und<lb/>
+Freundes, Clara Schumann, hervorgerufen wurde. Die Schaffenskraft<lb/>
+war bereits zuvor vermindert, nun blieb ihm nur ein trauriger Zeit-<lb break="no"/>
+raum von kaum einem Jahre, in dem er mehr und mehr hinsiechte;<lb/>
+die kräftige, behäbige Gestalt beugte sich und magerte in beunruhigender<lb/>
+Weise ab. Dennoch suchte er immer seinen Muth aufrecht zu erhalten,<lb/>
+wie Hanslick, sein guter, allzu guter Freund, später erzählte, und ein<lb/>
+aufmunterndes Wort von den Freunden, oder mehr noch von den</p>
+         </div>
+      </body>
+   </text>
+</TEI>

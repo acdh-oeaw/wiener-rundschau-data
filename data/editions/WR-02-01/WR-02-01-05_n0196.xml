@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-05_n0196.xml" prev="WR-02-01-05_n0195.xml" next="WR-02-01-05_n0197.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 5, S. 196</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0196"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-01-15">15 1 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0340">
+                  <title level="a">Nächtlicher Weg </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="190" to="190"/>
+                  <idno type="fn">WR-02-01-05_n0190.xml</idno>
+                  <author ref="#wr-person-0129">Scholz, Wilhelm von</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0341">
+                  <title level="a">Jung-Münchens Kunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="191" to="196"/>
+                  <idno type="fn">WR-02-01-05_n0191.xml</idno>
+                  <author ref="#wr-person-0130">Strindberg, Frieda</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0342">
+                  <title level="a">Gold </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="201" to="210"/>
+                  <idno type="fn">WR-02-01-06_n0201.xml</idno>
+                  <author ref="#wr-person-0131">Gemberg, Adine</author>
+               </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-02-01-06_n0201.xml</idno>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">196</fw>
+               <fw type="ctext">STRINDBERG.</fw>
+            </fw>
+            <p>Die Zeichnung und Illustration sind vielleicht der letzte, cha-<lb break="no"/>
+rakteristische Ausdruck, den die Kunst unserer nervösen Zeit ge-<lb break="no"/>
+funden hat.</p>
+            <p>Die <hi rend="text-spaced">Münchner</hi> Zeichnung gibt drei Dinge wieder: einestheils<lb/>
+die Schönheitsliebe, die sie in weich japanischen Formen oder in alt-<lb break="no"/>
+deutschen Idealen schwelgen lässt, in runden Linien, in Blumen, Haar-<lb break="no"/>
+schmuck <milestone unit="4dots"/> in Landschaften voll zauberhafter Phantasie, voll Mond-<lb/>
+und Sonnenmärchen. Dann wiederum die nackt brutale Herbheit, mit<lb/>
+der z. B. der Franzose die Schattenseite unseres Lebens geisselt —<lb/>
+der Franzose, zu dem wir Deutsche ja doch immer wieder in die Schule<lb/>
+gehen. Und drittens den Hang, das Alles leicht zu nehmen, ob Leid,<lb/>
+ob Freud, zu lachen, Beide zu geniessen — den Hang zum — Variété.<lb/>
+Wie München, das kleine München, über zehn solcher Variétés birgt;<lb/>
+wie unsere Nerven in jeder Kunstbranche immer mehr nach dem<lb/>
+Grellen zu schreien scheinen, nach Sensationen jeder Art, das wäre<lb/>
+ein Capitel für sich. Nur wäre es ein Capitel, das mehr die ganze,<lb/>
+grosse, müde Welt umfassen würde, als just das kleine, lebensfrohe<lb/>
+München.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>
